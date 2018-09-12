@@ -1,0 +1,22 @@
+[
+  {
+    "label": "salesLoft",
+    "imageUrl": "/img/lead-salesLoft.png"
+  },
+  {
+    "label": "outReach",
+    "imageUrl": "/img/lead-outReach.png"
+  },
+  {
+    "label": "hubSpot",
+    "imageUrl": "/img/lead-hubSpot.png"
+  },
+  {
+    "label": "salesForce",
+    "imageUrl": "/img/salesForce.png"
+  },
+  {
+    "label": "gmail",
+    "imageUrl": "/img/gmail.png"
+  }
+]

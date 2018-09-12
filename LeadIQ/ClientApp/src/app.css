@@ -1,0 +1,842 @@
+﻿body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.5rem;
+}
+
+section {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    line-height: 1.7;
+}
+
+
+    section h1 {
+        color: #444444;
+    }
+
+footer {
+    position: relative;
+    background-color: #485366;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: white;
+    line-height: 1.7;
+    font-size: 1rem;
+}
+
+    footer a {
+        color: white;
+    }
+
+        footer a:hover {
+            color: white;
+            opacity: 0.5;
+        }
+
+.btn {
+    border-radius: 0;
+}
+
+.liq-navbar {
+    background-color: #EAFEF4;
+    font-size: 1.1rem;
+}
+
+.liq-text-primary {
+    color: #00D586;
+}
+
+.liq-btn-primary {
+    background-color: #00D586;
+    color: white;
+    font-weight: 500;
+    margin-right: 8px;
+}
+
+    .liq-btn-primary:hover {
+        color: white;
+        opacity: 0.8;
+    }
+
+.liq-btn-primary-lg {
+    font-size: 1.5rem;
+}
+
+.liq-btn-secondary {
+    background-color: #839abc;
+    color: white;
+    font-weight: 500;
+    margin-right: 8px;
+}
+
+    .liq-btn-secondary:hover {
+        color: white;
+        opacity: 0.8;
+    }
+
+.liq-btn-secondary-lg {
+    font-size: 1.5rem;
+}
+
+
+.liq-nav-link {
+    margin-left: .5rem;
+    font-weight: 500;
+}
+
+.liq-nav-button {
+    margin-left: .5rem;
+    font-size: 1rem;
+}
+
+.liq-footer-link {
+    padding: .1rem 0rem;
+}
+
+.liq-footer-blog-link {
+    padding: .5rem 0rem;
+    font-size: 0.8rem;
+}
+
+.liq-footer-link-small {
+    font-size: 0.8rem;
+    padding: .1rem 0rem;
+}
+
+.card-blog {
+    padding: 5rem;
+}
+
+.check-icon {
+    margin: 8px;
+}
+
+.cover-content {
+    background-color: #EAFEF4;
+}
+
+@media (min-width: 768px) {
+    .cover {
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        -webkit-box-align: center;
+        align-items: center;
+    }
+
+    .cover-content {
+        position: absolute;
+        width: 100%;
+        background-color: transparent;
+    }
+}
+
+.blog-header {
+    background-color: #efefef;
+}
+
+.blog-container {
+    background-color: #f7f9fb;
+    padding: 16px;
+}
+
+.blog-content {
+    background-color: #fff;
+    padding: 16px 24px;
+}
+
+
+
+.partner-section {
+    box-shadow: 0 0 22px 0 rgba(0, 0, 0, 0.08);
+    color: #8099bd;
+}
+
+.partners {
+    color: #8099bd;
+}
+
+.salesLoftDesign {
+    padding-top: 30px;
+}
+
+.hubSpotDesign {
+    bottom: 6px;
+}
+
+.gmailDesign {
+    padding-left: 30px;
+}
+
+.googleDriveDesign {
+    bottom: 10px;
+}
+
+.partnerDesign {
+    text-align: center;
+}
+
+.imageDesignTestimonals, .imageDesignUniversity {
+    margin-bottom: 250px;
+    background-image: url('/img/waves.png');
+    background-size: cover;
+    background-position: right bottom 184px;
+    background-repeat: no-repeat;
+}
+
+.imageDesignUniversityHeader {
+    background-image: url('/img/waves.png');
+    background-size: cover;
+    background-position: left top 640px;
+    background-repeat: no-repeat;
+}
+
+.universityHeaderMain {
+    height: 100vh;
+}
+
+.boxContainer {
+    margin-bottom: 250px;
+}
+
+.testimonalSection, .universitySection {
+    position: relative;
+    top: 150px;
+}
+
+mark {
+    background: none;
+    color: #67cc84;
+}
+
+.quotesDesign {
+    position: relative;
+    bottom: 20px;
+    right: 6px;
+}
+
+.quoteUser {
+    margin-top: 4%;
+}
+
+.commentText {
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.07;
+    letter-spacing: normal;
+    color: #485366;
+    padding-top: 20px;
+}
+
+.userQuoteText {
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #485366;
+}
+
+.homeBackgroundDesign {
+    max-width: 100%;
+}
+
+.navigationHeader {
+    position: absolute;
+    top: 80px;
+    left: 130px;
+}
+
+.navigationOptions {
+    position: relative;
+}
+
+.university-section {
+    background: #b3e6c2;
+}
+
+.universityLogo {
+    margin-bottom: 20px;
+}
+
+.artBoardDesign {
+    position: absolute;
+    bottom: -95px;
+}
+
+.blogMainSection {
+    padding: 50px;
+    margin-bottom: 40px;
+    box-shadow: 0 0 22px 0 rgba(0, 0, 0, 0.08);
+    background: #d3d3d3;
+    margin-top: 20px;
+}
+
+.blog-section {
+    text-align: center;
+    background-color: #34515e;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+.blog-title {
+    color: #fff;
+}
+
+.content-section {
+    line-height: 4;
+    background: #fff;
+    padding: 20px;
+}
+
+.note-section {
+    padding: 50px 30px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.light-orange {
+    background: url(https://s22909.pcdn.co/wp-content/themes/leads/images/dot-circle.png) 50% 26px no-repeat #fff9f5;
+}
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
+.author-info {
+    background-color: #fff;
+    padding: 30px 55px 40px;
+}
+
+.blog-leadfuze-st .main img {
+    margin: 30px 0;
+}
+
+.author-info .author-thumbnail {
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+
+.author-info .author-thumbnail {
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+
+.blog-leadfuze-st img {
+    border: 5px solid #e9e9e9;
+}
+
+img {
+    max-width: 100%;
+    vertical-align: top;
+}
+
+.author-info .author-desc {
+    margin-left: 110px;
+    font-size: 20px;
+    font-family: 'Muli',serif;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.email-section {
+    text-align: center;
+    padding: 40px;
+    border: 1px solid #000;
+    margin-top: 20px;
+    background: #ff44;
+}
+
+.emailForm {
+    padding: 80px;
+}
+
+.prospectSmarter {
+    position: absolute;
+    top: 34vh;
+    left: 41vh;
+}
+
+.highlightText {
+    color: #00D586;
+    padding: 0px;
+}
+
+.leadIqIcon {
+    max-width: 20%;
+    position: absolute;
+    left: 0px;
+    padding-top: 15%;
+    padding-left: 45px;
+}
+.leadIqUniversity {
+    max-width: 20%;
+    position: absolute;
+    left: 0px;
+    padding-top: 4%;
+    padding-left: 45px;
+}
+
+.accountLogin {
+    text-align: right;
+}
+
+.contentText {
+    line-height: 2;
+}
+
+.leads-cover{
+height: 72vh;
+}
+.img-laptop {
+    position: absolute;
+    right: 90px;
+    top: 40px;
+    min-width: 56%;
+    max-width: 0px;
+}
+.email-envlope {
+    position: absolute;
+    left: 10px;
+    z-index: 1;
+    top: 8px;
+}
+.email-text {
+    padding-left: 40px;
+    position: relative;
+    right: 12px;
+}
+.glyphicon.glyphicon-one-fine-dot:before {
+    content: "\25cf";
+    font-size: 1.5em;
+}
+.laptop-screen {
+    text-align: -webkit-right;
+}
+.list-text {
+    position: absolute;
+    padding-left: 10px;
+    font-size: 16px;
+    padding-top: 20px;
+}
+.premium-list-text {
+    position: absolute;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-top: -8px;
+}
+.splitter-line {
+    height: 400px;
+    width: 10%;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    font-weight: 400 !important;
+    border-right: 2px solid rgb(163, 186, 198) !important;
+    box-shadow: 0px 2px 4px grey !important;
+    top: 160px;
+}
+.clientFeddback {
+    background-color: #485366;
+    color: white;
+}
+.tick-design{
+    background-image: url('/img/tick-icon.png');
+    background-repeat: no-repeat;
+}
+.img-set {
+    width: 91px;
+    height: 23px;
+}
+.alignCenter {
+    text-align: center;
+}
+.get-Touch{
+    position: absolute;
+    right: 25%;
+}
+.helpDetails{
+    font-size: 16px;
+}
+.universityOne {
+    background-color: #f7f9fb !important;
+}
+.sectionBox {
+    background: #fff;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+.blogReferenced {
+    border: 1px solid #67cc84;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.blogSection {
+    border: 1px solid #d3d3d3;
+    padding: 30px;
+    font-size: 16px;
+    color: #82878c;
+}
+.prospectList {
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 20px;
+    border: 1px solid #d3d3d3;
+}
+.legendLeadIq {
+    padding-left: 90px;
+    position: relative;
+    top: 26px;
+}
+.headerSectionBar {
+    border: 1px solid;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px
+}
+@media (max-width:1440px) and (min-width:1280px) {
+    .prospectSmarter {
+        position: absolute;
+        top: 26vh;
+        left: 18vh;
+    }
+}
+
+@media (max-width:1024px) and (min-width: 769px) {
+    .navigationHeader {
+        top: 60px;
+        left: 80px;
+    }
+    .img-laptop {
+        position: absolute;
+        left: 82px;
+        top: 40px;
+        min-width: 66%;
+        max-width: 0px;
+    }
+    .leads-cover {
+        height: 40vh;
+    }
+
+    .prospectSmarter {
+        position: absolute;
+        top: 14vh;
+        left: 4vh;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .artBoardDesign {
+        position: relative;
+    }
+
+    .imageDesignTestimonals, .imageDesignUniversity {
+        background-position: bottom 300px;
+    }
+
+    .imageDesignUniversityHeader {
+    }
+
+    .prospectSmarter {
+        position: absolute;
+        top: 8vh;
+        font-size: 7px;
+        left: 1vh;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .artBoardDesign {
+        position: relative;
+    }
+    .img-laptop {
+        position: absolute;
+        left: 76px;
+        top: 34px;
+        min-width: 67%;
+        max-width: 0px;
+    }
+
+    .prospectSmarter {
+        position: absolute;
+        top: 13vh;
+        left: 4vh;
+    }
+}
+
+
+@media screen and (max-width: 576px) {
+    .integrationPartners {
+        text-align: center;
+    }
+    .splitter-line{
+        display: none;
+    }
+
+    .gmailDesign {
+        padding-left: 20px;
+    }
+
+    .img-set {
+        max-width: 80px;
+        max-height: 23px;
+    }
+
+    .hubSpotDesign {
+        position: relative;
+        bottom: 34px;
+    }
+    .img-laptop {
+        left: 60px;
+    }
+    .legendLeadIq{
+        padding-left: 20px;
+        font-size: 16px;
+        top: 22px;
+    }
+
+    .salesForceDesign {
+        position: relative;
+        bottom: 44px;
+    }
+
+    .gmailDesign {
+        position: relative;
+        bottom: 20px;
+        right: 4px;
+    }
+
+    .universityHeaderMain {
+        height: 76rem;
+    }
+
+    .accountTextTitle {
+        text-align: center;
+    }
+    .alignCenter {
+        text-align: center;
+    }
+
+    .accountLogin {
+        text-align: center;
+    }
+
+    .imageDesignTestimonals, .imageDesignUniversity {
+        background-position: bottom 310px;
+    }
+
+    .imageDesignUniversityHeader, .imageDesignUniversity {
+        background: none;
+    }
+
+    .quoteUser {
+        margin-top: 0px;
+    }
+}
+
+
+/*
+@media (max-width:1440px) and (min-width:1280px) {
+.navigationHeader {
+    position: absolute;
+    top: 80px;
+    left: 130px;
+}
+.navigationOptions {
+    position: relative;
+    left: 100px;
+}
+}
+@media (max-width:1280px) and (min-width:1024px) {
+    .navigationHeader {
+        position: absolute;
+        top: 80px;
+        left: 30px;
+    }
+
+    .navigationOptions {
+        position: relative;
+        left: 50px;
+    }
+}
+@media (max-width:1024px) and (min-width: 769px) {
+    .navigationHeader {
+        position: absolute;
+        top: 60px;
+        left: 30px;
+    }
+
+    .navigationOptions {
+        position: relative;
+        left: 50px;
+    }
+}
+@media (max-width:769px) and (min-width: 577px) {
+    .navigationHeader {
+        position: absolute;
+        top: 40px;
+        left: 30px;
+    }
+
+    .navigationOptions {
+        position: relative;
+        left: 10px;
+        font-size: 10px;
+    }
+} */
+/*@media (max-width: 767px) {
+    body {
+        padding-top: 50px;
+    }
+}
+p{
+    font-size:18px;
+}
+body{
+    font-weight:300;
+}
+
+.leadiq-logo {
+    width: 130px;
+    height: 40px;
+    object-fit: contain;
+  margin-top:30px;
+  margin-left:130px;
+
+}
+.navbar {
+    display:flex;
+    float:right;
+    padding-top:40px;
+
+}
+.links{
+    padding-right:40px;
+}
+.navbar-buttons {
+    width: 200px;
+    height: 45px;
+    object-fit: contain;
+    background-color: #67cc84;
+    border:none;
+    color:white;
+    margin-right:20px;
+}
+.features-buttons {
+    width: 230px;
+    height: 55px;
+    object-fit: contain;
+    background-color: #67cc84;
+    border: none;
+    color: white;
+    margin-right: 50px;
+    font-size: 18px;
+}
+.buttons-cta {
+    width: 130px;
+    height: 40px;
+    object-fit: contain;
+    background-color: #67cc84;
+    border: none;
+    color: white;
+    margin-right: 20px;
+    width: 230px;
+    height: 55px;
+    object-fit: contain;
+    font-size:18px;
+    margin-top:20px;
+}
+.navbar-buttons-demo {
+    width: 200px;
+    height: 45px;
+    object-fit: contain;
+    background-color: #8099bd;
+    border: none;
+    color: white;
+    margin-right: 90px;
+
+}
+.features-buttons-demo {
+    width: 200px;
+    height: 55px;
+    object-fit: contain;
+    background-color: #8099bd;
+    border: none;
+    color: white;
+    margin-left: 90px;
+    font-size: 18px;
+}
+.banner-landing {
+    background-image: url('./assets/banner-background.jpg');
+    height: 700px;
+    background-size:contain;
+    width:100%;
+}
+.banner{
+    margin-top:100px;
+}
+.features{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.checkbox {
+    width: 23px;
+    height: 23px;
+}
+
+.checkbox-content {
+    display: flex;
+    font-size: 22px;
+ 
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.45;
+    letter-spacing: normal;
+    color: #8099bd;
+}
+
+.paragraph-checkbox {
+    margin-top: 6px;
+    padding-left: 15px;
+}
+.image-integration{
+    width:150px;
+}
+.Integration {
+    box-shadow: 0 0 22px 0 rgba(0, 0, 0, 0.08);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #8099bd;
+}
+.client-testimonial{
+    margin-top:80px;
+    margin-bottom:50px;
+}
+.image-review {
+    width: 51px;
+    height: 51px;
+    margin-top: 23px;
+}
+.person-image {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+}
+.university-banner {
+    background-color: #b3e6c29c;
+}
+.university {
+    margin-top: 80px;
+    margin-bottom: 35px;
+}*/

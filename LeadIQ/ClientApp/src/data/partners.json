@@ -1,0 +1,31 @@
+[
+  {
+    "label": "salesLoft",
+    "imageUrl": "/img/salesLoft.png",
+    "imageCls":  "salesLoftDesign"
+  },
+  {
+    "label": "outReach",
+    "imageUrl": "/img/outReach.png"
+  },
+  {
+    "label": "hubSpot",
+    "imageUrl": "/img/hubSpot.png",
+    "imageCls": "hubSpotDesign"
+  },
+  {
+    "label": "salesForce",
+    "imageUrl": "/img/salesForce.png",
+    "imageCls": "salesForceDesign"
+  },
+  {
+    "label": "gmail",
+    "imageUrl": "/img/gmail.png",
+    "imageCls":  "gmailDesign"
+  },
+  {
+    "label": "googleDrive",
+    "imageUrl": "/img/googleDrive.png",
+    "imageCls":  "googleDriveDesign"
+  }
+]
