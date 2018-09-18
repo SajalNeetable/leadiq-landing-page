@@ -1,3 +1,2 @@
 # leadiq-landing-page
 
-test
