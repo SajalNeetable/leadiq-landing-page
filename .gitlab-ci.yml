@@ -1,0 +1,24 @@
+image: docker:latest
+services:
+  - docker:dind
+
+stages:
+  - build
+  - test
+  - deploy
+
+before_script:
+  - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+
+deploy-prod:
+  stage: deploy
+  tags:
+    - ansible
+  script:
+    - checkoutREF=$(echo 'cd account-leadiq-com && pwd && git checkout tags/'${CI_COMMIT_TAG})
+    - ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.173 'cd /home/ec2-user/leadiq-landing-page/LeadIQ/ClientApp/ && pwd && git checkout master && git pull'
+    #- ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.173 $checkoutREF
+    - ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.173 'cd /home/ec2-user/leadiq-landing-page/LeadIQ/ClientApp/ && pwd && npm i && npm run build'
+  only:
+    - tags
+    - master
