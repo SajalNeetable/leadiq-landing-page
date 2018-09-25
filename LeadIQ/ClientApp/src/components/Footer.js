@@ -1,7 +1,7 @@
 ﻿import React from 'react';
 import { Link } from "react-router-dom";
-import GetDemoButton from './GetDemoButton';
-import GetFreeLeadsButton from './GetFreeLeadsButton';
+import Demo from './buttons/Demo';
+import FreeLeads from './buttons/FreeLeads';
 
 class Footer extends React.Component {
     render() {
@@ -52,7 +52,7 @@ class Footer extends React.Component {
                                     <Link className="nav-link liq-footer-link" to="/blog">Blog</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link className="nav-link liq-footer-link" to="/careers">Careers</Link>
+                                    <a href="https://angel.co/leadiq/jobs" target="_blank" className="nav-link liq-footer-link">Careers</a>
                                 </li>
                                 <li className="nav-item">
                                     <Link className="nav-link liq-footer-link" to="/customers">Customers</Link>
@@ -63,7 +63,7 @@ class Footer extends React.Component {
                                     <Link className="nav-link liq-footer-link-small" to="/privacy-policy">Privacy Policy</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link className="nav-link liq-footer-link-small" to="/terms-of-user">Terms of Use</Link>
+                                    <Link className="nav-link liq-footer-link-small" to="/terms-of-use">Terms of Use</Link>
                                 </li>
                                 <li className="nav-item">
                                     <Link className="nav-link liq-footer-link-small" to="/faq">FAQs</Link>
@@ -88,9 +88,9 @@ class Footer extends React.Component {
                             <h6>Prospect Smarter</h6>
                             <small>Use our powerful chrome extension to create prospect lists from across the web. Find contacts and accounts using advanced filters. Build a lead list in minutes, not days.</small>
                             <br />
-                            <GetFreeLeadsButton />
+                            <FreeLeads />
                             <br />
-                            <GetDemoButton />
+                            <Demo />
                         </div>
                     </div>
                 </div>

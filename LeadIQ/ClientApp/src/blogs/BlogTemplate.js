@@ -1,7 +1,7 @@
 ﻿import React from 'react';
 import BlogAuthor from '../components/BlogAuthor';
 import BlogHeader from '../components/BlogHeader';
-import GetFreeLeadsButton from '../components/GetFreeLeadsButton';
+import FreeLeads from '../components/buttons/FreeLeads';
 
 class BlogTemplate extends React.Component {
     render() {
@@ -69,13 +69,13 @@ class BlogTemplate extends React.Component {
 
                         <section className="text-center">
                             <p>Start prospecting better! Get 100 free leads on us.</p>
-                            <GetFreeLeadsButton size="lg" />
+                            <FreeLeads size="lg" />
                         </section>
 
                         <BlogAuthor
                             author="Doug Dzina"
                             imageUrl="/img/doug-dzina.png"
-                            profile="Runs sales and business development at Cien, a new sales productivity app that gives leaders the power of artificial intelligence to increase the effectiveness of their sales teams. Available on the Salesforce AppExchange, Cien takes into account human and behavioral elements to detect problems, predict outcomes and recommend the shortest path to success."                        />
+                            profile="Runs sales and business development at Cien, a new sales productivity app that gives leaders the power of artificial intelligence to increase the effectiveness of their sales teams. Available on the Salesforce AppExchange, Cien takes into account human and behavioral elements to detect problems, predict outcomes and recommend the shortest path to success."/>
                     </div>
                 </div>
             </div>

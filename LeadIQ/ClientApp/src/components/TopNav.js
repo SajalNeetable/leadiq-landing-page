@@ -1,7 +1,15 @@
 ﻿import React from 'react';
 import { Link } from "react-router-dom";
+import popupMenu from "./../data/popup-list.json";
+import PopupCard from "./../components/cards/PopupCard.js";
 
 class TopNav extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            resources: popupMenu
+        };
+    }
 
     render() {
         return (
@@ -23,10 +31,22 @@ class TopNav extends React.Component {
                                 <Link to="/pricing" className="nav-link liq-nav-link">PRICING</Link>
                             </li>
                             <li className="nav-item">
+                                
+                            </li>
+                            <li className="nav-item dropdown">
+                                <Link to="/resources" className="nav-link liq-nav-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">RESOURCES</Link>
+                                <div className="dropdown-menu  row popupCard" aria-labelledby="navbarDropdownMenuLink">
+                                    <div className="row">
+                                        <div className="pointerDesign"></div>
+                                        {this.state.resources.map((data, index) => { return (<PopupCard data={data} />) })}
+                                    </div>
+                                </div>
+                            </li>
+                            <li className="nav-item">
                                 <Link to="/blog" className="nav-link liq-nav-link">BLOG</Link>
                             </li>
                             <li className="nav-item">
-                                <Link to="/support" className="nav-link liq-nav-link">SUPPORT</Link>
+                                <a href="https://leadiqhelp.zendesk.com/hc/en-us" target="_blank" className="nav-link liq-nav-link">SUPPORT</a>
                             </li>
                             <li className="nav-item">
                                 <a href="https://account.leadiq.com/login" target="_blank" className="nav-link liq-nav-link">LOGIN</a>

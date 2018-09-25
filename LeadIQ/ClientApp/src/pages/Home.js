@@ -1,11 +1,10 @@
 import React from 'react';
 import CheckboxItem from '../components/CheckboxItem';
-import GetDemoButton from '../components/GetDemoButton';
-import GetFreeLeadsButton from '../components/GetFreeLeadsButton';
-//import Partners from '../components/Partners';
-import PartnerCard from '../components/PartnerCard';
-import TestimonialCard from '../components/TestimonialCard';
-import UniversityCard from '../components/UniversityCard';
+import Demo from '../components/buttons/Demo';
+import FreeLeads from '../components/buttons/FreeLeads';
+import PartnerCard from '../components/cards/PartnerCard';
+import TestimonialCard from '../components/cards/TestimonialCard';
+import UniversityCard from '../components/cards/UniversityCard';
 
 class Home extends React.Component {
     render() {
@@ -22,7 +21,7 @@ class Home extends React.Component {
                                     <div className="col-md-6">
                                         <h1>Prospect Smarter </h1>
                                         <p>Our mission at LeadIQ is to empower sales teams to prospect smarter. Build lead lists in minutes, not days. Ditch the old database and researchprospects first to build a more meaningful connection and close more deals.</p>
-                                        <GetFreeLeadsButton size="lg" />
+                                        <FreeLeads size="lg" />
                                     </div>
                                 </div>
                             </section>
@@ -42,7 +41,7 @@ class Home extends React.Component {
                                     <CheckboxItem text="Direct Dial Numbers" />
                                     <CheckboxItem text="And Mode ..." />
                                 </ul>
-                                <GetFreeLeadsButton size="lg" />
+                                <FreeLeads size="lg" />
                             </div>
                             <div className="col-sm-6">
                                 <img className="img-fluid" src="/img/feature-1.png" alt="Feature 1" />
@@ -66,7 +65,7 @@ class Home extends React.Component {
                                     <CheckboxItem text="Technologies used" />
                                     <CheckboxItem text="And Mode ..." />
                                 </ul>
-                                <GetFreeLeadsButton size="lg" />
+                                <FreeLeads size="lg" />
                             </div>
                         </div>
                     </section>
@@ -75,8 +74,8 @@ class Home extends React.Component {
                             <div className="col-sm-6">
                                 <h1 className="mt-5">Invite your team</h1>
                                 <p className="mt-3">No one likes to prospect alone. Invite your team to use LeadIQ and get a high level overview of team performance.</p>
-                                <GetFreeLeadsButton size="lg" />
-                                <GetDemoButton size="lg" />
+                                <FreeLeads size="lg" />
+                                <Demo size="lg" />
                             </div>
                             <div className="col-sm-6">
                                 <img className="img-fluid" src="/img/feature-3.png" alt="Feature 3" />
@@ -91,12 +90,11 @@ class Home extends React.Component {
                             <div className="col-sm-6">
                                 <h1 className="mt-5">Integrate With Your Favorite Sales Tools</h1>
                                 <p className="mt-3">Push data from LeadIQ to your other sales tools. Easily send contact details to CRM or email outreach tools.</p>
-                                <GetFreeLeadsButton size="lg" />
+                                <FreeLeads size="lg" />
                             </div>
 
                         </div>
                     </section>
-
                 </div>
 
                 <div className="partner-section">
@@ -106,22 +104,14 @@ class Home extends React.Component {
                         </section>
                     </div>
                 </div>
-                <div className="imageDesignTestimonals">
+
+                <div className="testimonial-section">
                     <div className="container">
-                        <section className="testimonalSection">
+                        <section>
                             <TestimonialCard />
                         </section>
                     </div>
                 </div>
-                <div className="university-section">
-                    <div className="container">
-                        <section>
-                            <UniversityCard />
-                        </section>
-                    </div>
-                </div>
-
-
             </div>
         );
     }
