@@ -15,8 +15,11 @@ class LayoutFooter extends React.Component {
         if (window.location.href) {
             var getData = "";
             if (window.location.pathname.replace(/^\/([^\/]*).*$/, '$1') === "blog" || window.location.pathname.replace(/^\/([^\/]*).*$/, '$1') === "podcasts") {
-                 getData = window.location.pathname.split("/").slice(-1).join("/");
-            } else {
+                getData = window.location.pathname.split("/").slice(-1).join("/");
+            }
+            else if (window.location.pathname.replace(/^\/([^\/]*).*$/, '$1') === "") {
+                getData = "LeadIQ Prospect Smarter";
+            }else {
                  getData = window.location.pathname.replace(/^\/([^\/]*).*$/, '$1');
             }
         }

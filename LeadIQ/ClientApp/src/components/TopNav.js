@@ -11,8 +11,16 @@ class TopNav extends React.Component {
         super(props);
         this.state = {
             resources: popupMenu,
-            customers: popupCustomerMenu
+            customers: popupCustomerMenu,
+            activeNav: ""
         };
+    }
+
+    componentDidMount() {
+        let getData = window.location.pathname.replace(/^\/([^\/]*).*$/, '$1');
+        this.setState({
+            activeNav: getData
+        })
     }
 
     render() {
@@ -28,9 +36,9 @@ class TopNav extends React.Component {
                     <div className="collapse navbar-collapse" id="top-nav" style={{fontSize: "16px"}}>
                         <ul className="navbar-nav ml-auto">
 
-                            <li className="nav-item active dropdown pt-2">
+                            <li className={(this.state.activeNav === "customers") ? "nav-item  dropdown pt-2 active" : "nav-item  dropdown pt-2"}>
                                 <a href="/customers" className="nav-link liq-nav-link ml-2 mr-2 mb-2">CUSTOMERS</a>
-                                <span className=" " aria-labelledby="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></span>
+                                <span  aria-labelledby="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></span>
                                 <div className="dropdown-menu  row popupCard">
                                     <div className="row">
                                         <div className="pointerDesign"></div>
@@ -39,11 +47,11 @@ class TopNav extends React.Component {
                                 </div>
                             </li>
 
-                            <li className="nav-item pt-2">
+                            <li className={(this.state.activeNav === "pricing") ? "nav-item  pt-2 active" : "nav-item  pt-2"}>
                                 <Link to="/pricing" className="nav-link liq-nav-link">PRICING</Link>
                             </li>
 
-                            <li className="nav-item dropdown pt-2">
+                            <li className={(this.state.activeNav === "resources") ? "nav-item  dropdown pt-2 active" : "nav-item  dropdown pt-2"}>
                                 <a href="/" className="nav-link liq-nav-link ml-2 mr-2 mb-2">RESOURCES</a>
                                 <span  aria-labelledby="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></span>
                                 <div className="dropdown-menu row popupCard">
@@ -54,7 +62,7 @@ class TopNav extends React.Component {
                                 </div>
                             </li>
 
-                            <li className="nav-item pt-2 mr-3">
+                            <li className={(this.state.activeNav === "blog") ? "nav-item pt-2 mr-3 active" : "nav-item pt-2 mr-3"}>
                                 <Link to="/blog" className="nav-link liq-nav-link">BLOG</Link>
                             </li>
                             <li className="nav-item mr-3">
