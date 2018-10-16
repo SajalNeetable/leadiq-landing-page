@@ -9,6 +9,7 @@ const styles = {
     dialogPaper: {
         minHeight: '50vh',
         maxHeight: '50vh',
+        overflow: 'hidden'
     },
     MuiDialogContentroot45: {
         padding: 0

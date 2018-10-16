@@ -1,15 +1,20 @@
-﻿import React from 'react';
-import Dialog from '@material-ui/core/Dialog';
-import { withStyles } from '@material-ui/core/styles';
+﻿import Dialog from '@material-ui/core/Dialog';
 import DialogContent from '@material-ui/core/DialogContent';
+import { withStyles } from '@material-ui/core/styles';
+import React from 'react';
 
 const styles = {
     dialogPaper: {
         minHeight: '50vh',
         maxHeight: '50vh',
+        overflow: 'hidden'
     },
     MuiDialogContentroot45: {
         padding: 0
+    },
+    ComponentDialogPaper1: {
+        minHeight: 0,
+        maxHeight: 0
     }
 }
 

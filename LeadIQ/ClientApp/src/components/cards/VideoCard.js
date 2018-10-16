@@ -7,7 +7,7 @@ import DialogContent from '@material-ui/core/DialogContent';
 const styles = {
     dialogPaper: {
         minHeight: '50vh',
-        maxHeight: '50vh',
+        maxHeight: '50vh'
     },
     MuiDialogContentroot45: {
         padding: 0

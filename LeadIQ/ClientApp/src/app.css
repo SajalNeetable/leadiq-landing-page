@@ -157,6 +157,7 @@ footer {
 .iframeVideo {
     width: 100%;
     overflow: scroll;
+    min-height: 50vh;
     display: -webkit-box;
     height: -webkit-fill-available;
 }
