@@ -3,7 +3,6 @@
 class BlogHeader extends React.Component {
 
     render() {
-        const image = this.props.imageUrl;
         return (
             <div>
                 <div className="blog-cover">
@@ -11,9 +10,7 @@ class BlogHeader extends React.Component {
                         <section>
                             <div className="text-center">
                                 <h1>{this.props.title}</h1>
-                                <h5 className="text-center mt-3">Category : {this.props.category}</h5>
-                                <h6 className="text-center mt-3">By : {this.props.author}</h6>
-                                <h6 className="text-center">Date :{this.props.date}</h6>
+                                <h6 className="text-center">Date :  {this.props.date}</h6>
                             </div>
                             <div className="mt-3 mb-3">
                                 <hr />

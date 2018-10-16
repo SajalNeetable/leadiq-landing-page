@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class ProspectingPodcastTalkingAboutColdCallingWithLaurenBailey extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -21,7 +24,7 @@ class ProspectingPodcastTalkingAboutColdCallingWithLaurenBailey extends React.Co
                             <div className="card-body card-blog">
 
                                 <div className="embed-responsive embed-responsive-16by9 text-center mt-3">
-                                    <iframe src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F435155181&amp" scrolling="no" />
+                                    <iframe src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F435155181&amp" title="video" scrolling="no" />
                                 </div>
 
                             </div>

@@ -1,0 +1,424 @@
+[
+
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "How to Enrich a CSV With Contact Info",
+        "bgImage": "/img/blog/empty.jpg",
+        "authorAvatar": "/img/blog/jim-avatar.jpeg",
+        "author": "Jim Morris",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/video-how-to-enrich-a-csv-with-contact-info"
+      },
+      {
+        "title": "How to Brand Yourself As the Smartest Person in the Room",
+        "bgImage": "/img/blog/blog-image-1.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/how-to-brand-yourself-as-the-smartest-person-in-the-room"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "How To Brand Yourself As Rebel Brand",
+        "bgImage": "/img/blog/blog-image-2.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/how-to-brand-yourself-as-rebel-brand"
+      },
+      {
+        "title": "Cold Prospecting with Carlos Scott",
+        "bgImage": "/img/blog/blog-image-3.jpeg",
+        "authorAvatar": "/img/blog/lq-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/cold-prospecting-with-carlos-scott"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "Jon Mazza is Back!",
+        "bgImage": "",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/jon-mazza-is-back"
+      },
+      {
+        "title": "More Evidence That Brand Archetyping Works",
+        "bgImage": "/img/blog/blog-image-4.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/more-evidence-that-brand-archetyping-works"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "Proof That The Ruler Brand Archetype Works",
+        "bgImage": "/img/blog/blog-image-5.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/proof-that-the-ruler-brand-archetype-works"
+      },
+      {
+        "title": "An Introduction to Brand Archetyping for Social Selling",
+        "bgImage": "/img/blog/blog-image-6.png",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/an-introduction-to-brand-archetyping-for-social-selling"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "The Four Skills of a Master Communicator",
+        "bgImage": "/img/blog/blog-image-7.jpeg",
+        "authorAvatar": "/img/blog/cole-avatar.png",
+        "author": "Cole Fox",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/the-four-skills-of-a-master-communicator"
+      },
+      {
+        "title": "Making Outbound Sales Work",
+        "bgImage": "",
+        "authorAvatar": "/img/blog/mei-avatar.jpeg",
+        "author": "Mei Siauw",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/making-outbound-sales-work"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "Vote for Jeremy Leveille as SDR of the Year",
+        "bgImage": "",
+        "authorAvatar": "/img/blog/lq-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/vote-for-jeremy-leveille-as-sdr-of-the-year"
+      },
+      {
+        "title": "Using LeadIQ vs. Your Database Solutions",
+        "bgImage": "/img/blog/blog-image-8.jpg",
+        "authorAvatar": "/img/blog/cody-avatar.jpeg",
+        "author": "Cody Stevens",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/using-leadiq-vs-your-database-solutions"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "What I Learned Interning at LeadIQ This Summer",
+        "bgImage": "/img/blog/blog-image-9.jpg",
+        "authorAvatar": "/img/blog/jack-avatar.jpeg",
+        "author": "Jack the Intern",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/what-i-learned-interning-at-leadiq-this-summer"
+      },
+      {
+        "title": "The Highs and Lows of Prospecting",
+        "bgImage": "/img/blog/blog-image-10.jpg",
+        "authorAvatar": "/img/blog/jeremy-avatar.jpg",
+        "author": "Jeremy Leveille",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/the-highs-and-lows-of-prospecting"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "How To Find Your Prospects Before An Event",
+        "bgImage": "/img/blog/blog-image-11.png",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/how-to-find-your-prospects-before-an-event"
+      },
+      {
+        "title": "High Fives with Max Altschuler",
+        "bgImage": "/img/blog/blog-image-12.png",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/the-prospecting-podcast-with-max-altschuler"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "An Obituary for the Desk Phone",
+        "bgImage": "/img/blog/blog-image-13.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/an-obituary-for-the-desk-phone"
+      },
+      {
+        "title": "Cold Calling: The Do's and The Don'ts",
+        "bgImage": "/img/blog/blog-image-15.jpg",
+        "authorAvatar": "/img/blog/jack-avatar.jpeg",
+        "author": "Jack the Intern",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/cold-calling-the-dos-and-the-donts"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "How To Use Your Prospecting Lists on Social Media",
+        "bgImage": "/img/blog/blog-image-15.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/how-to-use-your-prospecting-lists-on-social-media"
+      },
+      {
+        "title": "Prospecting Podcast: High Fives with Amy Volas",
+        "bgImage": "",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/prospecting-podcast-high-fives-with-amy-volas"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "How to Get Prospects to Accept Your LinkedIn Connection Requests",
+        "bgImage": "/img/blog/blog-image-16.png",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/how-to-get-prospects-to-accept-your-linkedin-connection-requests"
+      },
+      {
+        "title": "How to Identify your Team's Most Effective Prospectors",
+        "bgImage": "/img/blog/blog-image-17.jpg",
+        "authorAvatar": "/img/blog/doug-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/how-to-identify-your-teams-most-effective-prospectors"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "What is a CSV and How to Use Them in LeadIQ",
+        "bgImage": "/img/blog/blog-image-18.jpg",
+        "authorAvatar": "/img/blog/jack-avatar.jpeg",
+        "author": "Jack the Intern",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/what-is-a-csv-and-how-to-use-them-in-leadiq"
+      },
+      {
+        "title": "How To Properly Ask for Referrals In Sales",
+        "bgImage": "/img/blog/blog-image-19.png",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/how-to-properly-ask-for-referrals-in-sales"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "Your Emails Are Bad. Here's 4 Reasons Why.",
+        "bgImage": "/img/blog/blog-image-20.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/your-emails-are-bad-heres-4-reasons-why"
+      },
+      {
+        "title": "How to set Outlook as Your Default Inbox",
+        "bgImage": "/img/blog/blog-image-21.jpg",
+        "authorAvatar": "/img/blog/jack-avatar.jpeg",
+        "author": "Jack the Intern",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/how-to-set-outlook-as-your-default-inbox"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "How to set Gmail as Your Default Inbox",
+        "bgImage": "/img/blog/blog-image-22.jpg",
+        "authorAvatar": "/img/blog/jack-avatar.jpeg",
+        "author": "Jack the Intern",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/how-to-set-gmail-as-your-default-inbox"
+      },
+      {
+        "title": "Why These Good Cold Email Examples Worked",
+        "bgImage": "/img/blog/blog-image-23.gif",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/why-these-good-cold-email-examples-worked"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "How Does LeadIQ Get Our Data?",
+        "bgImage": "/img/blog/blog-image-24.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/how-does-leadiq-get-our-data"
+      },
+      {
+        "title": "Prospecting Podcast: High Fives with Christopher Sweat",
+        "bgImage": "/img/blog/blog-image-25.png",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/prospecting-podcast-high-fives-with-christopher-sweat"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "How to Keep a Prospect Warm (Without a Blanket)",
+        "bgImage": "/img/blog/blog-image-26.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/how-to-keep-a-prospect-warm-without-a-blanket"
+      },
+      {
+        "title": "Sales Experts Give Tips on Cold Calling Cell Phones",
+        "bgImage": "/img/blog/blog-image-27.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/sales-experts-give-tips-on-cold-calling-cell-phones"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "VIDEOS: Why These 3 Cold Emails Aren't Working",
+        "bgImage": "/img/blog/blog-image-28.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/why-these-3-cold-emails-arent-working"
+      },
+      {
+        "title": "Five Ways You Can Improve Follow-ups",
+        "bgImage": "/img/blog/blog-image-29.jpg",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/5-ways-to-improve-follow-ups"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "How to Pitch Your Competitor's Customers Without Being an Asshole",
+        "bgImage": "/img/blog/blog-image-30.png",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "how-to-pitch-your-competitors-customers-without-being-an-asshole"
+      },
+      {
+        "title": "5 Ways To Leverage LinkedIn InMail More Effectively",
+        "bgImage": "",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/5-ways-to-leverage-linkedin-inmail"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "Talking with Josh Braun",
+        "bgImage": "/img/blog/blog-image-31.png",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/talking-with-josh-braun"
+      },
+      {
+        "title": "How will the GDPR impact your outbound sales program",
+        "bgImage": "",
+        "authorAvatar": "/img/blog/mei-avatar.jpeg",
+        "author": "Mei Siauw",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/how-will-the-gdpr-impact-your-outbound-sales-program"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "blogData": [
+      {
+        "title": "Prospecting Podcast: Talking About Cold Calling with Lauren Bailey",
+        "bgImage": "/img/blog/blog-image-32.png",
+        "authorAvatar": "/img/blog/ryan-avatar.png",
+        "author": "Ryan O'Hara",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/blog/prospecting-podcast-talking-about-cold-calling-with-lauren-bailey"
+      },
+      {
+        "title": "What Cornea Transplants Taught Me About Sales",
+        "bgImage": "/img/blog/blog-image-33.png",
+        "authorAvatar": "/img/blog/lq-avatar.png",
+        "author": "Alex Perkins",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/blog/what-cornea-transplants-taught-me-about-sales"
+      }
+    ]
+  }
+
+]

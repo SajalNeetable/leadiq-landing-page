@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class RyanTalksLinkedinSalesNavigatorForDummiesWithPerryVanBeek extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -21,7 +24,7 @@ class RyanTalksLinkedinSalesNavigatorForDummiesWithPerryVanBeek extends React.Co
                             <div className="card-body card-blog">
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter mt-3">
-                                    <iframe  scrolling="no"  src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F496778331&amp;show_artwork=true&amp;maxwidth=1080&amp;maxheight=1000"/>
+                                    <iframe scrolling="no" title="video"  src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F496778331&amp;show_artwork=true&amp;maxwidth=1080&amp;maxheight=1000"/>
                                 </div>
 
                                 <p className="mt-3">If you’d like to check our Perry’s free course on how to use LinkedIn Sales Navigator, you can check it out here: <a href="https://www.social.one/">https://www.social.one/</a> </p>

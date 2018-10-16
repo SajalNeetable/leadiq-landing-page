@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class VideoTutorialHowToMergeTwoAccountsInSalesforce extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -21,7 +24,7 @@ class VideoTutorialHowToMergeTwoAccountsInSalesforce extends React.Component {
                             <div className="card-body card-blog">
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter mt-3">
-                                    <iframe  src="//play.vidyard.com/APeeDPiLrNtyA5uWZkRrTF.html?v=3.1.1"  scrolling="no" />
+                                    <iframe src="//play.vidyard.com/APeeDPiLrNtyA5uWZkRrTF.html?v=3.1.1" title="video" scrolling="no" />
                                 </div>
 
                                 <p className="mt-3">If you don’t see the Merge tool, you may need to bug your Salesforce admin.</p>

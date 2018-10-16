@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import BlogAuthor from '../components/BlogAuthor';
 
 class ThreeActionableTipsTurningColdProspectsHighQualityLeads extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>

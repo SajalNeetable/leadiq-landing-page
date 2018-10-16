@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import BlogAuthor from '../components/BlogAuthor';
 
 class UsingLeadiqVsYourDatabaseSolutions extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -25,7 +28,7 @@ class UsingLeadiqVsYourDatabaseSolutions extends React.Component {
 
                                 <div className="card blog-card mt-3">
                                     <div className="card-body">
-                                        <img src="/img/fish-market.jpg" className="img-fluied" />
+                                        <img src="/img/fish-market.jpg" className="img-fluied" alt="fish-market" />
                                         <small className="justify-content-center row">When you Google fish market, this is what comes up. So I guess this is what a fish market looks like.</small>
                                     </div>
                                 </div>
@@ -39,7 +42,7 @@ class UsingLeadiqVsYourDatabaseSolutions extends React.Component {
                                 <p>This is a visual of the workflow of what we usually see when someone is using a database solution:</p>
 
                                 <div className="text-center mt-3">
-                                    <img src="/img/reps-prospect.png" className="img-fluied" />
+                                    <img src="/img/reps-prospect.png" className="img-fluied" alt="reps-prospect" />
                                 </div>
 
                                 <h3 className="mt-5">If you think this workflow is boring, just imagine your rep doing this 50  times a day.</h3>
@@ -53,13 +56,16 @@ class UsingLeadiqVsYourDatabaseSolutions extends React.Component {
 
                                 <p>Using this metaphor, when you buy LeadIQ, it’s more like you are buying a fishing rod to find your own fish.</p>
 
-                                <div className="card blog-card mt-3">
-                                    <div className="card-body">
-                                        <img src="/img/fishing.jpg" className="img-fluied" />
-                                        <small className="justify-content-center row">Ah…the great outdoors. You’ll get in touch with the wilderness when you demo LeadIQ. </small>
+                                <div className="row">
+                                    <div className="col-md-2" />
+                                    <div className="card blog-card mt-3 col-md-8">
+                                        <div className="card-body">
+                                            <img src="/img/fishing.jpg" className="img-fluied" alt="fishing" />
+                                            <small className="justify-content-center row">Ah…the great outdoors. You’ll get in touch with the wilderness when you demo LeadIQ. </small>
+                                        </div>
                                     </div>
+                                    <div className="col-md-2" />
                                 </div>
-
                                 <p className="mt-3">
                                     LeadIQ makes it easy for you to find contact information for your leads in real time. All you have to do is search for your prospects from across the web. Using first name, last name, and company name,
                                     we’ll do 100s of queries a second to find your prospect’s company data, email address, and direct phone number.
@@ -75,7 +81,7 @@ class UsingLeadiqVsYourDatabaseSolutions extends React.Component {
                                 <p>This is a good visual of how we handle these things on the backend:</p>
 
                                 <div className="text-center mt-3">
-                                    <img src="/img/rep-dos.png" className="img-fluied" />
+                                    <img src="/img/rep-dos.png" className="img-fluied" alt="rep-dos" />
                                 </div>
 
                                 <p className="mt-3">
@@ -86,7 +92,7 @@ class UsingLeadiqVsYourDatabaseSolutions extends React.Component {
                                 <p>Here’s table that compares purchasing from a B2B database vs. a real time data finder like LeadIQ:</p>
 
                                 <div className="text-center">
-                                    <img src="/img/b2b-database-pros.jpg" className="img-fluied" />
+                                    <img src="/img/b2b-database-pros.jpg" className="img-fluied" alt="b2b-database-pros" />
                                 </div>
 
                                 <p>So if you are prioritizing thoughtful research and outreach over mass messaging you will want to get in the habit of sourcing individual contacts because it becomes easier to discover things you can bring up from your research in your prospecting.</p>

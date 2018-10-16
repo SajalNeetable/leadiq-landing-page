@@ -1,9 +1,8 @@
 ﻿import React from 'react';
-import { Link } from "react-router-dom";
-import partner from "./../data/partners-free-leads.json";
+import FreeLeads from '../components/buttons/FreeLeads';
 import SalesTalk from '../components/buttons/SalesTalk';
 import Subscribe from '../components/buttons/Subscribe';
-import FreeLeads from '../components/buttons/FreeLeads';
+import partner from "./../data/partners-free-leads.json";
 
 export default class Pricing extends React.Component {
     constructor(props) {
@@ -12,6 +11,11 @@ export default class Pricing extends React.Component {
             partners: partner
         };
     }
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
             <div>
@@ -50,7 +54,7 @@ export default class Pricing extends React.Component {
                                 </div>
                                 <h6 className=" justify-content-center d-flex mb-3 font-weight-bold">Integrations</h6>
                                 <div className="row mb-2 justify-content-center d-flex">
-                                    {this.state.partners.map((partner, index) => {return (<img src={partner.imageUrl} key={index} className={partner.addCls} /> ) })}
+                                    {this.state.partners.map((partner, index) => {return (<img src={partner.imageUrl} key={index} alt="partner" className={partner.addCls} /> ) })}
                                 </div>
                                 <div className="leadIqOffersText">
                                     <p>All LeadIQ Solo features</p>
@@ -67,14 +71,15 @@ export default class Pricing extends React.Component {
                         <section>
                             <div className="row ratingMobileDesign">
                                 <div className="col-md-2 col-lg-2 ">
-                                    <img src="/img/star-rating.png" className="img-fluied" /><br />
+                                    <img src="/img/five-star-rating.svg" className="img-fluied" alt="rating" /><br />
                                     <label>April 3 , 2018</label>
                                     <p><mark>“Prospect <br /> Like A Pro.“</mark></p>
                                 </div>
                                 <div className="col-md-10 col-lg-10">
-                                    <img src="/img/quotes.png" className="img-fluied" /> <label><mark>Maddie C.</mark></label>
-                                    <p><Link to="/" className="reviewPage">G2 Crowd verified review</Link></p>
-                                    <p className="reviewText">If I have a specific account I am prospecting for,LeadIQ allows me to pull that list upas well as relevant contact that would be worth reaching out to ! It is also easy for me to organize all of my campaigns in order to keep the 2000+ saved leads separate and organized.</p>
+                                    <img src="/img/quotes.png" className="img-fluied" alt="quotes" /> <label><mark>Christy K</mark></label>
+                                    <p><a href="https://www.g2crowd.com/products/leadiq/reviews" className="reviewPage">G2 Crowd verified review</a></p>
+                                    <h3>12/10 would recommend!</h3>
+                                    <p className="reviewText">LeadIQ has saved me so much time in my outbounding process. With the integration between LinkedIn Nav & SalesLoft, I can get multi-threaded by searching and simply importing them into a SalesLoft cadence.</p>
                                 </div>
                             </div>
                         </section>

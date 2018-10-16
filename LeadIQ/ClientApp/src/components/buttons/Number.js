@@ -5,7 +5,7 @@ class Number extends React.Component {
 
     render() {
         return (
-            <Link to="/" target="_blank" className={"mt-2 btn  liq-btn-primary numberDesign liq-btn-primary-" + this.props.size}>1-888-653-2347</Link>
+            <Link to="/" className={"mt-2 btn  liq-btn-primary numberDesign liq-btn-primary-" + this.props.size}>1-888-653-2347</Link>
         );
     }
 }

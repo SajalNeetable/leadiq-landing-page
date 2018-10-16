@@ -1,10 +1,12 @@
 ﻿import React from 'react';
-import BlogAuthor from '../components/BlogAuthor';
 import BlogHeader from '../components/BlogHeader';
 import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class TheThreeStagesOfConversation extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -23,7 +25,7 @@ class TheThreeStagesOfConversation extends React.Component {
 
                                 <div className="card blog-card">
                                     <div className="card-body">
-                                        <img src="/img/PinkertonAcademy.png" className="img-fluied" />
+                                        <img src="/img/PinkertonAcademy.png" alt="PinkertonAcademy" className="img-fluied" />
                                         <small>Ah….my old stomping grounds, Pinkerton Academy</small>
                                     </div>
                                 </div>
@@ -44,11 +46,15 @@ class TheThreeStagesOfConversation extends React.Component {
                                 <p>The natural goal as you build relationships with strangers is to work your way toward <strong>Stage 2</strong>, and eventually <strong>Stage 3</strong>. Stage 1 is a great place to feel around for topics to talk about for <strong>Stage 2</strong> and <strong>Stage 3</strong> conversation.</p>
                                 <p><strong>Stage 1</strong> topics are all generally small relatable conversation starters that can be plucked out of seemingly nowhere without needing to really know the other person just yet, which is good because you don’t always have intel</p>
 
-                                <div className="card blog-card">
-                                    <div className="card-body">
-                                        <img src="/img/weather.png" className="img-fluied" />
-                                        <small className="justify-content-center row">The weather is always a safe but boring topic to bring up. Go for it if you have nothing else.</small>
+                                <div className="row">
+                                    <div className="col-md-2" />
+                                    <div className="card blog-card col-md-8">
+                                        <div className="card-body">
+                                            <img src="/img/weather.png" className="img-fluied" alt="weather" />
+                                            <small className="justify-content-center row">The weather is always a safe but boring topic to bring up. Go for it if you have nothing else.</small>
+                                        </div>
                                     </div>
+                                    <div className="col-md-2" />
                                 </div>
 
                                 <p className="mt-3">Talking to someone from the midwest? Talk about the weather. Good luck trying to find one that doesn’t have a story involving tornados and/or ten feet of snow. Emailing someone in Seattle? Take a chance talking about the Seattle Seahawks, or their favorite coffee place in town.</p>
@@ -62,11 +68,15 @@ class TheThreeStagesOfConversation extends React.Component {
                                 <p>If you want to jump into <strong>Stage 2</strong>, there is a risk because you can’t necessarily always find what a person likes. The reward however is a much more transparent and fun selling process with someone.</p>
                                 <p>The best way to find out more about someone is looking for them on Twitter, Facebook, Instagram, or their blog. Maybe some of things you have in common with them involve the industry they are in. Do they work at a company that makes a product your team uses? Do they share a customer with you?</p>
 
-                                <div className="card blog-card">
-                                    <div className="card-body">
-                                        <img src="/img/Mountain.png" className="img-fluied" />
-                                        <small className="justify-content-center row">Don’t spoil things in pop culture in your references or you risk the Mountain coming into your inbox and destroying you.</small>
+                                <div className="row">
+                                    <div className="col-md-2" />
+                                    <div className="card blog-card col-md-8">
+                                        <div className="card-body">
+                                            <img src="/img/Mountain.png" className="img-fluied" alt="Mountain" />
+                                            <small className="justify-content-center row">Don’t spoil things in pop culture in your references or you risk the Mountain coming into your inbox and destroying you.</small>
+                                        </div>
                                     </div>
+                                    <div className="col-md-2" />
                                 </div>
 
                                 <p className="mt-3">If you have no intel on what that person likes, you can just ask them during <strong>Stage 1</strong>. Make a reference to something in pop culture, and add a “P.S” in your email asking if they understood the reference. Just don’t include spoilers (I’m thinking of you Game of Thrones fans).</p>
@@ -100,11 +110,15 @@ class TheThreeStagesOfConversation extends React.Component {
                                 <p>Mark shared his goals with me, what he wanted out of life, what his plans were with Dreamwidth, his careers, and it was just the greatest phone call.</p>
                                 <p>We started with <strong>Stage 2</strong> and worked out way to <strong>Stage 3</strong>. Mark eventually became a customer with Stumbleupon, and he event sent me a few tshirts that I still wear to this day.</p>
 
-                                <div className="card blog-card">
-                                    <div className="card-body">
-                                        <img src="/img/shirt Mark.png" className="img-fluied" />
-                                        <small className="justify-content-center row">This is one of the shirts Mark sent me. No I’m not the model in it, but maybe someday.</small>
+                                <div className="row">
+                                    <div className="col-md-4" />
+                                    <div className="card blog-card col-md-4">
+                                        <div className="card-body">
+                                            <img src="/img/shirt Mark.png" className="img-fluied" alt="shirt-Mark" />
+                                            <small className="justify-content-center row">This is one of the shirts Mark sent me. No I’m not the model in it, but maybe someday.</small>
+                                        </div>
                                     </div>
+                                    <div className="col-md-4" />
                                 </div>
 
                                 <p className="mt-3">Before long, Mark was bringing Dyn with him at his next company, <a href="http://bump.com/">Bump</a>. Then he brought us with him at Dropbox.</p>

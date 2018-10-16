@@ -1,5 +1,4 @@
 ﻿import React from 'react';
-import { Link } from "react-router-dom";
 import policies from "./../data/policy.json";
 import GetStarted from '../components/buttons/GetStarted';
 import PolicyCard from '../components/cards/PolicyCard';
@@ -14,7 +13,6 @@ class PrivacyPolicy extends React.Component {
         };
     }
 
-
     componentDidMount() {
         if (window.outerWidth < 1024) {
             this.setState({
@@ -26,6 +24,7 @@ class PrivacyPolicy extends React.Component {
                 width: window.outerWidth
             })
         }
+        window.scrollTo(0, 0);
     }
     
     render() {
@@ -38,14 +37,14 @@ class PrivacyPolicy extends React.Component {
                                 <h1 className="text-white text-center  mb-4 fa-2x prospectText"><b>Privacy Policy</b></h1>
                                 <h4 className="text-white text-center chromeText mb-4">How we use information we gather and collect from you</h4>
                                 <div className="justify-content-center d-flex">
-                                    <GetStarted />
+                                    <GetStarted size="lg"  />
                                 </div>
                             </section>
                         </div>
                         
                     </div>
                     <div className="faq-waveDesign">
-                        <img src="/img/wave-four.png" className="img-fluied faq-waveDesignProspect" />
+                        <img src="/img/wave-four.png" className="img-fluied faq-waveDesignProspect" alt="wave" />
                     </div>
                 </div>
 
@@ -122,7 +121,7 @@ class PrivacyPolicy extends React.Component {
                                         </div>
                                     </div>
                                 }
-                                {this.state.policy.map((policy, index) => { return (<PolicyCard policy={policy} width={this.state.width} />) })}
+                                {this.state.policy.map((policy, index) => { return (<PolicyCard policy={policy} width={this.state.width} key={index} />) })}
                                 <h4><mark className="liq-text-primary">19. Legitimate Purposes for Collecting Your PII</mark></h4>
                                 <p>The following are the specific legitimate purposes that we may use your PII for:</p>
                                 <div>

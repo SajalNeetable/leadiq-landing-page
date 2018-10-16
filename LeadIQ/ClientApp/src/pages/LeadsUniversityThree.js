@@ -2,12 +2,17 @@
 import { Link } from "react-router-dom";
 
 export default class LeadsUniversityThree extends React.Component {
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
             <div className="universityOne">
                 <div className="cover">
                     <div className="d-none d-md-block">
-                        <img src="/img/leadIq-university-cover.png" alt="leadIq-cover-image" className="img-fluied" />
+                        <img src="/img/leadIq-university-cover.png" alt="leadIq-cover" className="img-fluied" />
                         <img src="/img/logo-university-white.png" alt="leadIq-icon" className="leadIqUniversityOne" />
                     </div>
                 </div>
@@ -22,7 +27,7 @@ export default class LeadsUniversityThree extends React.Component {
                                     <div className="row legend-cover justify-content-center d-flex">
                                         <div className="col-md-6 col-lg-6 row">
                                             <span className="col-md-2 col-lg-2">&nbsp;</span>
-                                            <img src="/img/leadIq-legend.png" alt="legend-image" className="img-fluied col-md-8 col-lg-8" />
+                                            <img src="/img/leadIq-legend.png" alt="legend-box" className="img-fluied col-md-8 col-lg-8" />
                                             <span className="col-md-2 col-lg-2">&nbsp;</span>
                                         </div>
                                         <div className="col-md-6 col-lg-6">
@@ -73,8 +78,8 @@ export default class LeadsUniversityThree extends React.Component {
                                 </div>
                                 <p>One little tip I also recommend is making a signature video that explains who you are a little bit. Here’s an example of mine.</p>
                                 <div className="row mb-5 justify-content-center d-flex">
-                                    <div class="embed-responsive embed-responsive-16by9 col-md-8">
-                                        <iframe className="embed-responsive-item" src="https://youtube.com/embed/HPxZuCYkgMk" allowFullScreen></iframe>
+                                    <div className="embed-responsive embed-responsive-16by9 col-md-8">
+                                        <iframe className="embed-responsive-item" title="Video" src="https://youtube.com/embed/HPxZuCYkgMk" allowFullScreen></iframe>
                                     </div>
                                 </div>
                                 <h4><Link to="/">Question #4: What do you want me to do?</Link></h4>
@@ -105,8 +110,8 @@ export default class LeadsUniversityThree extends React.Component {
                                 <p>Remember how we just compared a good email subject to link bait? <b>Link bait sucks.</b> The reason it sucks is because more often than not, the headline is deceptive and disappoints. YOU NEVER WANT TO DO THIS.</p>
                                 <p>You don’t want your prospects feeling like this when they actually read your email:</p>
                                 <div className="row mb-5 justify-content-center d-flex">
-                                    <div class="embed-responsive embed-responsive-16by9 col-md-8">
-                                        <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/_O1hM-k3aUY" allowFullScreen></iframe>
+                                    <div className="embed-responsive embed-responsive-16by9 col-md-8">
+                                        <iframe className="embed-responsive-item" title="Video" src="https://www.youtube.com/embed/_O1hM-k3aUY" allowFullScreen></iframe>
                                     </div>
                                 </div>
                                 <p>Jim's subject mentions a Luau. Jim brilliantly didn't sell out and just pitch LeadIQ. He meets the expectation of the prospect by bringing up the prospect's Linkedin picture, which featured things we all would see at a Luau.</p>

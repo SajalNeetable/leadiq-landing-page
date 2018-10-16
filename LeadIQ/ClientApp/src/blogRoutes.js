@@ -81,6 +81,53 @@ import LookingAtSomeColdEmails from './blogs/LookingAtSomeColdEmails';
 import ThreeActionableTipsTurningColdProspectsHighQualityLeads from './blogs/ThreeActionableTipsTurningColdProspectsHighQualityLeads';
 import AddLeadsIntoSalesloftCadencesWithLeadiq from './blogs/AddLeadsIntoSalesloftCadencesWithLeadiq';
 import DreamforceTwoZeroOneSevenPartyList from './blogs/DreamforceTwoZeroOneSevenPartyList';
+import HowYouCanLeveralAccountBasedProspecting from './blogs/HowYouCanLeveralAccountBasedProspecting';
+import HowToBuildNewPipelineWithEventBasedProspecting from './blogs/HowToBuildNewPipelineWithEventBasedProspecting';
+import RyanOharaDiscussesCreativeProspectingPredictableRevenuePodcast from './blogs/RyanOharaDiscussesCreativeProspectingPredictableRevenuePodcast';
+import FreedomIntroducingTheNewLeadiqProspectAnywhere from './blogs/FreedomIntroducingTheNewLeadiqProspectAnywhere';
+import ProspectingPodcastWithMorganIngramHowToBeANewSalesDevelopmentRep from './blogs/ProspectingPodcastWithMorganIngramHowToBeANewSalesDevelopmentRep';
+import ThreeNewKeyFeaturesInTheLeadiqExtension from './blogs/ThreeNewKeyFeaturesInTheLeadiqExtension';
+import HowToWinMoreDealsByBreakingWithTradition from './blogs/HowToWinMoreDealsByBreakingWithTradition';
+import PodcastWithHeatherMorganAndFindingProductMarketFit from './blogs/PodcastWithHeatherMorganAndFindingProductMarketFit';
+import SendSalesEmailsGetReplies from './blogs/SendSalesEmailsGetReplies';
+import ProspectingPodcastHighFivesKellyPianeInfor from './blogs/ProspectingPodcastHighFivesKellyPianeInfor';
+import ProspectingPodcastMarylouTyler from './blogs/ProspectingPodcastMarylouTyler';
+import ProspectingPodcastWithJonMazza from './blogs/ProspectingPodcastWithJonMazza';
+import ProspectingPodcastJeremyLeveille from './blogs/ProspectingPodcastJeremyLeveille';
+import ProspectingPodcastCalvarysPaulDejoe from './blogs/ProspectingPodcastCalvarysPaulDejoe';
+import HowDoesLeadiqWork from './blogs/HowDoesLeadiqWork';
+import WhyOneProspectsRudeReplyIsWrong from './blogs/WhyOneProspectsRudeReplyIsWrong';
+import TheFourSevenTwoDifferentLinkedinRegionsYouCanSearch from './blogs/TheFourSevenTwoDifferentLinkedinRegionsYouCanSearch';
+import WhatMakesThePerfectEmailPitch from './blogs/WhatMakesThePerfectEmailPitch';
+import OutboundProspectingQualityVsQuantity from './blogs/OutboundProspectingQualityVsQuantity';
+import WhyYouShouldUseHumorInProspectingEmails from './blogs/WhyYouShouldUseHumorInProspectingEmails';
+import YourSalesTeamHatesToProspect from './blogs/YourSalesTeamHatesToProspect';
+import TheMightyTriangleOfInfluence from './blogs/TheMightyTriangleOfInfluence';
+import VideoHowToBulkImportLeadiqLeadsIntoYourCrm from './blogs/VideoHowToBulkImportLeadiqLeadsIntoYourCrm';
+import IntroducingTheLeadiqProspectingPodcast from './blogs/IntroducingTheLeadiqProspectingPodcast';
+import WhyYouNeedAPersonalSalesPitchVideo from './blogs/WhyYouNeedAPersonalSalesPitchVideo';
+import HowToBeDisruptiveAndHungryLikeAWolf from './blogs/HowToBeDisruptiveAndHungryLikeAWolf';
+import TheShiftTowardsTheSocialCrm from './blogs/TheShiftTowardsTheSocialCrm';
+import AnnouncingOurFirstProspectingBootcamp from './blogs/AnnouncingOurFirstProspectingBootcamp';
+import FourFollowUpTacticsToIncreaseCloseRates from './blogs/FourFollowUpTacticsToIncreaseCloseRates';
+import ContentProvenWorkProspecting from './blogs/ContentProvenWorkProspecting';
+import LeadiqTalksProspectingOnTheSelfMadePodcast from './blogs/LeadiqTalksProspectingOnTheSelfMadePodcast';
+import OnToTheNextOne from './blogs/OnToTheNextOne';
+import RyansPersonalPitchVideoForLeadiq from './blogs/RyansPersonalPitchVideoForLeadiq';
+import TheProspectingPodcastPodcastTwoHighFivesWithDavidWeisburd from './blogs/TheProspectingPodcastPodcastTwoHighFivesWithDavidWeisburd';
+import FiveLessonsOnMakingGoodFirstImpressions from './blogs/FiveLessonsOnMakingGoodFirstImpressions';
+import FiveTotallyCoolCompaniesMetDreamforce from './blogs/FiveTotallyCoolCompaniesMetDreamforce';
+import RaisingMoneyInTheDigitalEra from './blogs/RaisingMoneyInTheDigitalEra';
+import AligningMarketingWithSales from './blogs/AligningMarketingWithSales';
+import HowToBuildALeadListFasterThanSonicTheHedgehog from './blogs/HowToBuildALeadListFasterThanSonicTheHedgehog';
+import TheProspectingPodcastEpisodeThreeHighFivesWithSendbloom from './blogs/TheProspectingPodcastEpisodeThreeHighFivesWithSendbloom';
+import ProspectingPodcastHighFivesKokaSexton from './blogs/ProspectingPodcastHighFivesKokaSexton';
+import NewProspectingPodcastHighFivesTextExpander from './blogs/NewProspectingPodcastHighFivesTextExpander';
+import WhyYouShouldHaveStartedSellingYesterday from './blogs/WhyYouShouldHaveStartedSellingYesterday';
+import WhyYouShouldNeverForgetToAskForReferrals from './blogs/WhyYouShouldNeverForgetToAskForReferrals';
+import RatemypitchLiveOctoberEdition from './blogs/RatemypitchLiveOctoberEdition';
+import TheOtherSideOfTheInbox from './blogs/TheOtherSideOfTheInbox';
+import MakeEmLaugh from './blogs/MakeEmLaugh';
 // Blogs End
 import Layout from './components/Layout';
 
@@ -169,7 +216,54 @@ class BlogRoutes extends React.Component {
                         <Route exact path='/looking-at-some-cold-emails' component={LookingAtSomeColdEmails} />
                         <Route exact path='/3-actionable-tips-turning-cold-prospects-high-quality-leads' component={ThreeActionableTipsTurningColdProspectsHighQualityLeads} />
                         <Route exact path='/add-leads-into-salesloft-cadences-with-leadiq' component={AddLeadsIntoSalesloftCadencesWithLeadiq} />
-                        <Route exact path='/dreamforce_2017_party_list' component={DreamforceTwoZeroOneSevenPartyList}/>
+                        <Route exact path='/dreamforce_2017_party_list' component={DreamforceTwoZeroOneSevenPartyList} />
+                        <Route exact path='/how-you-can-leveral-account-based-prospecting' component={HowYouCanLeveralAccountBasedProspecting} />
+                        <Route exact path='/how-to-build-new-pipeline-with-event-based-prospecting' component={HowToBuildNewPipelineWithEventBasedProspecting} />
+                        <Route exact path='/ryan-ohara-discusses-creative-prospecting-predictable-revenue-podcast' component={RyanOharaDiscussesCreativeProspectingPredictableRevenuePodcast} />
+                        <Route exact path='/freedom-introducing-the-new-leadiq-prospect-anywhere' component={FreedomIntroducingTheNewLeadiqProspectAnywhere} />
+                        <Route exact path='/prospecting-podcast-with-morgan-ingram-how-to-be-a-new-sales-development-rep' component={ProspectingPodcastWithMorganIngramHowToBeANewSalesDevelopmentRep} />
+                        <Route exact path='/3-new-key-features-in-the-leadiq-extension' component={ThreeNewKeyFeaturesInTheLeadiqExtension} />
+                        <Route exact path='/how-to-win-more-deals-by-breaking-with-tradition' component={HowToWinMoreDealsByBreakingWithTradition} />
+                        <Route exact path='/podcast-with-heather-morgan-and-finding-product-market-fit' component={PodcastWithHeatherMorganAndFindingProductMarketFit} />
+                        <Route exact path='/send-sales-emails-get-replies' component={SendSalesEmailsGetReplies} />
+                        <Route exact path='/prospecting-podcast-high-fives-kelly-piane-infor' component={ProspectingPodcastHighFivesKellyPianeInfor} />
+                        <Route exact path='/prospecting-podcast-marylou-tyler' component={ProspectingPodcastMarylouTyler} />
+                        <Route exact path='/prospecting-podcast-with-jon-mazza' component={ProspectingPodcastWithJonMazza} />
+                        <Route exact path='/prospecting-podcast-jeremy-leveille' component={ProspectingPodcastJeremyLeveille} />
+                        <Route exact path='/prospecting-podcast-calvarys-paul-dejoe' component={ProspectingPodcastCalvarysPaulDejoe} />
+                        <Route exact path='/how-does-leadiq-work' component={HowDoesLeadiqWork} />
+                        <Route exact path='/why-one-prospects-rude-reply-is-wrong' component={WhyOneProspectsRudeReplyIsWrong} />
+                        <Route exact path='/the-472-different-linkedin-regions-you-can-search' component={TheFourSevenTwoDifferentLinkedinRegionsYouCanSearch} />
+                        <Route exact path='/what-makes-the-perfect-email-pitch' component={WhatMakesThePerfectEmailPitch} />
+                        <Route exact path='/outbound-prospecting-quality-vs-quantity' component={OutboundProspectingQualityVsQuantity} />
+                        <Route exact path='/why-you-should-use-humor-in-prospecting-emails' component={WhyYouShouldUseHumorInProspectingEmails} />
+                        <Route exact path='/your-sales-team-hates-to-prospect' component={YourSalesTeamHatesToProspect} />
+                        <Route exact path='/the-mighty-triangle-of-influence' component={TheMightyTriangleOfInfluence} />
+                        <Route exact path='/video-how-to-bulk-import-leadiq-leads-into-your-crm' component={VideoHowToBulkImportLeadiqLeadsIntoYourCrm} />
+                        <Route exact path='/introducing-the-leadiq-prospecting-podcast' component={IntroducingTheLeadiqProspectingPodcast} />
+                        <Route exact path='/why-you-need-a-personal-sales-pitch-video' component={WhyYouNeedAPersonalSalesPitchVideo} />
+                        <Route exact path='/how-to-be-disruptive-and-hungry-like-a-wolf' component={HowToBeDisruptiveAndHungryLikeAWolf} />
+                        <Route exact path='/the-shift-towards-the-social-crm' component={TheShiftTowardsTheSocialCrm} />
+                        <Route exact path='/announcing-our-first-prospecting-bootcamp' component={AnnouncingOurFirstProspectingBootcamp} />
+                        <Route exact path='/4-follow-up-tactics-to-increase-close-rates' component={FourFollowUpTacticsToIncreaseCloseRates} />
+                        <Route exact path='/content-proven-work-prospecting' component={ContentProvenWorkProspecting} />
+                        <Route exact path='/leadiq-talks-prospecting-on-the-self-made-podcast' component={LeadiqTalksProspectingOnTheSelfMadePodcast} />
+                        <Route exact path='/on-to-the-next-one' component={OnToTheNextOne} />
+                        <Route exact path='/ryans-personal-pitch-video-for-leadiq' component={RyansPersonalPitchVideoForLeadiq} />
+                        <Route exact path='/the-prospecting-podcast-podcast-2-high-fives-with-david-weisburd' component={TheProspectingPodcastPodcastTwoHighFivesWithDavidWeisburd} />
+                        <Route exact path='/5-lessons-on-making-good-first-impressions' component={FiveLessonsOnMakingGoodFirstImpressions} />
+                        <Route exact path='/5-totally-cool-companies-met-dreamforce' component={FiveTotallyCoolCompaniesMetDreamforce} />
+                        <Route exact path='/raising-money-in-the-digital-era' component={RaisingMoneyInTheDigitalEra} />
+                        <Route exact path='/aligning-marketing-with-sales' component={AligningMarketingWithSales} />
+                        <Route exact path='/how-to-build-a-lead-list-faster-than-sonic-the-hedgehog' component={HowToBuildALeadListFasterThanSonicTheHedgehog} />
+                        <Route exact path='/the-prospecting-podcast-episode-3-high-fives-with-sendbloom' component={TheProspectingPodcastEpisodeThreeHighFivesWithSendbloom} />
+                        <Route exact path='/prospecting-podcast-high-fives-koka-sexton' component={ProspectingPodcastHighFivesKokaSexton} />
+                        <Route exact path='/new-prospecting-podcast-high-fives-text-expander' component={NewProspectingPodcastHighFivesTextExpander} />
+                        <Route exact path='/why-you-should-have-started-selling-yesterday' component={WhyYouShouldHaveStartedSellingYesterday} />
+                        <Route exact path='/why-you-should-never-forget-to-ask-for-referrals' component={WhyYouShouldNeverForgetToAskForReferrals} />
+                        <Route exact path='/ratemypitch-live-october-edition' component={RatemypitchLiveOctoberEdition} />
+                        <Route exact path='/the-other-side-of-the-inbox' component={TheOtherSideOfTheInbox} />
+                        <Route exact path='/make-em-laugh' component={MakeEmLaugh} />
                     </Switch>
                 </Layout>
             </BrowserRouter>

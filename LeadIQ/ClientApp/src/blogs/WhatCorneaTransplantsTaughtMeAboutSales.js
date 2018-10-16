@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import BlogAuthor from '../components/BlogAuthor';
 
 class WhatCorneaTransplantsTaughtMeAboutSales extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -37,7 +40,7 @@ class WhatCorneaTransplantsTaughtMeAboutSales extends React.Component {
 
                                 <div className="card blog-card">
                                     <div className="card-body">
-                                        <img src="/img/Alex-Perkins-and-Fiance.jpg" className="img-fluied" />
+                                        <img src="/img/Alex-Perkins-and-Fiance.jpg" alt="Alex-Perkins-and-Fiance" className="img-fluied" />
                                         <small className="justify-content-center row">My wife and I had just moved to Seattle and little did I know the job hunt was training me for my future job as an SDR.</small>
                                     </div>
                                 </div>
@@ -108,7 +111,7 @@ class WhatCorneaTransplantsTaughtMeAboutSales extends React.Component {
                                </p>
 
                                 <div className="text-center">
-                                    <img src="/img/empathy.png" className="img-fluied" />
+                                    <img src="/img/empathy.png" alt="empathy" className="img-fluied" />
                                 </div>
 
                                 <p className="mt-3">
@@ -119,11 +122,15 @@ class WhatCorneaTransplantsTaughtMeAboutSales extends React.Component {
 
                                 <p>The temptation as a person witnessing sorrow is to project those feelings onto yourself and your own experience. This is an entirely reasonable and good response, but it is not empathy, and it does not help you communicate well in those situations.</p>
 
-                                <div className="card blog-card">
-                                    <div className="card-body">
-                                        <img src="/img/empathy-different-than-sympathy.png" className="img-fluied" />
-                                        <small className="justify-content-center row">Empathy is different than sympathy.</small>
+                                <div className="row">
+                                    <div className="col-md-2" />
+                                    <div className="card blog-card col-md-8">
+                                        <div className="card-body">
+                                            <img src="/img/empathy-different-than-sympathy.png" alt="empathy-different-than-sympathy" className="img-fluied" />
+                                            <small className="justify-content-center row">Empathy is different than sympathy.</small>
+                                        </div>
                                     </div>
+                                    <div className="col-md-2" />
                                 </div>
 
                                 <p className="mt-3">
@@ -192,8 +199,8 @@ class WhatCorneaTransplantsTaughtMeAboutSales extends React.Component {
                         <BlogAuthor
                             author="Alex Perkins"
                             profile="Alex Perkins is a Commercial Account Development Rep for Bizible, a marketing performance management software company based out of Seattle, WA. When he’s not trying new ways to creatively break into some of the world’s largest companies, you can find him hiking the mountains of Washington with his wife, Waverly, or hanging out with his pet bunny Sprout. He may also be at one of his favorite Seattle breweries - in fact, there’s a good chance he’s there right now." />
+                    </div>
                 </div>
-            </div>
             </div >
         );
     }

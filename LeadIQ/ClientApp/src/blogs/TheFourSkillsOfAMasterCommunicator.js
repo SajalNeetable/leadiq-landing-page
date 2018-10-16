@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import BlogAuthor from '../components/BlogAuthor';
 
 class TheFourSkillsOfAMasterCommunicator extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -24,7 +27,7 @@ class TheFourSkillsOfAMasterCommunicator extends React.Component {
 
                                 <div className="card blog-card">
                                     <div className="card-body">
-                                        <img src="/img/martin-luther-king.png" className="img-fluied" />
+                                        <img src="/img/martin-luther-king.png" className="img-fluied" alt="martin-luther-king" />
                                         <small className="justify-content-center row">Martin Luther King Jr. was a master communicator.</small>
                                     </div>
                                 </div>
@@ -61,7 +64,7 @@ class TheFourSkillsOfAMasterCommunicator extends React.Component {
                                 <p>Crystalizing applies to talking, giving a speech, emailing and many other forms of communication. <strong>ABC! Always be crystalizing!</strong></p>
 
                                 <div className="text-center">
-                                    <img src="/img/crystalizing.jpeg" className="img-fluied"/>
+                                    <img src="/img/crystalizing.jpeg" className="img-fluied" alt="crystalizing" />
                                 </div>
 
                                 <h3 className="mt-5">Engage</h3>
@@ -80,7 +83,7 @@ class TheFourSkillsOfAMasterCommunicator extends React.Component {
                                 <p>There are many books out there on how to be humorous. Try figuring out your own style of humor, there’s no specific humor that’s best, although do be careful not to offend your audience!</p>
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter">
-                                    <iframe src="https://www.youtube.com/embed/NisCkxU544c" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/NisCkxU544c" title="video" scrolling="no" />
                                 </div>
 
                                 <p>Humor can help other engage anyone.</p>

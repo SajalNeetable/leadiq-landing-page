@@ -5,7 +5,7 @@ class StayConnected extends React.Component {
 
     render() {
         return (
-            <Link to="/" target="_blank" className={"btn liq-btn-primary freeTextDesign liq-btn-primary-" + this.props.size}>Stay Connected</Link>
+            <Link to="/"  className={"btn liq-btn-primary freeTextDesign liq-btn-primary-" + this.props.size}>Stay Connected</Link>
         );
     }
 }

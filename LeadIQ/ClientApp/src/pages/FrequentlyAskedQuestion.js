@@ -1,5 +1,4 @@
 ﻿import React from 'react';
-import { Link } from "react-router-dom";
 import question from "./../data/frequently-asked-questions.json";
 import GetStarted from '../components/buttons/GetStarted';
 
@@ -11,6 +10,11 @@ class FrequentlyAskedQuestion extends React.Component {
             index: 0
         };
     }
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     toggleText(key) {
         this.setState({
             index: key
@@ -26,13 +30,13 @@ class FrequentlyAskedQuestion extends React.Component {
                             <h1 className="text-white text-center  mb-4 fa-2x prospectText"><b>FAQ</b></h1>
                             <h4 className="text-white text-center chromeText mb-4">Frequently Asked Questions</h4>
                             <div className="justify-content-center d-flex">
-                                <GetStarted />
+                                <GetStarted size="lg"  />
                             </div>
                         </section>
                     </div>
                 </div>
                 <div className="faq-waveDesign">
-                    <img src="/img/wave-bg.png" className="img-fluied faq-waveDesignProspect" />
+                    <img src="/img/wave-bg.png" className="img-fluied faq-waveDesignProspect" alt="wave" />
                 </div>
                 <div className="blog-container">
                     <div className="container">
@@ -40,8 +44,8 @@ class FrequentlyAskedQuestion extends React.Component {
                             <div className="card-body card-faq">
                                     <div className="row">
                                         {this.state.questions.map((question, idx) => {
-                                            return (
-                                                <div className="col-md-12 col-lg-12" >
+                                        return (
+                                            <div className="col-md-12 col-lg-12" key={idx}>
                                                     <span className={(this.state.index === idx) ? "hideDisplay" : "showDisplay"} onClick={this.toggleText.bind(this, idx)}></span>
                                                     <h3 className={(this.state.index === idx) ? "showTitle" : "defaultTitle"}>{question.question}</h3>
                                                     <p className={(this.state.index === idx) ? "show" : "hide"}>{question.content}</p>

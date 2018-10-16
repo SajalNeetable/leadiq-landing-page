@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class WhyTheseGoodColdEmailExamplesWorked extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -30,7 +33,7 @@ class WhyTheseGoodColdEmailExamplesWorked extends React.Component {
                                 <p>Using the trigger of Steve Richard from ExecVision being featured, Marwah was smart enough to focus on Steve’s Call Camps he does, and also references the video he did for the campaign. It obviously worked.</p>
 
                                 <div className="text-center mt-3">
-                                    <img src="/img/Screen-Shot1.png" className="img-fluied" />
+                                    <img src="/img/Screen-Shot1.png" alt="data" className="img-fluied" />
                                 </div>
 
                                 <div className="text-center mt-3">
@@ -40,7 +43,7 @@ class WhyTheseGoodColdEmailExamplesWorked extends React.Component {
                                 <h3 className="mt-3">Here’s the video:</h3>
 
                                 <div className="text-center mt-5">
-                                    <iframe className="vidyard_iframe" src="//play.vidyard.com/eW3AqNo8cUuKXEuuJPKZzC.html?v=3.1.1" scrolling="no" /><br />
+                                    <iframe className="vidyard_iframe" title="video" src="//play.vidyard.com/eW3AqNo8cUuKXEuuJPKZzC.html?v=3.1.1" scrolling="no" /><br />
                                 </div>
 
                                 <div className="text-center mt-3">
@@ -54,7 +57,7 @@ class WhyTheseGoodColdEmailExamplesWorked extends React.Component {
                                 <h3 className="mt-5">Example # 2: Give before you take works.</h3>
 
                                 <div className="text-center">
-                                    <img src="/img/Screen-Shot2.png" className="img-fluied" />
+                                    <img src="/img/Screen-Shot2.png" alt="data" className="img-fluied" />
                                 </div>
 
                                 <div className="text-center mt-3">
@@ -79,7 +82,7 @@ class WhyTheseGoodColdEmailExamplesWorked extends React.Component {
                                 </p>
 
                                 <div className="text-center">
-                                    <img src="/img/Screen-Shot7.png" className="img-fluied" />
+                                    <img src="/img/Screen-Shot7.png" alt="data" className="img-fluied" />
                                 </div>
 
 
@@ -98,7 +101,7 @@ class WhyTheseGoodColdEmailExamplesWorked extends React.Component {
                                 <p>Nate Smoyer saw that a prospect liked a post of his on LinkedIn. Smoyer was careful to not only acknowledge it and jump right into a pitch. He decided to do a deeper dive by jumping into the prospect’s media kit process as well.</p>
 
                                 <div className="text-center mt-3">
-                                    <img src="/img/Screen-Shot3.png" className="img-fluied" />
+                                    <img src="/img/Screen-Shot3.png" alt="data" className="img-fluied" />
                                 </div>
 
                                 <div className="text-center mt-3"><a href="https://www.linkedin.com/in/natesmoyer/">Nate Smoyer</a> at <a href="http://natesmoyer.com/">NateSmoyer.com</a></div>
@@ -119,13 +122,13 @@ class WhyTheseGoodColdEmailExamplesWorked extends React.Component {
                                 <h4 className="mt-3">Subject: The Thierry Henry of GoCardless</h4>
 
                                 <div className="text-center mt-3">
-                                    <img src="/img/Screen-Shot-Refract.png" className="img-fluied" />
+                                    <img src="/img/Screen-Shot-Refract.png" alt="data" className="img-fluied" />
                                 </div>
 
                                 <p className="mt-5">Goodwin did jump into the pitch a little bit, but the creativity and personalization sparked a conversation about sports vs. the product, and got a response.</p>
 
                                 <div className="text-center mt-3">
-                                    <img src="/img/Screen-Shot4.png" className="img-fluied" />
+                                    <img src="/img/Screen-Shot4.png" alt="data" className="img-fluied" />
                                 </div>
 
                                 <h3 className="mt-5">Example # 6: Talk about your prospect and their history first. Company second.</h3>
@@ -136,13 +139,13 @@ class WhyTheseGoodColdEmailExamplesWorked extends React.Component {
                                 </p>
 
                                 <div className="text-center">
-                                    <img src="/img/Screen-Shot5.png" className="img-fluied" />
+                                    <img src="/img/Screen-Shot5.png" alt="data" className="img-fluied" />
                                 </div>
 
                                 <p className="mt-5">And the response:</p>
 
                                 <div className="text-center">
-                                    <img src="/img/Screen-Shot6.png" className="img-fluied" />
+                                    <img src="/img/Screen-Shot6.png" alt="data" className="img-fluied" />
                                 </div>
 
                                 <p className="mt-5">Personalization is so important.</p>

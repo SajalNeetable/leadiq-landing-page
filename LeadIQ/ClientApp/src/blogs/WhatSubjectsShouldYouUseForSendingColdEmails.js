@@ -1,10 +1,12 @@
 ﻿import React from 'react';
 import BlogHeader from '../components/BlogHeader';
 import FreeLeads from '../components/buttons/FreeLeads';
-import BlogAuthor from '../components/BlogAuthor';
 import RyanOHara from '../components/RyanOHara';
 
 class WhatSubjectsShouldYouUseForSendingColdEmails extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -23,7 +25,7 @@ class WhatSubjectsShouldYouUseForSendingColdEmails extends React.Component {
                             <div className="card-body card-blog">
 
                                 <div>
-                                    <img src="/img/burn.gif" className="img-fluied" />
+                                    <img src="/img/burn.gif" className="img-fluied" alt="burn" />
                                 </div>
 
                                 <p><em>Your prospect’s inbox is a real mess.</em></p>
@@ -43,7 +45,7 @@ class WhatSubjectsShouldYouUseForSendingColdEmails extends React.Component {
                                 <p>If you were to look at data that’s out there, open rates are all over the place. <a href="http://www.smartinsights.com/email-marketing/email-communications-strategy/statistics-sources-for-email-marketing/?new=1">SmartInsights</a> did a thorough study on marketing emails (which we know is different from sales emails, but are a good comparable metric), and you can look at their industry breakdown.</p>
 
                                 <div>
-                                    <img src="/img/global-open-and-clickthrough-rate-email-statistics.png" className="img-fluied" />
+                                    <img src="/img/global-open-and-clickthrough-rate-email-statistics.png" alt="global-statistics" className="img-fluied" />
                                 </div>
 
                                 <p>Here’s the problem with judging your subject lines based on open rates:</p>
@@ -52,7 +54,7 @@ class WhatSubjectsShouldYouUseForSendingColdEmails extends React.Component {
 
                                 <div className="card blog-card mt-3">
                                     <div className="card-body">
-                                        <img src="" className="img-fluied" />
+                                        <img src="" className="img-fluied" alt="empty" />
                                         <small className="justify-content-center row">Anyone can get a 99% open rate, but if you are trying to get a positive response that starts a relationship, the real thing to track with subject lines is replies, not open rates.</small>
                                     </div>
                                 </div>
@@ -63,7 +65,7 @@ class WhatSubjectsShouldYouUseForSendingColdEmails extends React.Component {
 
                                 <div className="card blog-card mt-3">
                                     <div className="card-body">
-                                        <img src="" className="img-fluied" />
+                                        <img src="" className="img-fluied" alt="empty" />
                                         <small className="justify-content-center row">I scored meetings with NFL Media, who owns all the properties that deal with NFL.com, NFL Network, and some of the streaming apps as well.</small>
                                     </div>
                                 </div>
@@ -75,7 +77,7 @@ class WhatSubjectsShouldYouUseForSendingColdEmails extends React.Component {
                                 <p>None of these amazing accounts I brought in via email prospecting had the same subject line. However, they did have similar characteristics.</p>
 
                                 <div>
-                                    <img src="/img/one-ring-to-rule.gif" className="img-fluied" />
+                                    <img src="/img/one-ring-to-rule.gif" alt="gif" className="img-fluied" />
                                 </div>
 
                                 <p><em>Sorry folks, there is no one subject line to rule them all.</em></p>
@@ -101,7 +103,7 @@ class WhatSubjectsShouldYouUseForSendingColdEmails extends React.Component {
                                 <p>Remember how we just compared a good email subject to link bait? Link bait sucks. The reason it sucks is because more often than not, the headline is deceptive and disappoints. YOU NEVER WANT TO DO THIS.</p>
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter mt-3">
-                                    <iframe src="https://www.youtube.com/embed/_O1hM-k3aUY" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/_O1hM-k3aUY" title="video" scrolling="no" />
                                 </div>
 
                                 <p className="mt-3">The best part of Jim’s email subject isn’t just that it’s vague; it’s that the body of the email matches with the expectations Jim set in the subject. Let’s look at his email:</p>
@@ -120,7 +122,7 @@ class WhatSubjectsShouldYouUseForSendingColdEmails extends React.Component {
 
                                 <div className="card blog-card mt-3">
                                     <div className="card-body">
-                                        <img src="" className="img-fluied" />
+                                        <img src="" className="img-fluied" alt="empty" />
                                         <small className="justify-content-center row">A bad email subject from Salesforce</small>
                                     </div>
                                 </div>
@@ -130,21 +132,23 @@ class WhatSubjectsShouldYouUseForSendingColdEmails extends React.Component {
                                 <p>Salesforce knows I’m from the New England area. I’m a Patriots fan and they just completed the greatest comeback in Super Bowl History…it’s likely that I am at least aware of this big news story, that proudly put our region in the spotlight.</p>
 
                                 <p>Back in the summer, they even had Bill Belichick speak at their World Tour event in Boston. They also know what apps I have installed in their CRM, and they know I’ve added a few seats the past few months.</p>
-
-                                <div className="card blog-card mt-3">
-                                    <div className="card-body">
-                                        <img src="/img/patriorts-head-coach-bill-belichick.jpg" className="img-fluied" />
-                                        <small className="justify-content-center row">Patriots head coach Bill Belichick spoke at Salesforce World Tour event in Boston in 2016.</small>
+                                <div className="row">
+                                    <div className="col-md-3" />
+                                    <div className="card blog-card mt-3 col-md-6">
+                                        <div className="card-body">
+                                            <img src="/img/patriorts-head-coach-bill-belichick.jpg" alt="patriorts" className="img-fluied" />
+                                            <small className="justify-content-center row">Patriots head coach Bill Belichick spoke at Salesforce World Tour event in Boston in 2016.</small>
+                                        </div>
                                     </div>
+                                    <div className="col-md-3" />
                                 </div>
-
                                 <p className="mt-3">The subject could have been about anything around those lines, and it likely would have got an open from me. Instead, it went right into my trash folder.</p>
 
                                 <p>Here’s another great example of using personalization from one our customers, <a href="https://www.linkedin.com/in/wilsonwlee">Wilson Lee</a> from <a href="http://boomtrain.com">Boomtrain</a>:</p>
 
                                 <div className="card blog-card mt-3">
                                     <div className="card-body">
-                                        <img src="" className="img-fluied" />
+                                        <img src="" className="img-fluied" alt="empty" />
                                         <small className="justify-content-center row">Wilson Lee from Boomtrain personalized the subject of this email knowing the prospect liked these bands. The result: a phone call to start a relationship.</small>
                                     </div>
                                 </div>
@@ -159,7 +163,7 @@ class WhatSubjectsShouldYouUseForSendingColdEmails extends React.Component {
 
                                 <div className="card blog-card mt-3">
                                     <div className="card-body">
-                                        <img src="" className="img-fluied" />
+                                        <img src="" className="img-fluied" alt="empty"  />
                                         <small className="justify-content-center row">This rep had a really selfish subject line. This would go right into the trash for many prospects.</small>
                                     </div>
                                 </div>

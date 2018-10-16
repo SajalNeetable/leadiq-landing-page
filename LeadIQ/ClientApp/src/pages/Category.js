@@ -9,13 +9,18 @@ class Category extends React.Component {
             categoryData: categories
         };
     }
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
             <div>
                 <div className="cover">
                     <div className="d-none d-md-block">
-                        <img src="/img/category-cover.png" className="img-fluied" />
-                        <img src="/img/logo-university-white.png" className="leadIqIcon" />
+                        <img src="/img/category-cover.png" className="img-fluied" alt="Category-cover" />
+                        <img src="/img/logo-university-white.png" className="leadIqIcon" alt="univeristy-logo" />
                     </div>
                 </div>
                 <div className="container mt-4 mb-4">

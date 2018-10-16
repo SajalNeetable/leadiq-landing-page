@@ -13,10 +13,11 @@ class PartnerCard extends React.Component {
     render() {
         return (
             <div className="row">
-                <div className="col-lg-4 partner-title">
-                    <h2>Meet Our Integration Partners</h2>
+                <div className="col-md-5 col-lg-5 partner-title">
+                    <span><p>No Big Deal...</p></span>
+                    <p>just some of our integration partners</p>
                 </div>
-                <div className="col-lg-8">
+                <div className="col-md-7 col-lg-7">
                     <div className="container">
                         <div className="row">
                             {

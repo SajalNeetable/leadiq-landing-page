@@ -1,5 +1,4 @@
 import React from 'react';
-import Footer from './Footer';
 import TopNav from './TopNav';
 
 class Layout extends React.Component {

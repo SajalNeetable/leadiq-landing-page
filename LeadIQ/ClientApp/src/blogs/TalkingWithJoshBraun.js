@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class TalkingWithJoshBraun extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -22,13 +25,13 @@ class TalkingWithJoshBraun extends React.Component {
                             <div className="card-body card-blog">
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter mt-5">
-                                    <iframe src="https://www.youtube.com/embed/ZTX-Kv_Hk-c" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/ZTX-Kv_Hk-c" title="video" scrolling="no" />
                                 </div>
 
                                 <p className="mt-3">If you <a href="https://www.linkedin.com/in/hirejoshbraun/">don’t follow Josh, who is the founder of SalesDNA, you need to go follow him on LinkedIn! </a>He’s awesome, and has some really cool guest on his podcast. Much cooler than I’ll ever be… sigh….</p>
 
                                 <div className="text-center">
-                                    <img src="/img/hello-darkness.gif" className="img-fluied" />
+                                    <img src="/img/hello-darkness.gif" className="img-fluied" alt="hello-darkness" />
                                 </div>
 
                             </div>

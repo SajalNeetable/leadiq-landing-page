@@ -1,0 +1,272 @@
+[
+
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives With Carlos Scott",
+        "bgImage": "/img/podcast/podcast-image-1.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/high-fives-with-carlos-scott"
+      },
+      {
+        "title": "High Fives With Perry van Beek",
+        "bgImage": "/img/podcast/podcast-image-2.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-perry-van-beek"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives with Max Altschuler",
+        "bgImage": "/img/podcast/podcast-image-3.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-max-altschuler"
+      },
+      {
+        "title": "High Fives with Amy Volas",
+        "bgImage": "/img/podcast/podcast-image-4.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/high-fives-with-amy-volas"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "Prospecting Podcast with Tito Bohrt",
+        "bgImage": "/img/podcast/podcast-image-5.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/prospecting-podcast-with-tito-bohrt"
+      },
+      {
+        "title": "High Fives with Christopher Sweat",
+        "bgImage": "/img/podcast/podcast-image-6.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-christopher-sweat"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives With Taylor Scotto",
+        "bgImage": "/img/podcast/podcast-image-7.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-taylor-scotto"
+      },
+      {
+        "title": "High Fives With Lauren Bailey",
+        "bgImage": "/img/podcast/podcast-image-8.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/high-fives-with-lauren-bailey"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "Mini Prospecting Podcast With Jeremy Leveille",
+        "bgImage": "/img/podcast/podcast-image-9.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/mini-prospecting-podcast-with-jeremy-leveille"
+      },
+      {
+        "title": "High Fives With Sonya Meloff",
+        "bgImage": "/img/podcast/podcast-image-10.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-sonya-meloff"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "The Prospecting Podcast With Alex Goldfayn",
+        "bgImage": "/img/podcast/podcast-image-11.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/the-prospecting-podcast-with-alex-goldfayn"
+      },
+      {
+        "title": "High Fives With Phil Gerbyshak",
+        "bgImage": "/img/podcast/podcast-image-12.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/high-fives-with-phil-gerbyshak"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives With Dan Frost",
+        "bgImage": "/img/podcast/podcast-image-13.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/high-fives-with-dan-frost"
+      },
+      {
+        "title": "High Fives With Dale Zwizinski",
+        "bgImage": "/img/podcast/podcast-image-14.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-dale-zwizinski"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives With Phill Keene",
+        "bgImage": "/img/podcast/podcast-image-15.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-phill-keene"
+      },
+      {
+        "title": "High Fives with Jon Mazza",
+        "bgImage": "/img/podcast/podcast-image-16.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/prospecting-podcast-with-jon-mazza"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives with Patrick Barnes",
+        "bgImage": "/img/podcast/podcast-image-17.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/high-fives-with-patrick-barnes"
+      },
+      {
+        "title": "High Fives with Noah Goldman",
+        "bgImage": "/img/podcast/podcast-image-18.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-noah-goldman"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives with Jeremy Leveille",
+        "bgImage": "/img/podcast/podcast-image-19.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-jeremy-leveille"
+      },
+      {
+        "title": "High Fives With Calvary's Paul DeJoe",
+        "bgImage": "/img/podcast/podcast-image-20.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/high-fives-with-calvarys-paul-dejoe"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives With Morgan Ingram",
+        "bgImage": "/img/podcast/podcast-image-21.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/high-fives-with-morgan-ingram"
+      },
+      {
+        "title": "High Fives with Heather Morgan",
+        "bgImage": "/img/podcast/podcast-image-22.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-heather-morgan"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "HighFivesWithKellyPiane",
+        "bgImage": "/img/podcast/podcast-image-23.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/highfives-with-kelly-piane"
+      },
+      {
+        "title": "High Fives With Marylou Tyler",
+        "bgImage": "/img/podcast/podcast-image-24.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/highfives-with-marylou-tyler"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives With The Sales Huddle",
+        "bgImage": "/img/podcast/podcast-image-25.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/highfives-with-the-sales-huddle"
+      },
+      {
+        "title": "High Fives With Zach Barney",
+        "bgImage": "/img/podcast/podcast-image-26.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-zach-barney"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives With TextExpander",
+        "bgImage": "/img/podcast/podcast-image-27.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/high-fives-with-textexpander"
+      },
+      {
+        "title": "High Fives With Koka Sexton",
+        "bgImage": "/img/podcast/podcast-image-28.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/prospecting-podcast-4-high-fives-with-koka-sexton"
+      }
+    ]
+  },
+
+
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives With Sendbloom",
+        "bgImage": "/img/podcast/podcast-image-29.jpg",
+        "addCls": "col-md-7 col-lg-7 pt-2",
+        "navLink": "/podcasts/prospecting-podcast-3-high-fives-with-sendbloom"
+      },
+      {
+        "title": "High Fives with David Weisburd",
+        "bgImage": "/img/podcast/podcast-image-30.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/podcast-2-high-fives-with-david-weisburd"
+      }
+    ]
+  },
+  {
+    "mainCls": "row pt-4",
+    "audioData": [
+      {
+        "title": "High Fives with CoffeeSender",
+        "bgImage": "/img/podcast/podcast-image-31.jpg",
+        "addCls": "col-md-5 col-lg-5 pt-2",
+        "navLink": "/podcasts/leadiq-podcast-1-high-fives-with-coffeesender"
+      }
+    ]
+  }
+
+]

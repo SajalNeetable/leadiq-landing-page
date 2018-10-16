@@ -2,12 +2,17 @@
 import { Link } from "react-router-dom";
 
 export default class LeadsUniversityTwo extends React.Component {
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
             <div className="universityOne">
                 <div className="cover">
                     <div className="d-none d-md-block">
-                        <img src="/img/leadIq-university-cover.png" alt="leadIq-cover-image" className="img-fluied" />
+                        <img src="/img/leadIq-university-cover.png" alt="leadIq-cover" className="img-fluied" />
                         <img src="/img/logo-university-white.png" alt="leadIq-icon" className="leadIqUniversityOne" />
                     </div>
                 </div>
@@ -22,7 +27,7 @@ export default class LeadsUniversityTwo extends React.Component {
                                     <div className="row legend-cover justify-content-center d-flex">
                                         <div className="col-md-6 col-lg-6 row">
                                             <span className="col-md-2 col-lg-2">&nbsp;</span>
-                                            <img src="/img/leadIq-legend.png" alt="legend-image" className="img-fluied col-md-8 col-lg-8" />
+                                            <img src="/img/leadIq-legend.png" alt="legend" className="img-fluied col-md-8 col-lg-8" />
                                             <span className="col-md-2 col-lg-2">&nbsp;</span>
                                         </div>
                                         <div className="col-md-6 col-lg-6">

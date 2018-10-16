@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class TalkingAboutCampaignBasedProspectingAtFlipmyfunnel extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -21,7 +24,7 @@ class TalkingAboutCampaignBasedProspectingAtFlipmyfunnel extends React.Component
                             <div className="card-body card-blog">
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter mt-3">
-                                    <iframe src="https://www.youtube.com/embed/qAh__kN4SWA" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/qAh__kN4SWA" title="video" scrolling="no" />
                                 </div>
 
                                 <p className="mt-3">If you follow what we are up to here, we think that Campaign Based Prospecting has a really cool future, especially as companies adopt account based marketing and account based selling. I want to show some examples of how Campaign Based Prospect can work, and make prospects feel loved.</p>

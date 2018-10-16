@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class WhatAreYourSalesTeamsTalents extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -27,11 +30,15 @@ class WhatAreYourSalesTeamsTalents extends React.Component {
 
                                 <p>Maybe there are some strange few out there who wanted to sell for a living, but sales teams are often a rag tag team of people with random backgrounds who accidentally stumbled into sales.</p>
 
-                                <div className="card blog-card mt-3">
-                                    <div className="card-body">
-                                        <img src="/img/sales-crew-dressed.jpg" className="img-fluied" />
-                                        <small className="justify-content-center row">In the early days of Dyn, our sales crew dressed as 80s detectives.</small>
+                                <div className="row">
+                                    <div className="col-md-2" />
+                                    <div className="card blog-card mt-3 col-md-8">
+                                        <div className="card-body">
+                                            <img src="/img/sales-crew-dressed.jpg" alt="sales-crew-dressed" className="img-fluied" />
+                                            <small className="justify-content-center row">In the early days of Dyn, our sales crew dressed as 80s detectives.</small>
+                                        </div>
                                     </div>
+                                    <div className="col-md-2" />
                                 </div>
 
                                 <p className="mt-3">For example, in the picture above, <a href="https://www.linkedin.com/in/diazmisael/">Misael</a> (left most in the picture above) was a model for Abercrombie & Fitch, and he had spent a few years being a golf caddie at some incredible golf courses.</p>
@@ -43,7 +50,7 @@ class WhatAreYourSalesTeamsTalents extends React.Component {
                                 <p>And I was into playing synthesizers, piano, skateboarding, and making movies with my friends.</p>
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter mt-3">
-                                    <iframe src="https://www.youtube.com/embed/XCCArevEIAY" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/XCCArevEIAY" title="video" scrolling="no" />
                                 </div>
 
                                 <em>Just doing a nosegrab. No big deal. </em>
@@ -53,7 +60,7 @@ class WhatAreYourSalesTeamsTalents extends React.Component {
                                 <p>The point is, sales people are some of the most interesting people out there. Another example is one of our BDRs, Jeremy Leveille using his background in comedy to write some awful dad jokes for  a a prospect:</p>
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter mt-3">
-                                    <iframe src="https://www.youtube.com/embed/QD6rPZv82vs" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/QD6rPZv82vs" title="video"  scrolling="no" />
                                 </div>
 
                                 <p className="mt-3">Take a deep dive into your sales team, and see if you can think of some cool prospecting ideas around what talents your team has. Send an email out asking your team members to give you three talents they have outside of work. Wrap around some campaigns for prospects that utilize your talents to impress your prospects.</p>
@@ -65,7 +72,7 @@ class WhatAreYourSalesTeamsTalents extends React.Component {
                                 <p>Prospecting can be really fun, and tapping into your talent’s….uh…. well… their talent can produce some really solid results.</p>
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter mt-3">
-                                    <iframe src="https://www.youtube.com/embed/8Eoe3e5tyTM" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/8Eoe3e5tyTM" title="video"  scrolling="no" />
                                 </div>
 
                                 <em>One of Dyn’s rep, Tom Denniston and I co-wrote a origin story about Dyn. We even used it for prospecting, and Tom even performed it at one of Dyn’s infamous DynTini’s. </em>

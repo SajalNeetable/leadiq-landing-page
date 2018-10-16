@@ -1,27 +1,35 @@
 import React from 'react';
-import CheckboxItem from '../components/CheckboxItem';
 import Demo from '../components/buttons/Demo';
 import FreeLeads from '../components/buttons/FreeLeads';
+import WatchDemo from '../components/buttons/WatchDemo';
 import PartnerCard from '../components/cards/PartnerCard';
 import TestimonialCard from '../components/cards/TestimonialCard';
-import UniversityCard from '../components/cards/UniversityCard';
+import CheckboxItem from '../components/CheckboxItem';
 
 class Home extends React.Component {
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
             <div>
                 <div className="cover">
                     <div className="d-none d-md-block">
-                        <img src="/img/home-cover.png" className="img-fluied" />
+                        <img src="/img/home-bg-cover.png" className="img-fluied" alt="cover" />
                     </div>
                     <div className="cover-content">
                         <div className="container">
                             <section>
                                 <div className="row">
                                     <div className="col-md-6">
-                                        <h1>Prospect Smarter </h1>
-                                        <p>Our mission at LeadIQ is to empower sales teams to prospect smarter. Build lead lists in minutes, not days. Ditch the old database and researchprospects first to build a more meaningful connection and close more deals.</p>
-                                        <FreeLeads size="lg" />
+                                        <p className="mb-3 homepage-title">Prospect Smarter </p>
+                                        <p className="mb-3">Find prospect data in real time, get it into your <br /> sales tools without doing a million clicks.</p>
+                                        <div className="row pl-3">
+                                            <FreeLeads size="lg" />
+                                            <WatchDemo size="lg" />
+                                        </div>
                                     </div>
                                 </div>
                             </section>
@@ -33,37 +41,34 @@ class Home extends React.Component {
                     <section>
                         <div className="row">
                             <div className="col-sm-6">
-                                <h1>Search the web for new contacts</h1>
-                                <p>Research prospects like you normally would and grab their contact information from across the web. Pull in multiple contacts at once from </p>
+                                <h1 className="homeStepTitle">The new way to prospect</h1>
+                                <p>Tierd of looking for your prospects in an old stale database? The mordern sales rep researches their prospects first. Find verified data in real time as you browse the web.</p>
                                 <ul className="list-unstyled">
-                                    <CheckboxItem text="Powerful Chrome Extension" />
-                                    <CheckboxItem text="Verified Emails" />
-                                    <CheckboxItem text="Direct Dial Numbers" />
-                                    <CheckboxItem text="And Mode ..." />
+                                    <CheckboxItem text="Verified work emails and personal emails" />
+                                    <CheckboxItem text="Cell phones(no gatekeepers)" />
+                                    <CheckboxItem text="Firmographic data" />
+                                    <CheckboxItem text="More juicy deets on your prospects." />
                                 </ul>
                                 <FreeLeads size="lg" />
                             </div>
-                            <div className="col-sm-6">
-                                <img className="img-fluid" src="/img/feature-1.png" alt="Feature 1" />
+                            <div className="col-sm-6 pt-4">
+                                <img className="img-fluid" src="/img/home-feature-1.png" alt="Feature 1" />
                             </div>
                         </div>
                     </section>
                     <section>
                         <div className="row">
                             <div className="col-sm-6">
-                                <img className="img-fluid" src="/img/feature-2.png" alt="Feature 2" />
+                                <img className="img-fluid" src="/img/home-feature-2.png" alt="Feature 2" />
                             </div>
                             <div className="col-sm-6">
-                                <h1>Advanced search filters</h1>
-                                <p>Use powerful filters to find company and contact information. Account-based prospecting has never been easier.</p>
-
-                                <strong>Search by</strong>
+                                <h1 className="homeStepTitle">No more manual data entry.</h1>
+                                <p>Detect existing prospects before you capture them to a prospect list. Simultaneously create new records into your favourite sale tools</p>
                                 <ul className="list-unstyled">
-                                    <CheckboxItem text="Job Title" />
-                                    <CheckboxItem text="Company Size" />
-                                    <CheckboxItem text="Description" />
-                                    <CheckboxItem text="Technologies used" />
-                                    <CheckboxItem text="And Mode ..." />
+                                    <CheckboxItem text="Detect duplicate leads and contacts." />
+                                    <CheckboxItem text="See existing accounts and opportunities as your browse LinkedIn" />
+                                    <CheckboxItem text="Create new leads, contacts and accounts into your CRM." />
+                                    <CheckboxItem text="Add prospects into cadences and sequences from the web." />
                                 </ul>
                                 <FreeLeads size="lg" />
                             </div>
@@ -72,24 +77,26 @@ class Home extends React.Component {
                     <section>
                         <div className="row">
                             <div className="col-sm-6">
-                                <h1 className="mt-5">Invite your team</h1>
-                                <p className="mt-3">No one likes to prospect alone. Invite your team to use LeadIQ and get a high level overview of team performance.</p>
+                                <h1 className="mt-5 homeStepTitle">Keep your CRM clean</h1>
+                                <p className="mt-3">Sales reps spend 6 hours putting new prospect data into their CRM. Make it easy for your reps to add new prospects into your CRM, build prospecting lists, without compromising data cleanliness.</p>
                                 <FreeLeads size="lg" />
-                                <Demo size="lg" />
+                                <span>
+                                    <Demo size="lg" />
+                                </span>
                             </div>
                             <div className="col-sm-6">
-                                <img className="img-fluid" src="/img/feature-3.png" alt="Feature 3" />
+                                <img className="img-fluid" src="/img/home-feature-3.png" alt="Feature 3" />
                             </div>
                         </div>
                     </section>
                     <section>
                         <div className="row">
                             <div className="col-sm-6">
-                                <img className="img-fluid" src="/img/feature-4.png" alt="Feature 4" />
+                                <img className="img-fluid" src="/img/home-feature-4.png" alt="Feature 4" />
                             </div>
                             <div className="col-sm-6">
-                                <h1 className="mt-5">Integrate With Your Favorite Sales Tools</h1>
-                                <p className="mt-3">Push data from LeadIQ to your other sales tools. Easily send contact details to CRM or email outreach tools.</p>
+                                <h1 className="mt-5 homeStepTitle">Sell More with less work.</h1>
+                                <p className="mt-3">Sales reps aren't wizards. They shouldn't be guessing emails, and spending an average 6 hours a week putting new prospect data into theri CRM. Help reps buckle down and focus on executing quality outreach with one click prospecting.</p>
                                 <FreeLeads size="lg" />
                             </div>
 
@@ -105,12 +112,12 @@ class Home extends React.Component {
                     </div>
                 </div>
 
-                <div className="testimonial-section">
-                    <div className="container">
-                        <section>
-                            <TestimonialCard />
-                        </section>
-                    </div>
+                <div className="testimonial-section"></div>
+                
+                <div className="container">
+                    <section>
+                        <TestimonialCard />
+                    </section>
                 </div>
             </div>
         );

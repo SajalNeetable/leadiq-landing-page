@@ -1,0 +1,99 @@
+﻿import React from 'react';
+import Dialog from '@material-ui/core/Dialog';
+import { withStyles } from '@material-ui/core/styles';
+import DialogContent from '@material-ui/core/DialogContent';
+const styles = {
+    dialogPaper: {
+        minHeight: '50vh',
+        maxHeight: '50vh',
+    },
+    MuiDialogContentroot45: {
+        padding: 0
+    }
+}
+
+class WebinarCard extends React.Component {
+
+    constructor(props) {
+        super(props);
+        this.state = {
+            mode: 0,
+            btnDisplay: false,
+            open: false
+        };
+    }
+
+    viewWebinar() {
+        this.setState({
+            mode: 1
+        })
+    }
+
+    emailValidation(e) {
+        let emailText = e.target.value;
+        if (emailText.length > 0 && /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(emailText)) {
+            this.setState({
+                btnDisplay: true
+            })
+        }
+    }
+
+    handleClickOpen = () => {
+        this.setState({ open: true });
+    };
+
+    handleClose = () => {
+        this.setState({ open: false });
+    };
+
+    render() {
+        console.log("props", this.props);
+        const { fullScreen, classes } = this.props;
+        return (
+            <div className="col-md-6 col-lg-4 d-flex" key={this.props.index}>
+                <div className="card mt-5 flex-fill" >
+                    <a>
+                        <img src={this.props.video.webLinks} alt={this.props.video.title} className="img-fluied" />
+                    </a>
+                    <Dialog
+                        fullScreen={fullScreen}
+                        fullWidth={true}
+                        maxWidth={'md'}
+                        open={this.state.open}
+                        onClose={this.handleClose.bind(this)}
+                        aria-labelledby="responsive-dialog-title"
+                        classes={ (this.state.mode === 0) ? "" : { paper: classes.dialogPaper }}
+                    >
+                        <DialogContent style={{ padding: "0" }}>
+                            {(this.state.mode === 0) ?
+                                <div className="modal-body text-center">
+                                    <p className="pt-4 mb-4">Provide your email to see the webinar</p>
+                                    <form className="justify-content-center d-flex row  mb-4">
+                                        <input type="email" placeholder="Enter your email here..."
+                                            onChange={this.emailValidation.bind(this)} className="col-sm-6 col-md-3 col-lg-3 emailWebinar" />
+                                        <button className="btn liq-btn-primary button-design col-sm-6 col-md-3 col-lg-3" disabled={!this.state.btnDisplay}
+                                            onClick={this.viewWebinar.bind(this)}>VIEW NOW</button>
+                                    </form>
+                                </div> :
+
+                                <iframe src={this.props.video.videoLinks} className="iframeVideo" title="video" allowscriptaccess="always"></iframe>}
+                        </DialogContent>
+                    </Dialog>
+                    <div className="card-body">
+                        <a href={this.props.video.navLink}  style={{ color: "#fff" }}>
+                            <p className="liq-text-primary">{this.props.video.title}</p>
+                        </a>
+                    </div>
+                    <div className="row justify-content-center d-flex">
+                        <div className="col-md-6 justify-content-center d-flex">
+                            <a  onClick={this.handleClickOpen.bind(this)} className={"mt-2 mb-3 text-white btn liq-btn-primary liq-btn-primary-lg"}>VIEW WEBINAR</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        );
+    }
+}
+
+export default withStyles(styles)(WebinarCard);
+

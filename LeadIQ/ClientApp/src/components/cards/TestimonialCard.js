@@ -1,24 +1,25 @@
 ﻿import React from 'react';
+import ReadMore from '../buttons/ReadMore';
 
 class TestimonialCard extends React.Component {
 
     render() {
         return (
             <div className="row">
-                <div className="col-sm-6 col-md-3 v-middle">
-                    <div className="media quote">
-                        <img src="/img/quotes.png" className="img-fluid mr-3" />
+                <div className="col-md-3 v-middle">
+                    <div className="media quote ">
+                        <img src="/img/quotes.png" className="img-fluid mr-3" alt="Quote" />
                         <div className="media-body">
-                            <h5 className="liq-text-primary mb-0">Scott Smith</h5>
-                            <small>VP of Sales at CloudApp</small>
+                            <h2 className="liq-text-primary mb-0">David Zwerin</h2>
+                            <p>VP of Sales Operations, TripActions</p>
                         </div>
                     </div>
                 </div>
-                <div className="col-sm-6 col-md-3 v-middle">
-                    <img src="/img/avatar.png" className="img-fluid" alt="avatar" />
+                <div className="col-md-3 v-middle">
+                    <img src="/img/leadIq-testimonal-image.png" className="img-fluid" alt="avatar" />
                 </div>
-                <div className="col-sm-12 col-md-6 v-middle">
-                    <blockquote className="blockquote">“LeadIQ just gets it. They make outbound prospecting way less tedious for our SDR team, which makes them do it more. Their integration with Outreach saves our sales team so much time.”</blockquote>
+                <div className=" col-md-6 v-middle">
+                    <blockquote className="blockquote">“In just two weeks, we brought in 6 new opportunities sourced by LeadIQ. ” <br /> <ReadMore size="lg" /></blockquote>
                 </div>
             </div>
         );

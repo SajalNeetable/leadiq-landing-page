@@ -2,6 +2,11 @@
 import { Link } from "react-router-dom";
 
 class TermsOfUse extends React.Component {
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
             <div>
@@ -14,7 +19,7 @@ class TermsOfUse extends React.Component {
                         </div>
                     </div>
                     <div className="faq-waveDesign">
-                        <img src="/img/wave-four.png" className="img-fluied faq-waveDesignProspect" style={{zIndex: 1}} />
+                        <img src="/img/wave-four.png" className="img-fluied faq-waveDesignProspect" style={{zIndex: 1}} alt="Wave" />
                     </div>
                     <div className="terms-bg">
                         <div className="container terms-container">

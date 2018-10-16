@@ -1,7 +1,13 @@
 ﻿import React from 'react';
+import { Link } from "react-router-dom";
 import AccessUniversity from '../components/buttons/AccessUniversity';
 
 class University extends React.Component {
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
             <div>
@@ -21,7 +27,7 @@ class University extends React.Component {
                                     <div className="mt-5">
                                         <AccessUniversity size="lg" />
                                     </div>
-                                    <p className="mt-5">Already have a LeadIQ account .<mark className="hightlightText"> Login here.</mark></p>
+                                    <p className="mt-5">Already have a LeadIQ account . <Link to="https://account.leadiq.com/app/signin/" target="_blank"><mark className="hightlightText"> Login here.</mark></Link></p>
                                 </div>
                                 <div className="col-md-1" />
                                 <div className="col-md-5">
@@ -40,7 +46,15 @@ class University extends React.Component {
                                 <p className="labelUniversityOne">The ultimate <br /> sales prospecting toolkit</p>
                             </div>
                             <div className="col-md-9 col-ls-9 col-xl-9 justify-content-end d-flex mt-5">
-                                <label className="accountLogin labelUniversityOne">To get access, <mark className="highlightText">create a free account.</mark><br />if you already have a leadIQ account ,<mark className="highlightText">click here to login</mark></label>
+                                    <label className="accountLogin labelUniversityOne">To get access,
+                                        <Link to="https://account.leadiq.com/app/signup/?referralCode=summershowdown" target="_blank">    
+                                            <mark className="highlightText">create a free account.</mark> 
+                                        </Link>
+                                        <br />if you already have a leadIQ account ,
+                                        <Link to="https://account.leadiq.com/app/signin/" target="_blank">
+                                            <mark className="highlightText">click here to login</mark>
+                                        </Link>
+                                   </label>
                             </div>
                         </div>
                         <div className="row">
@@ -67,7 +81,7 @@ class University extends React.Component {
                             <div className="col-md-3" />
                             <div className="col-md-6">
                                 <div className="embed-responsive embed-responsive-16by9">
-                                    <iframe className="embed-responsive-item" src="https://fast.wistia.net/embed/iframe/nzb9witd22" allowFullScreen />
+                                    <iframe className="embed-responsive-item" src="https://fast.wistia.net/embed/iframe/nzb9witd22" title="video" allowFullScreen />
                                 </div>
                                 <div className="mt-5 text-center">
                                     <AccessUniversity size="lg" />

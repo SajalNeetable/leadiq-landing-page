@@ -11,12 +11,16 @@ export default class Resources extends Component {
         };
     }
 
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
             <div>
                 <div className="cover">
                     <div className="d-none d-md-block">
-                        <img src="/img/resource-home-cover.png" className="img-fluied" />
+                        <img src="/img/resource-home-cover.png" className="img-fluied" alt="resource-home-cover" />
                     </div>
                     <div className="cover-content">
                         <div className="container">

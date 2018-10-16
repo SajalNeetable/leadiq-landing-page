@@ -1,28 +1,35 @@
 [
 
   {
-    "title": "SaaS Resources",
-    "description": "Dig into in-depth cheat sheets on metrics, financial reporting and more."
+    "title": "Webinars",
+    "description": "In-depth sales prospecting tips, product walkthroughs, and more.",
+    "linkUrl": "/webinars"
   },
   {
-    "title": "SaaS Open Mic",
-    "description": "Hear imsights from the founders and leaders guiding the future of SaaS."
+    "title": "Videos",
+    "description": "Video content for sales professionals that want to move the needle.",
+    "linkUrl": "/video"
   },
   {
-    "title": "SaaS Roundup",
-    "description": "A weekly email that delivers the best SaaS content from around the web."
+    "title": "Podcast",
+    "description": "Expert interviews and world class sales training.",
+    "linkUrl": "/podcasts"
   },
   {
-    "title": "SaaS Metric Refresher",
-    "description": "A weekly email course to help you master your SaaS metrics."
+    "title": "Rate My Pitch",
+    "description": "Send your sales pitch emails and we will tear them down live!",
+    "linkUrl": "/rate-my-pitch"
   },
   {
     "title": "Blog",
-    "description": "Stay up-to-date on ChartMogul news and best practices for subscription business."
+    "description": "Trending sales articles, what's new, and more.",
+    "linkUrl": "/blog"
   },
   {
-    "title": "Help Center",
-    "description": "Learn how to get started with ChartMogul."
+    "title": "University",
+    "description": "Formulas and workflows to excel in your sales career.",
+    "linkUrl": "/university"
+
   }
 
 ]

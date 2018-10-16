@@ -5,7 +5,7 @@ class GetTryFree extends React.Component {
 
     render() {
         return (
-            <Link to="/" target="_blank" className={"mt-2  btn liq-btn-primary freeTextDesign liq-btn-primary-" + this.props.size}>Try it Free</Link>
+            <Link to="/"  className={"mt-2  btn liq-btn-primary freeTextDesign liq-btn-primary-" + this.props.size}>Try it Free</Link>
         );
     }
 }

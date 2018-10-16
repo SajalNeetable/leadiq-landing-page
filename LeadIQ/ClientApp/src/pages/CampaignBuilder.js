@@ -1,5 +1,4 @@
 ﻿import React, { Component } from 'react';
-import { Link } from "react-router-dom";
 import GetStarted from '../components/buttons/GetStarted';
 import campaigns from "./../data/campaigns.json";
 import FreeLeads from '../components/buttons/FreeLeads';
@@ -11,6 +10,10 @@ export default class CampaignBuilder extends Component {
         this.state = {
             campaign: campaigns
         };
+    }
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
     }
 
     render() {
@@ -27,14 +30,14 @@ export default class CampaignBuilder extends Component {
                             <h1 className="text-white text-center"><b>Campaign Builder</b></h1>
                             <h4 className="text-white text-center mt-3">Organize and Speed Up Your Team’s Prospecting</h4>
                             <div className="text-center mt-2">
-                                <GetStarted />
+                                <GetStarted size="lg"  />
                             </div>
                         </section>
                     </div>
                 </div>
 
                 <div className="waveDesignCampaign">
-                    <img src="/img/wave-four.png" className="img-fluied imageWaveCampaign" />
+                    <img src="/img/wave-four.png" className="img-fluied imageWaveCampaign" alt="wave" />
                 </div>
                 <div className="row">
                     <div className="col-md-6 col-lg-6 leftImageCover" />
@@ -57,7 +60,7 @@ export default class CampaignBuilder extends Component {
                     <div className="container text-center">
                         <h1 className="text-center prospectTitleText pt-5">Make more intelligent prospect lists.</h1>
                         <section>
-                            <img src="/img/prospect-laptop-one.png" className="img-fluied " />
+                            <img src="/img/prospect-laptop-one.png" className="img-fluied" alt="prospect-laptop-one" />
                         </section>
                         <p className="pb-4">Detect existing prospects from Salesforce as you build your prospecting campaigns.</p>
                     </div>
@@ -76,7 +79,7 @@ export default class CampaignBuilder extends Component {
                 <section>
                     <div className="container">
                         <h1 className="prospectTitleText text-center">There are 3 ways to import leads into a campaign.</h1>
-                        <div className="row mt-5 text-center">{this.state.campaign.map((campaigns, index) => { return (<CampaignCard campaign={campaigns} />); })}</div>
+                        <div className="row mt-5 text-center">{this.state.campaign.map((campaigns, index) => { return (<CampaignCard campaign={campaigns} key={index} />); })}</div>
                     </div>
                 </section>
                 <section>

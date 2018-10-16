@@ -5,7 +5,7 @@ class QuoteCard extends React.Component {
         return (
             <div className="mt-5 mb-5">
                 <div className="card card-quote">
-                    <img src="/img/double-quotes.png" className="img-quote" />
+                    <img src="/img/double-quotes.png" className="img-quote" alt="quote" />
                     <div className="card-body">
                         <p>{this.props.text}</p>
                         <p className="text-right">- {this.props.author}</p>

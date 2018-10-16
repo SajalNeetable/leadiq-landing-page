@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import BlogAuthor from '../components/BlogAuthor';
 
 class TheHighsAndLowsOfProspecting extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -25,7 +28,7 @@ class TheHighsAndLowsOfProspecting extends React.Component {
                                 <p>I deal with rejection weekly. In this video, I talk about the ups and downs of prospecting, and give a little advice on how to deal with rejection or rude prospects.</p>
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter mt-3">
-                                    <iframe src="https://www.youtube.com/embed/Vy4viGAJ9BQ" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/Vy4viGAJ9BQ" title="video" scrolling="no" />
                                 </div>
 
                             </div>

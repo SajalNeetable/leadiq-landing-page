@@ -10,12 +10,17 @@ export default class LeadsUniversityOne extends React.Component {
             blogs: blogs
         };
     }
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
             <div className="universityOne">
                 <div className="cover">
                     <div className="d-none d-md-block">
-                        <img src="/img/leadIq-university-cover.png" alt="leadIq-cover-image" className="img-fluied" />
+                        <img src="/img/leadIq-university-cover.png" alt="leadIq-cover" className="img-fluied" />
                         <img src="/img/logo-university-white.png" alt="leadIq-icon" className="leadIqUniversityOne" />
                     </div>
                 </div>
@@ -30,7 +35,7 @@ export default class LeadsUniversityOne extends React.Component {
                                     <div className="row legend-cover justify-content-center d-flex">
                                         <div className="col-md-6 col-lg-6 row">
                                             <span className="col-md-2 col-lg-2">&nbsp;</span>
-                                            <img src="/img/leadIq-legend.png" alt="legend-image" className="img-fluied col-md-8 col-lg-8" />
+                                            <img src="/img/leadIq-legend.png" alt="legend-box" className="img-fluied col-md-8 col-lg-8" />
                                             <span className="col-md-2 col-lg-2">&nbsp;</span>
                                         </div>
                                         <div className="col-md-6 col-lg-6">
@@ -70,7 +75,7 @@ export default class LeadsUniversityOne extends React.Component {
                                     </p>
                                     <p className="labelUniversityOne">Prospecting shouldn’t be about pressing a bunch of numbers, making a bunch of dials, and sending emails written by someone else. It should be about connecting with others, making them feel good, and showing them why you worth their time, money, and interest.</p>
                                     <div className="justify-content-center d-flex mt-5 mb-5">
-                                        <img src="http://i.giphy.com/1S6xghiGMc6Hu.gif" alt="gif image" />
+                                        <img src="http://i.giphy.com/1S6xghiGMc6Hu.gif" alt="gif" />
                                     </div>
                                     <p className="labelUniversityOne">Today with the combination of your LeadIQ account, our content, and your brain, we’re going to help you conquer the world. We want to help you feel good about your prospecting, and as a result get more deals. Let’s jump in, shall we. Are you ready?</p>
                                 </div>
@@ -79,7 +84,7 @@ export default class LeadsUniversityOne extends React.Component {
                                     <p className="labelUniversityOne">Mass messaging doesn’t work. So mass prospecting won’t work either. Your prospects are people and they have needs to meet in their organization, whether its to hit a revenue goal, align teams, save money.</p>
                                     <div className="row justify-content-center d-flex">
                                         <div className="embed-responsive embed-responsive-16by9 mt-4 col-md-6">
-                                            <iframe className="embed-responsive-item" src="https://fast.wistia.net/embed/iframe/nzb9witd22" allowFullScreen></iframe>
+                                            <iframe className="embed-responsive-item" src="https://fast.wistia.net/embed/iframe/nzb9witd22" title="video" allowFullScreen></iframe>
                                         </div>
                                     </div>
                                 </section>
@@ -127,13 +132,13 @@ export default class LeadsUniversityOne extends React.Component {
                                 </section>
                                 <div className="row justify-content-center d-flex mb-5">
                                     <div className="embed-responsive embed-responsive-16by9 mt-4 justify-content-center d-flex col-md-8">
-                                        <iframe className="embed-responsive-item" src="https://fast.wistia.net/embed/iframe/nzb9witd22" allowFullScreen></iframe>
+                                        <iframe className="embed-responsive-item" src="https://fast.wistia.net/embed/iframe/nzb9witd22" title="video" allowFullScreen></iframe>
                                     </div>
                                 </div>
                                 <section className="blogReferenced">
                                     <div className="container">
                                         <h3 className="alignCenter"> <mark className="highlightText">Blogs referenced here:</mark></h3>
-                                        {this.state.blogs.map((blogs, index) => { return (<BlogReferenceCard blog={blogs} index={index} />) })}
+                                        {this.state.blogs.map((blogs, index) => { return (<BlogReferenceCard blog={blogs} key={index} />) })}
                                     </div>
                                 </section>
                             </div>

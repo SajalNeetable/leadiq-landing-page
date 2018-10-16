@@ -20,15 +20,19 @@ export default class GetLeads extends Component {
         };
     }
 
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
-            <div className="fontDesign">
+            <div>
                 <div className="leadIq-cover-contents leadIq-image-cover">
                     <div className="container">
                         <div className="row get-Touch"><Number size="lg" /></div>
                         <div className="row pt-3 ml-5 pl-5">
                             <div className="col-md-8 pt-5">
-                                <img src="/img/leadIq-white.png" className="img-fluied mt-2" />
+                                <img src="/img/leadIq-white.png" className="img-fluied mt-2" alt="leadIq-white-icon" />
                             </div>
                         </div>
                         <section className="mt-5">
@@ -64,7 +68,7 @@ export default class GetLeads extends Component {
                         <div className="container">
                             <div className="row mt-5 justify-content-center d-flex">
                                 <div className="col-md-6 col-lg-6 aptop-screen mb-4">
-                                    <img src="/img/laptop-image-cover.png" className="img-laptop " alt="image-screen" />
+                                    <img src="/img/laptop-image-cover.png" className="img-laptop " alt="cover-screen" />
                                     <img src="/img/laptop-image.png" className="img-fluied" alt="laptop-screen" />
                                 </div>
                                 <div className="col-md-4 col-lg-4 pl-5 pt-4">
@@ -87,7 +91,7 @@ export default class GetLeads extends Component {
                             <h1 className="justify-content-center d-flex mt-3 mb-4 alignCenter titleHeaderDesign">Increase efficiency for your entire sales team</h1>
                             <div className="row justify-content-center d-flex">
                                 <div className="embed-responsive embed-responsive-16by9 col-md-6">
-                                    <iframe className="embed-responsive-item" src="https://fast.wistia.net/embed/iframe/nzb9witd22" allowFullScreen></iframe>
+                                    <iframe className="embed-responsive-item" title="video" src="https://fast.wistia.net/embed/iframe/nzb9witd22" allowFullScreen></iframe>
                                 </div>
                             </div>
                         </div>
@@ -107,11 +111,11 @@ export default class GetLeads extends Component {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-md-4 col-lg-4 col-xl-4"><img src="/img/client-comment.jpg" className="img-fluied " /></div>
+                    <div className="col-md-4 col-lg-4 col-xl-4"><img src="/img/client-comment.jpg" alt="comment" className="img-fluied" /></div>
                     <div className="col-md-2 col-lg-1" />
                     <div className="col-md-4 col-lg-4  col-xl-4 clientFeedbackText">
                         <div className="justify-content-left d-flex mt-5">
-                            <i className="fa fa-quote-left fa-2x quoteDesign" aria-hidden="true"></i>
+                            <span><img src="/img/quote-left-1.png" className="quoteDesign" alt="quote" /></span>
                             <p className="clientFeedback pl-4">LeadIQ presents a solution that allows us to collect and organize leads quick and efficiently. We now collect more data and have significantly lowered our bounceback rate.</p>
                         </div>
                         <p className="font-weight-bold mb-2 rolePerson">Jack Matsen</p>
@@ -125,26 +129,26 @@ export default class GetLeads extends Component {
                             <div className="ol-md-1 col-lg-1 mb-3" />
                             <div className="col-md-4 col-lg-4 mb-3">
                                 <div className="justify-content-center d-flex">
-                                    <img src="/img/leadIq-solo.png" alt="leadIq-solo" className="img-fluied mb-3" />
+                                    <img src="/img/leadIq-solo.png"  alt="leadIq-solo" className="img-fluied mb-3" />
                                 </div>
                                 <p className="justify-content-center d-flex mb-3 alignCenter premiumTitle">Get more leads faster  <br /> $60/month</p>
                                 <div className="justify-content-center d-flex mb-5">
                                     <Subscribe size="lg" />
                                 </div>
                                 <div className="pb-3">
-                                    <img src="/img/tick-icon.png" />
+                                    <img src="/img/tick-icon.png" alt="icon" />
                                     <label className="premium-list-text">Build campaigns of up to 300 prospects per month</label>
                                 </div>
                                 <div className="pb-3">
-                                    <img src="/img/tick-icon.png" />
+                                    <img src="/img/tick-icon.png" alt="icon" />
                                     <label className="premium-list-text">See millions of crowdsourced emails as you browse the web</label>
                                 </div>
                                 <div>
-                                    <img src="/img/tick-icon.png" />
+                                    <img src="/img/tick-icon.png" alt="icon" />
                                     <label className="premium-list-text">Detect existing prospects in Salesforce</label>
                                 </div>
                                 <div>
-                                    <img src="/img/tick-icon.png" />
+                                    <img src="/img/tick-icon.png" alt="icon" />
                                     <label className="premium-list-text">30 free premium credits per month</label>
                                 </div>
                             </div>
@@ -164,15 +168,15 @@ export default class GetLeads extends Component {
                                     {this.state.partners.map((partner, index) => { return (<img src={partner.imageUrl} key={index} alt={partner.label} className={partner.addCls} />) })}
                                 </div>
                                 <div className="pb-2">
-                                    <img src="/img/tick-icon.png" />
+                                    <img src="/img/tick-icon.png" alt="icon" />
                                     <label className="premium-list-text">All LeadIQ Solo features</label>
                                 </div>
                                 <div className="pb-2">
-                                    <img src="/img/tick-icon.png" />
+                                    <img src="/img/tick-icon.png" alt="icon" />
                                     <label className="premium-list-text">Unlimited Campaigns</label>
                                 </div>
                                 <div className="pb-2">
-                                    <img src="/img/tick-icon.png" />
+                                    <img src="/img/tick-icon.png" alt="icon" />
                                     <label className="premium-list-text">Get 100 free premium credits per month</label>
                                 </div>
                             </div>

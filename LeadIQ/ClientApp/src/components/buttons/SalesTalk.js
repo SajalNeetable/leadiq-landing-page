@@ -5,7 +5,7 @@ class SalesTalk extends React.Component {
 
     render() {
         return (
-            <Link to="/" className={"mt-2 btn liq-btn-primary salesTalkDesign liq-btn-primary-" + this.props.size}>TALK TO SALES</Link>
+            <Link to="/" className={"mt-2 btn liq-btn-primary  button-design liq-btn-primary-" + this.props.size}>TALK TO SALES</Link>
         );
     }
 }

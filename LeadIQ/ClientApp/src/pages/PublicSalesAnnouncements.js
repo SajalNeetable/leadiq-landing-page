@@ -10,12 +10,16 @@ export default class PublicSalesAnnouncements extends Component {
         };
     }
 
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
             <div>
                 <div className="cover">
                     <div className="d-none d-md-block">
-                        <img src="/img/sales-home-cover.png" className="img-fluied" />
+                        <img src="/img/sales-home-cover.png" className="img-fluied" alt="cover" />
                     </div>
                     <div className="cover-content">
                         <div className="container">

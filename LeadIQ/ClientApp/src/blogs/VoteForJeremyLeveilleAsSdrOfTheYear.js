@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class VoteForJeremyLeveilleAsSdrOfTheYear extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -22,7 +25,7 @@ class VoteForJeremyLeveilleAsSdrOfTheYear extends React.Component {
                                 <strong>We love Jeremy. So should you. Here’s why:</strong>
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter mt-5">
-                                    <iframe src="https://www.youtube.com/embed/zYfv1kVU7UQ" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/zYfv1kVU7UQ" title="video" scrolling="no" />
                                 </div>
 
                                 <h3 className="mt-3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfNTZ5CMvI47KINkaBxZb1tPDL1nIc_OU2531ug3J07dFpKBg/viewform">Vote for Jeremy as SDR of the year. They announce winners at the Sales Development Conference next week!</a></h3>

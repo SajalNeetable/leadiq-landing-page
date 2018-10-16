@@ -10,7 +10,7 @@ class UniversityCard extends React.Component {
                     <section>
                         <div className="row">
                             <div className="col-sm-6 col-md-4 mb-3">
-                                <img src="/img/logo-university.png" className="img-fluid mb-3" />
+                                <img src="/img/logo-university.png" className="img-fluid mb-3" alt="logo" />
                                 <JoinUniversity />
                             </div>
                             <div className="col-sm-12 col-md-4 mb-3">
@@ -19,7 +19,7 @@ class UniversityCard extends React.Component {
                                 </small>
                             </div>
                             <div className="col-sm-12 col-md-4 mb-3">
-                                <img src="/img/artBoard.png" className="img-fluid" />
+                                <img src="/img/artBoard.png" className="img-fluid" alt="ArtBoard" />
                             </div>
                         </div>
                     </section>

@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class TheFlawsWithAMeFirstMentalityInSales extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -26,7 +29,7 @@ class TheFlawsWithAMeFirstMentalityInSales extends React.Component {
 
                                 <div className="card blog-card">
                                     <div className="card-body">
-                                        <img src="/img/bear-fights.jpg" className="img-fluied" />
+                                        <img src="/img/bear-fights.jpg" className="img-fluied" alt="bear-fights" />
                                         <small className="justify-content-center row">Similar to fighting a bear, your selfish emails are dead the moment the fight starts.</small>
                                     </div>
                                 </div>
@@ -52,7 +55,7 @@ class TheFlawsWithAMeFirstMentalityInSales extends React.Component {
 
                                 <div className="card blog-card">
                                     <div className="card-body">
-                                        <img src="/img/chat-about-EH&S.png" className="img-fluied" />
+                                        <img src="/img/chat-about-EH&S.png" className="img-fluied" alt="chat-about-EH&S" />
                                         <small className="justify-content-center row">The most selfless email I have ever read.</small>
                                     </div>
                                 </div>
@@ -63,7 +66,7 @@ class TheFlawsWithAMeFirstMentalityInSales extends React.Component {
                                 <h3 className="mt-5">That’s some Gaston bullshit (yes I’m referencing Gaston from Beauty and the Beast… you all know who I’m talking about):</h3>
 
                                 <div className="embed-responsive embed-responsive-16by9 text-center mt-3">
-                                    <iframe src="https://www.youtube.com/embed/VuJTqmpBnI0" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/VuJTqmpBnI0" title="video"  scrolling="no" />
                                 </div>
                                 <p>You’d be laughed out of a room. Yet…so many sales reps do this.</p>
 
@@ -78,7 +81,7 @@ class TheFlawsWithAMeFirstMentalityInSales extends React.Component {
 
                                 <div className="card blog-card">
                                     <div className="card-body">
-                                        <img src="/img/pitch-for-business-deram-client.png" className="img-fluied" />
+                                        <img src="/img/pitch-for-business-deram-client.png" alt="pitch-for-business-deram-client" className="img-fluied" />
                                         <small className="justify-content-center row">The article Vidyard’s BDR referenced</small>
                                     </div>
                                 </div>

@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class TheFutureOfProspecting extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -20,20 +23,24 @@ class TheFutureOfProspecting extends React.Component {
                         <div className="card">
                             <div className="card-body card-blog">
 
-                                <div className="card blog-card">
-                                    <div className="card-body">
-                                        <img src="/img/snl-writers-room.jpeg" className="img-fluied" />
-                                        <small className="justify-content-center row">This is a picture of the writer’s room for SNL’s 1988 writing team. So many great comedic minds in one room.</small>
+                                <div className="row">
+                                    <div className="col-md-3" />
+                                    <div className="card blog-card col-md-6">
+                                        <div className="card-body">
+                                            <img src="/img/snl-writers-room.jpeg" className="img-fluied" alt="snl-writers-room" />
+                                            <small className="justify-content-center row">This is a picture of the writer’s room for SNL’s 1988 writing team. So many great comedic minds in one room.</small>
+                                        </div>
                                     </div>
+                                    <div className="col-md-3" />
                                 </div>
 
                                 <p className="mt-3">
-                                    There were so many well known successful people, writing during the heyday of SNL.  Conan O’Brien hosted the Tonight Show, and is a household name. Robert Smigel invented 
-                                    Triumph the Insult Comic Dog, and is a huge comedy writer and producer. Louis CK is maybe the most popular stand comedian around today. Bob Odenkirk had an amazing TV sketch 
+                                    There were so many well known successful people, writing during the heyday of SNL.  Conan O’Brien hosted the Tonight Show, and is a household name. Robert Smigel invented
+                                    Triumph the Insult Comic Dog, and is a huge comedy writer and producer. Louis CK is maybe the most popular stand comedian around today. Bob Odenkirk had an amazing TV sketch
                                     show with David Cross, and went on to star in his own spinoff of Breaking Bad. I’m pretty sure that’s Norm MacDonald right next to him.
                                 </p>
                                 <p>
-                                    Most of the people in this room were just getting their start. Their jobs were thankless. They were paid very low, but got to do something that they love everyday. It’s been 
+                                    Most of the people in this room were just getting their start. Their jobs were thankless. They were paid very low, but got to do something that they love everyday. It’s been
                                     documented that the writers worked 80+ hour weeks, just to get their show ready every Saturday. The funny thing is, they didn’t even care about the long hours. They loved what they were doing.
                                 </p>
 
@@ -42,8 +49,8 @@ class TheFutureOfProspecting extends React.Component {
                                 <p>The problem is, working at a prospecting company makes me want to help every SDR, BDR, or Account Executive that reaches out to me. I want to respond to them all and critique them, but some people don’t like feedback, and I only have so much time in the day.</p>
 
                                 <p>
-                                    With all the sales tools that are out there, it becomes easier and easier to reach out to more prospects. When someone buys a prospecting productivity tool like LeadIQ, LinkedIn 
-                                    Sales Navigator, and then adds it to a SalesLoft or Outreach, they potentially could reach out to hundreds of prospects every day. I’m not even adding dialers like Connect and Sell 
+                                    With all the sales tools that are out there, it becomes easier and easier to reach out to more prospects. When someone buys a prospecting productivity tool like LeadIQ, LinkedIn
+                                    Sales Navigator, and then adds it to a SalesLoft or Outreach, they potentially could reach out to hundreds of prospects every day. I’m not even adding dialers like Connect and Sell
                                     into the mix, which scale it to thousands.
                                  </p>
 
@@ -81,7 +88,7 @@ class TheFutureOfProspecting extends React.Component {
                                 <h4 className="mt-3">What if you put as much thought into convincing a stranger to start a conversation with you, as ad agencies do with Super Bowl ads? What if breaking into your target accounts was like being that writers room in 1988.</h4>
 
                                 <div className="embed-responsive embed-responsive-16by9 text-center mt-3">
-                                    <iframe src="https://www.youtube.com/embed/Kg5cdZ-Fnpc" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/Kg5cdZ-Fnpc" title="video" scrolling="no" />
                                 </div>
 
                                 <p><em>Maybe it’s just me, but I’ll never forget Office Linebacker, Terry Tate from Reebok’s SB ad. </em></p>
@@ -99,7 +106,7 @@ class TheFutureOfProspecting extends React.Component {
                                 <a href="https://jbarrows.com/blog/alligtor-email/"><em>Jon Barrows does a wonderful job explaining the problem with this email.</em></a>
 
                                 <p>
-                                    I say we should throw out the rule book, and get more opportunities thinking of things that connect people. Things like humor, feelings, common interest, and emotions are the key to making a 
+                                    I say we should throw out the rule book, and get more opportunities thinking of things that connect people. Things like humor, feelings, common interest, and emotions are the key to making a
                                     prospect feel wanted.  Make your prospect feel wanted. Make your prospects hate rejecting you. Make them want to get on the phone with you because you’re awesome, and you proved to them that you thought of them.
                                </p>
 
@@ -108,14 +115,14 @@ class TheFutureOfProspecting extends React.Component {
                                 <p>This is our vision for the future of prospecting.</p>
 
                                 <h3 className="mt-5">
-                                    The future of prospecting is going to be about getting in a room with your team, brainstorming creative ways to make a prospect feel loved, and executing on it. It’ll come down to one single concept: 
+                                    The future of prospecting is going to be about getting in a room with your team, brainstorming creative ways to make a prospect feel loved, and executing on it. It’ll come down to one single concept:
                                     make prospects love getting prospected, and in return sales teams will learn love prospecting.
                                 </h3>
 
                                 <p>I challenge you reading this blog to get your team into a room, pick a few target accounts, and see if you do something different with your cold email copy, your cold call script, or your social post about your company or product.</p>
 
                                 <div className="embed-responsive embed-responsive-16by9 text-center mt-3">
-                                    <iframe src="https://www.youtube.com/embed/QD6rPZv82vs" scrolling="no" />
+                                    <iframe src="https://www.youtube.com/embed/QD6rPZv82vs" title="video" scrolling="no" />
                                 </div>
 
                                 <p className="text-center"><em>Jeremy sent jokes to a prospect, and booked meetings. </em></p>

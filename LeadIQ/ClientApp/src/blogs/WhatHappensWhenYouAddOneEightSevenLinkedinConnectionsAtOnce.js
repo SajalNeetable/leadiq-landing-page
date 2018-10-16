@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class WhatHappensWhenYouAddOneEightSevenLinkedinConnectionsAtOnce extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -21,7 +24,7 @@ class WhatHappensWhenYouAddOneEightSevenLinkedinConnectionsAtOnce extends React.
                             <div className="card-body card-blog">
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter">
-                                    <iframe src="https://www.youtube.com/embed/2cIeTiHDWzk" scrolling="no" /></div>
+                                    <iframe src="https://www.youtube.com/embed/2cIeTiHDWzk" title="video" scrolling="no" /></div>
                                 </div>
                         </div>
 

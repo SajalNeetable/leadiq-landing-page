@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import BlogAuthor from '../components/BlogAuthor';
 
 class WhatIsACsvAndHowToUseThemInLeadiq extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -14,7 +17,7 @@ class WhatIsACsvAndHowToUseThemInLeadiq extends React.Component {
                     date="Jul 2, 2018"
                     imageUrl="/img/CERN.jpg"
                 />
-                
+
                 <div className="blog-container">
                     <div className="container">
                         <div className="card">
@@ -28,7 +31,7 @@ class WhatIsACsvAndHowToUseThemInLeadiq extends React.Component {
 
                                 <div className="card blog-card mt-3">
                                     <div className="card-body">
-                                        <img src="/img/text-edit.png" className="img-fluied" />
+                                        <img src="/img/text-edit.png" alt="text-edit" className="img-fluied" />
                                         <small className="justify-content-center row">If you download a CSV and try and open it in a Notepad or TextEdit, it’ll  look like this.</small>
                                     </div>
                                 </div>
@@ -36,7 +39,7 @@ class WhatIsACsvAndHowToUseThemInLeadiq extends React.Component {
                                 <p className="mt-3">While looking at this information, software we use every day, whether it’s Google Sheets, Open Office, Apple Numbers, or most popularly, Microsoft Excel, will process this data into spreadsheets  via detecting where commas are. This makes the output, a pretty spreadsheet easier to read for us human folk.</p>
 
                                 <div className="card-body mt-3 text-center">
-                                    <img src="/img/author-table.png" className="img-fluied" />
+                                    <img src="/img/author-table.png" alt="author-table"  className="img-fluied" />
                                 </div>
 
                                 <p className="mt-3">
@@ -46,11 +49,15 @@ class WhatIsACsvAndHowToUseThemInLeadiq extends React.Component {
 
                                 <p>Predating Microsoft Excel, CSVs were first used in 1972 by IBM in one of the oldest coding languages, Fortran. CSVs are easier for programs to read due to their lack of data outside of letters and numbers.</p>
 
-                                <div className="card blog-card mt-3">
-                                    <div className="card-body">
-                                        <img src="/img/pokemon-battle-spreadsheet-art.jpg" className="img-fluied" />
-                                        <small className="justify-content-center row">“It’s unsafe! Wild SPREADSHEETS live in tall grass!”</small>
+                                <div className="row">
+                                    <div className="col-md-4" />
+                                    <div className="card blog-card mt-3 col-md-4">
+                                        <div className="card-body">
+                                            <img src="/img/pokemon-battle-spreadsheet-art.jpg" alt="pokemon-battle-spreadsheet-art" className="img-fluied" />
+                                            <small className="justify-content-center row">“It’s unsafe! Wild SPREADSHEETS live in tall grass!”</small>
+                                        </div>
                                     </div>
+                                    <div className="col-md-4" />
                                 </div>
 
                                 <p className="mt-3">
@@ -73,13 +80,13 @@ class WhatIsACsvAndHowToUseThemInLeadiq extends React.Component {
                                 <p>Scenario A: If you have your prospects’ names and companies:</p>
 
                                 <div>
-                                    <img src="/img/prospect-names-a.png" className="img-fluied" />
+                                    <img src="/img/prospect-names-a.png" alt="prospect-names-a" className="img-fluied" />
                                 </div>
 
                                 <p className="mt-3">Scenario B: You have a company and title you want find:</p>
 
                                 <div>
-                                    <img src="/img/prospect-names-b.png" className="img-fluied" />
+                                    <img src="/img/prospect-names-b.png" alt="prospect-names-b" className="img-fluied" />
                                 </div>
 
                                 <p className="mt-3">*Note: if you want to use company domain insteads, simply put that in the company column instead. If you want to find more than one title at a company, just make a seperate row.</p>
@@ -87,7 +94,7 @@ class WhatIsACsvAndHowToUseThemInLeadiq extends React.Component {
                                 <p>Step 2: Save your spreadsheet as a CSV.</p>
 
                                 <div>
-                                    <img src="/img/excel-record.gif" className="img-fluied" />
+                                    <img src="/img/excel-record.gif" alt="gif" className="img-fluied" />
                                 </div>
 
                                 <p className="mt-3">Step 3: Upload it into a Campaign in LeadIQ.</p>
@@ -101,7 +108,7 @@ class WhatIsACsvAndHowToUseThemInLeadiq extends React.Component {
                                 <p>This is the other way we work with CSVs. You can export any campaign into a CSV. To do this, just hit the “EXPORT” button inside the web app.</p>
 
                                 <div className="text-center mt-3">
-                                    <img src="/img/campaign-export.gif" className="img-fluied" />
+                                    <img src="/img/campaign-export.gif" alt="gif" className="img-fluied" />
                                 </div>
 
                                 <p className="mt-5">And your set. You now know what a CSV, and how to use CSVs with LeadIQ. Party on!</p>

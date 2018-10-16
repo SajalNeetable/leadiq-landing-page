@@ -1,12 +1,16 @@
 ﻿import React, { Component } from 'react';
-import { Link } from "react-router-dom";
 import FreeLeads from '../components/buttons/FreeLeads';
 import GetStarted from '../components/buttons/GetStarted';
 
 export default class AccountBasedProspector extends Component {
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+
     render() {
         return (
-            <div className="fontDesign">
+            <div>
                 <div className="campaign">
                     <div className="videoCoverCampaign">
                         <video autoPlay loop>
@@ -17,13 +21,13 @@ export default class AccountBasedProspector extends Component {
                         <section className="pt-5">
                             <h1 className="text-white text-center"><b>Account Based Prospector</b></h1>
                             <div className="text-center mt-2">
-                                <GetStarted />
+                                <GetStarted size="lg" />
                             </div>
                         </section>
                     </div>
                 </div>
                 <div className="waveDesignCampaign">
-                    <img src="/img/wave-four.png" className="img-fluied imageWaveCampaign" />
+                    <img src="/img/wave-four.png" className="img-fluied imageWaveCampaign" alt="wave" />
                 </div>
 
                 <section>
@@ -38,7 +42,7 @@ export default class AccountBasedProspector extends Component {
                 <div className="waveProspectListBg">
                     <div className="container text-center pt-4">
                             <h1 className="text-center prospectTitleText pt-3">Add prospects to campaigns as you browse our data.</h1>
-                            <img src="/img/account-based-laptop-third.png" className="img-fluied mt-5" />
+                            <img src="/img/account-based-laptop-third.png" className="img-fluied mt-5" alt="account-based-laptop-third" />
                             <p className="mt-3 mb-4">Hand pick what prospects are most important to you, and add them to your campaigns inside Campaign Builder. Import prospects into Salesforce as Leads or Contacts in one easy click.</p>
                     </div>
                 </div>

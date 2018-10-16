@@ -4,6 +4,9 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import RyanOHara from '../components/RyanOHara';
 
 class VideoWhatIsCampaignBasedProspecting extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>
@@ -21,7 +24,7 @@ class VideoWhatIsCampaignBasedProspecting extends React.Component {
                             <div className="card-body card-blog">
 
                                 <div className="embed-responsive embed-responsive-16by9 text-cnter">
-                                    <iframe src="//play.vidyard.com/S2YErxh8bz8N2tuJoZPVSa.html?v=3.1.1" scrolling="no" />
+                                    <iframe src="//play.vidyard.com/S2YErxh8bz8N2tuJoZPVSa.html?v=3.1.1" title="video" scrolling="no" />
                                  </div>
                             </div>
                         </div>
