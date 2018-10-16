@@ -46,7 +46,7 @@ class App extends React.Component {
                         <Route exact path='/blog' component={() => <div><TopNav /><BlogList /></div>} />
                         <Route exact path='/blog/:blogId' component={BlogDetail} />
 
-
+                        <Route exact path='/:year/:month/:blogId' component={BlogDetail} />
 
                         <Route exact path='/podcasts' component={() => (<div><TopNav /><Podcast /></div>)} />
                         <Route exact path='/podcasts/:podcastId' component={PodcastDetail} />

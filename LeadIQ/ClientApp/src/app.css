@@ -50,10 +50,29 @@ footer {
     -webkit-box-align: center;
     align-items: center;
 }
-
+.titleFix{
+    top: 500px;
+}
 .btn {
     border-radius: 0;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* or simply "1fr 1fr;" */
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+}
+
+.grid-item {
+    background-color: #f8f8f8;
+    box-shadow: 0 0 3px #666;
+    text-align: center;
+}
+
+    .grid-item img {
+        max-width: 100%;
+    }
 
 .liq-navbar {
     background-color: #EAFEF4;
@@ -138,6 +157,7 @@ footer {
 .iframeVideo {
     width: 100%;
     overflow: scroll;
+    min-height: 50vh;
     display: -webkit-box;
     height: -webkit-fill-available;
 }
@@ -224,6 +244,23 @@ footer {
     color: #485366;
     line-height: 1.4;
     letter-spacing: 0;
+}
+
+@media (min-width: 1045px) and (max-width: 1600px) {
+    .titleFix{
+        top: 200px;
+    }
+}
+
+@media (min-width: 780px) and (max-width: 1044px) {
+    .titleFix {
+        top: 100px;
+    }
+}
+@media (min-width: 1601px) and (max-width: 1900px) {
+    .titleFix {
+        top: 300px;
+    }
 }
 
 @media (min-width: 768px) {
@@ -1150,6 +1187,7 @@ img {
     .campaign video {
         position: relative;
         z-index: 0;
+        min-width: 100%;
     }
 
 .overlay {
@@ -1201,15 +1239,18 @@ img {
     background-image: url(/img/wave-large-tide.png);
     background-repeat: no-repeat;
     height: 100vh;
+    background-size: cover;
 }
 .waveBottomDesign {
     background-image: url(/img/wave-bottom.png);
     background-repeat: no-repeat;
+    background-size: cover;
     height: 60vh;
 }
 .waveProspectListBg {
     background-image: url(/img/wave-prospect-section.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .leftImageCover {
     background-image: url(/img/campaign-laptop-one.png);
@@ -1526,6 +1567,7 @@ img {
 }
 
 
+
 @media screen and (max-height: 900px) {
     .prospectHeaderTitle {
         padding-top: 10px;
@@ -1724,15 +1766,15 @@ img {
     }
 
 
-
-
     @media screen and (max-width: 768px) {
         .artBoardDesign {
             position: relative;
         }
-        .faq-waveDesignProspect{
+
+        .faq-waveDesignProspect {
             bottom: 9vh;
         }
+
         .sectionBox {
             padding-left: 30px;
             padding-right: 30px;
@@ -1772,13 +1814,15 @@ img {
             padding-left: 70px;
             padding-right: 70px;
         }
-      
+
         .blogLinkReferenced {
             padding-left: 70px;
         }
+
         .pricingSection {
             padding: 0px;
         }
+
         .slick-prev {
             left: -25px;
         }
@@ -1797,17 +1841,20 @@ img {
         .header-text {
             text-align: center;
         }
-        .nav-bar-content {
 
+        .nav-bar-content {
         }
+
         .pointerDesign:before {
             display: none;
         }
+
         .privacy-policy-wave {
             bottom: 107px;
             height: 160px;
             top: -108px;
         }
+
         .splitter-line {
             display: none;
         }

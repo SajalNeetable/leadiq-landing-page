@@ -8,18 +8,47 @@ import CheckboxItem from '../components/CheckboxItem';
 
 class Home extends React.Component {
 
+    constructor(props) {
+        super(props);
+        this.state = {
+            browserVersion: ""
+        }
+    }
+
     componentDidMount() {
         window.scrollTo(0, 0)
+
+        navigator.sayswho = (function () {
+            var ua = navigator.userAgent, tem,
+                M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+            if (/trident/i.test(M[1])) {
+                tem = /\brv[ :]+(\d+)/g.exec(ua) || [];
+                return 'IE ' + (tem[1] || '');
+            }
+            if (M[1] === 'Chrome') {
+                tem = ua.match(/\b(OPR|Edge)\/(\d+)/);
+                if (tem !== null) return tem.slice(1).join(' ').replace('OPR', 'Opera');
+            }
+            M = M[2] ? [M[1], M[2]] : [navigator.appName, navigator.appVersion, '-?'];
+            if ((tem = ua.match(/version\/(\d+)/i)) !== null) M.splice(1, 1, tem[1]);
+            return M.join(' ');
+        })();
+
+        this.setState({
+            browserVersion: navigator.sayswho
+        });
     }
 
     render() {
         return (
             <div>
-                <div className="cover">
+                <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" || 
+                    this.state.browserVersion === "IE 9") ? "" : "cover"}>
                     <div className="d-none d-md-block">
                         <img src="/img/home-bg-cover.png" className="img-fluied" alt="cover" />
                     </div>
-                    <div className="cover-content">
+                    <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
+                        this.state.browserVersion === "IE 9") ? "titleFix cover-content" : "cover-content"}>
                         <div className="container">
                             <section>
                                 <div className="row">
@@ -116,7 +145,7 @@ class Home extends React.Component {
                 
                 <div className="container">
                     <section>
-                        <TestimonialCard />
+                        <TestimonialCard browserVersion={this.state.browserVersion} />
                     </section>
                 </div>
             </div>
