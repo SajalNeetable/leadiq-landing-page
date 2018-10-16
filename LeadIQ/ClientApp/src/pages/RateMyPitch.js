@@ -25,21 +25,27 @@ export default class RateMyPitch extends Component {
                                 <div className="col-md-6">
                                     <div className="media">
                                         <img src="/img/laptop-notification.png" className="img-fluied mr-3" height="64px" alt="laptop-notification" />
-                                        <div className="media-body">
-                                            <h3 className="mt-0">Rate My Pitch Webinar</h3>
-                                            <p>Ryan O’Hara and a few special guests will go through your cold emails and give advice on how to turn them into more meetings. Instructions on how to submit your cold emails will be sent out prior to recording.</p>
+                                        <div className="media-body pl-2">
+                                            <h3 className="mt-0 pl-3">RATE MY PITCH</h3>
+                                            <ul>
+                                                <li>We look at your cold email.</li>
+                                                <li>We go through how to make it better.</li>
+                                                <li>Share Feedback.</li>
+                                            </ul>
                                         </div>
                                     </div>
                                     <div className="media mt-5">
                                         <img src="/img/ryan-round-avatar.png" alt="ryan" className="img-fluied mr-3" height="64px" />
                                         <div className="media-body">
                                             <h3 className="mt-0">Hosted By</h3>
-                                            Muppet Haircut Enthusiast Ryan O’Hara
+                                            <p className="authorText">Ryan O'Hara and friends will deep dive into your cold email, and give advice on how to write a sales email taht will give you double digit reply rates.</p>
+                                            <p className="mb-0 authorText"><b>More about Ryan</b></p>
+                                            <p className="authorText">Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016.He's had prospecting campaigns featured in Fortune, Mashable and TheNextWeb.Ryan specializes in branding, business development, prospecting and coaching people on how to make good digital first impressions.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-md-6">
-                                    <h3 className="text-center">Join Us Tuesday August 28th @2p EST</h3>
+                                    <h3 className="text-center">Get your cold email reviewed!</h3>
                                     <form id="free-leads-form" className="mt-5">
                                         <div className="form-group container" id="email-field">
                                             <div className="form-group">
@@ -54,6 +60,10 @@ export default class RateMyPitch extends Component {
                                             <div className="text-center">
                                                 <Count size="lg" />
                                             </div>
+                                            <p className="mt-3 authorText">
+                                                We'll review emails periodically throughout the month. Fill out the form above and instructions will be sent to you via email.
+                                            </p>
+                                               
                                         </div>
                                     </form>
                                 </div>
