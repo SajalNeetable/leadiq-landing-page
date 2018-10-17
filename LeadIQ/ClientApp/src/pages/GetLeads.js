@@ -42,11 +42,11 @@ export default class GetLeads extends Component {
                             <div className="privacyPolicy">
                                 <h6 className="justify-content-center d-flex ">No credit card required Sign up free today </h6>
                                 <h6 className="justify-content-center termsPolicy d-flex mb-3 ">By signing up, you accept our &nbsp;
-                                    <Link to="" className="text-white">
+                                    <Link to="/terms-of-use" className="text-white">
                                         Term of Service
                                     </Link>&nbsp;
                                     and &nbsp;
-                                    <Link to="" className="text-white">
+                                    <Link to="/privacy-policy" className="text-white">
                                         Privacy Policy
                                     </Link>
                                 </h6>
