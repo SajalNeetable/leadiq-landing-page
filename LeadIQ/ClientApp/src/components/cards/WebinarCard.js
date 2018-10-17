@@ -73,14 +73,13 @@ class WebinarCard extends React.Component {
     };
 
     render() {
-        console.log("props", this.props);
         const { fullScreen, classes } = this.props;
         return (
             <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                 this.state.browserVersion === "IE 9") ? "col-md-6 col-lg-4" : "col-md-6 col-lg-4 d-flex"} key={this.props.index}>
                 <div className="card mt-5 flex-fill">
                     <a>
-                        <img src={this.props.video.webLinks} alt={this.props.video.title} className="img-fluied" />
+                        <img src={this.props.video.webLinks} alt={this.props.video.title} onClick={this.handleClickOpen.bind(this)} className="img-fluied" />
                     </a>
                     <Dialog
                         fullScreen={fullScreen}
@@ -95,7 +94,7 @@ class WebinarCard extends React.Component {
                             {(this.state.mode === 0) ?
                                 <div className="modal-body text-center">
                                     <p className="pt-4 mb-4">Provide your email to see the webinar</p>
-                                    <form className="justify-content-center d-flex row  mb-4">
+                                    <form className="justify-content-center d-flex row  m-3">
                                         <input type="email" placeholder="Enter your email here..."
                                             onChange={this.emailValidation.bind(this)} className="col-sm-6 col-md-3 col-lg-3 emailWebinar" />
                                         <button className="btn liq-btn-primary button-design col-sm-6 col-md-3 col-lg-3" disabled={!this.state.btnDisplay}

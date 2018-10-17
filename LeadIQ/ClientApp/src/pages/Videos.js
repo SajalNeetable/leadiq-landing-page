@@ -69,7 +69,7 @@ class Videos extends React.Component {
         var settings = {
             responsive: [
                 {
-                    breakpoint: 767, settings: {
+                    breakpoint: 768, settings: {
                         dots: false,
                         slidesToShow: 1,
                         swipeToSlide: true,
@@ -81,7 +81,7 @@ class Videos extends React.Component {
                 {
                     breakpoint: 959, settings: {
                         dots: false,
-                        slidesToShow: 2,
+                        slidesToShow: 3,
                         swipeToSlide: true,
                         touchMove: true,
                         draggable: true,

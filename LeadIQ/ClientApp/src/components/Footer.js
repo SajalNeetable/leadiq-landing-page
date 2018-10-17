@@ -21,7 +21,9 @@ class Footer extends React.Component {
                     <div className="row">
                         <div className="col-sm-3">
                             <div>
-                                <img src="/img/logo.png" alt="LeadIQ" height="24" />
+                                <a href="/">
+                                    <img src="/img/logo.png" alt="LeadIQ" height="24" />
+                                </a>
                             </div>
                             <div className="mt-4">
                                 <small>

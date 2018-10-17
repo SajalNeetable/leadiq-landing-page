@@ -47,7 +47,7 @@ class FrequentlyAskedQuestion extends React.Component {
                                         return (
                                             <div className="col-md-12 col-lg-12" key={idx}>
                                                     <span className={(this.state.index === idx) ? "hideDisplay" : "showDisplay"} onClick={this.toggleText.bind(this, idx)}></span>
-                                                    <h3 className={(this.state.index === idx) ? "showTitle" : "defaultTitle"}>{question.question}</h3>
+                                                    <h3 className={(this.state.index === idx) ? "showTitle" : "defaultTitle"} onClick={this.toggleText.bind(this, idx)}>{question.question}</h3>
                                                     <p className={(this.state.index === idx) ? "show" : "hide"}>{question.content}</p>
                                                     <p className={(this.state.index === idx) ? "show" : "hide"}>{question.contentOne}</p>
                                                     <p className={(this.state.index === idx) ? "show" : "hide"}>{question.contentTwo}</p>
