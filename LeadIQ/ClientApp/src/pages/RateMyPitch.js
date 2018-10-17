@@ -38,7 +38,7 @@ export default class RateMyPitch extends Component {
                                         <img src="/img/ryan-round-avatar.png" alt="ryan" className="img-fluied mr-3" height="64px" />
                                         <div className="media-body">
                                             <h3 className="mt-0">Hosted By</h3>
-                                            <p className="authorText">Ryan O'Hara and friends will deep dive into your cold email, and give advice on how to write a sales email taht will give you double digit reply rates.</p>
+                                            <p className="authorText">Ryan O'Hara and friends will deep dive into your cold email, and give advice on how to write a sales email that will give you double digit reply rates.</p>
                                             <p className="mb-0 authorText"><b>More about Ryan</b></p>
                                             <p className="authorText">Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016.He's had prospecting campaigns featured in Fortune, Mashable and TheNextWeb.Ryan specializes in branding, business development, prospecting and coaching people on how to make good digital first impressions.</p>
                                         </div>

@@ -1367,10 +1367,12 @@ img {
 .showTitle{
     color: #000;
     padding-top: 20px;
+    cursor: pointer;
 }
 .defaultTitle {
     color: #666;
     padding-top: 20px;
+    cursor: pointer;
 }
 
 .privacy-policy-wave {
@@ -1443,7 +1445,10 @@ img {
         padding-top: 2vh;
     }
 }
-
+.popupData:hover {
+    background: none;
+    text-decoration: none;
+}
 .fontDesign {
     font-family: roboto;
 }
@@ -1594,6 +1599,10 @@ img {
 @media screen and (max-width: 576px) {
     .modal-dialog {
         margin-top: 13%;
+    }
+    .cover-rate-my-pitch {
+        height: auto;
+        background-image: none;
     }
 }
 
@@ -1775,6 +1784,7 @@ img {
             bottom: 9vh;
         }
 
+
         .sectionBox {
             padding-left: 30px;
             padding-right: 30px;
@@ -1784,7 +1794,10 @@ img {
             display: none;
         }
 
-
+        .cover-rate-my-pitch{
+            height: auto;
+            background-image: none;
+        }
 
         .img-laptop {
             position: absolute;
@@ -1801,6 +1814,13 @@ img {
             left: 3vh;
         }
 
+        .emailWebinar{
+            margin-bottom: 10px;
+        }
+        .cover-rate-my-pitch{
+            height: auto;
+            background-image: none;
+        }
         .prospectSmarter {
             position: absolute;
             top: 13vh;
@@ -1936,7 +1956,7 @@ img {
 
         .gettingStarted {
             position: relative;
-            bottom: 10vh;
+            bottom: 6vh;
         }
 
         .waveDesignProspect, .faq-waveDesignProspect {
