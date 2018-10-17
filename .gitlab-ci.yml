@@ -19,6 +19,7 @@ deploy-prod:
     - ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.173 'cd /home/ec2-user/leadiq-landing-page/LeadIQ/ClientApp/ && pwd && git checkout master && git pull'
     #- ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.173 $checkoutREF
     - ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.173 'cd /home/ec2-user/leadiq-landing-page/LeadIQ/ClientApp/ && pwd && npm i && npm run build'
+    - ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.173 'sudo cp -ruv /home/ec2-user/leadiq-landing-page/LeadIQ/ClientApp/build/ /usr/share/nginx/leadiq'
   only:
     - tags
     - master
