@@ -27,7 +27,7 @@ class University extends React.Component {
                                     <div className="mt-5">
                                         <AccessUniversity size="lg" />
                                     </div>
-                                    <p className="mt-5">Already have a LeadIQ account . <Link to="https://account.leadiq.com/app/signin/" target="_blank"><mark className="hightlightText"> Login here.</mark></Link></p>
+                                    <p className="mt-5">Already have a LeadIQ account . <a href="https://account.leadiq.com/app/signin/" ><mark className="hightlightText"> Login here.</mark></a></p>
                                 </div>
                                 <div className="col-md-1" />
                                 <div className="col-md-5">
@@ -47,13 +47,13 @@ class University extends React.Component {
                             </div>
                             <div className="col-md-9 col-ls-9 col-xl-9 justify-content-end d-flex mt-5">
                                     <label className="accountLogin labelUniversityOne">To get access,
-                                        <Link to="https://account.leadiq.com/app/signup/?referralCode=summershowdown" target="_blank">    
+                                        <a href="https://account.leadiq.com/app/signup/?referralCode=summershowdown" >    
                                             <mark className="highlightText">create a free account.</mark> 
-                                        </Link>
+                                        </a>
                                         <br />if you already have a leadIQ account ,
-                                        <Link to="https://account.leadiq.com/app/signin/" target="_blank">
+                                        <a href="https://account.leadiq.com/app/signin/" >
                                             <mark className="highlightText">click here to login</mark>
-                                        </Link>
+                                        </a>
                                    </label>
                             </div>
                         </div>
