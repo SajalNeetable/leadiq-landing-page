@@ -2196,7 +2196,7 @@ import 'moment/locale/fr';
 
 If import multiple locales this way, you can later switch between them by calling `moment.locale()` with the locale name:
 
-```js
+```j
 import moment from 'moment';
 import 'moment/locale/fr';
 import 'moment/locale/es';
