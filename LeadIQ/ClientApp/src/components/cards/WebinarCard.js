@@ -79,7 +79,7 @@ class WebinarCard extends React.Component {
                 this.state.browserVersion === "IE 9") ? "col-md-6 col-lg-4" : "col-md-6 col-lg-4 d-flex"} key={this.props.index}>
                 <div className="card mt-5 flex-fill">
                     <a>
-                        <img src={this.props.video.webLinks} alt={this.props.video.title} className="img-fluied" />
+                        <img src={this.props.video.webLinks} alt={this.props.video.title} onClick={this.handleClickOpen.bind(this)} className="img-fluied" />
                     </a>
                     <Dialog
                         fullScreen={fullScreen}

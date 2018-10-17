@@ -1454,12 +1454,15 @@ img {
 }
 .slick-prev::before, .slick-next::before {
     color: #000;
+    font-size: 28px;
 }
-.slick-prev{
+.slick-prev {
     left: -10px;
+    top: 116px;
 }
 .slick-next {
     right: -10px;
+    top: 116px;
 }
 .close-modal-design {
     position: relative;
@@ -1867,6 +1870,16 @@ img {
 
         .pointerDesign:before {
             display: none;
+        }
+
+        .slick-prev {
+            left: -13px;
+            top: 120px;
+        }
+
+        .slick-next {
+            right: -3px;
+            top: 120px;
         }
 
         .privacy-policy-wave {
