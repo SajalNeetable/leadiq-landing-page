@@ -33,7 +33,7 @@ class TopNav extends React.Component {
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#top-nav" aria-controls="top-nav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon" />
                     </button>
-                    <div className="collapse navbar-collapse" id="top-nav" style={{fontSize: "16px"}}>
+                    <div className="collapse navbar-collapse" id="top-nav" style={{ fontSize: "16px" }} aria-haspopup="true">
                         <ul className="navbar-nav ml-auto">
 
                             <li className={(this.state.activeNav === "customers") ? "nav-item  dropdown pt-2 active" : "nav-item  dropdown pt-2"}>

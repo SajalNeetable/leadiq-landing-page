@@ -4,6 +4,7 @@ description: Driving more traffic and generating more leads is a challenge for a
 coverImage: /img/yoda-advice-featured.jpg
 publishDate: Jun 21, 2017
 
+
 author: Csaba Zajdó
 authorProfile:  Csaba Zajdo is an ecommerce specialist and founder of OptiMonk, an award-winning onsite retargeting platform, which helps SMBs leverage the power of onsite retargeting. Csaba has been involved with web marketing including search, lead generation, ecommerce, CRO, PPC, and analytics for over 10 years. He is also a frequent presenter at seminars and conferences.
 authorImage: 
