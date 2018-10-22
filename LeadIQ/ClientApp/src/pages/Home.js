@@ -81,14 +81,14 @@ class Home extends React.Component {
                                 <FreeLeads size="lg" />
                             </div>
                             <div className="col-sm-6 pt-4">
-                                <img className="img-fluid" src="/img/home-feature-1.png" alt="Feature 1" />
+                                <img className="img-fluid" src="/img/home-feature-1.jpg" alt="Feature 1" />
                             </div>
                         </div>
                     </section>
                     <section>
                         <div className="row">
                             <div className="col-sm-6">
-                                <img className="img-fluid" src="/img/home-feature-2.png" alt="Feature 2" />
+                                <img className="img-fluid" src="/img/home-feature-2.jpg" alt="Feature 2" />
                             </div>
                             <div className="col-sm-6">
                                 <h1 className="homeStepTitle">No more manual data entry.</h1>
@@ -114,14 +114,14 @@ class Home extends React.Component {
                                 </span>
                             </div>
                             <div className="col-sm-6">
-                                <img className="img-fluid" src="/img/home-feature-3.png" alt="Feature 3" />
+                                <img className="img-fluid" src="/img/home-feature-3.jpg" alt="Feature 3" />
                             </div>
                         </div>
                     </section>
                     <section>
                         <div className="row">
                             <div className="col-sm-6">
-                                <img className="img-fluid" src="/img/home-feature-4.png" alt="Feature 4" />
+                                <img className="img-fluid" src="/img/home-feature-4.jpg" alt="Feature 4" />
                             </div>
                             <div className="col-sm-6">
                                 <h1 className="mt-5 homeStepTitle">Sell More with less work.</h1>
@@ -140,6 +140,8 @@ class Home extends React.Component {
                         </section>
                     </div>
                 </div>
+
+
 
                 <div className="testimonial-section"></div>
                 
