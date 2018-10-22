@@ -63,7 +63,7 @@ class TopNav extends React.Component {
                             </li>
 
                             <li className={(this.state.activeNav === "blog") ? "nav-item pt-2 mr-3 active" : "nav-item pt-2 mr-3"}>
-                                <Link to="/blog" className="nav-link liq-nav-link">BLOG</Link>
+                                <Link to="/blog" className=" nav-link liq-nav-link">BLOG</Link>
                             </li>
                             <li className="nav-item mr-3">
                                 <GetStarted />
