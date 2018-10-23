@@ -6,8 +6,8 @@ import { withStyles } from '@material-ui/core/styles';
 import DialogContent from '@material-ui/core/DialogContent';
 const styles = {
     dialogPaper: {
-        minHeight: '15vh',
-        maxHeight: '15vh',
+        minHeight: '20vh',
+        maxHeight: '20vh',
         overflow: 'hidden'
     },
     MuiDialogContentroot45: {
@@ -108,7 +108,7 @@ class RateMyPitch extends Component {
                                         classes={(this.state.mode === 0) ? "" : { paper: classes.dialogPaper }}
                                     >
                                         <DialogContent style={{ padding: "0" }}>
-                                            <p className="text-center liq-text-primary pt-4 mb-2" style={{fontSize: "38px"}}>Thank You !</p>
+                                            <p className="text-center liq-text-primary pt-4 mb-2" style={{fontSize: "38px"}}>Thank you! We will email you with instructions on how to submit your cold email</p>
                                         </DialogContent>
                                     </Dialog>
                                 </div>
