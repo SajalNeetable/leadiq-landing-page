@@ -11,7 +11,8 @@ const styles = {
         overflow: 'hidden'
     },
     MuiDialogContentroot45: {
-        padding: 0
+        padding: 0,
+        overflow: 'hidden'
     }
 }
 
@@ -107,7 +108,7 @@ class RateMyPitch extends Component {
                                         classes={(this.state.mode === 0) ? "" : { paper: classes.dialogPaper }}
                                     >
                                         <DialogContent style={{ padding: "0" }}>
-                                            <p className="text-center liq-text-primary pt-5" style={{fontSize: "38px"}}>Thank You !</p>
+                                            <p className="text-center liq-text-primary pt-4 mb-2" style={{fontSize: "38px"}}>Thank You !</p>
                                         </DialogContent>
                                     </Dialog>
                                 </div>
