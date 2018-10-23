@@ -1,5 +1,5 @@
 ﻿import React from 'react';
-import RequestTrial from '../components/buttons/RequestTrial';
+import FreeLeads from '../components/buttons/FreeLeads';
 import podcastAudioLists from './../data/podcast-audio-lists.json';
 import PodcastCards from '../components/cards/PodcastCards';
 
@@ -26,7 +26,7 @@ class Podcast extends React.Component {
                                 <h1 className="text-white text-center  mb-4 fa-2x prospectText"><b>Podcast</b></h1>
                                 <p className="text-white text-center mb-4" style={{ fontWeight: "400" }}>LeadIQ not only provides great sales products. We also share content that will help you maximize your sales.</p>
                                 <div className="justify-content-center d-flex">
-                                    <RequestTrial size="lg"  />
+                                    <FreeLeads size="lg"  />
                                 </div>
                             </section>
                         </div>

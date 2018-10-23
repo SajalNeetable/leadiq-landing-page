@@ -1,13 +1,28 @@
 ﻿import React, { Component } from 'react';
-import videos from "./../data/videos.json";
-import Count from '../components/buttons/Count';
 import VideoCard from '../components/cards/VideoCard';
+import videos from "./../data/videos.json";
+import Dialog from '@material-ui/core/Dialog';
+import { withStyles } from '@material-ui/core/styles';
+import DialogContent from '@material-ui/core/DialogContent';
+const styles = {
+    dialogPaper: {
+        minHeight: '15vh',
+        maxHeight: '15vh',
+        overflow: 'hidden'
+    },
+    MuiDialogContentroot45: {
+        padding: 0
+    }
+}
 
-export default class RateMyPitch extends Component {
+
+
+class RateMyPitch extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            videos: videos
+            videos: videos,
+            open: false
         };
     }
 
@@ -15,7 +30,23 @@ export default class RateMyPitch extends Component {
         window.scrollTo(0, 0)
     }
 
+    handleClickOpen = (e) => {
+        e.preventDefault();
+        this.setState({ open: true }, () => {
+            setTimeout(function () {
+                this.setState({ open: false }, () => {
+                    window.location = "/blog";
+                });
+            }.bind(this), 2000); 
+        });
+    };
+
+    handleClose = () => {
+        this.setState({ open: false });
+    };
+
     render() {
+        const { fullScreen, classes } = this.props;
         return (
             <div>
                 <div className="cover-rate-my-pitch">
@@ -49,23 +80,36 @@ export default class RateMyPitch extends Component {
                                     <form id="free-leads-form" className="mt-5">
                                         <div className="form-group container" id="email-field">
                                             <div className="form-group">
-                                                <input type="text" className="form-control form-control-lg" id="firstName" name="email" placeholder="First Name" required="required" />
+                                                <input type="text" className="form-control form-control-lg" id="firstName" name="email" placeholder="First Name"  />
                                             </div>
                                             <div className="form-group">
-                                                <input type="text" className="form-control form-control-lg" id="lastName" name="email" placeholder="Last Name" required="required" />
+                                                <input type="text" className="form-control form-control-lg" id="lastName" name="email" placeholder="Last Name"  />
                                             </div>
                                             <div className="form-group">
-                                                <input type="email" className="form-control form-control-lg" id="email" name="email" placeholder="Email Address" required="required" />
+                                                <input type="email" className="form-control form-control-lg" id="email" name="email" placeholder="Email Address"  />
                                             </div>
                                             <div className="text-center">
-                                                <Count size="lg" />
+                                                <button className="btn liq-btn-primary liq-btn-primary-lg" onClick={this.handleClickOpen.bind(this)}>COUNT ME IN!</button>
                                             </div>
                                             <p className="mt-3 authorText">
                                                 We'll review emails periodically throughout the month. Fill out the form above and instructions will be sent to you via email.
                                             </p>
-                                               
                                         </div>
                                     </form>
+
+                                    <Dialog
+                                        fullScreen={fullScreen}
+                                        fullWidth={true}
+                                        maxWidth={'md'}
+                                        open={this.state.open}
+                                        onClose={this.handleClose.bind(this)}
+                                        aria-labelledby="responsive-dialog-title"
+                                        classes={(this.state.mode === 0) ? "" : { paper: classes.dialogPaper }}
+                                    >
+                                        <DialogContent style={{ padding: "0" }}>
+                                            <p className="text-center liq-text-primary pt-5" style={{fontSize: "38px"}}>Thank You !</p>
+                                        </DialogContent>
+                                    </Dialog>
                                 </div>
                             </div>
                         </section>
@@ -102,3 +146,5 @@ export default class RateMyPitch extends Component {
         )
     }
 }
+
+export default withStyles(styles)(RateMyPitch);

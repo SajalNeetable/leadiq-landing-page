@@ -1,5 +1,5 @@
 ﻿import React from 'react';
-import GetStarted from '../components/buttons/GetStarted';
+import FreeLeads from '../components/buttons/FreeLeads';
 import BlogCards from '../components/cards/BlogCards';
 import blogTemplates from './../data/blogs.json';
 
@@ -26,7 +26,7 @@ class BlogList extends React.Component {
                                 <h1 className="text-white text-center  mb-4 fa-2x prospectText"><b>Blog</b></h1>
                                 <h4 className="text-white text-center mb-4" style={{ fontWeight: "400" }}>Prospecting doesn’t have to be a challenge. Learn some of the cool things we’ve learned about prospecting.</h4>
                                 <div className="justify-content-center d-flex">
-                                    <GetStarted size="lg" />
+                                    <FreeLeads size="lg" />
                                 </div>
                             </section>
                         </div>
