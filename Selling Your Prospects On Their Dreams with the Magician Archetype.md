@@ -1,3 +1,5 @@
+https://leadiq-wordpress.s3.amazonaws.com/uploads/2018/10/westjet.png
+
 If you’ve been following our blog lately, we’ve been talking a ton about finding your voice for social selling. We talked about brand archetypes, and gave some examples of it working.
 
 If you sell ad tech, maybe you are helping a marketer hit their revenue goals. If you sell to IT, maybe you are speeding up a customer’s website and decreasing their website outages. If it’s HR, you may help them build the dream team!
@@ -9,14 +11,16 @@ Pushing the big picture is more focused on selling the individual’s motivation
 The easiest brand archetype example that everyone brings up for this, and one of the most valuable brands in the world is the Walt Disney Company.
 
  
+ https://cl.ly/440z2z3C3E0U
 
- Disney owns a cruise ship  called the Disney Magic
+Disney owns a cruise ship  called the Disney Magic
 
 Every part of Disney’s company DNA is built on being a magician brand, and providing a magical experience for their customers. If you call their customer support, they’ll tell you to have a magical time.
 
 Whether it’s making movies about princesses, theme parks, or owning entire fictional universes like Marvel and Star Wars, Disney is constantly finding ways to innovate and flex our imaginations. The brand equity has obviously payed massive dividends.
 
 
+https://cl.ly/1Z3C1E0O1R3M
 
 Disney bought Marvel several years ago, and since then, has had incredible success in the box office.
 
@@ -45,3 +49,7 @@ It’s not only big dreams and goals but giving experiences that make customers 
 One example that always comes to mind is a campaign WestJet Airlines did a few years back.
 
 WestJet went and asked passengers on a flight what they wanted for Christmas. When passengers landed at their destinations, they had gifts delivered to all of them on the baggage claim carousel.
+
+<iframe width="1080" height="608" src="https://www.youtube.com/embed/zIEIvi2MuEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+If you want to go above and beyond for your customers, and talk about these experiences and beliefs in your sales content, this a good archetype for you.
