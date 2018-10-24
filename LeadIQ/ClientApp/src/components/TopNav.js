@@ -66,7 +66,7 @@ class TopNav extends React.Component {
                                 <Link to="/blog" className="nav-link liq-nav-link">BLOG</Link>
                             </li>
                             <li className="nav-item pt-2 mr-3">
-                                <a href="https://account.leadiq.com/app/signin/" className="nav-link liq-nav-link">LOGIN</a>
+                                <a href="https://account.leadiq.com/login" className="nav-link liq-nav-link">LOGIN</a>
                             </li>
                             <li className="nav-item mr-3">
                                 <GetStarted />
