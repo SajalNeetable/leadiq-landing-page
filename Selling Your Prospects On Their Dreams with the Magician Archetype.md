@@ -10,8 +10,7 @@ Pushing the big picture is more focused on selling the individual’s motivation
 
 The easiest brand archetype example that everyone brings up for this, and one of the most valuable brands in the world is the Walt Disney Company.
 
- 
- https://cl.ly/440z2z3C3E0U
+<a href="https://cl.ly/440z2z3C3E0U" target="_blank"><img src="https://d2ddoduugvun08.cloudfront.net/items/1o2L1W2t2b0j3x460e0F/Image%202018-06-15%20at%204.27.54%20PM.png" style="display: block;height: auto;width: 100%;"/></a>
 
 Disney owns a cruise ship  called the Disney Magic
 
