@@ -125,7 +125,7 @@ class Home extends React.Component {
                             </div>
                             <div className="col-sm-6">
                                 <h1 className="mt-5 homeStepTitle">Sell More with less work.</h1>
-                                <p className="mt-3">Sales reps aren't wizards. They shouldn't be guessing emails, and spending an average 6 hours a week putting new prospect data into theri CRM. Help reps buckle down and focus on executing quality outreach with one click prospecting.</p>
+                                <p className="mt-3">Sales reps aren't wizards. They shouldn't be guessing emails, and spending an average 6 hours a week putting new prospect data into their CRM. Help reps buckle down and focus on executing quality outreach with one click prospecting.</p>
                                 <FreeLeads size="lg" />
                             </div>
 
