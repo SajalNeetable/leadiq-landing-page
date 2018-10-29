@@ -59,7 +59,7 @@ export default class Pricing extends React.Component {
                                 <div className="leadIqOffersText">
                                     <p>All LeadIQ Solo features</p>
                                     <p>Unlimited Campaigns</p>
-                                    <p>Get 100 free premium credits per month</p>
+                                    <p>100 premium credits per month</p>
                                 </div>
                             </div>
                             <div className="col-md-2 col-lg-2" />
