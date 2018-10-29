@@ -98,25 +98,3 @@ And remember, don’t pitch your product in the request! Come on now!
 ![[b39a3dbd8d7604119bcbcaf60aa9de1e]_Image%202018-10-22%20at%2010.24.51%20AM.png]({{site.baseurl}}/[b39a3dbd8d7604119bcbcaf60aa9de1e]_Image%202018-10-22%20at%2010.24.51%20AM.png)
 
 **##CHECK OUT OUR SOCIAL SELLING WORKSHOP WE DID ONLINE! LEARN HOW YOU SHOULD SELL ON LINKEDIN**[Social Selling Workshop](https://ter.li/j910oo "Social Selling Workshop")
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
