@@ -7,7 +7,7 @@ prose:
   relativeLinks: 'https://beta.leadiq.com/blog/links.jsonp'
   media: 'media'
   metadata:
-    new-blog-title:
+    _posts:
       - name: "category"
         field:
           element: "hidden"
