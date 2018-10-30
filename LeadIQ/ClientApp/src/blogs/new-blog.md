@@ -1,5 +1,5 @@
 ---
-title: An Introduction to Brand Archetyping for Social Selling
+title: Testing
 description: >-
   Let’s play a little game! Real quick, I want you to take 30 seconds, and think
   of some of your favorite products and brands. Remember brands and products can
