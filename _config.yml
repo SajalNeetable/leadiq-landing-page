@@ -2,12 +2,12 @@ baseurl: LeadIQ/ClientApp/src/blogs/
 permalink: pretty
 markdown: kramdown
 prose:
-  rooturl: 'LeadIQ/ClientApp/src/blogs'
+  rooturl: 'LeadIQ/ClientApp/src/blogs/'
   siteurl: 'https://beta.leadiq.com/blog/'
   relativeLinks: 'https://beta.leadiq.com/blog/links.jsonp'
   media: 'media'
   metadata:
-    _blogs:
+    blogs:
       - name: "category"
         field:
           element: "hidden"
