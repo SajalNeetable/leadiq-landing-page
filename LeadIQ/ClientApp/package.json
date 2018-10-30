@@ -2,6 +2,9 @@
   "name": "LeadIQ",
   "version": "0.1.0",
   "private": true,
+  "browser": {
+    "fs": false
+  },
   "dependencies": {
     "@material-ui/core": "^1.5.0",
     "@material-ui/icons": "^2.0.2",
@@ -25,7 +28,8 @@
     "redux-thunk": "^2.2.0",
     "rimraf": "^2.6.2",
     "react-helmet": "5.2.0",
-    "history": "4.7.2"
+    "history": "4.7.2",
+    "fs": "0.0.2"
   },
   "scripts": {
     "start": "rimraf ./build && react-scripts start",
