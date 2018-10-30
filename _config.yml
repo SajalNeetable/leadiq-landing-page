@@ -8,10 +8,6 @@ prose:
   media: 'media'
   metadata:
     LeadIQ/ClientApp/src/blogs:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
       - name: "layout"
         field:
           element: "hidden"
@@ -20,23 +16,39 @@ prose:
         field:
           element: "text"
           label: "Title"
-          value: "New Blog Post"
-      - name: "splash"
+          value: ""
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Description"
+          value: ""
+      - name: "coverImage"
         field:
           element: "text"
-          label: "Splash image"
+          label: "Cover Image Name"
           value: ""
-      - name: "tags"
+      - name: "publishDate"
         field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
+          element: "text"
+          label: "Publish Date"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: ""
+      - name: "authorProfile"
+        field:
+          element: "text"
+          label: "Author Profile"
+          value: ""
+      - name: "authorProfile"
+        field:
+          element: "text"
+          label: "Author Profile"
+          value: ""
+      - name: "authorImage"
+        field:
+          element: "text"
+          label: "Author Image"
+          value: ""
