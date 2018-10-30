@@ -42,11 +42,6 @@ prose:
           element: "textarea"
           label: "Author Profile"
           value: ""
-      - name: "authorProfile"
-        field:
-          element: "text"
-          label: "Author Profile"
-          value: ""
       - name: "authorImage"
         field:
           element: "text"
