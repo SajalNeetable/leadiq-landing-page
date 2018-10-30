@@ -7,7 +7,7 @@ prose:
   relativeLinks: 'https://beta.leadiq.com/blog/links.jsonp'
   media: 'media'
   metadata:
-    LeadIQ/ClientApp/src/blogs/:
+    LeadIQ/ClientApp/src/blogs:
       - name: "category"
         field:
           element: "hidden"
