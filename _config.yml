@@ -1,34 +1,54 @@
-baseurl:
-title: Rebecca Garrett-Harris
-description: UX and UI Designer with a secret love of CSS.
-permalink: /:categories/:title/
-google_analytics_code: UA-31980509-7
-defaults:
-  - scope:
-      type: posts
-    values:
-      layout: post
-      published: true
-  - scope:
-      type: work
-    values:
-      layout: default
-      published: true
-collections:
-  work:
-    output: true
-    permalink: /work/:path/
 prose:
-  rooturl: "_posts"
-  media: "assets/uploads"
-  siteurl: "http://www.rebeccadianeharris.com"
+  rooturl: '_posts'
+  siteurl: 'http://prose.github.io/starter/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'media'
   metadata:
     _posts:
-      - name: "published"
+      - name: "category"
         field:
-          element: 'hidden'
-          value: true
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
       - name: "title"
         field:
           element: "text"
-          label: "title"
+          label: "Title"
+          value: ""
+      - name: "splash"
+        field:
+          element: "text"
+          label: "Splash image"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
+            - name: "Pears"
+              value: "pears"
+            - name: "Mangos"
+              value: "mangos"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
