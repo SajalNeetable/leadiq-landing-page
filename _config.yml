@@ -39,7 +39,7 @@ prose:
           value: ""
       - name: "authorProfile"
         field:
-          element: "text"
+          element: "textarea"
           label: "Author Profile"
           value: ""
       - name: "authorProfile"
