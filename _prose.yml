@@ -3,7 +3,7 @@ prose:
   siteurl: 'https://beta.leadiq.com/'
   media: 'LeadIQ/ClientApp/public/img/'
   metadata:
-    _posts:
+    blog:
       - name: "layout"
         field:
           element: "hidden"
@@ -18,13 +18,3 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
