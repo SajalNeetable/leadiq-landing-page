@@ -2,7 +2,7 @@
 import { Link } from "react-router-dom";
 import Demo from './buttons/Demo';
 import FreeLeads from './buttons/FreeLeads';
-import footerBlogs from './../data/footer-blogs.json';
+import footerBlogs from './../data/path.json';
 
 
 class Footer extends React.Component {
@@ -83,11 +83,14 @@ class Footer extends React.Component {
                             <h6>Recent Blogs</h6>
                             <ul className="nav flex-column">
                                 {(this.state.footerBlog.map((blog, index) => {
-                                    return (
-                                        <li className="nav-item" key={index}>
-                                            <Link className="nav-link liq-footer-blog-link" to={blog.navLink}>{blog.blogName}</Link>
-                                        </li>
-                                    );
+                                    if (index <= 2) {
+                                        console.log("blog", blog);
+                                        return (
+                                            <li className="nav-item" key={index}>
+                                                <Link className="nav-link liq-footer-blog-link" to={blog.navLink}>{blog.Title}</Link>
+                                            </li>
+                                        );
+                                    }
                                 }))}
                             </ul>
                         </div>
