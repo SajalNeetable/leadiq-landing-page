@@ -1,14 +1,12 @@
 ---
 layout: blog
-published: false
+published: true
 title: Why You Should Care about Soft and Hard Bounces
 publishDate: 'Oct 22, 2018'
 description: >-
   Some of our reps were asking what’s going on? It sucked. Frankly, it was super
-  frustrating.
-
-  After a couple of hours of analysis, we were able to determine what was
-  causing the bounces. A few of our newer reps didn’t quite understand
+  frustrating. After a couple of hours of analysis, we were able to determine
+  what was causing the bounces. A few of our newer reps didn’t quite understand
   everything that was happening. It made me realize something.
 authorImage: img/Ryan-OHara-Headshot.png
 authorProfile: >-
