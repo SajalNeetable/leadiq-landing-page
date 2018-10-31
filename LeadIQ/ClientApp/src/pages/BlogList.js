@@ -1,7 +1,7 @@
 ﻿import React from 'react';
 import FreeLeads from '../components/buttons/FreeLeads';
 import BlogCards from '../components/cards/BlogCards';
-import blogTemplates from './../data/blogs.json';
+import blogTemplates from './../data/path.json';
 
 class BlogList extends React.Component {
     constructor(props) {
@@ -13,6 +13,7 @@ class BlogList extends React.Component {
 
     componentDidMount() {
         window.scrollTo(0, 0)
+
     }
 
 
@@ -39,7 +40,9 @@ class BlogList extends React.Component {
                         <div className="container">
                             <div className="card">
                                 <div className="card-body card-blog">
-                                    {this.state.blogs.map((blog, index) => { return (<BlogCards blogs={blog} key={index} />) })}
+                                    <div className="row">
+                                        {this.state.blogs.map((blog, index) => { return (<BlogCards blog={blog} key={index} />) })}
+                                    </div>
                                 </div>
                             </div>
                         </div>
