@@ -31,7 +31,8 @@ These are real LinkedIn Connection Requests I got last week. Let's analyze them 
 
 ## Awful LinkedIn Connection Request Play #1: The Industry Call Out
 
-![li-request1-1.png]({{site.baseurl}}/media/li-request1-1.png)
+![li-request-2.png](/img/li-request-2.png)
+
 
 This poor guy was doomed from the start. First off, they opened up with an “I” sentence about their goal. The fact that this person is looking to connect with experienced advertising and marketing professionals is amazing. Why is that a good reason for me to add them on LinkedIn though?
 
@@ -42,7 +43,7 @@ Try again!
 
 ## Awful LinkedIn Connection Requests Play #2: The Resume Compliment
 
-![li-request-2.png]({{site.baseurl}}/li-request-2.png)
+![li-request-2.png](/img/li-request-2.png)
 
 This is one of the newer ones I’m getting that makes me assume they are using software since I see it so often. It’s always great to compliment someone in a LinkedIn Connection request, but if I added this person (who I assume wants to recruit me), I’m guessing they have no idea what compliment they were giving me here. What part of my resume impressed them?
 
@@ -56,8 +57,7 @@ You always need intent when you are sending LinkedIn Connection Request. It’s 
 
 ## Awful LinkedIn Connection Requests Play #3: Great Industry Post
 
-![li-request-3.png]({{site.baseurl}}/li-request-3.png)
-
+![li-request-3.png](/img/li-request-3.png)
 
 Wow thanks REDACTED!!! I loved that you thought my INDUSTRY post was interesting. I also love that you used my first name in the post. Let me ask you something? What did you exactly like about it? Or…how about this…which of my 1000+ posts about sales and marketing did you like?
 
@@ -71,7 +71,7 @@ Let’s look at one that I thought was really good.
 
 ## The Good LinkedIn Connection Requests
 
-![Image-2018-10-22-at-10.24.10-AM.png]({{site.baseurl}}/Image-2018-10-22-at-10.24.10-AM.png)
+![Image-2018-10-22-at-10.24.10-AM.png](/img/Image-2018-10-22-at-10.24.10-AM.png)
 
 Kudos here to [Natalie](https://www.linkedin.com/in/natalierotondi/) for making a good connection requests over LinkedIn. The reason this is good is because it’s specific, it’s personalized, and it has nothing to do with a product pitch.
 
@@ -120,5 +120,3 @@ And remember, don’t pitch your product in the request! Come on now!
 ![[b39a3dbd8d7604119bcbcaf60aa9de1e]_Image%202018-10-22%20at%2010.24.51%20AM.png]({{site.baseurl}}/[b39a3dbd8d7604119bcbcaf60aa9de1e]_Image%202018-10-22%20at%2010.24.51%20AM.png)
 
 **##CHECK OUT OUR SOCIAL SELLING WORKSHOP WE DID ONLINE! LEARN HOW YOU SHOULD SELL ON LINKEDIN**[Social Selling Workshop](https://ter.li/j910oo "Social Selling Workshop")
-
-
