@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: Why You Should Care about Soft and Hard Bounces
 description: >-
   Some of our reps were asking what’s going on? It sucked. Frankly, it was super
