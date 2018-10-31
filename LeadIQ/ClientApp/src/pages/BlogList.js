@@ -1,7 +1,7 @@
 ﻿import React from 'react';
-import FreeLeads from '../components/buttons/FreeLeads';
+import GetStarted from '../components/buttons/GetStarted';
 import BlogCards from '../components/cards/BlogCards';
-import blogTemplates from './../data/path.json';
+import blogTemplates from './../data/blogs.json';
 
 class BlogList extends React.Component {
     constructor(props) {
@@ -13,7 +13,6 @@ class BlogList extends React.Component {
 
     componentDidMount() {
         window.scrollTo(0, 0)
-
     }
 
 
@@ -27,7 +26,7 @@ class BlogList extends React.Component {
                                 <h1 className="text-white text-center  mb-4 fa-2x prospectText"><b>Blog</b></h1>
                                 <h4 className="text-white text-center mb-4" style={{ fontWeight: "400" }}>Prospecting doesn’t have to be a challenge. Learn some of the cool things we’ve learned about prospecting.</h4>
                                 <div className="justify-content-center d-flex">
-                                    <FreeLeads size="lg" />
+                                    <GetStarted size="lg" />
                                 </div>
                             </section>
                         </div>
@@ -40,9 +39,7 @@ class BlogList extends React.Component {
                         <div className="container">
                             <div className="card">
                                 <div className="card-body card-blog">
-                                    <div className="row">
-                                        {this.state.blogs.map((blog, index) => { return (<BlogCards blog={blog} key={index} />) })}
-                                    </div>
+                                    {this.state.blogs.map((blog, index) => { return (<BlogCards blogs={blog} key={index} />) })}
                                 </div>
                             </div>
                         </div>

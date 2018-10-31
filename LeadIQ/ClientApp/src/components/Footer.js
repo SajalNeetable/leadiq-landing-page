@@ -2,7 +2,7 @@
 import { Link } from "react-router-dom";
 import Demo from './buttons/Demo';
 import FreeLeads from './buttons/FreeLeads';
-import footerBlogs from './../data/path.json';
+import footerBlogs from './../data/footer-blogs.json';
 
 
 class Footer extends React.Component {
@@ -21,9 +21,7 @@ class Footer extends React.Component {
                     <div className="row">
                         <div className="col-sm-3">
                             <div>
-                                <a href="/">
-                                    <img src="/img/logo.png" alt="LeadIQ" height="24" />
-                                </a>
+                                <img src="/img/logo.png" alt="LeadIQ" height="24" />
                             </div>
                             <div className="mt-4">
                                 <small>
@@ -35,19 +33,19 @@ class Footer extends React.Component {
                             <div className="mt-4">
                                 <ul className="list-inline">
                                     <li className="list-inline-item">
-                                        <a href="https://www.facebook.com/leadiqapp"  rel="noopener noreferrer"><i className="fab fa-facebook-f" /></a>
+                                        <a href="https://www.facebook.com/leadiqapp" rel="noopener noreferrer"><i className="fab fa-facebook-f" /></a>
                                     </li>
                                     <li className="list-inline-item">
-                                        <a href="https://twitter.com/leadiq"  rel="noopener noreferrer"><i className="fab fa-twitter" /></a>
+                                        <a href="https://twitter.com/leadiq" rel="noopener noreferrer"><i className="fab fa-twitter" /></a>
                                     </li>
                                     <li className="list-inline-item">
-                                        <a href="https://youtube.com/c/leadiq"  rel="noopener noreferrer"><i className="fab fa-youtube" /></a>
+                                        <a href="https://youtube.com/c/leadiq" rel="noopener noreferrer"><i className="fab fa-youtube" /></a>
                                     </li>
                                     <li className="list-inline-item">
-                                        <a href="https://www.linkedin.com/company/leadiq-inc"  rel="noopener noreferrer"><i className="fab fa-linkedin" /></a>
+                                        <a href="https://www.linkedin.com/company/leadiq-inc" rel="noopener noreferrer"><i className="fab fa-linkedin" /></a>
                                     </li>
                                     <li className="list-inline-item">
-                                        <a href="https://google.com/+leadiq"  rel="noopener noreferrer"><i className="fab fa-google-plus" /></a>
+                                        <a href="https://google.com/+leadiq" rel="noopener noreferrer"><i className="fab fa-google-plus" /></a>
                                     </li>
                                 </ul>
                             </div>
@@ -64,7 +62,7 @@ class Footer extends React.Component {
                                     <Link className="nav-link liq-footer-link" to="/blog">Blog</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <a href="https://angel.co/leadiq/jobs"  className="nav-link liq-footer-link">Careers</a>
+                                    <a href="https://angel.co/leadiq/jobs" className="nav-link liq-footer-link">Careers</a>
                                 </li>
                             </ul>
                             <ul className="nav flex-column">
@@ -83,14 +81,11 @@ class Footer extends React.Component {
                             <h6>Recent Blogs</h6>
                             <ul className="nav flex-column">
                                 {(this.state.footerBlog.map((blog, index) => {
-                                    if (index <= 2) {
-                                        console.log("blog", blog);
-                                        return (
-                                            <li className="nav-item" key={index}>
-                                                <Link className="nav-link liq-footer-blog-link" to={blog.navLink}>{blog.Title}</Link>
-                                            </li>
-                                        );
-                                    }
+                                    return (
+                                        <li className="nav-item" key={index}>
+                                            <Link className="nav-link liq-footer-blog-link" to={blog.navLink}>{blog.blogName}</Link>
+                                        </li>
+                                    );
                                 }))}
                             </ul>
                         </div>
