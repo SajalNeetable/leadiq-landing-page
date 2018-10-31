@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: 'Prospecting With LeadIQ, Sales Navigator & Outreach.io'
 authorProfile: >-
   Ryan O'Hara has been an early employee at several startups helping them with
