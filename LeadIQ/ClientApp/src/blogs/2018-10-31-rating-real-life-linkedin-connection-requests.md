@@ -2,7 +2,7 @@
 layout: blog
 published: true
 title: Rating Real Life LinkedIn Connection Requests
-authorImage: img/li-request-3.png
+authorImage: img/Ryan-OHara-Headshot.png
 author: 'Ryan O''hara '
 description: >-
   A few weeks back, I posted a video about how to get your LinkedIn Connection
@@ -10,6 +10,15 @@ description: >-
   real life LinkedIn Connection Requests and explain why people continue to
   struggle getting their prospects to accept them on LinkedIn.
 coverImage: img/li-request-3.png
+publishDate: 'October 31, 2018'
+authorProfile: >-
+  Ryan O'Hara has been an early employee at several startups helping them with
+  marketing and prospecting tactics, including Dyn who was acquired by Oracle
+  for $600+ million in 2016. He's had prospecting campaigns featured in Fortune,
+  Mashable, and TheNextWeb. Ryan specializes in branding, business development,
+  prospecting, and coaching people on how to make good digital first
+  impressions. He also mentors two accelerators, The Iron Yard and The Alpha
+  Loft, and hosts The Prospecting Podcast.
 ---
 A few weeks back, I posted a video about how to get your LinkedIn Connection requests accepted. I thought today it would be a good idea to go through some real life LinkedIn Connection Requests and explain why people continue to struggle getting their prospects to accept them on LinkedIn.
 
