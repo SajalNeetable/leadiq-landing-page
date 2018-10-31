@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: Rating Real Life LinkedIn Connection Requests
 ---
 ## A New Post
