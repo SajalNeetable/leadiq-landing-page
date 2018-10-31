@@ -2,7 +2,6 @@
 import FreeLeads from '../components/buttons/FreeLeads';
 import BlogCards from '../components/cards/BlogCards';
 import blogTemplates from './../data/path.json';
-import { Link } from 'react-router-dom';
 
 class BlogList extends React.Component {
     constructor(props) {
@@ -42,23 +41,7 @@ class BlogList extends React.Component {
                             <div className="card">
                                 <div className="card-body card-blog">
                                     <div className="row">
-                                    {this.state.blogs.map((blog, index) => {
-                                            return (
-                                                <div className="col-md-6 col-lg-6 pt-3 pb-3" key={index}>
-                                                <Link to={blog.navLink}>
-                                                    <div className="blog-card-design" style={{
-                                                        backgroundImage: `linear-gradient(-180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) , url(${blog.BackgroundImage})`,
-                                                    }}>
-                                                        <div className="customer-card-text">
-                                                            <h3 className="text-white">{blog.Title}</h3>
-                                                            <img src={blog.AuthorImage} style={{ width: "25px" }} className="rounded-circle" alt={blog.Author} />
-                                                            <p className="text-white">{blog.Author}</p>
-                                                        </div>
-                                                    </div>
-                                                </Link>
-                                            </div>
-                                        )
-                                    })}
+                                        {this.state.blogs.map((blog, index) => { return (<BlogCards blog={blog} key={index} />) })}
                                     </div>
                                 </div>
                             </div>
