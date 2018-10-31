@@ -21,4 +21,4 @@ Josh Braun from SalesDNA made a video of how he uses LeadIQ, LinkedIn Sales Navi
 
 There are two ways you can capture leads into Outreach. One is by adding them to a campaign, and doing it the way Josh does it in the video. OR you can capture into Outreach right as you capture into a list in real time.
 
-<iframe width="810" height="456" src="https://www.youtube.com/embed/xzWS_e4sTmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xzWS_e4sTmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
