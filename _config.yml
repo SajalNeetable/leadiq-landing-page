@@ -2,7 +2,7 @@ baseurl:
 permalink: pretty
 markdown: kramdown
 prose:
-  rooturl: 'LeadIQ/ClientApp/src/blogs'
+  rooturl: ''
   siteurl: 'https://beta.leadiq.com/blog/'
   relativeLinks: 'https://beta.leadiq.com/blog/links.jsonp'
   media: 'LeadIQ/ClientApp/public/img'
