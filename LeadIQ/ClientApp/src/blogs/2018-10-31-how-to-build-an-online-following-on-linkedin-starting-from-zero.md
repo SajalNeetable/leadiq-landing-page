@@ -46,7 +46,7 @@ The right thing to do is produce some content with one other person who shares t
 
 One good example of someone who does this really well is Lloyd Yip. Lloyd will often pick someone’s brain and ask them to talk about something that is relevant, then post a video with the person tagged. Here’s an example:
 
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6455424484655669248" width="504" height="1096" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Why is it important to include someone else in your content?
 Doing this makes it so not only is Lloyd’s audience seeing it, but so is Patrick Ward‘s connections. If Patrick validates the post with a share, comment, or like, all of Patrick’s connections who have interacted with one of his posts the past month will now see the content that Lloyd has produced.
