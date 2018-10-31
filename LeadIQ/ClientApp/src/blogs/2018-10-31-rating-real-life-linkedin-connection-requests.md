@@ -2,6 +2,14 @@
 layout: blog
 published: true
 title: Rating Real Life LinkedIn Connection Requests
+authorImage: /li-request-3.png
+author: 'Ryan O''hara '
+description: >-
+  A few weeks back, I posted a video about how to get your LinkedIn Connection
+  requests accepted. I thought today it would be a good idea to go through some
+  real life LinkedIn Connection Requests and explain why people continue to
+  struggle getting their prospects to accept them on LinkedIn.
+coverImage: /li-request-3.png
 ---
 A few weeks back, I posted a video about how to get your LinkedIn Connection requests accepted. I thought today it would be a good idea to go through some real life LinkedIn Connection Requests and explain why people continue to struggle getting their prospects to accept them on LinkedIn.
 
@@ -103,3 +111,5 @@ And remember, don’t pitch your product in the request! Come on now!
 ![[b39a3dbd8d7604119bcbcaf60aa9de1e]_Image%202018-10-22%20at%2010.24.51%20AM.png]({{site.baseurl}}/[b39a3dbd8d7604119bcbcaf60aa9de1e]_Image%202018-10-22%20at%2010.24.51%20AM.png)
 
 **##CHECK OUT OUR SOCIAL SELLING WORKSHOP WE DID ONLINE! LEARN HOW YOU SHOULD SELL ON LINKEDIN**[Social Selling Workshop](https://ter.li/j910oo "Social Selling Workshop")
+
+
