@@ -31,7 +31,7 @@ These are real LinkedIn Connection Requests I got last week. Let's analyze them 
 
 ## Awful LinkedIn Connection Request Play #1: The Industry Call Out
 
-![li-request1-1.png]({{site.baseurl}}/li-request1-1.png)
+![li-request1-1.png]({{site.baseurl}}/media/li-request1-1.png)
 
 This poor guy was doomed from the start. First off, they opened up with an “I” sentence about their goal. The fact that this person is looking to connect with experienced advertising and marketing professionals is amazing. Why is that a good reason for me to add them on LinkedIn though?
 
