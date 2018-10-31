@@ -13,9 +13,7 @@ class LayoutFooter extends React.Component {
 
     render() {
         let getTitle = "", getMeta = "";
-
         if (window.location.href) {
-
             {
                 (() => {
                     switch (window.location.pathname.replace(/^\/([^\/]*).*$/, '$1')) {
@@ -64,17 +62,6 @@ class LayoutFooter extends React.Component {
                     }
                 })()
             }
-
-
-            var getData = "";
-            if (window.location.pathname.replace(/^\/([^\/]*).*$/, '$1') === "blog" || window.location.pathname.replace(/^\/([^\/]*).*$/, '$1') === "podcasts") {
-                getData = window.location.pathname.split("/").slice(-1).join("/");
-            }
-            else if (window.location.pathname.replace(/^\/([^\/]*).*$/, '$1') === "") {
-                getData = "LeadIQ Prospect Smarter";
-            }else {
-                 getData = window.location.pathname.replace(/^\/([^\/]*).*$/, '$1');
-            }
         }
         return (
             <div>
@@ -84,7 +71,6 @@ class LayoutFooter extends React.Component {
                     <meta name="description" content={getMeta} />
                 </Helmet>
                 <div className="content">
-                    
                     {this.props.children}
                 </div>
                 <Footer />

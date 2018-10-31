@@ -43,8 +43,8 @@ class BlogList extends React.Component {
                                 <div className="card-body card-blog">
                                     <div className="row">
                                     {this.state.blogs.map((blog, index) => {
-                                        return (
-                                            <div className={(index % 2 === 0) ? "col-md-7 col-lg-7 pt-3 pb-3" : "col-md-5 col-lg-5 pt-3 pb-3"} >
+                                            return (
+                                                <div className="col-md-6 col-lg-6 pt-3 pb-3" key={index}>
                                                 <Link to={blog.navLink}>
                                                     <div className="blog-card-design" style={{
                                                         backgroundImage: `linear-gradient(-180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) , url(${blog.BackgroundImage})`,
