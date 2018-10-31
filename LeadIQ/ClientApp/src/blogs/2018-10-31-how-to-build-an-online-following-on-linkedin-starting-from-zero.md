@@ -103,10 +103,8 @@ Generally speaking, LinkedIn doesn’t like links in post, which is probably why
 
 Here’s an example of a post I did recently that’s getting solid engagement. The reason it worked is because I didn’t just bring up what’s in the video. I shared my editorial thoughts on some business experiences I had gone through recently, and then tied it to the video. I also tried to make the post entertaining by telling a story I knew would drive a discussion.
 
-
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6456265391588069376" width="504" height="996" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
  
-
 Remember, when you are social selling, it’s not about getting millions of views on your post. It’s about getting the right views.
 
 ### Once you build a big enough following, you can graduate into posting your own content by yourself.
