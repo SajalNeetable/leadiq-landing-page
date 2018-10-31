@@ -5,7 +5,7 @@ prose:
   rooturl: ''
   siteurl: 'https://beta.leadiq.com/blog/'
   relativeLinks: 'https://beta.leadiq.com/blog/links.jsonp'
-  media: 'media'
+  media: 'LeadIQ/ClientApp/public/img/'
   metadata:
     LeadIQ/ClientApp/src/blogs:
       - name: "layout"
