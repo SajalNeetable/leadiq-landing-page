@@ -18,7 +18,6 @@ authorProfile: >-
   impressions. He also mentors two accelerators, The Iron Yard and The Alpha
   Loft, and hosts The Prospecting Podcast.
 author: Ryan O'Hara
-coverImage: img/Ryan-OHara-Headshot.png
 ---
 Some of our reps were asking what’s going on? It sucked. Frankly, it was super frustrating.
 
@@ -30,4 +29,4 @@ It turns out that we misconfigured something with our link tracking, which made 
 
 I know for  fact some of you may have issues with your prospecting emails getting delivered, so I put together this video explaining a bunch of this stuff to the best my abilities. If you are dealing  with this issue, I explain the solution too:
 
-<script type=“text/javascript” id=“vidyard_embed_code_qfapJ8L6YyAnpm2iEoQogE” src=“//play.vidyard.com/qfapJ8L6YyAnpm2iEoQogE.js?v=3.1.1&type=inline”></script>
+<iframe class=“vidyard_iframe” src=“//play.vidyard.com/qfapJ8L6YyAnpm2iEoQogE.html?v=3.1.1" width=“640” height=“360" scrolling=“no” frameborder=“0" allowtransparency=“true” allowfullscreen></iframe>
