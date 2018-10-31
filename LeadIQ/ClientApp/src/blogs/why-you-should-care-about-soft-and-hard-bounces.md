@@ -30,3 +30,4 @@ It turns out that we misconfigured something with our link tracking, which made 
 I know for  fact some of you may have issues with your prospecting emails getting delivered, so I put together this video explaining a bunch of this stuff to the best my abilities. If you are dealing  with this issue, I explain the solution too:
 
 <iframe class=“vidyard_iframe” src=“//play.vidyard.com/qfapJ8L6YyAnpm2iEoQogE.html?v=3.1.1" width=“640” height=“360" scrolling=“no” frameborder=“0" allowtransparency=“true” allowfullscreen></iframe>
+                                                                                                   <script type="text/javascript" id="vidyard_embed_code_qfapJ8L6YyAnpm2iEoQogE" src="//play.vidyard.com/qfapJ8L6YyAnpm2iEoQogE.js?v=3.1.1&type=inline"></script>   
