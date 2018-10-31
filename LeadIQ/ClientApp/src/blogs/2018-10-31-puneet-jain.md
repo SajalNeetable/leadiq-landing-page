@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: puneet jain
 ---
 ## A New Post
