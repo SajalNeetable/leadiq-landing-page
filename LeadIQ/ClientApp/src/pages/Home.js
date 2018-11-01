@@ -71,7 +71,7 @@ class Home extends React.Component {
                         <div className="row">
                             <div className="col-sm-6">
                                 <h1 className="homeStepTitle">The new way to prospect</h1>
-                                <p>Tierd of looking for your prospects in an old stale database? The mordern sales rep researches their prospects first. Find verified data in real time as you browse the web.</p>
+                                <p>Tired of looking for your prospects in an old stale database? The mordern sales rep researches their prospects first. Find verified data in real time as you browse the web.</p>
                                 <ul className="list-unstyled">
                                     <CheckboxItem text="Verified work emails and personal emails" />
                                     <CheckboxItem text="Cell phones(no gatekeepers)" />
