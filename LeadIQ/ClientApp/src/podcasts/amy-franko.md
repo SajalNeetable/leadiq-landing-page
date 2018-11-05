@@ -1,9 +1,10 @@
 ---
-title: High Fives with Amy Volas
-description: Ryan O'Hara and Amy Volas dive into prospecting in the recruiting world, and how to practice good form to book more connections.
-coverImage: ./img/podcast/podcast-image-4.jpg
+title: High Fives with Amy Franko
+description: Ryan O'Hara and Amy Franko dive into prospecting in the recruiting world, and how to practice good form to book more connections.
+coverImage: ./img/podcast/amy-franko-podcast-cover.jpg
 refLink: ter.li/8qkeqy
 
-audioLinks: https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F472885674&amp;auto_play=false&amp;show_artwork=true&amp;visual=true&amp;origin=twitter
-webImage: ./img/podcast/video-img/image-1.png
+audioLinks: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/525194919&color=%2300d586&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
+
+webImage: ./img/podcast/amy-franko-podcast-cover.jpg
 ---
