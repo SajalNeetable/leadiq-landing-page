@@ -56,7 +56,8 @@ Most teams buy Slack because they want to have a more effective way of connectin
 
 The integrations come likely only come into play if their prospects’ are using a competing chat application. 
 
-![slack website.png](img/slack website.png)
+![slackwebsite.png](img/slackwebsite.png)
+
 
 That’s the difference here. If you want to pick solid account to go after, you need to make sure there is a healthy balance between those two questions. 
 
@@ -84,7 +85,8 @@ This one is not a huge secret anymore, but websites that allow customers to shar
 
 When I was building out LeadIQ’s target account lists for this month, I eyeballed accounts that wrote reviews about both Outreach and SalesLoft. 
 
-![g2crowd outreach.png](img/g2crowd outreach.png)
+![g2crowd-outreach.png](img/g2crowd-outreach.png)
+
 
 If you look at the above screenshot from G2Crowd, I can see that over 700+ customers have written reviews about Outreach. 
 
