@@ -1,7 +1,7 @@
 ---
 layout: blog
 published: true
-title: How to Pick The Best Accounts to Prospect.md
+title: How to Pick The Best Accounts to Prospect
 author: img/Ryan-OHara-Headshot.png
 authorProfile: >-
   Ryan O'Hara has been an early employee at several startups helping them with
