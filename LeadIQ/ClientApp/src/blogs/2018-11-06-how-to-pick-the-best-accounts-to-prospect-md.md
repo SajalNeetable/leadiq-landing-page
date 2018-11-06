@@ -2,6 +2,20 @@
 layout: blog
 published: true
 title: How to Pick The Best Accounts to Prospect.md
+author: img/Ryan-OHara-Headshot.png
+authorProfile: >-
+  Ryan O'Hara has been an early employee at several startups helping them with
+  marketing and prospecting tactics, including Dyn who was acquired by Oracle
+  for $600+ million in 2016. He's had prospecting campaigns featured in Fortune,
+  Mashable, and TheNextWeb.
+
+  Ryan specializes in branding, business development, prospecting, and coaching
+  people on how to make good digital first impressions. He also mentors two
+  accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting
+  Podcast.
+publishDate: 'Nov 6, 2018'
+coverImage: img/finding the right accounts.png
+authorImage: img/Ryan-OHara-Headshot.png
 ---
 Over the past month, I’ve been researching working on assigning new accounts for our SDR team. Today we’re going to dive into some tactical ways to find some accounts for you to prospect. 
 
