@@ -29,7 +29,8 @@ Just as a reminder for the newer folks out there who don’t know what account b
 
 There are two things you should think about before assigning an account to your rep.
 
-![finding the right accounts.png](img/finding the right accounts.png)
+![finding_the_right_accounts.png](img/finding_the_right_accounts.png)
+
 
 _The best accounts are accounts that your company can help the most, but also have the highest  chance of responding to your prospecting._
 
