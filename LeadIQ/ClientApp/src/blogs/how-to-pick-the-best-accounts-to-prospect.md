@@ -7,15 +7,18 @@ authorProfile: >-
   Ryan O'Hara has been an early employee at several startups helping them with
   marketing and prospecting tactics, including Dyn who was acquired by Oracle
   for $600+ million in 2016. He's had prospecting campaigns featured in Fortune,
-  Mashable, and TheNextWeb.
-
-  Ryan specializes in branding, business development, prospecting, and coaching
-  people on how to make good digital first impressions. He also mentors two
-  accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting
-  Podcast.
+  Mashable, and TheNextWeb. Ryan specializes in branding, business development,
+  prospecting, and coaching people on how to make good digital first
+  impressions. He also mentors two accelerators, The Iron Yard and The Alpha
+  Loft, and hosts The Prospecting Podcast.
 publishDate: 'Nov 6, 2018'
 coverImage: img/finding the right accounts.png
 authorImage: img/Ryan-OHara-Headshot.png
+description: >-
+  No matter what company size you are, if you work in sales, it’s very likely
+  that you are implementing an account based sale strategy. There are pros and
+  cons to prospecting on an account by account basis, by one of the biggest
+  drawbacks is the amount of time it takes to find good accounts to go after.
 ---
 Over the past month, I’ve been researching working on assigning new accounts for our SDR team. Today we’re going to dive into some tactical ways to find some accounts for you to prospect. 
 
@@ -190,4 +193,4 @@ If you want to work off of posts that aren't yours, that's also a good strategy 
 
 ## Conclusion
 
-When it comes to prospecting, half the battle is picking the right accounts to go after. If you can successfully do this, you should be able to increase your prospecting response rate significantly, and more important close the business you bring in. 
+When it comes to prospecting, half the battle is picking the right accounts to go after. If you can successfully do this, you should be able to increase your prospecting response rate significantly, and more important close the business you bring in.
