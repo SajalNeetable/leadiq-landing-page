@@ -2,7 +2,7 @@
 layout: blog
 published: true
 title: How to Pick The Best Accounts to Prospect
-author: img/Ryan-OHara-Headshot.png
+author: Ryan O'Hara
 authorProfile: >-
   Ryan O'Hara has been an early employee at several startups helping them with
   marketing and prospecting tactics, including Dyn who was acquired by Oracle
