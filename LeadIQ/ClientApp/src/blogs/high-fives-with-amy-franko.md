@@ -9,9 +9,9 @@ description: >-
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/525194919&amp;color=00d586&amp;show_reposts=fals"></iframe>
 
-**Ryan:** You're listening to the LeadIQ podcast, the best prospecting podcast in the entire world. We save sales teams time by finding lead data, building prospect list and sending that data into your sales tools so you can be more thoughtful with your outreach. Signup today for 100 free leads. 
+I am speaking with Amy Franko today. CEO of [Amy Franko](https://amyfranko.com/), a Sales Consultancy. Tune in to hear about Amy's new book, her experience in sales, which led her to found her company. 
 
-I am speaking with Amy Franko today. CEO of [Amy Franko](https://amyfranko.com/), a Sales Consultancy. Amy, tell us a little about yourself. 
+**Ryan:** You're listening to the LeadIQ podcast, the best prospecting podcast in the entire world. We save sales teams time by finding lead data, building prospect list and sending that data into your sales tools so you can be more thoughtful with your outreach. Signup today for 100 free leads. 
 
 **Amy:** I am based out of Columbus, Ohio. In the first 10 years of my professional selling career I spent at companies like IBM and Lenovo, I was a field seller and a responsible for selling PC products. I started my own company about 11 years ago now. I kinda call this entrepreneurial selling, which is a completely different Rodeo and building my own company and my own book of business from scratch. 
 
