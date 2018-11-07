@@ -1,7 +1,7 @@
 ---
 layout: blog
 published: true
-title: High Fives with Amy Franko.md
+title: High Fives with Amy Franko
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/525194919&amp;color=00d586&amp;show_reposts=fals"></iframe>
 
