@@ -14,7 +14,7 @@ The High Fives Podcast is {Ryan fill in some blanks here} - tell the user what t
 
 **Ryan:** You're listening to the LeadIQ podcast, the best prospecting podcast in the entire world. We save sales teams time by finding lead data, building prospect list and sending that data into your sales tools so you can be more thoughtful with your outreach. Signup today for 100 free leads. 
 
-I am speaking with Amy Franko today. Amy, tell us a little about yourself. 
+I am speaking with Amy Franko today. CEO of [Amy Franko](https://amyfranko.com/), a Sales Consultancy. Amy, tell us a little about yourself. 
 
 **Amy:** I am based out of Columbus, Ohio. In the first 10 years of my professional selling career I spent at companies like IBM and Lenovo, I was a field seller and a responsible for selling PC products. I started my own company about 11 years ago now. I kinda call this entrepreneurial selling, which is a completely different Rodeo and building my own company and my own book of business from scratch. 
 
@@ -57,4 +57,3 @@ I am speaking with Amy Franko today. Amy, tell us a little about yourself.
 **Ryan:** Do you have any other things that you want to tell people out there in the world that are listening? You have a chance to tell prospectors. One really important thing, what would be the one thing?
 
 **Amy:** when I think about somebody who's in a sales role and who is prospect in his prospecting, you are building a book of business and if you are, you are the leader. You are the leader of your sales journey. You are a leader for your prospects. You're a leader for your clients. So I think that's probably the thing I would leave them with is really step into your own leadership and see yourself as a leader and that your role is to lead your prospects, lead your clients to solutions that will help them solve their problems.
-
