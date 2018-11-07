@@ -9,8 +9,6 @@ description: >-
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/525194919&amp;color=00d586&amp;show_reposts=fals"></iframe>
 
-The High Fives Podcast is {Ryan fill in some blanks here} - tell the user what the High Fives podcast is and what they can expect listening to it  
-
 **Ryan:** You're listening to the LeadIQ podcast, the best prospecting podcast in the entire world. We save sales teams time by finding lead data, building prospect list and sending that data into your sales tools so you can be more thoughtful with your outreach. Signup today for 100 free leads. 
 
 I am speaking with Amy Franko today. CEO of [Amy Franko](https://amyfranko.com/), a Sales Consultancy. Amy, tell us a little about yourself. 
