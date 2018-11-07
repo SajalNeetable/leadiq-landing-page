@@ -114,7 +114,8 @@ One of the other things that you can do is do a keyword search on job postings. 
 
 For example, when I was assigning accounts this month to our reps, I looked for BDR and SDR job posts that mentioned SalesLoft and Salesforce. 
 
-![adp job posting.png](img/adp job posting.png)
+![adp-job-posting.png](img/adp-job-posting.png)
+
 
 If ADP mentions they are hiring BDRs who know how to use SalesLoft, they likely would be a good account for us to go after because our integration with SalesLoft helps them more than people who don’t integrate with SalesLoft. 
 
@@ -136,7 +137,8 @@ To do this, go up to your search bar on LinkedIn, and type in a keyword plus the
 
 With LinkedIn you can search for hiring managers that put that they are hiring in their headline, job postings, and maybe the biggest secret weapon, CONTENT search.
 
-![Screen Recording 2018-11-05 at 04.41 PM.gif](img/Screen Recording 2018-11-05 at 04.41 PM.gif)
+![content-search-linkedin.gif](/img/content-search-linkedin.gif)
+
 
 With content search, you can see which people on LinkedIn have posted about hiring. This becomes extreme useful because you can now prospect these people and offer to share their post. 
 
@@ -176,7 +178,8 @@ One of my favorite tips for assinging accounts is to go after your customer’s 
 
 Let’s pretend that we just closed Drift as a customer, and the person who signed the contract was [Armen Zildjian](https://www.linkedin.com/in/armen-m-zildjian-5603861/). One of the ways I find new accounts for reps is by looking at our new customer’s previous companies. 
 
-![previous companies.png](img/previous companies.png)
+![previous-companies.png](img/previous-companies.png)
+
 
 Your company solves problems right? When your buyer leaves one company and has a problem at the new company, there is usually a good chance their old company had the same problem. These companies are more likely to respond to you, and if you have permission from your new customer, you can even ask them for insight about the other account, or permission to namedrop them. 
 
