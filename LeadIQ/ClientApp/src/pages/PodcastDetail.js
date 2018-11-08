@@ -5,7 +5,7 @@ import PodcastAudio from "../components/PodcastAudio";
 import PodcastVideo from "../components/PodcastVideo";
 import TopNav from "../components/TopNav";
 
-class BlogDetail extends React.Component {
+class PodcastDetails extends React.Component {
     constructor(props) {
         super(props);
 
@@ -50,12 +50,11 @@ class BlogDetail extends React.Component {
                             link={this.state.podcast.attributes.refLink}
                         />
                         <div className="blog-container">
-                        <div className="container">
-                            <PodcastVideo
-                                    audioLinks={this.state.podcast.attributes.audioLinks}
-                                    webImage={this.state.podcast.attributes.webImage}
-                            />
-                        </div>
+                            <div className="container">
+                                <div className="card">
+                                    <div className="card-body card-blog" dangerouslySetInnerHTML={{ __html: this.state.podcastContent }} />
+                                </div>
+                            </div>
                         </div>
                     </div>
                 }
@@ -64,4 +63,4 @@ class BlogDetail extends React.Component {
     }
 }
 
-export default BlogDetail;
+export default PodcastDetails;

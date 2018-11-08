@@ -8,7 +8,7 @@ class Podcast extends React.Component {
         super(props);
         this.state = {
             podcasts: podcastAudioLists
-        }
+        };
     }
 
     componentDidMount() {
