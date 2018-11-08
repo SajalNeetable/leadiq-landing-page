@@ -20,11 +20,9 @@ class PodcastAudio extends React.Component {
                             </div>
                             <div className="col-md-8 col-lg-8">
                                 <p>{this.props.description}</p>
-                                <p>More info on LeadIQ: <Link to="leadiq.com">{this.props.link}</Link></p>
                             </div>
                         </div>
                     </section>
-
                 </div>
             </div>
         );
