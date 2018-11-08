@@ -200,3 +200,12 @@ If you want to work off of posts that aren't yours, that's also a good strategy 
 ## Conclusion
 
 When it comes to prospecting, half the battle is picking the right accounts to go after. If you can successfully do this, you should be able to increase your prospecting response rate significantly, and more important close the business you bring in.
+
+![How-to-Sell-to-a-CEO.png](/img/How-to-Sell-to-a-CEO.png)
+
+[## EVER WANT TO SELL TO CEO'S? WE ARE GIVING YOU THE CHANCE TO PICK THE BRAIN OF A REAL LIFE CEO!](https://ter.li/m5q3s1)
+
+
+
+
+
