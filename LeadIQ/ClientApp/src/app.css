@@ -1535,19 +1535,22 @@ img {
 .carousel-caption-content {
     position: absolute;
     right: 15%;
-    top: 43%;
-    left: 10%;
+    top: 70%;
+    left: 16%;
     z-index: 10;
     padding-top: 20px;
     padding-bottom: 20px;
     color: #fff;
     text-align: center;
-    width: 20%;
 }
 .homeStepTitle {
     color: #485366;
     font-weight: 400;
     letter-spacing: -1px;
+}
+.video-slider-container {
+    padding-right: 7%;
+    padding-left: 7%;
 }
 
 @media screen and (max-width: 1440px) {
