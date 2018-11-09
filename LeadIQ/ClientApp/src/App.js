@@ -1,5 +1,5 @@
 ﻿import React from 'react';
-import { Route } from 'react-router';
+import { Route  } from 'react-router';
 import { BrowserRouter, Switch } from 'react-router-dom';
 import LayoutFooter from './components/LayoutFooter';
 import TopNav from './components/TopNav';
@@ -51,8 +51,10 @@ class App extends React.Component {
                         <Route exact path='/podcasts' component={() => (<div><TopNav /><Podcast /></div>)} />
                         <Route exact path='/podcasts/:podcastId' component={PodcastDetail} />
 
+                        <Route path='/video' component={() => (<div><TopNav /><Videos /></div>)} />
+                        <Route path='/video/:videoId'component={() => (<div><TopNav /><Videos /></div>)} />
+
                         <Route exact path='/webinars' component={() => (<div><TopNav /><Webinar /></div>)} />
-                        <Route exact path='/video' component={() => (<div><TopNav /><Videos /></div>)} />
                         <Route exact path='/prospect-anywhere' component={() => (<div><TopNav /><ProspectAnywhere /></div>)} />
                         <Route exact path='/account-based-prospector' component={() => (<div><TopNav /><AccountBasedProspector /></div>)} />
                         <Route exact path='/public-sales-announcements' component={() => (<div><TopNav /><PublicSalesAnnouncements /></div>)} />
