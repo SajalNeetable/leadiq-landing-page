@@ -5,6 +5,7 @@ import BlogAuthor from '../components/BlogAuthor';
 import BlogHeader from '../components/BlogHeader';
 import FreeLeads from '../components/buttons/FreeLeads';
 import TopNav from "../components/TopNav";
+import Helmet from 'react-helmet';
 
 class BlogDetail extends React.Component {
     constructor(props) {
@@ -44,6 +45,14 @@ class BlogDetail extends React.Component {
                     this.state.blog &&
                     <div>
                         <TopNav />
+                        <Helmet>
+                            <meta charSet="utf-8" />
+                            <title>{this.state.blog.attributes.metaTitle}</title>
+                            <meta name="description" content={this.state.blog.attributes.metaDescription} />
+                            <meta name="keywords" content={this.state.blog.attributes.metaKeywords} />
+                        </Helmet>
+
+
                         <BlogHeader
                             title={this.state.blog.attributes.title}
                             description={this.state.blog.attributes.description}

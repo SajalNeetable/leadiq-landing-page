@@ -37,7 +37,7 @@ class TopNav extends React.Component {
                         <ul className="navbar-nav ml-auto">
 
                             <li className={(this.state.activeNav === "customers") ? "nav-item  dropdown pt-2 active" : "nav-item  dropdown pt-2"}>
-                                <a href="/customers" className="nav-link liq-nav-link ml-2 mr-2 mb-2">CUSTOMERS</a>
+                                <a href="/" className="nav-link liq-nav-link ml-2 mr-2 mb-2">CUSTOMERS</a>
                                 <span  aria-labelledby="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></span>
                                 <div className="dropdown-menu  row popupCard">
                                     <div className="row">
