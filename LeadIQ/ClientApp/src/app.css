@@ -1319,6 +1319,10 @@ img {
     border: none;
     box-shadow: 0 7px 21px 0 rgba(0, 0, 0, 0.11);
 }
+.api-reference{
+    display: inline;
+    color: #787878;
+}
 
 
 .pointerDesign:before {
@@ -1332,6 +1336,7 @@ img {
     border-left: 20px solid #fff;
     border-right: 25px solid transparent;
     border-bottom: 40px solid #fff;
+    z-index: -1;
 }
 .terms-container {
     position: relative;
