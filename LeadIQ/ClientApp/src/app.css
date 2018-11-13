@@ -1319,6 +1319,10 @@ img {
     border: none;
     box-shadow: 0 7px 21px 0 rgba(0, 0, 0, 0.11);
 }
+.api-reference{
+    display: inline;
+    color: #787878;
+}
 
 
 .pointerDesign:before {
