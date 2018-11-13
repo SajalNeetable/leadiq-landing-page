@@ -2,6 +2,7 @@
 import GetStarted from '../components/buttons/GetStarted';
 import BlogCards from '../components/cards/BlogCards';
 import blogTemplates from './../data/blogs.json';
+import { Link } from "react-router-dom";
 
 class BlogList extends React.Component {
     constructor(props) {
@@ -13,6 +14,9 @@ class BlogList extends React.Component {
 
     componentDidMount() {
         window.scrollTo(0, 0)
+        fetch('https://leadiq.azurewebsites.net/api/blogs')
+            .then(response => response.json())
+            .then(data => console.log("response data", data))
     }
 
 
@@ -30,7 +34,6 @@ class BlogList extends React.Component {
                                 </div>
                             </section>
                         </div>
-
                     </div>
                     <div className="faq-waveDesign">
                         <img src="/img/wave-four.png" className="img-fluied faq-waveDesignProspect" alt="wave" />
@@ -39,7 +42,25 @@ class BlogList extends React.Component {
                         <div className="container">
                             <div className="card">
                                 <div className="card-body card-blog">
-                                    {this.state.blogs.map((blog, index) => { return (<BlogCards blogs={blog} key={index} />) })}
+                                    <div className="row">
+                                    {this.state.blogs.map((blog, index) => {
+                                        return (
+                                            <div className={(index % 4 === 0 || (index + 1) % 4 === 0) ? "col-md-7 col-lg-7 pt-3 pb-3" : "col-md-5 col-lg-5 pt-3 pb-3"}>
+                                                <Link to={"/blog/" + blog.url.substring(0, blog.url.indexOf('.'))}>
+                                                        <div className="blog-card-design" style={{
+                                                                backgroundImage: `linear-gradient(-180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) , url(${blog.coverImage})`,
+                                                        }}>
+                                                            <div className="customer-card-text">
+                                                                <h3 className="text-white">{blog.title}</h3>
+                                                                <img src={blog.authorImage} style={{ width: "25px" }} className="rounded-circle" alt={blog.author} />
+                                                                <p className="text-white">{blog.author}</p>
+                                                            </div>
+                                                        </div>
+                                                </Link>
+                                            </div>
+                                        )
+                                        })}
+                                    </div>
                                 </div>
                             </div>
                         </div>
