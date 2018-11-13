@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How To Use Your Prospecting Lists on Social Media
 description: We come across and work with email prospect lists all the time from various sources. Sometimes from a sponsored event or a webinar we hosted, other times it might be from a list we exported from our CRM, or from when we use LeadIQ to build a list from across the web
 coverImage: img/landscape-terminator-time-travel-theories.jpg

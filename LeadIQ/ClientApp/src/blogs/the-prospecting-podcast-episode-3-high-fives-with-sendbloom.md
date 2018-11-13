@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: The Prospecting Podcast Episode 3 High Fives with Sendbloom
 description: Hey Gang, Today we’re excited to announce Episode 3 of The Prospecting Podcast.
 coverImage: /img/thunderpunch.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title:  How To Bulk Import LeadIQ Leads into Your CRM
 description:
 coverImage: /img/crm-help-bulk-import.jpg

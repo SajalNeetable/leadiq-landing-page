@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: 3 Actionable Tips for Turning Cold Prospects into High-Quality Leads
 description: Driving more traffic and generating more leads is a challenge for all marketers and website owners. Running a cold campaign – marketing to new customers who have never heard of you – can be a great way to boost the traffic to your site. A cold campaign can include cold emails, cold calls and cold advertising too.
 coverImage: /img/yoda-advice-featured.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: What Are Your Sales Team’s Talents?
 description: Any good sales manager or startup founder should do a talent audit of their sales team. When we interview Account Executives and Sales Development Representatives, we often ask them to share their stories, and understand how they got into sales.
 coverImage: /img/work-in-sales.jpg

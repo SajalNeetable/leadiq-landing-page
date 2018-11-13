@@ -1,4 +1,5 @@
 ---
+layout: podcast
 title: High Fives with Amy Franko
 description: >-
   Ryan O'Hara and Amy Franko dive into prospecting in the recruiting world, and

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How To Make Sales Video That Don’t Suck
 description: It’s no secret that I love using video to sell and reach prospects. On LinkedIn, we’ve been killing it with getting engagement with prospects over video. Video can be a serious gateway to start conversations with people, and a really fun tool to use to prospect
 coverImage: img/filming.jpg

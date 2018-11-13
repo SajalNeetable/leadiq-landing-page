@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives with Patrick Barnes
 description: We sat down and talked with Patrick Barnes, CEO of Advocately about using free offers to get prospects to book meetings with you.
 coverImage: ./img/podcast/podcast-image-17.jpg

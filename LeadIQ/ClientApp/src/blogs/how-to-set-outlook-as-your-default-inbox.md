@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How to set Outlook as Your Default Inbox
 description: The year is 2040. As you combat sentient robots in full scale rebellion of their former human owners, you can only think of one thing
 coverImage: img/landscape-terminator-time-travel-theories.jpg

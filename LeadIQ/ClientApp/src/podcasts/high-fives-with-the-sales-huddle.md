@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With The Sales Huddle
 description: In this weeks prospecting podcast, we talked Roger Bernardino, The Sales Huddles VP of Business Development. This episode, we talk a ton about professional development, how to get your team rolling faster, and how they prospect their HR game to the masses.
 coverImage: ./img/podcast/podcast-image-25.jpg

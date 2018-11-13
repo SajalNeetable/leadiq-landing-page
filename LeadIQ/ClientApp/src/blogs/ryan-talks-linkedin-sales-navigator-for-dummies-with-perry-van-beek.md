@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Ryan talks LinkedIn Sales Navigator for Dummies with Perry van Beek
 description: Ryan O’Hara sat down with social selling expert, Perry van Beek to talk about his new book, LinkedIn Sales Navigator for Dummies. On this episode they talk about inbound selling and outbound selling, and how to live off LinkedIn to build your pipeline
 coverImage: 

@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With TextExpander
 description: In this episode we talk with Mike Burda, head sales guy at Smile, the company behind TextExpander.
 coverImage: ./img/podcast/podcast-image-27.jpg

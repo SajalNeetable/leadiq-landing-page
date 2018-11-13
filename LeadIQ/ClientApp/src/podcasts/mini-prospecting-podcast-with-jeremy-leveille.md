@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: Mini Prospecting Podcast With Jeremy Leveille
 description: Ryan O'Hara and Jeremy Leveille were on a train heading to Boston and we decided to record a quick podcast about some new trends Jeremy's noticing with prospecting.
 coverImage: ./img/podcast/podcast-image-9.jpg

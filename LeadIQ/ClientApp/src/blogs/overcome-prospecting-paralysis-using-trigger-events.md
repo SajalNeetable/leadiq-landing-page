@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Overcome Prospecting Paralysis Using Trigger Events
 description: I get a lot folks always asking where does LeadIQ get their data? We do provide an array of cell phones, direct dials, email addresses, and company data.  I can’t give you all the secrets we use, but I can go into it a little bit. Here’s a quick video discussing a few examples of the different things LeadIQ does to find your prospects
 coverImage: img/giphy-run.gif

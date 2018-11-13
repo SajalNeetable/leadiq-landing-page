@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives with Noah Goldman
 description: We sat down and talked with Noah Goldman about prospecting at the enterprise level, and how many companies get it wrong.
 coverImage: ./img/podcast/podcast-image-18.jpg

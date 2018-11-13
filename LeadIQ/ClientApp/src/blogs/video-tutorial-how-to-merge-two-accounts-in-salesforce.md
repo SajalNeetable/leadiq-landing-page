@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title:  How to Merge Two Accounts in Salesforce
 description: The other day, Jeremy Leveille, one of our biz dev specialists asked me, “How the hell do you merge accounts in Salesforce?” Rather than quietly help him, I thought… man why I don’t just show the whole world how to do it. Here’s a quick video on how to do it (you may want to full screen this video)
 coverImage: 

@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Morgan Ingram
 description: Back in February, Ryan O'Hara from LeadIQ interviewed Morgan Ingram, who is a Manager of Sales Development at Terminus and talked about how he's been successful as a first time Sales Development Rep, and how he's figured out the wild world of prospecting.
 coverImage: ./img/podcast/podcast-image-21.jpg

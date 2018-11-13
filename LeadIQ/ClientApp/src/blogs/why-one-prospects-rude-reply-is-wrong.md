@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Why One Prospect’s Rude Reply Is Wrong
 description: One of my SDRs sent an entertaining cold email to generate opportunities. As many of you know, while we’re getting the wheels turning on LeadIQ, we’re actively prospecting using our own product to build our company. We believe that the best way to know what our customers are going through is do what they do everyday; send cold emails.
 coverImage: /img/trex-animal.jpg

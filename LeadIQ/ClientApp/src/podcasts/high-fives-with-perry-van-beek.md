@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Perry van Beek
 description: Ryan O'Hara sits down with Perry van Beek, social selling expert and author of the newly released LinkedIn Sales Navigator for Dummies.
 coverImage: ./img/podcast/podcast-image-2.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How to Win More Deals by Breaking with Tradition
 description: I couldn’t believe it. “If they have 12,000 likes on Facebook, they must be doing something right. And if they understand social media, they’ll understand this
 coverImage: img/abe-lincoln.jpg

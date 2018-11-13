@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Jamming Around Prospecting Ideas with Alex Perkins
 description: When it comes to prospecting, sometimes it can be tough to think of creative prospecting ideas. S today, Alex Perkins and I sat down and discussed some cool prospecting ideas Alex has tried at Bizible, and new ones that be worth trying.  We talk about using direct mail for prospects, following up when you try and something and don’t hear back, and also how to take things to the next level. Watch our brainstorm here
 coverImage: 

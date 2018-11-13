@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: The Prospecting Podcast With Alex Goldfayn
 description: Ryan O'Hara sat down and talked with Alex Goldfayne, Author of Bold Selling. We talk about some ways sales reps can be bolder when they sell.
 coverImage: ./img/podcast/podcast-image-11.jpg

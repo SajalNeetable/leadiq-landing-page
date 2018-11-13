@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Talking About Campaign Based Prospecting at FlipMyFunnel
 description: Hey Everyone! I’m not sure if you saw this, but FlipMyFunnel is doing an event in Boston. The event is pretty cool, but one of the smart things they are doing to promote it is asking for user generated videos where potential speakers pitch a 10 minute talk they want to do at the conference. I decided to throw my hat in the ring with this video
 coverImage: 

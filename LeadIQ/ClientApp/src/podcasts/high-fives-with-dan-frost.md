@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Dan Frost
 description: Dan Frost and Ryan O'Hara talk about different ways to prospect when you start working at a new company.
 coverImage: ./img/podcast/podcast-image-13.jpg

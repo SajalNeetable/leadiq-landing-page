@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: 5 Great Prospecting Examples That Actually Worked
 description: Last week was a pretty busy week for me. I traveled out to visit many sales teams in the Bay Area to talk about prospecting, and stopped in at Saastr. While there, I kept talking with folks about their favorite prospecting stories, and before long, I had a cool blog post idea. What if I could put together an inspirational post where some of our friends shared their favorite personal prospecting stories of all time? Sometimes it just helps a ton to hear what others are doing to inspire you to take the leap and be different
 coverImage: img/deathwish-coffee.png

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Podcast with Jeremy Leveille
 description: We sat down and talked with Jeremy Leveille, who is a practicing Channel Sales Manager at Navisite, and talked about how he prospects, exceeding his quota over the past few years.
 coverImage: /img/sunset-picture.jpg

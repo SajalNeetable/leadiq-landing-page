@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Carlos Scott
 description: Ryan O'Hara sits down and talks with Carlos Scott, from Xeeva about the SDR world, and what's happening in the world of prospecting.
 coverImage: ./img/podcast/podcast-image-1.jpg

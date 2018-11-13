@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives with Heather Morgan
 description: In this weeks episode of the Prospecting Podcast, Ryan O'Hara sat down with Heather Morgan, CEO of SalesFolk. Heather is one of the leading experts in cold email copy, and after many years of writing and helping companies figure out their cold email strategy, SalesFolk is helping some of the world's best B2B write better cold emails. In this episode, we'll talk about some best practices in cold email, how Heather found her groove, and also discovering product market fit using prospecting.
 coverImage: ./img/podcast/podcast-image-22.jpg

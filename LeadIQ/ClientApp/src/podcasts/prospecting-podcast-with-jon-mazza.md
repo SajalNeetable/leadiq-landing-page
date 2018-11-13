@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives with Jon Mazza
 description: In this weeks episode of the Prospecting Podcast, we sat down and talked about cold calling with Jon Mazza, who worked at By Appointment Only, and currently works at LeadIQ.
 coverImage: ./img/podcast/podcast-image-16.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How To Brand Yourself As Rebel Brand
 description: So you’ve probably at this point heard me talk about how brand archetypes can make it easier to build your brand online, how you can pull off a “Ruler” brand, and how Taylor Swift has built her empire being a “Lover” brand. Today I thought I’d show you how to brand yourself as rebel to build up your social brand
 coverImage: img/the-fonz.jpg

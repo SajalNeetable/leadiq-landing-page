@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How to be Disruptive (and Hungry Like a Wolf)
 description: I’m not going to lie to you, you did good kid. You were funny, you were human, you were clever, you even did your homework. You did everything you were supposed to do. You connected with them in person, on LinkedIn, on Twitter, you even connected with them on Spotify after you found out that you both love Duran Duran. Even after you drafted those emails personally for them it just doesn’t seem like it’s going to happen. Sorry kid, it was a heck of a run. It’s over
 coverImage: img/pulp-fiction-mister-wolf.jpg

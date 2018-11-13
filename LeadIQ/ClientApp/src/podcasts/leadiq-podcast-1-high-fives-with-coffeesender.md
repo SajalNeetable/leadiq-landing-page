@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives with CoffeeSender
 description: Ryan O'Hara, Jim Morris, and Mei Siauw take you into the wild world of sales prospecting with special guest, seasoned sales vet, Braydan Young, cofounder of CoffeeSender.com.
 coverImage: ./img/podcast/podcast-image-31.jpg

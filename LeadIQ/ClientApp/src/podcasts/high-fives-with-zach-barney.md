@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Zach Barney
 description: In today's episode, we talk with Zach Barney from Teem. Zach talks about management, how they deal with prospecting, and some creative ways they build up pipeline. The Prospecting Podcast from LeadIQ will help you with prospecting, business development, and starting new relationships to build pipeline.
 coverImage: ./img/podcast/podcast-image-26.jpg

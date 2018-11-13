@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: More Evidence That Brand Archetyping Works
 description: I’ve written about how you can get people to love you when you do social selling using brand archetypes, and proved the Ruler brand works
 coverImage: img/tswift2.jpg

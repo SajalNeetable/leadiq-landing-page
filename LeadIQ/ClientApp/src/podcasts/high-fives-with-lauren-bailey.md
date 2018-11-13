@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Lauren Bailey
 description: Lauren Bailey, the brain behind Factor8, and Ryan O'Hara take a deep dive into cold calling, and teams can tweak just a few things to be better at calling.
 coverImage: ./img/podcast/podcast-image-8.jpg

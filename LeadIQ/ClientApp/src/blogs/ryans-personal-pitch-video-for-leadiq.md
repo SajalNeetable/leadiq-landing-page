@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Ryan’s Personal Pitch Video for LeadIQ
 description: When we’re prospecting at LeadIQ, rather than talk about us, we include a personal pitch video that shows a prospect my personality, my back story, and how the product may help. This is the video we use
 coverImage: /img/expainer-video-player.jpg

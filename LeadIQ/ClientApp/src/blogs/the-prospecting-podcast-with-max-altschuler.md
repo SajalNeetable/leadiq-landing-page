@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: High Fives with Max Altschuler
 description: Ryan sits down and talks about being a sales hacker and hacking your sales career with Max Altschuler, VP of Marketing of Outreach, and CEO of SalesHacker.
 coverImage: /img/max-altschuler.png

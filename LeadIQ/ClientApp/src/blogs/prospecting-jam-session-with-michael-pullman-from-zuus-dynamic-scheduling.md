@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Jam Session with Michael Pullman from Zuus Dynamic Scheduling
 description: I remember when I first joined LeadIQ, I did a lot of prospecting to find early adopters for our product. This is how businesses are grown. It’s not about big wins, it’s about little wins everyday. Positive replies, positive phone calls, positive demoes, closed conversions, then customer referrals. If you can get enough of these, you may just figure out a way to stay around.
 coverImage: 

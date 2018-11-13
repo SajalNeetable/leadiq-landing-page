@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How to Keep a Prospect Warm (Without a Blanket)
 description: You did it!. That C-level prospect you’ve been calling and emailing everyday for the past 3 weeks finally picked up the phone and agreed to a meeting two weeks from now
 coverImage: img/blanket.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: The Other Side of The Inbox
 description: Sending an email is simple. Everyone has the tools to spray and pray, blasting out “personalized” email to lists of people. Let’s be real, using a merge tag to add someone’s first name isn’t personalizing anything.
 coverImage: /img/SalesDevelopmentReps.png

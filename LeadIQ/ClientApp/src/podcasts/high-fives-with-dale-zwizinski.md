@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Dale Zwizinski
 description: Ryan O'Hara and Dale Zwizinski from Oracle go deep into changes happening in the prospecting world, and how Dale's experience prospecting at big companies and small has differed.
 coverImage: ./img/podcast/podcast-image-14.jpg

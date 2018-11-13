@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Cold Calling The Do’s and The Don’ts
 description: The art of cold calling takes a minute to learn and a lifetime to master.Although cold emailing has taken place as the norm for cracking into a prospect’s account cold calling is still as valuable a skill as it used to be
 coverImage: img/exiting-call.jpg

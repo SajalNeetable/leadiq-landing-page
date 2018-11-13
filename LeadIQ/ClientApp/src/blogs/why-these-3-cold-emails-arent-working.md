@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Why These 3 Cold Emails Aren’t Working
 description: Today I decided to go through some of the cold emails folks have sent me and give feedback on how to make them better. Let’s jump right in.
 coverImage: /img/ryan-scooter.jpg

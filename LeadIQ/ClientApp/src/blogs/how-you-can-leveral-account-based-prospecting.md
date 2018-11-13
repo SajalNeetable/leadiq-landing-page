@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How To Leverage Account Based Prospecting
 description: On Friday, I had a phone call with a really smart sales guy, who admitted to me that he didn’t really know what it meant to do “account based prospecting
 coverImage: img/xmas-stunt.png

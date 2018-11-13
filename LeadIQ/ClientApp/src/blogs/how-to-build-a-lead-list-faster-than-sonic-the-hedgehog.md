@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How To Build A Lead List Faster Than Sonic the Hedgehog
 description: LeadIQ has no official affiliation with SEGA.  However, we love the face of their company the swift-footed, chili dog eating Sonic the Hedgehog
 coverImage: 

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: An Obituary for the Desk Phone
 description: The business community lost a giant among office items, a staple in the sales community, and true friend. At the ripe age of 141 years, the desk phone passed quietly into the night Sunday evening. Surrounded by receptionists, sales reps, and loved ones, the desk phone lost its long battle with mobile phones.
 coverImage: img/black-and-white-phone.jpg

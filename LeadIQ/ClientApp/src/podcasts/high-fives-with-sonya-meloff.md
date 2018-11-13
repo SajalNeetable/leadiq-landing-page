@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Sonya Meloff
 description: Today on the Prospecting Podcast, we sat down with the Sales Talent Agency's cofounder, Sonya Meloff to talk about her start in prospecting selling at Monster.com, and how she's built her empire around sales and recruiting.
 coverImage: ./img/podcast/podcast-image-10.jpg

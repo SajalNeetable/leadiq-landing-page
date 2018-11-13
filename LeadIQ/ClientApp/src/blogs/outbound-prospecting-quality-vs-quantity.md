@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Outbound Prospecting Quality vs. Quantity
 description: Some tips on finding the right balance of quality and quantify with prospecting. There is a lot of hype these days in the Sales Development world around Account ­Based Selling and the need to customize your emails to resonate with your prospects, which in turn should lead to higher open/reply rates and ultimately meetings booked
 coverImage: img/client-logo.png

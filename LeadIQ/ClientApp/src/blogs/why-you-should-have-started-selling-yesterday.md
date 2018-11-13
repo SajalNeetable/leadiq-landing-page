@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Why You Should Have Started Selling Yesterday
 description: There’s a quintessential moment in the history of my startup, Ruvna, and it’s an experience I have sadly realized happens to many B2B startups. After speaking to anyone relevant to your recently launched app/company/whatever, you realize that you should have started truly selling your “world-changing” solution the minute you had something resembling an MVP.
 coverImage: 

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How To Export Any LinkedIn Contact
 description: LinkedIn is an amazing platform to live off of, but sometimes you need to do things with your LinkedIn connections off the platform. This could be anything from writing them emails, putting them into your advertising networks for retargetting, or building up a newsletter
 coverImage: img/Billy-Mays.jpg

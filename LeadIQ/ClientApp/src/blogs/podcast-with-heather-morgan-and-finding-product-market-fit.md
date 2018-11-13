@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Market Fit Using Prospecting
 description: In this weeks episode of the Prospecting Podcast, I sat down with Heather Morgan, CEO of SalesFolk. This podcast gives some thoughts about prospecting and how to find product market fit.
 coverImage: /img/leadiq-beach-dog.png

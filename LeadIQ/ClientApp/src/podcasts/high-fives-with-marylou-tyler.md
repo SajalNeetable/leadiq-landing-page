@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Marylou Tyler
 description: Last month, we sat down and talked with Marylou Tyler, co-author of Predictable Revenue. On this episode of the Prospecting Podcast, Marylou and Ryan talk about picking the right accounts, account based prospecting, and her new book, Predictable Prospecting.
 coverImage: ./img/podcast/podcast-image-24.jpg
