@@ -1,7 +1,7 @@
 ---
 layout: blog
 published: true
-title: How To Get More Personalized Prospecting Done.md
+title: How To Get More Personalized Prospecting Done
 ---
 I’ve helped a lot of teams figure out how to do personalized prospecting over the past few years. Whenever I do a talk on site at these companies, I get a very frequently asked question after I convince them to try 100% personalized quality prospecting. 
 
