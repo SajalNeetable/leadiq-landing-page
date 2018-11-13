@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: RateMyPitch Looking at Some Cold Emails
 description: With the holiday season in full swing, I decided to go through some cold emails and post them on LinkedIn. If you are looking for the best cold email template, or trying to figure out how to get more responses on cold email, watch these videos (you’ll like want to full screen these)
 coverImage: img/fireplace.jpg

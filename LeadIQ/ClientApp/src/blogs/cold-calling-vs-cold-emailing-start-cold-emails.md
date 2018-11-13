@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Cold Calling vs Cold Emailing Why You Should Start With Cold Emails
 description: Today I want to talk about cold calling vs. cold emailing.  What I’m about to say isn’t going to make me the most popular guy in the prospecting space. If you read any other sales blogs, books, or listen to sales prospects, you’re going to hate this. I’m just going to say it…here it is
 coverImage: img/drew-is-pumped-blog.jpg

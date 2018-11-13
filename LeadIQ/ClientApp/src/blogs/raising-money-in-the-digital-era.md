@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Raising Money in the Digital Era
 description: In 2016, we LIVE on the internet. We shop on Amazon Prime and have it delivered within 2 hours. We keep up with our childhood friends and grandparents on Facebook. We book travel, find dates, gamble, listen to music, research anything, bank, manage insurance, and just about everything else through online channels. We are learning everyday how to use digital tools in more ways, as they make life more efficient.
 coverImage: 

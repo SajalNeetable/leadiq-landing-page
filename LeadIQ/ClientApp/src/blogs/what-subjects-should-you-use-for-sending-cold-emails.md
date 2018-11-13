@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: What subjects should you use for sending cold emails?.
 description: We obsess over sending cold emails. If you want to start a relationship with a prospect, you could write the greatest cold email in the world, and it won’t matter if the subject sucks.
 coverImage: /img/prospect-inbox.png

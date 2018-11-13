@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Send Sales Emails That Get Replies
 description: A few weeks back, Cole Fox and I presented and attended the AA-ISP Leadership Summit in Chicago, and were thrilled to see podcaster Will Barron doing his live version of The Salesman Podcast, with the help of our friends at Hubspot.
 coverImage: /img/sales-man-podcast-live.png

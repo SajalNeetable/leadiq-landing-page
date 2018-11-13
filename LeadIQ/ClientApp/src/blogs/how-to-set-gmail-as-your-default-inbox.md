@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How to set Gmail as Your Default Inbox
 description: Today we’re going to show you how to make your Gmail your default email address on Google Chrome. Doing this will allow you to compose an email address you find right in the LeadIQ extension
 coverImage: img/Van-Gogh-Starry-Night-Google-Art.jpg

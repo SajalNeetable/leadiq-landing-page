@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Sendbloom
 description: Ryan O'Hara takes you into the wild world of sales prospecting with special guest, David Sneider, who runs Growth and Customer Success at Sendbloom.
 coverImage: ./img/podcast/podcast-image-29.jpg

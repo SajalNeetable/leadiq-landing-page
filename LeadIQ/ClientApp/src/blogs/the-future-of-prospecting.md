@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: The Future of Prospecting
 description: The sales world has changed a ton in the past decade. The days of smiling and dialing are dying. We see it everyday. Did you know that if you personalize an email, you are 11 times more likely to get an opp vs not doing personalization? That’s based on sampling thousands of touches with prospects. When we talk with sales reps, almost none of them grew up saying, “when I grow up…I want to work in sales!!” It kind of just accidentally happens. I want to talk about a freak super team of creatives, and it relates the future of prospecting. Below is the writers room from SNL’s 1988 season.
 coverImage: /img/conan-jane.jpg

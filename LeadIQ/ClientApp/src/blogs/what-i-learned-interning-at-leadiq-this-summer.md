@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: What I Learned Interning at LeadIQ This Summer
 description:
 coverImage: /img/leadiq-interning-summer.jpg

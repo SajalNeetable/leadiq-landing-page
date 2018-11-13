@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: The Prospecting Podcast- High Fives with Koka Sexton!
 description: Last week, we talked with the legend himself Koka Sexton on The Propsecting Podcast.
 coverImage: /img/beach.jpg

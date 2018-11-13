@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Mini Prospecting Podcast with Jeremy Leveille
 description: Jeremy Leveille and I were en route to Chicago taking the train to Logan Airport in Boston, and decided to record a short quick podcast
 coverImage: img/mini-podcast.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: The Mighty Triangle of Influence
 description: When it comes to sales, it is often said that it’s not just one person makes the decision, but a group or team that makes them. Depending on the type and size of the company the makeup of this group can vary greatly. If it’s a small business it might be the owner, the book keeper, maybe even the owner’s spouse.
 coverImage:

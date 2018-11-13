@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Your Emails Are Bad. Here’s 4 Reasons Why.
 description:
 coverImage: 

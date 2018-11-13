@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Why You Should Buy LinkedIn Sales Navigator
 description: Several years ago, when I first started prospecting, I remember I used to live off LinkedIn. If you work in prospecting, an account executive, or even if you are just doing account management, it’s very hard to be a sales rep these days and not go on LinkedIn. I hear a lot of sales reps ask me, “Is LinkedIn Sales Navigator Worth it?” and I thought today we’d deep dive into some of the cool things you can do with LinkedIn Sales Navigator, and why it’s definitely worth investing in for your sales team.
 coverImage: /img/tony-hawk-skateboarding.jpg

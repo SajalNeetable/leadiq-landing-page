@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: What Cornea Transplants Taught Me About Sales.
 description: The topic of organ and tissue donation is dearly important to me personally, so when the opportunity to combine writing about this season and writing about sales presented itself I simply couldn’t resist! The topic is simply too freaking cool to not talk about. Did you know that April is National Donate Life Month?
 coverImage: /img/puppy.png

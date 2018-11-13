@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How to Get Prospects to Accept Your LinkedIn Connection Requests
 description: Remember when adding strangers on LinkedIn was frowned upon? If we flashback to just a couple of years ago, LinkedIn used to require you disclose why you are adding someone on LinkedIn. Today, with Sales Navigator becoming the standard way people research their prospects, LinkedIn doesn’t ask you how you know a connection when you make a request
 coverImage: img/add-on-linkedin.png

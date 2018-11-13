@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: 5 Totally Cool Companies We Met at Dreamforce
 description: Confession time. We love meeting people. I work remotely for LeadIQ from my home in New Hampshire, so when LeadIQ took me out of my shackles, and let me walk the floor of Dreamforce last week, I was super jacked up !
 coverImage: img/dreamforce_cloud_logotype.png

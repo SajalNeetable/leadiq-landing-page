@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Five Ways You Can Improve Follow-ups
 description: You’ve done your homework. You’ve read up on your prospect, their company and their business. If this were Point Break, you’d be Swayze. You know that your service can be a game changer for them. You live to get radical
 coverImage: img/Bodhi.jpg

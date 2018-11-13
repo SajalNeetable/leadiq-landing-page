@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Calvary's Paul DeJoe
 description: In today's episode, Paul DeJoe and I will deep dive into personalization with cold email prospecting. Paul is a cofounder of Calvary, a cool startup that helps write effective cold emails for companies. For more info on Calvary cavalryhq.com.
 coverImage: ./img/podcast/podcast-image-20.jpg

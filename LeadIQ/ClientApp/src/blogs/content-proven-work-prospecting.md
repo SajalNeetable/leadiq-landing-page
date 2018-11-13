@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Content Proven to Work for Prospecting
 description: We know content helps with prospecting. Case studies – great. Video – even better. Blog posts like this one, super okay. But how do you usually find the right thing to send or talk about when you are about to send an email or make a call? When you get that prospect list from LeadIQ, well, what do you say to them
 coverImage: img/knowledgetree.png

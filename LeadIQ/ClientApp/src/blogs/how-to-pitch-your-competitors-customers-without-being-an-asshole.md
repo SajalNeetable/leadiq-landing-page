@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How to Pitch Your Competitor’s Customers Without Being an Asshole
 description: Throughout business history, being first to market is always great, but often times, it is the 2nd and 3rd companies that come to market that prevail. Sometimes it may even be the 15th-20th company in that space then ends up prevailing. This is because they can look at what the current market leader is doing, and do some crazy ninja stuff to beat them out
 coverImage: img/Pitch-man.png

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Freedom! Introducing the new LeadIQ Prospect Anywhere
 description: We are super excited to announce the new Prospect Anywhere feature! Prospect Anywhere was built so that you can break free from conventional search platforms like LinkedIn. You can now capture data for prospects you find anywhere on the web
 coverImage: img/freedom.jpg

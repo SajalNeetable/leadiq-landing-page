@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Announcing Our First Prospecting Bootcamp
 description: You asked for it, so now we’re doing it The first ever Prospecting Bootcamp!
 coverImage: img/transbay-office-space.jpg

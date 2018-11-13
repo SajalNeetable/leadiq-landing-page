@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: KiteDesk Is Shutting Down What Are Your Options?
 description: Last week, we had tons of people reaching out to us about KiteDesk shutting down.  We first heard about the shut down last week from one of our customers after they received an Intercom message. We reached out to Kitedesk folks, who confirmed the shutdown
 coverImage: img/sunset.jpg

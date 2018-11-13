@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Make Em Laugh
 description: Sales is not something that comes easily to me. Prospecting and building pipeline is not a natural talent I possess. Luckily, I have someone in my life that is very good at both. This person is my fiancee, Elizabeth
 coverImage: img/relax-mode.jpg

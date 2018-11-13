@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Phil Gerbyshak
 description: In this episode of the Prospecting Podcast, Phil Gerbyshak and Ryan O'Hara deep dive into how to give to your prospects more, and build your own brand on social media.
 coverImage: ./img/podcast/podcast-image-12.jpg

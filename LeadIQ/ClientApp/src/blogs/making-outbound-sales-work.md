@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Making Outbound Sales Work
 description: First impressions matter. When you’re a startup, a single email with the right message can lead to a lighthouse customer or a new investor. Yet because so many more cold emails result in no response or outright rejection than engagement, frustrated founders simply quit sending them. They shouldn’t. Outbound sales, done well, takes time
 coverImage: 

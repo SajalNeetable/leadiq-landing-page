@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: MATT HEINZ SPEAKS!!!
 description: 
 coverImage: img/tumblr_static_filename.jpg

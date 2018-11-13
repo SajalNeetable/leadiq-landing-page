@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Podcast Social selling with Taylor Scotto
 description: Ryan O’Hara sits down with Taylor Scotto, Head of Business Development at Lingo Live and talked about social selling, prospecting, and working at LinkedIn as a prospector
 coverImage: img/taylor-scotto.png

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Vote for Jeremy Leveille as SDR of the Year
 description:
 coverImage: 

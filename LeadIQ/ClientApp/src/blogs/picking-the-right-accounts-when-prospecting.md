@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Picking the Right Accounts When Prospecting
 description: Last week during our RateMyPitch someone asked me, “How Do You Pick What Accounts To Go After?”  With the account based model, it can be really tricky to figure this out, especially since what accounts you go after a big reason you don’t hear back from prospects. Last week, I was at Saastr and studying prospecting tales. One of patterns I noticed is that companies did best when they worked with logos. Meaning…companies we use and live with everyday.  I decided to try and tackle this subject about picking the right accounts
 coverImage: 

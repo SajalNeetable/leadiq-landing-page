@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Why You Should Use Humor in Prospecting Emails
 description: At LeadIQ, we have a dream that one day all prospecting emails will be written with thought, creativity and consideration that would rival those seen during a certain big football game every year. Imagine receiving an email that is personal, clever, has character in itself. It makes you feel like it is from an old friend who gets you. It’s great!
 coverImage: 

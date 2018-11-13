@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: Prospecting Podcast with Tito Bohrt
 description: Ryan O'Hara and Tito Bohrt talk about prospecting, how to structure SDR teams, and the future of researching prospects.
 coverImage: ./img/podcast/podcast-image-5.jpg

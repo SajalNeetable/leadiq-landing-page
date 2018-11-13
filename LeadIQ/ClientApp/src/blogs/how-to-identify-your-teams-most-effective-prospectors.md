@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How to Identify your Team’s Most Effective Prospectors
 description: It doesn’t matter what you call the role the sales development rep (SDR), the business development rep (BDR) or the inside sales rep (ISR). In the world of B2B sales
 coverImage: img/prospectors-team.jpg

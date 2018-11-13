@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Why You Need A Personal Sales Pitch Video
 description: In the business world, we see startups make great explainer videos, explaining and pitching their product. While many of these points will be using business explainer videos to prove the title of this post, this is actually about why you should make a video that is from you.
 coverImage: /img/ryan-scooter.jpg

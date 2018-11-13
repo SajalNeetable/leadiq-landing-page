@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: The Flaws With A Me First Mentality in Sales
 description: As many of you know, we do a ton of RateMyPitch events throughout the year where we look at cold emails, and coach thousands of sales reps on how to get prospects to respond to your cold emails.
 coverImage: /img/bear-fights.jpg

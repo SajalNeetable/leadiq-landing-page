@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: RateMyPitch Live October Edition
 description:
 coverImage: 

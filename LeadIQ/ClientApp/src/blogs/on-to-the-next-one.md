@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: On To The Next One
 description: Jason Bax, asked our very own Ryan O’Hara to talk prospecting, startups, and lead generation on The Self Made podcast. If you want to take a listen, click  here
 coverImage: img/on-to-the-next-one.png

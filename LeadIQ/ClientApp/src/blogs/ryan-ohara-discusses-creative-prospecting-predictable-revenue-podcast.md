@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Ryan O’Hara Discusses Creative Prospecting on the Predictable Revenue Podcast 
 description: A few months ago, Ryan hopped on the Predictable Revenue Podcast with Aaron Ross and Collin Stewart. Ryan is a seasoned sales and marketing professional whose unique views on prospecting have been covered by Mashable, CNN Money and The Next Web. He’s also a popular keynote speaker and experienced startup mentor. Needless to say, Ryan is making some noise.
 coverImage: /img/predicated-revenue-podcast.png

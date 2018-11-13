@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Aligning Marketing with Sales for Start Ups
 description: It’s no secret that marketing needs to be aligned with sales. Though apparent, pulling it off is actually quite challenging. In this article, I’ll share some of the best practices of how we go about aligning marketing and sales at AdStage
 coverImage: 

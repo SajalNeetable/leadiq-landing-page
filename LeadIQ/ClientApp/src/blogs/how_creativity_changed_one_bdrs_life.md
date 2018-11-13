@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How to identify your teams most effective prospectors
 description: It was the first day of my first inside sales job and I was ecstatic to find out my sales territory was New York City—until I found out it was only about 3 square miles of it. My company had made a decision to go after Manhattan, divvy it up into three “micro-territories” and assign me as one of the lucky 3 to get one of these patches
 coverImage: 

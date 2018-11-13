@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives With Phill Keene
 description: Ryan O'Hara sat down and talked to Phill Keene about his new project Costello, and we scheme out some new things happening for best practices in prospecting.
 coverImage: ./img/podcast/podcast-image-15.jpg

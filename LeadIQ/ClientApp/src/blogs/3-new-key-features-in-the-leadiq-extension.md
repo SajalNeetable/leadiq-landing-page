@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: 3 New Key Features in the LeadIQ Extension
 description:
 coverImage: /img/Ben-Parr-Laptop.png

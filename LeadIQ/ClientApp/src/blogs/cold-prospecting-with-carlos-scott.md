@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Cold Prospecting with Carlos Scott
 description: I had Carlos Scott on the Prospecting Podcast, and we discuss what has worked for him as a sales leader at Xeeva
 coverImage: img/customers-image-1.jpeg

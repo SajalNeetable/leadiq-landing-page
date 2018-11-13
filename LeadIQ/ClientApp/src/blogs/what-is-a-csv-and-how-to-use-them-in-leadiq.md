@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: What is a CSV and How to Use Them in LeadIQ
 description: Have you ever noticed that spreadsheets and lists have a .CSV at the end of their filename? Are you one of those people who say, “I have no idea what a CSV is? Is that a pharmacy?” Don’t worry. We’ve all been there. Prior to writing this blog, I thought Microsoft invented the CSV. Luckily, I was shamed into submission by management to understand that the history of the CSV goes way deeper than that.
 coverImage: /img/CERN.jpg

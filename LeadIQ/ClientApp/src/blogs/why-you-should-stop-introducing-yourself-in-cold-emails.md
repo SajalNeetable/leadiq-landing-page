@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Why You Should Stop Introducing Yourself in Cold Emails
 description: I love the science behind prospecting. There are so many things that can impact whether you get responses or not. Whether it’s what accounts you go after, if the contact you picked at that account is the right person, what time you did your tactic, or maybe you just wrote bad email copy, anything can go wrong impacting your response rates. In the spirit of the RateMyPitch I did yesterday with my good friends.
 coverImage: /img/star-ways-intro.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Podcast- High Fives with Amy Volas
 description: Ryan O’Hara and Amy Volas dive into prospecting in the recruiting world, and how to practice good form to book more connections.
 coverImage: /img/beach.jpg

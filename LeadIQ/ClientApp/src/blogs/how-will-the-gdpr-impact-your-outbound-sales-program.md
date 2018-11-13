@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How will the GDPR impact your outbound sales program
 description: If you are working in prospecting, there is a pretty good chance you’re going to get an opportunity to pitch to prospects in person. With the fall events season starting to kick off in the next few weeks, I figured it’d be a good idea to jump into this topic. We have new BDRs going to their first events this month, so why not share our internal secrets with the world? If events are a battle, more than half the fight is won or loss before the event even starts. You need to be reaching out to prospects attending before the event even happens
 coverImage: 

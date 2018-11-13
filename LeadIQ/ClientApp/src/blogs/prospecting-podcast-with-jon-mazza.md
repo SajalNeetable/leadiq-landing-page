@@ -1,5 +1,5 @@
 ﻿---
-
+layout: blog
 title: Prospecting Podcast with Jon Mazza
 description: In this weeks episode of the Prospecting Podcast, Jon Mazza and I deep dive into cold calling best practices. If you want to try some new phone numbers out with LeadIQ, you should check out a demo of LeadIQ, and score some free digits
 coverImage: /img/mazza-thumbs-up.jpg

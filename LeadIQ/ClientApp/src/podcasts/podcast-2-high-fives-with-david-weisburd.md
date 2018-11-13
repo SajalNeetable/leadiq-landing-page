@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives with David Weisburd
 description: Ryan O'Hara takes you into the wild world of sales prospecting. This week we talk with special guest serial entrepreneur, David Weisburd. David's successfully founded and funded several successful startups, and is currently teaching a sales course for startups online.
 coverImage: ./img/podcast/podcast-image-30.jpg

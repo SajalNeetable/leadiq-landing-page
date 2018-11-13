@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Video How one cold email mistake cost this rep a reply
 description: Yesterday I got a cold email and it inspired me to make a video to help the sender out. Of course I blocked the information out, but let’s see where this cold email went wrong and why they didn’t get a reply from me. Here’s what happened and how they could fix it
 coverImage: img/serpico.jpeg

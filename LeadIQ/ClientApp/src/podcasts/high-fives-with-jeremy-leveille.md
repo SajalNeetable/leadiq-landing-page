@@ -1,4 +1,5 @@
 ﻿---
+layout: podcast
 title: High Fives with Jeremy Leveille
 description: In this episode of the Prospecting Podcast, we talk to Jeremy Leveille,Channel Sales Manager at Navisite. Jeremy has crushed his quota over the past few years, and we thought it'd be great to pick his brain about what works, what has he learned, and some ways you can do better prospecting.
 coverImage: ./img/podcast/podcast-image-19.jpg
