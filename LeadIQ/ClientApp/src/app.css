@@ -1332,6 +1332,7 @@ img {
     border-left: 20px solid #fff;
     border-right: 25px solid transparent;
     border-bottom: 40px solid #fff;
+    z-index: -1;
 }
 .terms-container {
     position: relative;
