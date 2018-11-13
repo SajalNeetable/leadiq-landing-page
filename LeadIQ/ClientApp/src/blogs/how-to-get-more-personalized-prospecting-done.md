@@ -13,7 +13,7 @@ I realize that this question almost has the same answer, so I’m going to spell
 
 Long story, so grab your snuggie and listen up.
 
-![]({{site.baseurl}}/LeadIQ/ClientApp/public/img/Image%202018-11-13%20at%203.22.57%20PM.png)
+![](/img/Image%202018-11-13%20at%203.22.57%20PM.png)
 (Taken from a prospecting video I made at Dyn, huge thanks to John Zahr, our model in this one). 
 
 About two years ago, I was training our SDR team at LeadIQ, and realized something. If you are new to prospecting, it can be really hard to find a good account to go after, pick the best contact,  think of a way to personalize a phone call, social, email touch, and finally actually do it. 
