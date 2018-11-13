@@ -9,7 +9,7 @@ How do I get enough activity done in a day to generate enough pipeline?
 
 I realize that this question almost has the same answer, so I’m going to spell out what our team does to get reps transitioning to personalized high quality prospecting. 
 
-So how do you do it?
+**So how do you do it?
 
 Long story, so grab your snuggie and listen up.
 
