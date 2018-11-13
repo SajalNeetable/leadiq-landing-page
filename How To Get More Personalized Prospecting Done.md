@@ -70,9 +70,4 @@ The good reps just do. The best reps do things well. The calibration of working 
 
 Lastly, as your reps get more comfortable doing the 10 minute game, they’ll be able to change it to the 5 minute game for follow up. The 3 minute game for the social touch, and as you get better, your first touch may be able to get trimmed to the 5 minute game eventually. 
 
-That’s it! Don’t sacrifice quality for quantity, but create some urgency for you and your reps with this game. 
-
-
-
-
-
+That’s it! Don’t sacrifice quality for quantity, but create some urgency for you and your reps with this game.
