@@ -353,6 +353,11 @@ footer {
     background-repeat: no-repeat;
 }
 
+.links-list {
+    color: #007bff;
+    cursor: pointer;
+}
+
 .universityHeaderMain {
     height: 100vh;
 }

@@ -14,7 +14,7 @@ export default class LeadsUniversityOne extends React.Component {
     }
 
     componentDidMount() {
-        window.scrollTo(0, 0)
+        window.scrollTo(0, 0);
         navigator.sayswho = (function () {
             var ua = navigator.userAgent, tem,
                 M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
@@ -35,6 +35,83 @@ export default class LeadsUniversityOne extends React.Component {
             browserVersion: navigator.sayswho
         });
     }
+
+    smoothScroll = {
+    timer: null,
+
+    stop: function () {
+        clearTimeout(this.timer);
+    },
+
+    scrollTo: function (id, callback) {
+        var settings = {
+            duration: 1000,
+            easing: {
+                outQuint: function (x, t, b, c, d) {
+                    return c * ((t = t / d - 1) * t * t * t * t + 1) + b;
+                }
+            }
+        };
+        var percentage;
+        var startTime;
+        var node = document.getElementById(id);
+        var nodeTop = node.offsetTop;
+        var nodeHeight = node.offsetHeight;
+        var body = document.body;
+        var html = document.documentElement;
+        var height = Math.max(
+            body.scrollHeight,
+            body.offsetHeight,
+            html.clientHeight,
+            html.scrollHeight,
+            html.offsetHeight
+        );
+        var windowHeight = window.innerHeight
+        var offset = window.pageYOffset;
+        var delta = nodeTop - offset;
+        var bottomScrollableY = height - windowHeight;
+        var targetY = (bottomScrollableY < delta) ?
+            bottomScrollableY - (height - nodeTop - nodeHeight + offset) :
+            delta;
+
+        startTime = Date.now();
+        percentage = 0;
+
+        if (this.timer) {
+            clearInterval(this.timer);
+        }
+
+        function step() {
+            var yScroll;
+            var elapsed = Date.now() - startTime;
+
+            if (elapsed > settings.duration) {
+                clearTimeout(this.timer);
+            }
+
+            percentage = elapsed / settings.duration;
+
+            if (percentage > 1) {
+                clearTimeout(this.timer);
+
+                if (callback) {
+                    callback();
+                }
+            } else {
+                yScroll = settings.easing.outQuint(0, elapsed, offset, targetY, settings.duration);
+                window.scrollTo(0, yScroll);
+                this.timer = setTimeout(step, 10);
+            }
+        }
+
+        this.timer = setTimeout(step, 10);
+    }
+    };
+
+    scrollToTitle(value) {
+        this.smoothScroll.scrollTo(value);
+    }
+
 
     render() {
         return (
@@ -64,9 +141,9 @@ export default class LeadsUniversityOne extends React.Component {
                                         <div className="col-md-6 col-lg-6">
                                             <div className="labelUniversityOne">
                                                 <ul className="m-0">
-                                                    <li><a href="" >Introduction</a></li>
-                                                    <li><a href="" >Thoughtful prospecting and why you should do it</a></li>
-                                                    <li><a href="" >Database Solution vs LeadIQ</a></li>
+                                                    <li><a onClick={this.scrollToTitle.bind(this, "introduction")} ><p className="links-list mb-0">Introduction</p></a></li>
+                                                    <li><a onClick={this.scrollToTitle.bind(this, "thoughtfulprospecting")} className="links-list"><p className="links-list mb-0">Thoughtful prospecting and why you should do it</p></a></li>
+                                                    <li><a onClick={this.scrollToTitle.bind(this, "databasesolutionvsleadIQ")} className="links-list"><p className="links-list mb-0">Database Solution vs LeadIQ</p></a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -75,9 +152,9 @@ export default class LeadsUniversityOne extends React.Component {
                                 <section>
                                     <div className="row">
                                         <div className=" col-md-6 col-lg-6">
-                                            <h3 className="justify-content-left d-flex alignCenter">Introduction</h3>
+                                            <h3 className="justify-content-left d-flex alignCenter" >Introduction</h3>
                                             <p className="labelUniversityOne mb-3"> We don’t need to tell you that sales prospecting is one of the hardest jobs in business.Let’s spell it out to remind anyone that doesn’t realize how hard our jobs are:</p>
-                                            <p className="labelUniversityOne">We reach out to strangers, get a response on average 1.5% of the time. Over half of those responses are some version of  “NO”. Yet somehow, we generate enough business to keep the lights on and cover our salaries.</p>
+                                            <p className="labelUniversityOne" id="introduction">We reach out to strangers, get a response on average 1.5% of the time. Over half of those responses are some version of  “NO”. Yet somehow, we generate enough business to keep the lights on and cover our salaries.</p>
                                         </div>
                                         <div className="col-md-1 col-lg-1">
                                             &nbsp;
@@ -91,7 +168,7 @@ export default class LeadsUniversityOne extends React.Component {
                                     </div>
                                 </section>
                                 <div>
-                                    <p className="labelUniversityOne">Recent stats suggest that 63% of sales reps will never hit their quota,with the number one problem being a lack of deals in the pipeline. Yet over 84% of executives at companies have purchased something that was first introduced to them via cold outreach. </p>
+                                    <p className="labelUniversityOne" >Recent stats suggest that 63% of sales reps will never hit their quota,with the number one problem being a lack of deals in the pipeline. Yet over 84% of executives at companies have purchased something that was first introduced to them via cold outreach. </p>
                                     <p className="labelUniversityOne">Our jobs as prospectors is quietly super nobel. Every new opportunity that you generate could potentially create anywhere from 1-10+ new jobs depending on your average deal size. We’ve talked to some Sales Development Reps with yearly quotas was over 30x their salary. We’re money makers, but more importantly, we’re building our economy.</p>
                                     <p className="labelUniversityOne">While some of those stats earlier seem grim, the best prospectors in the entire world can score double digit response rates with their outreach. They make prospects feel loved, they smash quota goals, but most of all, they feel good about what they do when they wake up in the morning.</p>
                                     <p className="labelUniversityOne">That’s where we want all prospectors to be. We want to help you get more wins everyday.One activity at a time, we want prospects to hate saying “no” to you. We want to change the stigma that prospecting is a dirty job. That’s why we build LeadIQ, and why we’re sharing this University.
@@ -129,13 +206,13 @@ export default class LeadsUniversityOne extends React.Component {
                                     <div className="alignCenter mb-3">
                                         <img src="/img/account-based-cover.png" alt="account-based-cover" className="img-fluied" />
                                     </div>
-                                    <h3 className="justify-content-left d-flex alignCenter mb-1">What is Thoughtful Prospecting?</h3>
+                                    <h3 className="justify-content-left d-flex alignCenter mb-1" id="thoughtfulprospecting">What is Thoughtful Prospecting?</h3>
                                     <p className="labelUniversityOne">If you are implementing research first prospecting you are practicing thoughtful prospecting. Awesome job. It’s surprising that sales teams are still pulling large amounts of data to send out mass email campaigns or picking up the phone to dial a prospect without knowing anything other than their contact information.</p>
                                     <p className="mt-4 labelUniversityOne">There is no substitute for research. Not ever. No matter how cool you think a new sales prospecting tool is to maximize your impact on outreach you need to research your prospects individually not en masse.
                         </p>
                                 </section>
                                 <section>
-                                    <h3 className="justify-content-left d-flex alignCenter mb-1">Database Solution vs LeadIQ</h3>
+                                    <h3 className="justify-content-left d-flex alignCenter mb-1" id="databasesolutionvsleadIQ">Database Solution vs LeadIQ</h3>
                                     <p className="labelUniversityOne">There are plenty of sales prospecting tools to pick from. Some teams from a data perspective may even be using more than one source for data. A good way to think about Database solutions vs. LeadIQ is sort of like a fish market vs. a fishing rod.</p>
                                     <p className="mt-4 labelUniversityOne">At a fish market, you buy fish. With database solutions, you are buying access to a large library of contacts.</p>
                                     <p className="mt-4 labelUniversityOne">Using this metaphor, when you buy LeadIQ, you are buying a fishing rod to find leads.</p>

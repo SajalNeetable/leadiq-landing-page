@@ -12,8 +12,6 @@ export default class LeadsUniversityTwo extends React.Component {
 
 
     componentDidMount() {
-        window.scrollTo(0, 0)
-
         navigator.sayswho = (function () {
             var ua = navigator.userAgent, tem,
                 M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
@@ -29,11 +27,90 @@ export default class LeadsUniversityTwo extends React.Component {
             if ((tem = ua.match(/version\/(\d+)/i)) !== null) M.splice(1, 1, tem[1]);
             return M.join(' ');
         })();
-
+        window.scrollTo(0, 0);
         this.setState({
             browserVersion: navigator.sayswho
         });
     }
+
+    smoothScroll = {
+        timer: null,
+
+        stop: function () {
+            clearTimeout(this.timer);
+        },
+
+        scrollTo: function (id, callback) {
+            var settings = {
+                duration: 1000,
+                easing: {
+                    outQuint: function (x, t, b, c, d) {
+                        return c * ((t = t / d - 1) * t * t * t * t + 1) + b;
+                    }
+                }
+            };
+            var percentage;
+            var startTime;
+            var node = document.getElementById(id);
+            var nodeTop = node.offsetTop;
+            var nodeHeight = node.offsetHeight;
+            var body = document.body;
+            var html = document.documentElement;
+            var height = Math.max(
+                body.scrollHeight,
+                body.offsetHeight,
+                html.clientHeight,
+                html.scrollHeight,
+                html.offsetHeight
+            );
+            var windowHeight = window.innerHeight
+            var offset = window.pageYOffset;
+            var delta = nodeTop - offset;
+            var bottomScrollableY = height - windowHeight;
+            var targetY = (bottomScrollableY < delta) ?
+                bottomScrollableY - (height - nodeTop - nodeHeight + offset) :
+                delta;
+
+            startTime = Date.now();
+            percentage = 0;
+
+            if (this.timer) {
+                clearInterval(this.timer);
+            }
+
+            function step() {
+                var yScroll;
+                var elapsed = Date.now() - startTime;
+
+                if (elapsed > settings.duration) {
+                    clearTimeout(this.timer);
+                }
+
+                percentage = elapsed / settings.duration;
+
+                if (percentage > 1) {
+                    clearTimeout(this.timer);
+
+                    if (callback) {
+                        callback();
+                    }
+                } else {
+                    yScroll = settings.easing.outQuint(0, elapsed, offset, targetY, settings.duration);
+                    window.scrollTo(0, yScroll);
+                    this.timer = setTimeout(step, 10);
+                }
+            }
+
+            this.timer = setTimeout(step, 10);
+        }
+    };
+
+    scrollToTitle(value) {
+        this.smoothScroll.scrollTo(value);
+    }
+
+
+
     render() {
         return (
             <div className="universityOne">
@@ -62,9 +139,9 @@ export default class LeadsUniversityTwo extends React.Component {
                                         <div className="col-md-6 col-lg-6">
                                             <div className="labelUniversityOne">
                                                 <ul className="m-0">
-                                                    <li><a href="" >Researching prospects</a></li>
-                                                    <li><a href="" >Identifying sales triggers </a></li>
-                                                    <li><a href="" >Account based vs role based prospecting</a></li>
+                                                    <li><a onClick={this.scrollToTitle.bind(this, "researchingprospects")} ><p className="links-list mb-0">Researching prospects</p></a></li>
+                                                    <li><a onClick={this.scrollToTitle.bind(this, "identifysalestriggers")} className="links-list"><p className="links-list mb-0">Identifying sales triggers</p></a></li>
+                                                    <li><a onClick={this.scrollToTitle.bind(this, "accountfirstprospecting")} className="links-list"><p className="links-list mb-0">Account based vs role based prospecting</p></a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -73,10 +150,10 @@ export default class LeadsUniversityTwo extends React.Component {
                                 <div className="mb-3">
                                     <div className="row">
                                         <div className="col-md-6 col-lg-6">
-                                            <h3 className="justify-content-left d-flex alignCenter">Researching Prospects </h3>
+                                            <h3 className="justify-content-left d-flex alignCenter" >Researching Prospects </h3>
                                             <p className="labelUniversityOne mb-3">Gone are the days of ‘spraying and praying’. There is so much information out there in the public about your prospects, so why send the same cold email or do the same cold call with your prospects, when you have info on the web as a free key to get past their doors?</p>
                                             <p className="labelUniversityOne">If you are prospecting today, and it feels like a positive response was due to luck, you aren’t doing things correctly. When you do your outreach, you need to be super targeted with not just your message, but who you prospect. </p>
-                                            <p className="labelUniversityOne">This is why sales teams need to be smart with their activity. Unfocused sales activity almost always leads to poor results.</p>
+                                            <p className="labelUniversityOne" id="researchingprospects">This is why sales teams need to be smart with their activity. Unfocused sales activity almost always leads to poor results.</p>
                                         </div>
                                         <div className="col-md-1 col-lg-1" />
                                         <div className="col-md-4 col-lg-4">
@@ -103,7 +180,7 @@ export default class LeadsUniversityTwo extends React.Component {
                                     <div className="alignCenter mb-3"><img src="/img/account-based-cover.png" alt="account-based-cover" className="img-fluied" /></div>
                                     <p className="labelUniversityOne">For example, above, you can link up LeadIQ to your Salesforce and see which leads, contacts, and accounts are in your CRM. If the prospect isn’t in your CRM, you can easily add them by capturing them. </p>
                                     <p className="labelUniversityOne">As we mentioned before, with spraying and praying not being the best approach to prospecting, you need to implement a different strategy to start your workflow.</p>
-                                    <h3 className="justify-content-left d-flex alignCenter mt-4">Identify Sales Triggers</h3>
+                                    <h3 className="justify-content-left d-flex alignCenter mt-4" id="identifysalestriggers">Identify Sales Triggers</h3>
                                     <p className="labelUniversityOne">First let’s define a sales trigger. Sales triggers are events that occur that could increase the likelihood of that prospect becoming a lead.</p>
                                     <p className="labelUniversityOne">Here is a good list (not all inclusive) of sales triggers</p>
                                     <div className="labelUniversityOne">
@@ -147,7 +224,7 @@ export default class LeadsUniversityTwo extends React.Component {
                                     </p>
                                     <p className="labelUniversityOne">That’s a great prospecting list</p>
                                     <p className="labelUniversityOne">You will then need to pull prospects that met one or all of the criteria. </p>
-                                    <h3 className="justify-content-left d-flex alignCenter mt-4">Account first prospecting</h3>
+                                    <h3 className="justify-content-left d-flex alignCenter mt-4" id="accountfirstprospecting">Account first prospecting</h3>
                                     <p className="labelUniversityOne">Account-based prospecting is ideal for companies that have high Average Contract Values (AVCs) and multiple decision makers. You may have been handed a list of accounts to prospect or you may have to come up with your own account list. </p>
                                     <p className="labelUniversityOne">Either way LeadIQ can help.</p>
                                     <p className="labelUniversityOne">If you want to get more narrow on your account list say find companies that are using a certain technology – such as Salesforce, you can do that in LeadIQ.</p>
