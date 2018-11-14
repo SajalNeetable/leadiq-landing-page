@@ -2,13 +2,29 @@
 layout: blog
 published: true
 title: How To Get More Personalized Prospecting Done
+publishDate: 'Nov 14, 2018'
+author: 'Ryan O''hara '
+description: >-
+  I’ve helped a lot of teams figure out how to do personalized prospecting over
+  the past few years. Whenever I do a talk on site at these companies, I get a
+  very frequently asked question after I convince them to try 100% personalized
+  quality prospecting.
+
+  How do I get enough activity done in a day to generate enough pipeline?
+
+  I realize that this question almost has the same answer, so I’m going to spell
+  out what our team does to get reps transitioning to personalized high quality
+  prospecting.
+authorProfile: >-
+  Ryan O'Hara has been an early employee at several startups helping them with
+  marketing and prospecting tactics, including Dyn who was acquired by Oracle
+  for $600+ million in 2016. He's had prospecting campaigns featured in Fortune,
+  Mashable, and TheNextWeb. Ryan specializes in branding, business development,
+  prospecting, and coaching people on how to make good digital first
+  impressions. He also mentors two accelerators, The Iron Yard and The Alpha
+  Loft, and hosts The Prospecting Podcast.
+authorImage: img/Ryan-OHara-Headshot.png
 ---
-I’ve helped a lot of teams figure out how to do personalized prospecting over the past few years. Whenever I do a talk on site at these companies, I get a very frequently asked question after I convince them to try 100% personalized quality prospecting. 
-
-How do I get enough activity done in a day to generate enough pipeline?
-
-I realize that this question almost has the same answer, so I’m going to spell out what our team does to get reps transitioning to personalized high quality prospecting. 
-
 **So how do you do it?
 
 Long story, so grab your snuggie and listen up.
