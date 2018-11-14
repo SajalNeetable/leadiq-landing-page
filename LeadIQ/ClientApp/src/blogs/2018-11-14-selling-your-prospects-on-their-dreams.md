@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: Selling Your Prospects on Their Dreams
 description: >-
   We talked about brand archetypes and how you can use them for social selling. 
