@@ -56,7 +56,7 @@ class Category extends React.Component {
                                     <div className="col-md-6 col-ls-6 col-xl-6">
                                         <h3 className="justify-content-left d-flex"><mark className="highlightText">{category.title}</mark></h3>
                                         <label className="contentText">{category.description}</label>
-                                        <Link className="mt-5" to={category.linkUrl}>{category.linkName}</Link>
+                                        <a className="mt-5" href={category.linkUrl}>{category.linkName}</a>
                                     </div>
                                     <div className="col-md-2 col-ls-2 col-xl-2 mb-3" />
                                 </div>

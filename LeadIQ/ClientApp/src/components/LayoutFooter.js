@@ -6,7 +6,17 @@ class LayoutFooter extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-           
+           getLocation: ""
+        }
+    }
+
+
+    componentDidMount() {
+        if (window.location.href) {
+            let getData = (window.location.pathname.replace(/^\/([^\/]*).*$/, '$1'))
+            this.setState({
+                getLocation: getData
+            })
         }
     }
 
@@ -73,7 +83,8 @@ class LayoutFooter extends React.Component {
                 <div className="content">
                     {this.props.children}
                 </div>
-                <Footer />
+                {(this.state.getLocation === "university" || this.state.getLocation === "leadiq-university-one" ||
+                    this.state.getLocation === "leadiq-university-two" || this.state.getLocation === "leadiq-university-three"  ) ? null : <Footer />}
             </div>
         );
     }
