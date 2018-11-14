@@ -10,6 +10,15 @@ body {
     }
 }
 
+.overrideLoader {
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
 
 section {
     padding-top: 3rem;
@@ -351,6 +360,11 @@ footer {
     background-size: cover;
     background-position: left top 500px;
     background-repeat: no-repeat;
+}
+
+.links-list {
+    color: #007bff;
+    cursor: pointer;
 }
 
 .universityHeaderMain {
