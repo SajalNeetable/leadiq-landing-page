@@ -2,6 +2,7 @@
 import { Link } from "react-router-dom";
 import blogs from "./../data/blogData.json";
 import BlogReferenceCard from "./../components/BlogReferenceCard.js";
+import BackToLessons from "./../components/buttons/BackToLessons.js";
 
 export default class LeadsUniversityOne extends React.Component {
     constructor(props) {
@@ -49,6 +50,7 @@ export default class LeadsUniversityOne extends React.Component {
                     <div className="container">
                         <div className="card">
                             <div className="card-body card-blog">
+                                <BackToLessons size="lg" />
                                 <section>
                                     <span className="legend-cover-title">
                                         <label><mark className="highlight-text">Why LeadIQ</mark></label>

@@ -5,7 +5,7 @@ class BackToLessons extends React.Component {
 
     render() {
         return (
-            <Link to="/university" className="btn liq-btn-primary mt-2">BACK TO LESSONS</Link>
+            <Link to="/category" className="btn liq-btn-primary mt-2">BACK TO LESSONS</Link>
         );
     }
 }
