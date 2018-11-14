@@ -42,7 +42,7 @@ We knew each other from her attending a RateMyPitch event I did in in San Franci
 
 The big problem for them was that their reps had an activity goal of 100 emails a day, and 50 calls. 
 
-<div class="cloudapp-embed" data-slug="0a49d4c4bc20"><a href="https://cl.ly/0a49d4c4bc20">Screen Recording 2018-11-13 at 03.29.40.98 PM.gif</a><script async src="https://embed.cl.ly/embedded.gz.js" charset="utf-8"></script></div>
+![calculator.gif](/img/calculator.gif)
 
 If we do some basic math, this data tells us that they manage about 3 responses a day out of 150 activities. I don’t even know how many of those are positive responses either. 
 
@@ -86,4 +86,4 @@ The good reps just do. The best reps do things well. The calibration of working 
 
 Lastly, as your reps get more comfortable doing the 10 minute game, they’ll be able to change it to the 5 minute game for follow up. The 3 minute game for the social touch, and as you get better, your first touch may be able to get trimmed to the 5 minute game eventually. 
 
-**That’s it! Don’t sacrifice quality for quantity, but create some urgency for you and your reps with this game.
+That’s it! Don’t sacrifice quality for quantity, but create some urgency for you and your reps with this game.
