@@ -8,13 +8,10 @@ description: >-
   I’ve helped a lot of teams figure out how to do personalized prospecting over
   the past few years. Whenever I do a talk on site at these companies, I get a
   very frequently asked question after I convince them to try 100% personalized
-  quality prospecting.
-
-  How do I get enough activity done in a day to generate enough pipeline?
-
-  I realize that this question almost has the same answer, so I’m going to spell
-  out what our team does to get reps transitioning to personalized high quality
-  prospecting.
+  quality prospecting. How do I get enough activity done in a day to generate
+  enough pipeline? I realize that this question almost has the same answer, so
+  I’m going to spell out what our team does to get reps transitioning to
+  personalized high quality prospecting.
 authorProfile: >-
   Ryan O'Hara has been an early employee at several startups helping them with
   marketing and prospecting tactics, including Dyn who was acquired by Oracle
@@ -87,3 +84,8 @@ The good reps just do. The best reps do things well. The calibration of working 
 Lastly, as your reps get more comfortable doing the 10 minute game, they’ll be able to change it to the 5 minute game for follow up. The 3 minute game for the social touch, and as you get better, your first touch may be able to get trimmed to the 5 minute game eventually. 
 
 That’s it! Don’t sacrifice quality for quantity, but create some urgency for you and your reps with this game.
+
+
+[## Ever want to get inside the head of a CEO and learn how to sell to them? How about 3 of them! Sign up for our amazing ask me anything we're doing. Click here.](https://ter.li/m5q3s1)
+
+![ceoselling.jpg](img/ceoselling.jpg)
