@@ -1,5 +1,6 @@
 ﻿import React from 'react';
 import { Link } from "react-router-dom";
+import BackToLessons from "./../components/buttons/BackToLessons.js";
 
 export default class LeadsUniversityTwo extends React.Component {
     constructor(props) {
@@ -47,6 +48,7 @@ export default class LeadsUniversityTwo extends React.Component {
                     <div className="container">
                         <div className="card">
                             <div className="card-body card-blog">
+                                <BackToLessons size="lg" />
                                 <section>
                                     <span className="legend-cover-title">
                                         <label><mark className="highlight-text">Why LeadIQ</mark></label>
