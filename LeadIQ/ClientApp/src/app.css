@@ -10,6 +10,15 @@ body {
     }
 }
 
+.overrideLoader {
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
 
 section {
     padding-top: 3rem;
