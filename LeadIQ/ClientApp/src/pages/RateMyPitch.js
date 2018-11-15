@@ -33,6 +33,12 @@ class RateMyPitch extends Component {
 
     handleClickOpen = (e) => {
         e.preventDefault();
+
+        fetch('https://content.leadiq.com/acton/eform/35094/42804309-9c10-4fd1-bafe-7621ae8d9b51/d-ext-0001', {
+            method: 'post',
+            body: new FormData(e.currentTarget.form)
+        });
+
         this.setState({ open: true }, () => {
             setTimeout(function () {
                 this.setState({ open: false }, () => {
@@ -81,10 +87,10 @@ class RateMyPitch extends Component {
                                     <form id="free-leads-form" className="mt-5">
                                         <div className="form-group container" id="email-field">
                                             <div className="form-group">
-                                                <input type="text" className="form-control form-control-lg" id="firstName" name="email" placeholder="First Name"  />
+                                                <input type="text" className="form-control form-control-lg" id="firstName" name="firstName" placeholder="First Name"  />
                                             </div>
                                             <div className="form-group">
-                                                <input type="text" className="form-control form-control-lg" id="lastName" name="email" placeholder="Last Name"  />
+                                                <input type="text" className="form-control form-control-lg" id="lastName" name="lastName" placeholder="Last Name"  />
                                             </div>
                                             <div className="form-group">
                                                 <input type="email" className="form-control form-control-lg" id="email" name="email" placeholder="Email Address"  />
