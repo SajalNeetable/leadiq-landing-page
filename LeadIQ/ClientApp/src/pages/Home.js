@@ -11,13 +11,11 @@ class Home extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            browserVersion: "",
-            loading: true
+            browserVersion: ""
         }
     }
 
     componentDidMount() {
-        window.addEventListener('load', this.handleLoad.bind(this));
         window.scrollTo(0, 0)
         navigator.sayswho = (function () {
             var ua = navigator.userAgent, tem,
@@ -40,16 +38,6 @@ class Home extends React.Component {
         });
 
 
-    }
-
-    componentDidUpdate() {
-        window.addEventListener('load', this.handleLoad.bind(this));
-    }
-
-    handleLoad() {
-        this.setState({
-            loading: false
-        })
     }
 
     render() {
