@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How To Build New Pipeline With Event-Based Prospecting
 description: Back in April 2017, Cole Fox and I went to AA-ISP’s amazing conference, the Leadership Summit in Chicago. The conference was a huge success for LeadIQ considering the pipeline we generated, conversations we had, and most importantly, great relationships we started
 coverImage: img/Leadership-Summit-Picture.jpeg

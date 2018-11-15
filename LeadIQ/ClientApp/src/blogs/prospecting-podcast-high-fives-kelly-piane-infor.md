@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Podcast- High Fives with Kelly Piane at Infor
 description: As many of you know, we’re huge believers in personalized prospecting. This week, we decided it’d be a cool idea to go inside the brilliant mind of  Kelly Piane, who is the  Global BDR Success & Effectiveness at Infor.
 coverImage: /img/leadiq-sunset.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: What Makes The Perfect Email Pitch?
 description: Email comes naturally to many because, let’s face it, many liveday in day out in their inbox. Its very easy to to shoot off an email response without thinking if it’ll get the point across the first time because you’re likely to email back and forth a number of times with your coworker until you both are on the same page. But what about when you are reaching out to someone new?
 coverImage: /img/perfect-email.jpg

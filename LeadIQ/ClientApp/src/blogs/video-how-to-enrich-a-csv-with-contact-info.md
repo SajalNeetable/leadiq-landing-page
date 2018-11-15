@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Video How to Enrich a CSV With Contact Info
 description: 
 coverImage: 

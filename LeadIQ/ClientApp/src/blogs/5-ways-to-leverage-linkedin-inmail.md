@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: 5 Ways To Leverage LinkedIn InMail More Effectively
 description: A few months back, I wrote a blog post about why your sales team is missing out if you aren’t buying LinkedIn Sales Navigator. I’ve had lots of great discussions with folks in sales teams debating if my reasons for buying it are the best features, but one of the biggest criticisms I received was that I simply glossed over having the power of InMail at your disposal. This post is all about how to leverage InMail more effectively to book more meetings and reach prospects 
 coverImage: img/linkedin.png

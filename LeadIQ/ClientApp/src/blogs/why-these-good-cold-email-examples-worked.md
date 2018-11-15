@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Why These Good Cold Email Examples Worked.
 description: Last week I asked some folks on LinkedIn to send me some cold emails that actually worked. I thought today we’d go through them, and deep dive into why they worked. So here are some actual cold emails sent by real sales reps that actually turned into meetings.
 coverImage: /img/apples.gif

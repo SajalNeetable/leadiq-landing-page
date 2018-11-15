@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How Personal Branding Got Me Out of My Mother’s Basement
 description: Back in late 2008, early 2009, while I was finishing up college at University of New Hampshire, I had a wonderful internship at Dyn making video content for their YouTube channel
 coverImage: img/marketingpros-by-ryan.png

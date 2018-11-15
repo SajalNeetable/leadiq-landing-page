@@ -2,6 +2,8 @@
 import Dialog from '@material-ui/core/Dialog';
 import { withStyles } from '@material-ui/core/styles';
 import DialogContent from '@material-ui/core/DialogContent';
+import { Link } from "react-router-dom";
+
 const styles = {
     dialogPaper: {
         minHeight: '50vh',
@@ -21,7 +23,9 @@ class WebinarCard extends React.Component {
             mode: 0,
             btnDisplay: false,
             open: false,
-            browserVersion: ""
+            browserVersion: "",
+            setUserEmail: "",
+            emailStored: ""
         };
     }
 
@@ -52,27 +56,41 @@ class WebinarCard extends React.Component {
     viewWebinar(e) {
         e.preventDefault();
         
-        this.setState({
-            mode: 1
-        });
-
         fetch('https://content.leadiq.com/acton/eform/35094/f2224b97-0303-4a39-aeb0-2b4d54ba1281/d-ext-0001', {
             method: 'post',
             body: new FormData(e.currentTarget.form)
         });
+
+        this.setState({
+            mode: 1
+        }, () => {
+            localStorage.setItem("email", JSON.stringify(this.state.setUserEmail));
+        })
     }
 
     emailValidation(e) {
         let emailText = e.target.value;
         if (emailText.length > 0 && /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(emailText)) {
             this.setState({
-                btnDisplay: true
+                btnDisplay: true,
+                setUserEmail: emailText
             })
         }
     }
 
     handleClickOpen = () => {
-        this.setState({ open: true });
+        this.setState({ open: true }, () => {
+            if (localStorage.getItem('email')) {
+                this.setState({
+                    mode: 1
+                })
+            } else {
+                this.setState({
+                    mode: 0
+                })
+            }
+        });
+
     };
 
     handleClose = () => {
@@ -115,9 +133,9 @@ class WebinarCard extends React.Component {
                         </DialogContent>
                     </Dialog>
                     <div className="card-body">
-                        <a href={this.props.video.navLink}  style={{ color: "#fff" }}>
-                            <p className="liq-text-primary">{this.props.video.title}</p>
-                        </a>
+                        <Link to={this.props.video.navLink} style={{ color: "#fff" }}>
+                            <p className="liq-text-primary" onClick={this.handleClickOpen.bind(this)}>{this.props.video.title}</p>
+                        </Link>
                     </div>
                     <div className="row justify-content-center d-flex">
                         <div className="col-md-6 justify-content-center d-flex">
@@ -130,5 +148,7 @@ class WebinarCard extends React.Component {
     }
 }
 
-export default withStyles(styles)(WebinarCard);
+
+export default (withStyles(styles)(WebinarCard));
+
 

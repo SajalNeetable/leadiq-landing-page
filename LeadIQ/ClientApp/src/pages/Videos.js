@@ -4,6 +4,7 @@ import Slider from "react-slick";
 import Dialog from '@material-ui/core/Dialog';
 import { withStyles } from '@material-ui/core/styles';
 import DialogContent from '@material-ui/core/DialogContent';
+import { Link } from "react-router-dom";
 
 const styles = {
     dialogPaper: {
@@ -53,10 +54,13 @@ class Videos extends React.Component {
         });
     }
 
-    handleClickOpen = (videoLinks) => {
+    handleClickOpen(videoLinks, navLink, evt) {
+        evt.preventDefault();
         this.setState({
             open: true,
             videoLinkSet: videoLinks
+        }, () => {
+            console.log("display--->", this.state.open)
         });
     };
 
@@ -81,33 +85,34 @@ class Videos extends React.Component {
                 {
                     breakpoint: 959, settings: {
                         dots: false,
-                        slidesToShow: 3,
+                        slidesToShow: 6,
                         swipeToSlide: true,
                         touchMove: true,
                         draggable: true,
-                        slidesToScroll: 3,
+                        slidesToScroll: 6,
                         autoplaySpeed: 5e3,
                     }
                 },
                 {
                     breakpoint: 1441, settings: {
                         dots: false,
-                        slidesToShow: 3,
+                        slidesToShow: 6,
                         swipeToSlide: true,
                         touchMove: true,
                         draggable: true,
-                        slidesToScroll: 3
+                        slidesToScroll: 6
                     }
                 },
                 {
                     breakpoint: 100000, settings: {
                         dots: false,
-                        slidesToShow: 3,
+                        slidesToShow: 6,
                         initialSlide: 0,
                         swipeToSlide: false,
                         touchMove: false,
                         draggable: false,
-                        slickGoTo: 0
+                        slidesToScroll: 6,
+                        slickGoTo: 0,
                     }
                 }
             ]
@@ -134,15 +139,19 @@ class Videos extends React.Component {
                     </div>
                 </div>
                 <section className="mt-5">
-                    <div className="container">
+                    <div className="video-slider-container">
                         <Slider {...settings}>
                             {
                                 this.state.videos.map((video, index) => {
                                     return (
                                         <div className="p-4" key={index} >
-                                            <a onClick={this.handleClickOpen.bind(this, video.videoLinks)}>
-                                                <img src={video.webLinks} alt={video.title} className="img-fluied" />
-                                            </a>
+                                            <div onClick={this.handleClickOpen.bind(this, video.videoLinks, video.navLink)}>
+                                                <Link to={video.navLink}>
+                                                    <img src={video.webLinks} alt={video.title} className="img-fluied" />
+                                                </Link>
+                                            </div>
+                                            <br />
+                                            <p className="text-center">{video.title}</p>
                                         </div>
                                     )
                                 })

@@ -10,6 +10,15 @@ body {
     }
 }
 
+.overrideLoader {
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
 
 section {
     padding-top: 3rem;
@@ -351,6 +360,11 @@ footer {
     background-size: cover;
     background-position: left top 500px;
     background-repeat: no-repeat;
+}
+
+.links-list {
+    color: #007bff;
+    cursor: pointer;
 }
 
 .universityHeaderMain {
@@ -1319,6 +1333,10 @@ img {
     border: none;
     box-shadow: 0 7px 21px 0 rgba(0, 0, 0, 0.11);
 }
+.api-reference{
+    display: inline;
+    color: #787878;
+}
 
 
 .pointerDesign:before {
@@ -1332,6 +1350,7 @@ img {
     border-left: 20px solid #fff;
     border-right: 25px solid transparent;
     border-bottom: 40px solid #fff;
+    z-index: -1;
 }
 .terms-container {
     position: relative;
@@ -1535,19 +1554,22 @@ img {
 .carousel-caption-content {
     position: absolute;
     right: 15%;
-    top: 43%;
-    left: 10%;
+    top: 70%;
+    left: 16%;
     z-index: 10;
     padding-top: 20px;
     padding-bottom: 20px;
     color: #fff;
     text-align: center;
-    width: 20%;
 }
 .homeStepTitle {
     color: #485366;
     font-weight: 400;
     letter-spacing: -1px;
+}
+.video-slider-container {
+    padding-right: 7%;
+    padding-left: 7%;
 }
 
 @media screen and (max-width: 1440px) {

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Podcast High Fives with Dan Frost
 description: I sat down and talked with New Hampshire’s own, Dan Frost. Dan is a long time sales veteran who has prospects for well over 10+ years
 coverImage: /img/powerpoint-bullshit.jpg

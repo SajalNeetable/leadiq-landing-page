@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title:  What is Campaign Based Prospecting?
 description: You’ve probably heard a lot of people talk about Account Based Selling. Today, I’m going to talk about something a little different. It’s called Campaign Based Selling. Learn how it ramp up your prospecting significantly in this video
 coverImage: 

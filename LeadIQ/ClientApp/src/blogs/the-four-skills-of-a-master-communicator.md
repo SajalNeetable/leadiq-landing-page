@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: The Four Skills of a Master Communicator
 description: Communication is one of the top skills of an effective executive, because an executive must not only make great decisions, but communicate them to her team. Those who communicate well can manifest their destinies with less frustration along  the way. Here are the top skills to focus on when sharpening your communication skills.
 coverImage: /img/crystalizing.jpeg

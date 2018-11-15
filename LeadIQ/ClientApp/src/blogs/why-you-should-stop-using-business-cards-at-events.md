@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Why You Should Stop Using Business Cards at Events
 description: A drawer full of business cards you never followed up on… Your flashy, super fancy $3 business card is a wasted effort. I know that might sting a bit, but let me explain. How many people actually follow-up after a networking event? How many people put that business card to use? My guess, less than 5%.
 coverImage: 

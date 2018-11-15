@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How to Brand Yourself As the Smartest Person in the Room
 description: One of the most popular archetypes used by B2B companies is the Sage. As mentioned earlier, the Sage brand archetype is all about being enlightened with wisdom, and teaching others about it. If your goal is push intelligence as a main way to build your brand, and be the smartest person in the room, this is a pretty good archetype to consider
 coverImage: img/monk.jpg

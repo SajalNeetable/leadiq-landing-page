@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: The 3 Stages of Conversation
 description: Back in my senior year of high school, at Pinkerton Academy, I learned something that changed the way I communicate with people forever.
 coverImage: /img/dns-fail.jpg

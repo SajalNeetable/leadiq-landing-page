@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Podcast with Morgan Ingram  Being A New Sales Development Rep
 description: Are you a new sales development rep trying to figure out  how to find success? In February,  I had a chance to sit down and interview the wonderful, young, bright, and did I already say wonderful… Morgan Ingram. Ingram was an SDR at Terminus coming out college, but over past few months since the interview, has already been promoted to Manager of Sales Development at Terminus.
 coverImage: /img/leadiq-beach-dog.png

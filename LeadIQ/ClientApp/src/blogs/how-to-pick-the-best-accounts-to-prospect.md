@@ -204,8 +204,3 @@ When it comes to prospecting, half the battle is picking the right accounts to g
 ![How-to-Sell-to-a-CEO.png](/img/How-to-Sell-to-a-CEO.png)
 
 [## EVER WANT TO SELL TO CEO'S? WE ARE GIVING YOU THE CHANCE TO PICK THE BRAIN OF A REAL LIFE CEO!](https://ter.li/m5q3s1)
-
-
-
-
-

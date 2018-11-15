@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: 5 Lessons On Making Good First Impressions
 description: On July 26, in downtown San Francisco, LeadIQ hosted our first ever Prospecting Bootcamp. These are slides from Ryan O’Hara, LeadIQ’s VP of Marketing and Growth’s talk on 5 Lessons on First Impressions
 coverImage: img/dyns-ready.jpg

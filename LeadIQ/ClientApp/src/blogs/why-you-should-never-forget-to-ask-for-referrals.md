@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Why You Should Never Forget to Ask for Referrals
 description:
 coverImage: /img/house.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: What Happens When You Add 187 LinkedIn Connections at Once
 description: A few weeks back, I asked followers what I should do with the 187 LinkedIn connection requests that I’ve had. Some folks asked me to add them all, and report my findings.  Here’s what happened, and some commentary on how to do well with LinkedIn Connection Requests
 coverImage: 

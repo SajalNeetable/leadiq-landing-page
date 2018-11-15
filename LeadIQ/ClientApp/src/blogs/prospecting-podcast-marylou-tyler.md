@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Podcast with Marylou Tyler
 description: Last month, we sat down and talked with Marylou Tyler, co-author of Predictable Revenue, and had her on The Prospecting Podcast.
 coverImage: /img/sun-grid.jpg

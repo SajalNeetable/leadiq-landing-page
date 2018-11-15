@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How to make a super-targeted account list for free for account-based selling
 description: At some point in your life as an SDR or AE, your boss will ask you to find some new accounts to go after; not just inbound leads, webinar leads, stuff sitting in your CRM, or up-selling existing accounts
 coverImage: 

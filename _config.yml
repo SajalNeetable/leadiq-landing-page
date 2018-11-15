@@ -47,3 +47,74 @@ prose:
           element: "text"
           label: "Author Image"
           value: ""
+      - name: "metaTitle"
+        field:
+          element: "text"
+          label: "Meta Title"
+          value: ""
+      - name: "metaDescription"
+        field:
+          element: "textarea"
+          label: "Meta Description"
+          value: ""
+      - name: "metaKeywords"
+        field:
+          element: "textarea"
+          label: "Meta Keywords"
+          value: ""
+    LeadIQ/ClientApp/src/podcasts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "podcast"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Description"
+          value: ""
+      - name: "coverImage"
+        field:
+          element: "text"
+          label: "Cover Image Name"
+          value: ""
+      - name: "webImage"
+        field:
+          element: "text"
+          label: "Web Image Name"
+          value: ""
+      - name: "refLink"
+        field:
+          element: "text"
+          label: "Reference Link"
+          value: ""
+      - name: "audioLinks"
+        field:
+          element: "text"
+          label: "Audio Links"
+          value: ""
+      - name: "published"
+        field:
+          element: "text"
+          label: "Published"
+          value: ""
+      - name: "metaTitle"
+        field:
+          element: "text"
+          label: "Meta Title"
+          value: ""
+      - name: "metaDescription"
+        field:
+          element: "textarea"
+          label: "Meta Description"
+          value: ""
+      - name: "metaKeywords"
+        field:
+          element: "textarea"
+          label: "Meta Keywords"
+          value: ""
+

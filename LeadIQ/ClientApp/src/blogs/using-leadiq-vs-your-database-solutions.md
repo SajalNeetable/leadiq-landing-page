@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Using LeadIQ vs. Your Database Solutions
 description: There are plenty of sales prospecting tools to pick from. Everyday, there seems to be new data tools emerging with their own different ways of getting data.
 coverImage: /img/fishing.jpg

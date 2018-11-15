@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: The Highs and Lows of Prospecting
 description: Prospecting can be hard for anyone. I’ve been doing sales since 2011, and after a while you develop a strategy to cope with rejection from a prospect. My strategy
 coverImage: /img/maxresdefault-leadiq.jpg

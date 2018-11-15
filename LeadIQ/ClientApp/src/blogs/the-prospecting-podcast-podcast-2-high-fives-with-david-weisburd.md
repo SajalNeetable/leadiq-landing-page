@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: The Prospecting Podcast Podcast #2 High Fives with David Weisburd
 description: Podcast 2 of LeadIQ’s Prospecting Podcast is now available. This week, we talked with serial entrepreneur, David Weisburd.
 coverImage: /img/dns-fail.jpg

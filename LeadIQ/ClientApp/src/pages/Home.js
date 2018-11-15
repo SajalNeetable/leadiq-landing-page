@@ -11,13 +11,12 @@ class Home extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            browserVersion: ""
+            browserVersion: "",
         }
     }
 
     componentDidMount() {
         window.scrollTo(0, 0)
-
         navigator.sayswho = (function () {
             var ua = navigator.userAgent, tem,
                 M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
@@ -37,15 +36,17 @@ class Home extends React.Component {
         this.setState({
             browserVersion: navigator.sayswho
         });
+
     }
 
     render() {
         return (
             <div>
-                <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" || 
+                <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                     this.state.browserVersion === "IE 9") ? "" : "cover"}>
                     <div className="d-none d-md-block">
-                        <img src="/img/home-bg-cover.png" className="img-fluied" alt="cover" />
+                        <img src="/img/home-bg-cover.png" className="img-fluied" alt="cover"
+                        />
                     </div>
                     <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                         this.state.browserVersion === "IE 9") ? "titleFix cover-content" : "cover-content"}>
@@ -142,7 +143,7 @@ class Home extends React.Component {
                 </div>
 
                 <div className="testimonial-section"></div>
-                
+
                 <div className="container">
                     <section>
                         <TestimonialCard browserVersion={this.state.browserVersion} />

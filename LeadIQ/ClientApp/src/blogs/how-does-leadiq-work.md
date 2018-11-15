@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How does LeadIQ work?
 description: This is a quick tutorial on how to use LeadIQ to find anyone’s emails, and how it syncs into Salesforce
 coverImage: img/crm-help.jpg

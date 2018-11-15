@@ -6,7 +6,17 @@ class LayoutFooter extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            routeTitle: "sample leadIq pricing page"
+           getLocation: ""
+        }
+    }
+
+
+    componentDidMount() {
+        if (window.location.href) {
+            let getData = (window.location.pathname.replace(/^\/([^\/]*).*$/, '$1'))
+            this.setState({
+                getLocation: getData
+            })
         }
     }
 
@@ -20,11 +30,11 @@ class LayoutFooter extends React.Component {
                         case "":
                             getTitle = "LeadIQ -Sales Prospecting Tool for Lead Generation";
                             getMeta = "Find contact information for ideal prospects and create lead lists in minutues not days. The original deal finder."
-                            return (getTitle, getTitle);
+                            return;
                         case "customers":
                             getTitle = "Sales Prospecting Tool for Leading Teams | LeadIQ";
                             getMeta = "Get to know how our customers are fueling their sales efforts with highly targeted prospecting. ";
-                            return (getTitle, getTitle);
+                            return;
                         case "tripactions-case-study":
                             getTitle = "TripActions Uses LeadIQ to Book Sales Meetings ";
                             getMeta = "Learn how TripActions uses LeadIQ to book sales meetings. ";
@@ -73,7 +83,8 @@ class LayoutFooter extends React.Component {
                 <div className="content">
                     {this.props.children}
                 </div>
-                <Footer />
+                {(this.state.getLocation === "university" || this.state.getLocation === "leadiq-university-one" ||
+                    this.state.getLocation === "leadiq-university-two" || this.state.getLocation === "leadiq-university-three"  ) ? null : <Footer />}
             </div>
         );
     }

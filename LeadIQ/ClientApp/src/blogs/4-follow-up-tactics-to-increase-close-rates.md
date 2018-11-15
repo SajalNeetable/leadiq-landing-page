@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: 4 Follow Up Tactics to Increase Close Rates
 description: We have a bunch of customers who use Linkedin Sales Navigator to crank through prospecting. So we thought it’d be great to put together a list of all the locations we can find that you can search on Linkedin. Happy Hunting!
 coverImage: 

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Podcast High Fives with Christopher Swea
 description: Ryan O’Hara sits down with Christopher Sweat, a Senior Consultant at StemFlow and talked about high volume prospecting when you work at a large company.
 coverImage: /img/christopher-image.png

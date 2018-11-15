@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Jon Mazza is Back!
 description: Breaking News everyone! Jon Mazza is back at LeadIQ. Details in the video below!
 coverImage: 

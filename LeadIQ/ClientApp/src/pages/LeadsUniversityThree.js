@@ -1,5 +1,6 @@
 ﻿import React from 'react';
 import { Link } from "react-router-dom";
+import BackToLessons from "./../components/buttons/BackToLessons.js";
 
 export default class LeadsUniversityThree extends React.Component {
     constructor(props) {
@@ -34,6 +35,82 @@ export default class LeadsUniversityThree extends React.Component {
         });
     }
 
+    smoothScroll = {
+        timer: null,
+
+        stop: function () {
+            clearTimeout(this.timer);
+        },
+
+        scrollTo: function (id, callback) {
+            var settings = {
+                duration: 1000,
+                easing: {
+                    outQuint: function (x, t, b, c, d) {
+                        return c * ((t = t / d - 1) * t * t * t * t + 1) + b;
+                    }
+                }
+            };
+            var percentage;
+            var startTime;
+            var node = document.getElementById(id);
+            var nodeTop = node.offsetTop;
+            var nodeHeight = node.offsetHeight;
+            var body = document.body;
+            var html = document.documentElement;
+            var height = Math.max(
+                body.scrollHeight,
+                body.offsetHeight,
+                html.clientHeight,
+                html.scrollHeight,
+                html.offsetHeight
+            );
+            var windowHeight = window.innerHeight
+            var offset = window.pageYOffset;
+            var delta = nodeTop - offset;
+            var bottomScrollableY = height - windowHeight;
+            var targetY = (bottomScrollableY < delta) ?
+                bottomScrollableY - (height - nodeTop - nodeHeight + offset) :
+                delta;
+
+            startTime = Date.now();
+            percentage = 0;
+
+            if (this.timer) {
+                clearInterval(this.timer);
+            }
+
+            function step() {
+                var yScroll;
+                var elapsed = Date.now() - startTime;
+
+                if (elapsed > settings.duration) {
+                    clearTimeout(this.timer);
+                }
+
+                percentage = elapsed / settings.duration;
+
+                if (percentage > 1) {
+                    clearTimeout(this.timer);
+
+                    if (callback) {
+                        callback();
+                    }
+                } else {
+                    yScroll = settings.easing.outQuint(0, elapsed, offset, targetY, settings.duration);
+                    window.scrollTo(0, yScroll);
+                    this.timer = setTimeout(step, 10);
+                }
+            }
+
+            this.timer = setTimeout(step, 10);
+        }
+    };
+
+    scrollToTitle(value) {
+        this.smoothScroll.scrollTo(value);
+    }
+
     render() {
         return (
             <div className="universityOne">
@@ -48,6 +125,7 @@ export default class LeadsUniversityThree extends React.Component {
                     <div className="container">
                         <div className="card">
                             <div className="card-body card-blog">
+                                <BackToLessons size="lg" />
                                 <section>
                                     <span className="legend-cover-title">
                                         <label><mark className="highlight-text">Why LeadIQ</mark></label>
@@ -61,21 +139,23 @@ export default class LeadsUniversityThree extends React.Component {
                                         <div className="col-md-6 col-lg-6">
                                             <div className="labelUniversityOne">
                                                 <ul className="m-0">
-                                                    <li><a href="" >How to do effective cold outreach </a></li>
-                                                    <li><a href="" >How to write an effective cold email </a></li>
-                                                    <li><a href="" >How to do effective cold calling </a></li>
-                                                    <li><a href="" >How to do effective social selling </a></li>
+                                                    <li><a onClick={this.scrollToTitle.bind(this, "coldoutreach")} ><p className="links-list mb-0">How to do effective cold outreach</p></a></li>
+                                                    <li><a onClick={this.scrollToTitle.bind(this, "effectivecoldemail")} ><p className="links-list mb-0">How to write an effective cold email</p></a></li>
+                                                    <li><a onClick={this.scrollToTitle.bind(this, "effectivecoldcalling")} className="links-list"><p className="links-list mb-0">How to do effective cold calling</p></a></li>
+                                                    <li><a onClick={this.scrollToTitle.bind(this, "effectivesocialselling")} className="links-list"><p className="links-list mb-0">How to do effective social selling</p></a></li>
+
+                                                    
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </section>
-                                <h3>How to do effective cold outreach </h3>
+                                <h3 id="coldoutreach">How to do effective cold outreach </h3>
                                 <p>The team at LeadIQ is constantly trying to investigate what makes the best cold outreach. We believe a combination of cold email, cold calling, and social can be the powerful 1, 2, 3 punch to get double digit response rates from prospect. Considering you are going to use all three of these media to conquer the world. Let’s go into how to use them independently from one another. </p>
                                 <h3>How to write an effective cold email</h3>
                                 <p>There are four key questions every cold email should be answering. If you follow these, it’ll be easier for your prospects to reply. </p>
                                 <p>Let’s break down and talk about each of them.</p>
-                                <h4><Link to="/">Question #1: Why are you contacting me?</Link></h4>
+                                <h4 id="effectivecoldemail"><Link to="/">Question #1: Why are you contacting me?</Link></h4>
                                 <p>This one’s pretty straight-forward, or rather it should be pretty clear to you by now.  You need a good reason to reach out to someone. </p>
                                 <p>The “why” is your context. </p>
                                 <p>You need to focus on your prospect, but clearly state your purpose for the email. </p>
@@ -170,7 +250,7 @@ export default class LeadsUniversityThree extends React.Component {
                                         <li>Good email subjects should be emails you'd want to receive.</li>
                                     </ul>
                                 </div>
-                                <h3 className="mt-3">How to Cold Call Like a Pro</h3>
+                                <h3 className="mt-3" id="effectivecoldcalling">How to Cold Call Like a Pro</h3>
                                 <p>2 step cold calling sales hack when using LeadIQ + SalesLoft/Outreach or whatever prospecting platform you are working on. </p>
                                 <p>Here’s how we cold call. Caveat - this hack only works if you use SalesLoft or Outreach in conjunction with LeadIQ. </p>
                                 <p><b>Step#1</b></p>
@@ -182,7 +262,7 @@ export default class LeadsUniversityThree extends React.Component {
                                 <img src="/img/leadIq-linkedin-Profile.png" alt="leadIq-linkedin-Profile" />
                                 <p>Make sure your headphones are plugged into your computer and just like that you’re having a conversation!</p>
                                 <p>Use those cell numbers we have in LeadIQ. You should see a much higher connect rate than calling company main lines or desk phones. We’re seeing a 40-50% connect rate - on outbound cold calls!</p>
-                                <p><b>Other Tips:</b></p>
+                                <p id="effectivesocialselling"><b>Other Tips:</b></p>
                                 <div>
                                     <ul>
                                         <li>If there’s more than one cell phone number we have listed for the prospect, more than likely the first one listed will be the correct one. But sometimes it’s not. So the first time you call a prospect you might have to do a little trial and error of figuring out which number is correct. If one of the cell numbers is wrong, use our new data police feature to mark them as incorrect. That way, it will make our data better and the next time you try calling that prospect, only the correct phone number will appear. </li>

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Podcast Talking About Cold Calling with Lauren Bailey
 description: It was only a matter of time before Lauren Bailey and I would get in a Zoom room and jam about prospecting. Lauren, also known as LB in the sales world, is one of the best cold callers in the world. Factor8 has trained thousands of reps with cold calling, so we went deep inside her mind to understand how to actually turn a cold call into a warm and fuzzy call. Listen below
 coverImage: /img/Capture-1.png

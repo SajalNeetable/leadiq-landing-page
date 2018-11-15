@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Add Leads Into SalesLoft Cadences with LeadIQ
 description: 
 coverImage: 

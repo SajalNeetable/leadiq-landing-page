@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: New Prospecting Podcast High Fives with Text Expander
 description: A few months ago, a customer of ours, Scott Smith, VP of Sales from CloudApp changed my life. As a marketer, I was losing time having to do annoying copying and pasting for link tracking activities, and remembering how to add code to the end of links for tracking was super hard for me
 coverImage: img/leadiq-sunset-blue-color.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Podcast with Calvary’s Paul DeJoe
 description: We talked with Paul DeJoe from Calvary about cold emailing, and what makes a good cold email. If you are looking to understand how to make a good cold email template, and what research to do, this is the episode you’ll want to listen to.
 coverImage: /img/beach-and-sunset.jpg

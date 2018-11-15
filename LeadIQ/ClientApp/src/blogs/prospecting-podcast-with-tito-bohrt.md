@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Podcast with Tito Bohrt
 description: Ryan O’Hara sits down with Tito Bohrt, CEO of AltiSales and talks about prospecting, how to structure SDR teams, and the future of researching prospects.
 coverImage: /img/Tito_Bohrt.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Talking with Josh Braun
 description: Last week, Josh Braun was kind enough to have me on his podcast to talk about prospecting, and making it fun for prospects of all ages and seniority. Listen in below!
 coverImage: /img/Josh-Barun-smiling.png

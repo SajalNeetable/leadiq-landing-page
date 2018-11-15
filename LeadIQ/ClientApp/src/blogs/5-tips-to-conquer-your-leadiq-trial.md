@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: 5 Tips To Conquer Your LeadIQ Trial
 description: If you just downloaded a LeadIQ trial, you may be wondering what all this LeadIQ silly business is, and how it can help you with your lead generation. If you haven’t downloaded a trial yet, these tips are still worth skimming! We thought it’d be a good idea to put together some basic tips to help you get the most of your trial. Here are 5 tips to conquer your LeadIQ trial and get the most out of it
 coverImage: img/an-eagle.jpg

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: The Dreamforce 2017 Party List
 description: With Dreamforce 2017 happening just next week, on November 6-9, 2017, we thought we’d snoop around and find the parties taking place during the week. Here’s our makeshift copy and paste list of parties for you to attend at Dreamforce this year. Make sure you RSVP
 coverImage: img/dramatic-sf-sky-line.jpg

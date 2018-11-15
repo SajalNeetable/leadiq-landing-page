@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: How We Turned 40% of Our Cold Emails into Meetings
 description: Anyone that checks out our content on cold email prospecting knows that prospecting can be fun. Today, I’m going to share a story about how I merged two of my favorite talents, prospecting and piano together, and how it converted 40% of our cold emails into meetings
 coverImage: img/play-music.jpg

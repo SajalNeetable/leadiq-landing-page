@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Podcast Phil Gerbyshak talks about giving to your prospects
 description: In the latest episode of the Prospecting Podcast, we talk with everyone’s favorite social selling teacher, Phil Gerbyshak (more about Phil on his website)
 coverImage: img/phil-gerbyshak.png

@@ -4,6 +4,9 @@ import React from 'react';
 import PodcastAudio from "../components/PodcastAudio";
 import PodcastVideo from "../components/PodcastVideo";
 import TopNav from "../components/TopNav";
+import Helmet from 'react-helmet';
+
+
 
 class PodcastDetails extends React.Component {
     constructor(props) {
@@ -43,6 +46,13 @@ class PodcastDetails extends React.Component {
                     this.state.podcast &&
                     <div>
                         <TopNav />
+                        <Helmet>
+                            <meta charSet="utf-8" />
+                            <title>{this.state.podcast.attributes.metaTitle}</title>
+                            <meta name="description" content={this.state.podcast.attributes.metaDescription} />
+                            <meta name="keywords" content={this.state.podcast.attributes.metaKeywords} />
+                        </Helmet>
+
                         <PodcastAudio
                             title={this.state.podcast.attributes.title}
                             description={this.state.podcast.attributes.description}

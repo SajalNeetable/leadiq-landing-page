@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Proof That The Ruler Brand Archetype Works
 description: The other day, I wrote a blog post introducing you to the 12 brand archetypes, and why you should use them for social selling. Just a refresher, there are 12 different archetypes you can make your online brand be. If you stick to one of them, you’re customers will feel loyalty toward you. Add in one that is different from your peers in your industry, and you’re golden.
 coverImage: /img/boxing.jpg

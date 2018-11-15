@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Podcast How To Sell Boldly by Asking Easy Questions with Alex Goldfayn
 description: Today, we talked with Alex Goldfayn about his new book, Selling Boldly, and how you can get more meetings and close more deals by just tweaking a few things in your pitch
 coverImage: img/alex-goldfayn.png

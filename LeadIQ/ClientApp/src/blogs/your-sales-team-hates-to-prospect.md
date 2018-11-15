@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Your Sales Team Hates To Prospect? Who Cares
 description: Aaron Ross has no clothes. If you do not know who Aaron Ross is, he is the author of the tech sales “bible” Predictable Revenue, which validates lazy salespeople everywhere by stating they shouldn’t be prospecting. His argument more or less claims that it’s a waste of their time, not very effective and someone cheaper can do it.
 coverImage: img/predictable-revenue.jpg

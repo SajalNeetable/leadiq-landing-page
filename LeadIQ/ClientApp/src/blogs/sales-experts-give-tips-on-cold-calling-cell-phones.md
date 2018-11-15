@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Sales Experts Give Tips on Cold Calling Cell Phones
 description: Over the past few months, we’ve had a lot customers come in and buy LeadIQ just for our phone data. It wasn’t always like this. I think a big reason for this shift has been because direct dials are becoming less and less relevant thanks to companies moving away from desk phones. So what kind of phone data are they buying?
 coverImage: /img/Sales-Person.jpg

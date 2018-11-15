@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Prospecting Podcast Selling into HR with Sonya Meloff
 description: Today we talked with Sonya Meloff about her story and how she learned about selling as an early employee at Monster.com. We also talk about things she’s learned starting her own sales recruiting firm, the Sales Talent Agency, and being sold to all the time by sales reps
 coverImage: /img/prospecting-sonya.png

@@ -1,4 +1,5 @@
 ﻿---
+layout: blog
 title: Why You Need To Be An Asset for Your Prospects
 description: Last year, I read a really intriguing post by the legendary Townsend Wardlaw on Linkedin about The Death of the SDR. This is the post Wardlaw wrote.
 coverImage: /img/finnegan-is-sad.jpeg
