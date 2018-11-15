@@ -13,7 +13,9 @@ class Category extends React.Component {
 
     componentDidMount() {
         window.scrollTo(0, 0)
-
+        if (window === window.top) {
+            window.location = "https://account.leadiq.com/app/university/";
+        }
         navigator.sayswho = (function () {
             var ua = navigator.userAgent, tem,
                 M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
