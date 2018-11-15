@@ -11,7 +11,7 @@ class Home extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            browserVersion: "",
+            browserVersion: ""
         }
     }
 
@@ -37,6 +37,7 @@ class Home extends React.Component {
             browserVersion: navigator.sayswho
         });
 
+
     }
 
     render() {
@@ -44,10 +45,7 @@ class Home extends React.Component {
             <div>
                 <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                     this.state.browserVersion === "IE 9") ? "" : "cover"}>
-                    <div className="d-none d-md-block">
-                        <img src="/img/home-bg-cover.png" className="img-fluied" alt="cover"
-                        />
-                    </div>
+                    <div className="d-none d-md-block prospect-cover-image"></div>
                     <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                         this.state.browserVersion === "IE 9") ? "titleFix cover-content" : "cover-content"}>
                         <div className="container">

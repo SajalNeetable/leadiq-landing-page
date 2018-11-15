@@ -10,13 +10,13 @@ body {
     }
 }
 
-.overrideLoader {
-    display: block;
-    margin: 0 auto;
-    justify-content: center;
-    display: flex;
-    align-items: center;
+
+.prospect-cover-image {
+    background-image: url('/img/home-bg-cover.png');
+    background-size: contain;
+    background-repeat: no-repeat;
     height: 100vh;
+    width: 100%;
 }
 
 
