@@ -53,7 +53,14 @@ class WebinarCard extends React.Component {
         });
     }
 
-    viewWebinar() {
+    viewWebinar(e) {
+        e.preventDefault();
+        
+        fetch('https://content.leadiq.com/acton/eform/35094/f2224b97-0303-4a39-aeb0-2b4d54ba1281/d-ext-0001', {
+            method: 'post',
+            body: new FormData(e.currentTarget.form)
+        });
+
         this.setState({
             mode: 1
         }, () => {
@@ -113,8 +120,10 @@ class WebinarCard extends React.Component {
                                 <div className="modal-body text-center">
                                     <p className="pt-4 mb-4">Provide your email to see the webinar</p>
                                     <form className="justify-content-center d-flex row  m-3">
-                                        <input type="email" placeholder="Enter your email here..."
+                                        <input type="email" name="email" placeholder="Enter your email here..."
                                             onChange={this.emailValidation.bind(this)} className="col-sm-6 col-md-3 col-lg-3 emailWebinar" />
+                                        <input type="hidden" name="webinarTitle" value={this.props.video.title} />
+                                        <input type="hidden" name="webinarUrl" value={this.props.video.navLink} />
                                         <button className="btn liq-btn-primary button-design col-sm-6 col-md-3 col-lg-3" disabled={!this.state.btnDisplay}
                                             onClick={this.viewWebinar.bind(this)}>VIEW NOW</button>
                                     </form>
@@ -140,6 +149,6 @@ class WebinarCard extends React.Component {
 }
 
 
-export default  (withStyles(styles)(WebinarCard));
+export default (withStyles(styles)(WebinarCard));
 
 
