@@ -75,6 +75,9 @@ class Footer extends React.Component {
                                 <li className="nav-item">
                                     <Link className="nav-link liq-footer-link" to="/faq">FAQs</Link>
                                 </li>
+                                <li className="nav-item">
+                                    <a href="https://leadiqhelp.zendesk.com/hc/en-us" className="nav-link liq-footer-link">Help</a>
+                                </li>
                             </ul>
                         </div>
                         <div className="col-sm-3">
