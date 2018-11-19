@@ -31,6 +31,14 @@ They thank them, create a task to reach back out, and move on to the next prospe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5hfYJsQAhl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
+If you wrote a good personalized email or had a great call, get something on the books in January NOW. If the prospect is uncomfortable with booking that far ahead, in the calendar, tell them the invite can also serve as a reminder for both of you to schedule in the event it doesn’t work. 
+
+### Here’s an example of a good calendar to send:
+
+![tom-calendar.png](img/tom-calendar.png)
+
+
+
 
 
 
