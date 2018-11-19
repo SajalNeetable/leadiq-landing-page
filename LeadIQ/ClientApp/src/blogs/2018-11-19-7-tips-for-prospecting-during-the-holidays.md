@@ -23,4 +23,14 @@ If the rep respected my wish to pull in my other two teammates, and do it in Jan
 
 ## Tip 2: Send an actual calendar invite for January.
 
+Oh man, this one drives me nuts! I used to see reps on my team get the objection we just talked about, and to reach back out in the new year. You know what a ton of reps do? 
+
+They thank them, create a task to reach back out, and move on to the next prospect.
+
+**WRONG!**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5hfYJsQAhl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+
+
 
