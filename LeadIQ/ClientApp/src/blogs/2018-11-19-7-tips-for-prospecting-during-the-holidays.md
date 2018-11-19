@@ -48,6 +48,21 @@ If the prospect doesn’t accept the invite, don’t be afraid to shoot them a r
 The 24 hour calendar reminder for the prospect can also serve as a reminder to you to check back in with your prospect. 
 
 
+## Tip 3: The best way to do a remind a prospect about your meeting is over text message. 
+
+Calling from my experience is too intrusive since they already agreed to a call. It also may seem kind of salesy to redo a cold call.  
+
+If your prospect is like me, and sees an email next to many of their unread emails, it’ll remind them just how busy they actually are. 
+
+Remember, you want to be friendly with your prospects. Put some personality into your text. If they have buying power, they are likely extraordinary people. They deserve extraordinary outreach.
+
+Here’s an example of one I’d send if I joked with a prospect on a cold call about rat tails. 
+
+![rattail.png](img/rattail.png)
+
+
+
+
 
 
 
