@@ -128,6 +128,14 @@ Think of how unique the follow up can be for something like this.
 
 If the prospect didn’t respond, we followed up with a tweet of the video at the company tag, plus the prospect’s tag if they had one. 
 
+![tweetsproutsocial.png](img/tweetsproutsocial.png)
+
+The campaign ended up yielding a 44% opportunity rate over the course of Q1 of the follow year. That means it generated 13 opps for one day of work. Total cost: $300
+
+The holidays don’t need to be a sales reps death sentence. It’s a good time to put your head down, and do some really cool experiments with prospecting. Just make sure you hit the go button in January with it. 
+
+
+
 
 
 
