@@ -108,6 +108,16 @@ Logistically, I sort of felt like while the gifts were useful, we wouldn’t be 
 
 There also a limit of how many we could afford given the cost (they were roughly $20 per power brick). 
 
+With so much of our prospecting going unanswered at this time of year, what if we did something with our time that made the outreach better once they come back to work? 
+
+### So we ended up doing this for prospects:
+
+<iframe class="vidyard_iframe" src="//play.vidyard.com/UsddiD6y54rwhs576sHxbW.html?v=3.1.1" width="640" height="360" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
+
+
+
+
+
 
 
 
