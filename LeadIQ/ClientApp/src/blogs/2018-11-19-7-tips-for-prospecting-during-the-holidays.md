@@ -94,6 +94,23 @@ I always tell reps that they have to be peacocks. They have find a way to stand 
 
 ![happy-holidays-emails.png](img/happy-holidays-emails.png)
 
+I’ve made this mistake myself two years back, and from my experience, you’ll get a better open rate using a different subject line with your emails. 
+
+## Tip 7: Use the holidays to produce an interesting prospecting campaign.
+
+A few years ago, when LeadIQ’s office was really tiny, we were trying to find a way to do something nice for our customers for the holidays.
+
+Our team was kicking around a couple of ideas. Our CTO Angelo bought a bunch of portable chargers with our old logo on it with the intent of using them as gifts. This was actually debated for a little while. We ended up mailing some of the chargers to a few prospects. 
+
+![power brick.jpg](img/power brick.jpg)
+
+Logistically, I sort of felt like while the gifts were useful, we wouldn’t be able to do something after the holidays with them as well. 
+
+There also a limit of how many we could afford given the cost (they were roughly $20 per power brick). 
+
+
+
+
 
 
 
