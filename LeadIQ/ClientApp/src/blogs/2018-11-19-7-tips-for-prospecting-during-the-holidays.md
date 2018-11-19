@@ -70,6 +70,21 @@ You can boilerplate about 60% of your email, and make the other 40% reference wh
 
 I’d do a 2 or three step sequence or cadence. The first step being a text, the next being an email, and finally a call if the prospect no shows the meeting.  I’d do both steps 1 and 2 within 24 hours of each other to do what people call, the Double Tap. 
 
+## Tip 5: If you are working the week between Christmas and New Years, use the Send Later function with your personalized cold email.
+
+Spending years as a prospector, I can count on one hand the amount of deals I’ve brought in that closed in less than 30 days. 
+
+Think of the outcome of your prospect for a second. Even if you or your team members setup a great meeting the second or third week of December, a lot of the deal momentum can die because of the holidays. It’s important to try and close someone when their interest is highest. How much will their interest drop if they disappear from the office for a week? 
+
+If you have a short sales cycle, than you can ignore this, but generally speaking, most companies we talk with have at least a two or three month sales cycle on outbound deals. 
+
+As a result, I recommend you spend the latter half of December writing personalized emails that will go out the first few weeks in January. 
+
+![sendlater.png](sendlater.png)
+
+
+
+
 
 
 
