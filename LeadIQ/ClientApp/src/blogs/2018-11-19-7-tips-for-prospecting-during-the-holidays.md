@@ -60,6 +60,18 @@ Here’s an example of one I’d send if I joked with a prospect on a cold call 
 
 ![rattail.png](img/rattail.png)
 
+## Tip 4: If you use sales engagement software for prospecting, build a reminder sequence or cadence.
+
+If you are using cadence or sequence software like Outreach or SalesLoft, I’d recommend building a series of reminders for all the prospects the second they say they are down to talk in the upcoming year. 
+
+You can boilerplate about 60% of your email, and make the other 40% reference what you talked about with the prospect in December. 
+
+![outreach.png](outreach.png)
+
+I’d do a 2 or three step sequence or cadence. The first step being a text, the next being an email, and finally a call if the prospect no shows the meeting.  I’d do both steps 1 and 2 within 24 hours of each other to do what people call, the Double Tap. 
+
+
+
 
 
 
