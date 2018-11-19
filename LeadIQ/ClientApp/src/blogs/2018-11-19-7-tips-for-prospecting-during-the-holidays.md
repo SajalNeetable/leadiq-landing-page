@@ -82,6 +82,20 @@ As a result, I recommend you spend the latter half of December writing personali
 
 ![sendlater.png](sendlater.png)
 
+Usually you can find the Send Later function next to the send button on whatever application you are using. 
+
+If you are a VP of Sales seeing this, or in charge of a prospecting team..I’m not saying give up! I’m just saying that you have to think about your sales reps who get the deals once they respond as well. They are focusing on closing out the year strong, so even if you give them a new deal to work this month, their attention may not be as great as it may be in the new year. 
+
+When you set the send later time, make sure it isn’t a time that rounds to a exact hour or half hour. It’ll make your email look programmed. 
+
+## Tip 6: Don’t send emails with the subject _Happy Holidays_
+
+I always tell reps that they have to be peacocks. They have find a way to stand out when they prospect. Let me tell you what doesn’t stand out. Using the subject, Happy Holidays, any time after Thanksgiving to New Years. I did a subject search from my inbox and found over 23 emails with that subject line. 
+
+![happy-holidays-emails.png](img/happy-holidays-emails.png)
+
+
+
 
 
 
