@@ -13,4 +13,14 @@ I remember when I was running some of the conferences and events at Dyn, getting
 
 It really turned me off when the rep kept pushing me to meet prior to January, even though I told them over email it wasn’t going to work in December. I ultimately didn’t respond, and the meeting never happened. 
 
+Your prospects don’t care about your end of the year goals. They don’t care about your Q4 quota, and they definitely don’t care about being rushed in a decision because it fits well with your fiscal year agenda. Put your prospects first, and maybe loosen the qualification standards a little bit in December. You don’t want to have December hurt moral with your prospectors. 
+
+You can yell at your team about hustle, and blabber about pipeline all you want, but it’s better for your prospecting team to kick off January well than it is to end the prospecting year strong.
+
+Obviously it’d be nice to do both, but you have to be patient and put your prospects first. 
+
+If the rep respected my wish to pull in my other two teammates, and do it in January, we likely could have got something on the books in December for January. Which brings me to my next point. 
+
+## Tip 2: Send an actual calendar invite for January.
+
 
