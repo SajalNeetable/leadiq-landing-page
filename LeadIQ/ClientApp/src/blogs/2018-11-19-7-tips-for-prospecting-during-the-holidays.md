@@ -134,6 +134,14 @@ The campaign ended up yielding a 44% opportunity rate over the course of Q1 of t
 
 The holidays don’t need to be a sales reps death sentence. It’s a good time to put your head down, and do some really cool experiments with prospecting. Just make sure you hit the go button in January with it. 
 
+[## Ever want to learn how to pitch a CEO? How about 3 of them? Check out this crazy amazing online event we're doing. Sign up here.](https://ter.li/m5q3s1)
+
+![ceoselling.jpg](img/ceoselling.jpg)
+
+
+
+
+
 
 
 
