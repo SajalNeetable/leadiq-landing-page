@@ -1,7 +1,23 @@
 ---
 layout: blog
-published: false
+published: true
 title: 7 Tips for Prospecting During The Holidays
+description: >-
+  Let’s not sugar coat it everyone. No bullshit. I’m just going to say what
+  everyone is thinking. Prospecting during the holidays is one the hardest
+  things to do. We are about to enter the armpit of Christmas cheer, the out of
+  office Kwanza bandanza, the I’m not interested, don’t you realize it’s
+  Hanukkah season. Or some call it, the holidays!
+
+  You know what stinks though. WE STILL HAVE QUOTAS!
+
+  Today, I thought I’d put together a post on some prospecting tips to help you
+  reach your goals throughout one of the most challenging times to do sales
+  development.
+author: Ryan O'Hara
+publishDate: 'November 19, 2018'
+authorProfile: "Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb.\nRyan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.\_"
+authorImage: img/Ryan-OHara-Headshot.png
 ---
 ## Tip 1: If you are a Sales Development Manager or VP of Sales, be patient. It’s the holidays.
 
