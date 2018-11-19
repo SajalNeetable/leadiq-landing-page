@@ -114,6 +114,25 @@ With so much of our prospecting going unanswered at this time of year, what if w
 
 <iframe class="vidyard_iframe" src="//play.vidyard.com/UsddiD6y54rwhs576sHxbW.html?v=3.1.1" width="640" height="360" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
 
+The plan was simple. We decided it’d be really cool to hire a String Quartet,  and asked them to learn a few classic rock songs. Based on our prospect’s interest, we paired up songs with the musical taste of our prospects. 
+
+After recording a video to our prospects on a webcam, we intro’d them to the backroom of our tiny office, turning on the lights, and revealing the quartet!
+
+The cool part is we were able to crank out about 30 of these over the course of an 8 hour session with the quartet.
+
+### Why did we do this?
+
+Think of how unique the follow up can be for something like this. 
+
+> Hey Kelly, did you see that video we sent you with the song? What’d you think?” over a cold call certainly beats, “Hey Kelly..do you have a few minutes to talk? LeadIQ blah blah blah...
+
+If the prospect didn’t respond, we followed up with a tweet of the video at the company tag, plus the prospect’s tag if they had one. 
+
+
+
+
+
+
 
 
 
