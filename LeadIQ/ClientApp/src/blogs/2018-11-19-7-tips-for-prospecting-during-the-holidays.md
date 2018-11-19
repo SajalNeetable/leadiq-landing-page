@@ -37,6 +37,19 @@ If you wrote a good personalized email or had a great call, get something on the
 
 ![tom-calendar.png](img/tom-calendar.png)
 
+I’d recommend setting up an extra notification in your calendar invite. I usually do this one for 24 hours out so the prospect doesn’t forget about the meeting. Most calendars only have a reminder for 10 minutes before the meeting by default, so you may have to tweak your invite by adding an extra notification. 
+
+Remember to also remind them what the hell happened in December. As a decision maker here, I sometimes have so much going on that it becomes difficult to remember what the calendar is about. 
+
+Nothing is worse than the prospect not being prepared to discuss the topic of your first call in your sales process as well. 
+
+If the prospect doesn’t accept the invite, don’t be afraid to shoot them a reminder. 
+
+The 24 hour calendar reminder for the prospect can also serve as a reminder to you to check back in with your prospect. 
+
+
+
+
 
 
 
