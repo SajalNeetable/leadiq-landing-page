@@ -83,7 +83,7 @@ class LayoutFooter extends React.Component {
                 <div className="content">
                     {this.props.children}
                 </div>
-                {(this.state.getLocation === "university" || this.state.getLocation === "leadiq-university-one" ||
+                {(this.state.getLocation === "category" || this.state.getLocation === "leadiq-university-one" ||
                     this.state.getLocation === "leadiq-university-two" || this.state.getLocation === "leadiq-university-three"  ) ? null : <Footer />}
             </div>
         );
