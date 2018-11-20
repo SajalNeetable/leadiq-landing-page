@@ -66,6 +66,7 @@ footer {
     border-radius: 0;
 }
 
+
 .grid-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* or simply "1fr 1fr;" */
