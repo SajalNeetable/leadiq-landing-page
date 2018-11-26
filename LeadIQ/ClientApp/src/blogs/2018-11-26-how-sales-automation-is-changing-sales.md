@@ -2,6 +2,8 @@
 layout: blog
 published: false
 title: How Sales Automation Is Changing Sales
+metaTitle: How Sales Automation Is Changing Sale
+author: Mei Siauw
 ---
 Sales Automation is all the rave nowadays.
 
