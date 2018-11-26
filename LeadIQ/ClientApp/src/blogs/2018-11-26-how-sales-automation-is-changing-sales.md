@@ -8,7 +8,7 @@ authorImage: img/meiheadshot.jpeg
 authorProfile: Mei Siauw is the CEO and co-founder of LeadIQ.
 publishDate: 'November 26, 2018'
 description: >-
-  Sales Automation is all the rave nowadays.
+  Sales Automation is all the rage nowadays.
 
   Over the past decade, we’ve seen a massive shift towards inside sales in the
   B2B world. Teams are leaning more and more on prospecting to build up their
