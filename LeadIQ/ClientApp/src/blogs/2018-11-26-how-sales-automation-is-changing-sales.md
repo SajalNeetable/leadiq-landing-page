@@ -39,3 +39,14 @@ _Being human is the future of sales. Freeing up time so we can stop sending emai
 The average response rate to cold emails in the industry is 3%. If you send 1000 emails, you will get 30 responses back. Our sales team test by writing highly personalized emails. The average response rate that they get was between 25%-35%. If they send 100 emails, they get 30 responses back. They are getting the same result. But there are 900 other future prospects that have not been touched, have not been annoyed by the “spam generic emails”, and can still be touched in the future!
 
 Recently our VP of Marketing, Ryan O’Hara received a cold prospecting email from Matt Sharp, a SDR from Salesforce. Ryan posted a copy Matt’s email on social media saying that the email “buttered him up real good”. Ryan’s friends know that Ryan loves Tom Brady, and the email started with Tom Brady. Matt did his research and made Ryan feel good.
+
+![sharpemail.png](img/sharpemail.png)
+
+
+Imagine a world where each email that arrives in your inbox is a thoughtfully crafted email. An email that that is being written by someone who’s thoughtful and personal, who has clearly done their work and research. 
+An email that makes you smile and makes your life brighter.
+
+That’s the future of sales.
+
+
+
