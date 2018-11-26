@@ -1,7 +1,7 @@
 ---
 layout: podcast
 published: false
-title: High Fives with Chris Ortolano
+title: Using Story Telling for Prospecting with Chris Ortolano
 description: >-
   Ryan O’Hara sat down with Chris Ortolano to talk about story telling, and how 
   to use it for prospecting. We dive into some stories, video prospecting, and
