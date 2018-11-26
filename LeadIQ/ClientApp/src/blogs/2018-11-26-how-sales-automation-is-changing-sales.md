@@ -70,4 +70,6 @@ That’s the future of sales.
 ![ceoselling.jpg](img/ceoselling.jpg)
 
 
+This post first appeared on the [Fresco Capital](https://medium.com/fusion-by-fresco-capital/how-sales-automation-is-changing-sales-2dd76bfa6393) blog. 
+
 
