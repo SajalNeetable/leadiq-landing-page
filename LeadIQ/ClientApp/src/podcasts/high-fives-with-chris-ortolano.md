@@ -1,6 +1,6 @@
 ---
 layout: podcast
-published: false
+published: true
 title: Using Story Telling for Prospecting with Chris Ortolano
 description: >-
   Ryan O’Hara sat down with Chris Ortolano to talk about story telling, and how 
