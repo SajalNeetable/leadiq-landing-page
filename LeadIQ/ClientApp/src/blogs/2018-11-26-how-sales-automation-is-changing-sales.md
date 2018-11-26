@@ -4,10 +4,23 @@ published: false
 title: How Sales Automation Is Changing Sales
 metaTitle: How Sales Automation Is Changing Sale
 author: Mei Siauw
----
-Sales Automation is all the rave nowadays.
+authorImage: img/meiheadshot.jpeg
+authorProfile: Mei Siauw is the CEO and co-founder of LeadIQ.
+publishDate: 'November 26, 2018'
+description: >-
+  Sales Automation is all the rave nowadays.
 
-Over the past decade, we’ve seen a massive shift towards inside sales in the B2B world. Teams are leaning more and more on prospecting to build up their revenue. As a result, an entire sales software space has opened up, with hundreds of tools that will help sales teams sell faster. Per [Venture Beat](https://venturebeat.com/2015/12/01/317-companies-10b-in-funding-and-110k-employees-inside-sales-startups-exploding/) as of 2017, there are now at least 5–6 different options in every part of a team’s sales stack.
+  Over the past decade, we’ve seen a massive shift towards inside sales in the
+  B2B world. Teams are leaning more and more on prospecting to build up their
+  revenue.
+metaDescription: >-
+  Sales Automation is all the rave nowadays.
+
+  Over the past decade, we’ve seen a massive shift towards inside sales in the
+  B2B world. Teams are leaning more and more on prospecting to build up their
+  revenue.
+---
+As a result, an entire sales software space has opened up, with hundreds of tools that will help sales teams sell faster. Per [Venture Beat](https://venturebeat.com/2015/12/01/317-companies-10b-in-funding-and-110k-employees-inside-sales-startups-exploding/) as of 2017, there are now at least 5–6 different options in every part of a team’s sales stack.
 
 Sales tools are making it easier for salespeople to send more emails, make more phone calls, and touch thousands of accounts per week. With the sales process optimized, there should be no issues for sales teams to hit their quotas, crush their goals, and help their company to achieve their revenue milestones.
 
@@ -49,6 +62,8 @@ Imagine a world where each email that arrives in your inbox is a thoughtfully cr
 An email that makes you smile and makes your life brighter.
 
 That’s the future of sales.
+
+
 
 [Want to learn how to sell to a CEO like myself? Check out this discussion we did with other CEOs on how to sell to them <----Click here](https://ter.li/m5q3s1)
 
