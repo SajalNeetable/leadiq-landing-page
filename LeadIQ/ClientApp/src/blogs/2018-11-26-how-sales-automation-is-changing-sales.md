@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: How Sales Automation Is Changing Sales
 metaTitle: How Sales Automation Is Changing Sale
 author: Mei Siauw
@@ -8,17 +8,13 @@ authorImage: img/meiheadshot.jpeg
 authorProfile: Mei Siauw is the CEO and co-founder of LeadIQ.
 publishDate: 'November 26, 2018'
 description: >-
-  Sales Automation is all the rage nowadays.
-
-  Over the past decade, we’ve seen a massive shift towards inside sales in the
-  B2B world. Teams are leaning more and more on prospecting to build up their
-  revenue.
+  Sales Automation is all the rage nowadays. Over the past decade, we’ve seen a
+  massive shift towards inside sales in the B2B world. Teams are leaning more
+  and more on prospecting to build up their revenue.
 metaDescription: >-
-  Sales Automation is all the rave nowadays.
-
-  Over the past decade, we’ve seen a massive shift towards inside sales in the
-  B2B world. Teams are leaning more and more on prospecting to build up their
-  revenue.
+  Sales Automation is all the rave nowadays. Over the past decade, we’ve seen a
+  massive shift towards inside sales in the B2B world. Teams are leaning more
+  and more on prospecting to build up their revenue.
 ---
 As a result, an entire sales software space has opened up, with hundreds of tools that will help sales teams sell faster. Per [Venture Beat](https://venturebeat.com/2015/12/01/317-companies-10b-in-funding-and-110k-employees-inside-sales-startups-exploding/) as of 2017, there are now at least 5–6 different options in every part of a team’s sales stack.
 
@@ -70,6 +66,4 @@ That’s the future of sales.
 ![ceoselling.jpg](img/ceoselling.jpg)
 
 
-This post first appeared on the [Fresco Capital](https://medium.com/fusion-by-fresco-capital/how-sales-automation-is-changing-sales-2dd76bfa6393) blog. 
-
-
+This post first appeared on the [Fresco Capital](https://medium.com/fusion-by-fresco-capital/how-sales-automation-is-changing-sales-2dd76bfa6393) blog.
