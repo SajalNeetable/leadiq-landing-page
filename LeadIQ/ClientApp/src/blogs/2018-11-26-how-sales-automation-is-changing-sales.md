@@ -48,5 +48,9 @@ An email that makes you smile and makes your life brighter.
 
 That’s the future of sales.
 
+[Want to learn how to sell to a CEO like myself? Check out this discussion we did with other CEOs on how to sell to them <----Click here](https://ter.li/m5q3s1)
+
+![ceoselling.jpg](img/ceoselling.jpg)
+
 
 
