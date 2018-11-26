@@ -15,3 +15,6 @@ Sales tools are making it easier for salespeople to send more emails, make more 
 
 It’s hard to deny that salespeople conjure up a bad image in most people’s mind. There is a stereotype of salespeople being pushy, calling you, and sending never-ending emails about how their services would be tantamount to you or your organization’s success. All it took was a few bad sales people to make this happen (dishonest, lazy, inattentive, or selfish).
 
+![salestouch.jpeg](img/salestouch.jpeg)
+
+
