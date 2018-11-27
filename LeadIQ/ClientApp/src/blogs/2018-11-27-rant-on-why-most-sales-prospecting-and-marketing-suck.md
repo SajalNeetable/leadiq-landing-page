@@ -102,9 +102,12 @@ Don't just do things that are in your job description. Screw pay checks and comm
 
 Do great things because you want you want to be great. Why not you?
 
-Lead. Dial it to 11, and attack your job. I promise you’ll feel better, and you’ll do great things.  
+Lead. Dial it to 11, and attack your job. Don't just do things to do things. Do things well, and write the book.  I promise you’ll feel better, and great things will follow. 
 
 Rant over. 
+
+
+
 
 
 
