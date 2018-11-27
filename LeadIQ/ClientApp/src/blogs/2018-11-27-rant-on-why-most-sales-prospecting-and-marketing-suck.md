@@ -1,7 +1,7 @@
 ---
 layout: blog
 published: false
-title: Rant on Why Most Sales Prospecting and Marketing Suck
+title: ' Why Most Sales, Prospecting, and Marketing Suck'
 description: >-
   I’m ranting a little today, but that’s because I think this needs to be said.
   There’s a classic scene in the mockumentary "This Is Spinal Tap" where they
