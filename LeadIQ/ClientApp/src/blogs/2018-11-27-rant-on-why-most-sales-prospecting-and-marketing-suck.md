@@ -78,3 +78,33 @@ You know what happened next? My inbox for the past two months has been getting s
 
 Why did the marketing person write a boring email to the leads? It was because they wanted to get something done. I’m not going to be cynical and say they were lazy. Maybe they were afraid. 
 
+## Leaders lead. They don’t follow.
+
+Cliche town, population 1. Hear me out for second though because this is related. 
+
+Don’t just follow sales and prospecting books. Stop listening to sales coaches and jerks like me. 
+
+There are good ones out there, but there is no reason these people can’t be your peers. It’s inside you. They are just like us. We are all unique people who
+
+Do you wake up in the morning and feel content going to work knowing you are going to a be sheep? I didn’t think so. You are a peacock as I always say!
+
+You are an extraordinary person, and so is your team. That means every activity you do should be dialed to 11. You need to do be so unique and thoughtful that no one can turn you away
+
+Don’t prospect by the book. Write the book. Really the set the pace. Forget the fences that B2B institutions have set, and lead. 
+
+Think of how America was born. Historians argue that only 6% of those that were able fought in the American Revolution did. Those that did were part of something special. Many of the survivors of our revolution went on to be towns are named after them. In New Hampshire, half our towns are honoring those who fought and lead. 
+
+## You can be a one percenter too.
+
+I don’t mean in an Occupy Wall Street money money money kind of way. What I mean is that you could be one of the top 1% people out there if you just be thoughtful with everything. Don’t just do things to do things. Attack your job putting yourself into it. Your personality, your quirks, your skills, and your ideas are enough to carry you to do great. You’ll enjoy your life more if you approach everything this way. 
+
+Don't just do things that are in your job description. Screw pay checks and commission. Those may get you nice things your life, but what about a legacy? 
+
+Do great things because you want you want to be great. Why not you?
+
+Lead. Dial it to 11, and attack your job. I promise you’ll feel better, and you’ll do great things.  
+
+Rant over. 
+
+
+
