@@ -106,6 +106,12 @@ Lead. Dial it to 11, and attack your job. Don't just do things to do things. Do 
 
 Rant over. 
 
+[## If you want to see how three CEOs think and how they lead, check out this cool talk with them by clicking here.](https://ter.li/m5q3s1)
+
+![ceoselling.jpg](ceoselling.jpg)
+
+
+
 
 
 
