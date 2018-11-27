@@ -92,6 +92,10 @@ You are an extraordinary person, and so is your team. That means every activity 
 
 Don’t prospect by the book. Write the book. Really the set the pace. Forget the fences that B2B institutions have set, and lead. 
 
+![gw.jpg](img/gw.jpg)
+
+
+
 Think of how America was born. Historians argue that only 6% of those that were able fought in the American Revolution did. Those that did were part of something special. Many of the survivors of our revolution went on to be towns are named after them. In New Hampshire, half our towns are honoring those who fought and lead. 
 
 ## You can be a one percenter too.
