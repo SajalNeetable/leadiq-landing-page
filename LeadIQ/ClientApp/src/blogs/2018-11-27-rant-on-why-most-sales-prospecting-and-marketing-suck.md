@@ -44,3 +44,37 @@ Most default CRM and sales enablement tools’ dashboards show the number activi
 The problem is,  activities should never be the measuring stick of how well your team is prospecting.
 
 Yes you need to do activities! [(If need help with this, check this post)](https://leadiq.com/blog/how-to-get-more-personalized-prospecting-done). Yes your team needs to work hard.
+
+But if you are approaching your day in prospecting on hitting enough accounts up, and making sure you are doing a touch with each account, you’re already losing half the battle. Sending an email to send an email, and doing a cold call just to do a cold call is one of the most common things I see with reps, oId and young. 
+
+Real prospecting should be emphasizing not just getting something done, but attacking your prospecting with something special. Think about how you approached the accounts you went after today. Did you send an email or cold call an account because you were fired up and had energy? That’s cool, but there’s is a difference between doing something, and doing something well. 
+
+If you aren’t sending your best email of all time, or making the best cold cold you can, why are you even doing it? Dialing up your prospecting to 11 means you do something really special for your prospect. 
+
+## ...wait a minute….no. It means you do something special for ALL YOUR PROSPECTS.
+
+Take a minute and look at your SENT box in your email. How great the emails? Grade them now. Seriously!
+
+Out of A, B, C, or D… be honest here. If you were getting that email you sent, would you respond?
+
+Ignore the value of your product, and really think about this. 
+
+If you were getting that voicemail you just left, would you be call that person back? Would that comment on LinkedIn make the prospect DM you? How good was it?
+
+
+### The system is broken right now. With a broken system, there is an opportunity.
+
+Many B2B companies are stuffy and boring. Bigger companies are too afraid to take chances because what they’ve done so far has been successful. The thing is, if something is too challenging, it usually means it’s the right thing to do. 
+
+Send a prospect a song if you are trying to woo them. Make a Vidyard video that mostly about your prospect instead of your product. Open up a cold call telling your prospect about something that made you think of them that doesn’t relate to your product. Write clever copy in your cold email that will make them know you aren’t just an average Joe. Show your passion for your product or service you are selling, without being salesy. Inspire!
+
+That’s dialing your prospecting to 11. 
+
+With marketing and sales, you are also screwing up! Sorry, I don’t care anymore. Story time!
+
+A few months ago, I went to the Sales 3.0 conference Las Vegas, and every talk was about personalization and being human with selling. 
+
+You know what happened next? My inbox for the past two months has been getting slammed with binary prospecting. Automated marketing slog that isn’t even entertaining. COMPLETED actions that were done, but not done well. 
+
+Why did the marketing person write a boring email to the leads? It was because they wanted to get something done. I’m not going to be cynical and say they were lazy. Maybe they were afraid. 
+
