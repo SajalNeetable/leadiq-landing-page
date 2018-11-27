@@ -74,6 +74,9 @@ With marketing and sales, you are also screwing up! Sorry, I don’t care anymor
 
 A few months ago, I went to the Sales 3.0 conference Las Vegas, and every talk was about personalization and being human with selling. 
 
+![comeonman.png](img/comeonman.png)
+
+
 You know what happened next? My inbox for the past two months has been getting slammed with binary prospecting. Automated marketing slog that isn’t even entertaining. COMPLETED actions that were done, but not done well. 
 
 Why did the marketing person write a boring email to the leads? It was because they wanted to get something done. I’m not going to be cynical and say they were lazy. Maybe they were afraid. 
