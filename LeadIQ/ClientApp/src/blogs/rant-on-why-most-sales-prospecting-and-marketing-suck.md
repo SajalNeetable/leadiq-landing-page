@@ -116,4 +116,4 @@ Rant over.
 
 [## If you want to see how three CEOs think and how they lead, check out this cool talk with them by clicking here.](https://ter.li/m5q3s1)
 
-![ceoselling.jpg](ceoselling.jpg)
+![ceoselling.jpg](img/ceoselling.jpg)
