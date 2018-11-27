@@ -66,7 +66,7 @@ If you were getting that voicemail you just left, would you be call that person 
 
 Many B2B companies are stuffy and boring. Bigger companies are too afraid to take chances because what they’ve done so far has been successful. The thing is, if something is too challenging, it usually means it’s the right thing to do. 
 
-Send a prospect a song if you are trying to woo them. Make a Vidyard video that mostly about your prospect instead of your product. Open up a cold call telling your prospect about something that made you think of them that doesn’t relate to your product. Write clever copy in your cold email that will make them know you aren’t just an average Joe. Show your passion for your product or service you are selling, without being salesy. Inspire!
+Send a prospect a song if you are trying to woo them. Make a prospecting video that mostly about your prospect instead of your product. Open up a cold call telling your prospect about something that made you think of them that doesn’t relate to your product. Write clever copy in your cold email that will make them know you aren’t just an average Joe. Show your passion for your product or service you are selling, without being salesy. Inspire!
 
 That’s dialing your prospecting to 11. 
 
@@ -84,9 +84,12 @@ Cliche town, population 1. Hear me out for second though because this is related
 
 Don’t just follow sales and prospecting books. Stop listening to sales coaches and jerks like me. 
 
+
 There are good ones out there, but there is no reason these people can’t be your peers. It’s inside you. They are just like us. We are all unique people who
 
 Do you wake up in the morning and feel content going to work knowing you are going to a be sheep? I didn’t think so. You are a peacock as I always say!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UDhWU0ETsvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You are an extraordinary person, and so is your team. That means every activity you do should be dialed to 11. You need to do be so unique and thoughtful that no one can turn you away
 
