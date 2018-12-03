@@ -43,6 +43,23 @@ Also falling under the umbrella of self-belief is mental toughness. Mental tough
 
 This confidence and optimism comes through in your tone when you speak with prospects on the phone. SDRs, every time you speak with a prospective client they are making a judgement. They're either going to come away from that interaction thinking that you're bored with your job or passionate about it. Some of it comes through in your words, but most of it is about the tone, the inflection, how loud/fast you speak. So how do your prospects think you sound - bored...or passionate??
 
-One way to sound more passionate and less bored on the phone is by standing up while you're on the phone!
+_One way to sound more passionate and less bored on the phone is by standing up while you're on the phone!_
+
+![jl2.jpeg](img/jl2.jpeg)
+
+### Product belief
+
+To succeed you need to have a crystal clear picture of exactly what value your product provides in the marketplace and be able to articulate it in a clear/concise manner. You need to truly believe that your product is the sh!t.
+
+If you don't then you need more training. Go check out your company's case studies. Talk to your product team. Get on a call with marketing. Find out who the top sales rep at your company is and pick his brain. Ask your manager for help.
+
+If you still can't get passionate about your company's mission - find a new company!
+
+Once you do have the necessary level of product belief, your performance as an SDR will improve dramatically. You'll have a greater sense of purpose, like every meeting you set is going to lead to something big. You'll no longer downplay the meetings by saying to your prospects things like, "can we just do a demo?" or, "It will be 15-20 minutes, tops."
+
+Most importantly, you will never apologize to your prospects ever again.
+
+
+
 
 
