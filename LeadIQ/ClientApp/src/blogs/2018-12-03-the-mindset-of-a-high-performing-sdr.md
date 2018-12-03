@@ -59,6 +59,13 @@ Once you do have the necessary level of product belief, your performance as an S
 
 Most importantly, you will never apologize to your prospects ever again.
 
+> High-performing SDRs don't apologize to their prospects, because they know they're delivering value.
+
+![jl3.jpeg](img/jl3.jpeg)
+
+
+
+
 
 
 
