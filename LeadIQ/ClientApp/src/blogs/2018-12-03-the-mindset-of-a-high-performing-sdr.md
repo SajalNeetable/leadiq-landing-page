@@ -75,6 +75,26 @@ By the same token, because of the massive amounts of information available to bu
 
 **The EFI Rule for SDRs is: **
 
+> Never ask a question of your prospect that you could have Easily Found on the Internet, and always provide insight to your prospect that they couldn't have Easily Found on the Internet. We loved with a love that was more than love.
+
+![jl4.jpeg](img/jl4.jpeg)
+
+
+So there you have it. The 3 keys to having the mindset of a high-performing SDR. **Self-belief, product belief and preparation.**
+
+Once you have these three areas covered, you will sound smooth, confident, relaxed and direct on the phone. You will no longer sound nervous or overly formal.
+
+[Matt Heinz](https://www.linkedin.com/in/mattheinz/) put it best at the Enterprise Sales Forum last October:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fnNlaI3dN8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+After that first call, I want the prospect to lean back in their chair and say, "Wow, that was really good. I would have paid for that conversation - I would have paid for that insight."> We loved with a love that was more than love
+
+
+
+
+
+
 
 
 
