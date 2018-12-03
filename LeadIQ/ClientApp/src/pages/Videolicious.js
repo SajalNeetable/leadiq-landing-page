@@ -42,7 +42,7 @@ export default class Videolicious extends Component {
                                     text="“The benefit to LeadIQ is speed. It’s not that we can't get data other places.  We have multiple data sources and there are a million out there. LeadIQ helps most with speeding up our team reaching out to new prospects.”"
                                     author="Charles Moreton"
                                 />
-                                <p>Growth is exploding at Videolicious. Sales has grown triple digits and the average deal size has doubled over the last 18 months. This growth is due to the team implementing the right tech stack (LeadIQ included) that allows us them to priortize sales activity."</p>
+                                <p>Growth is exploding at Videolicious. Sales has grown triple digits and the average deal size has doubled over the last 18 months. This growth is due to the team implementing the right tech stack (LeadIQ included) that allows us them to priortize sales activity.</p>
                                 <p>More teams are adopting video prospecting because it helps humanize reps doing outreach, and it’s working.  </p>
                                 <p>Most of Videolicious’ reps work off researching their prospects on the web. Whether they are browsing a team page, or studying a prospect’s LinkedIn profile. There are a lot of different titles and industries they are selling to. LeadIQ helps them find accurate data for recruiting, L&D, HR, operations, finance, product, engineering. </p>
                                 <QuoteCard
