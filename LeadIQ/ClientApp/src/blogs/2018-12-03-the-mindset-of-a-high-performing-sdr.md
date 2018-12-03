@@ -1,15 +1,12 @@
 ---
 layout: blog
-published: false
+published: true
 title: The Mindset of a High-Performing SDR
 description: >-
-  Let's dive right in and whiteboard this:
-
-  You see the difference? The low-performing SDR has this defeatist mindset. In
-  their head, the prospect is way above them and the SDR isn't worthy of their
-  time.
-
-  This is the biggest challenge that SDRs have. Getting over this mental hump.
+  Let's dive right in and whiteboard this: You see the difference? The
+  low-performing SDR has this defeatist mindset. In their head, the prospect is
+  way above them and the SDR isn't worthy of their time. This is the biggest
+  challenge that SDRs have. Getting over this mental hump.
 coverImage: img/jl0.jpeg
 publishDate: 'December 1, 2018'
 author: Jeremy Leveille
@@ -21,13 +18,10 @@ authorProfile: >-
   month.
 metaTitle: The Mindset of a High-Performing SDR
 metaDescription: >-
-  Let's dive right in and whiteboard this:
-
-  You see the difference? The low-performing SDR has this defeatist mindset. In
-  their head, the prospect is way above them and the SDR isn't worthy of their
-  time.
-
-  This is the biggest challenge that SDRs have. Getting over this mental hump.
+  Let's dive right in and whiteboard this: You see the difference? The
+  low-performing SDR has this defeatist mindset. In their head, the prospect is
+  way above them and the SDR isn't worthy of their time. This is the biggest
+  challenge that SDRs have. Getting over this mental hump.
 metaKeywords: Ever want to know the mindset of the best performing SDRs?
 ---
 
@@ -114,17 +108,4 @@ Once you've got the right mindset as an SDR, everything else falls into place!
 
 There's a huge demand for SDRs / BDRs right now. Some are average or below average - they're in sales because they don't know what else to do. But many SDRs are really freaking good! They'll immerse themselves in your company, in your technology, they're dedicated to getting better, dedicated to learning who your buyer is and what makes them tick. They're some of the most valuable people in your company.
 
-This post first appeared on [LinkedIn](https://www.linkedin.com/pulse/3-keys-high-performing-sdr-mindset-jeremy-leveille/). 
-
-
-
-
-
-
-
-
-
-
-
-
-
+This post first appeared on [LinkedIn](https://www.linkedin.com/pulse/3-keys-high-performing-sdr-mindset-jeremy-leveille/).
