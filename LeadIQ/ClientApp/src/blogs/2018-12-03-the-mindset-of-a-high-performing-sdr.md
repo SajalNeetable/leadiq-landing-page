@@ -10,9 +10,25 @@ description: >-
   time.
 
   This is the biggest challenge that SDRs have. Getting over this mental hump.
-coverImage: (img/jl0.jpeg)
-publishDate: 'December 1, 2019'
+coverImage: img/jl0.jpeg
+publishDate: 'December 1, 2018'
 author: Jeremy Leveille
+authorImage: img/jeremyleveille.jpeg
+authorProfile: >-
+  Jeremy Leveille is an SDR Team Lead at LeadIQ. Besides being named the 2018
+  Sales Development Rep of the year at Tenbound, Jeremy has helped teams
+  everywhere learn how to prospect. He's produced a record smashing 69 opps one
+  month.
+metaTitle: The Mindset of a High-Performing SDR
+metaDescription: >-
+  Let's dive right in and whiteboard this:
+
+  You see the difference? The low-performing SDR has this defeatist mindset. In
+  their head, the prospect is way above them and the SDR isn't worthy of their
+  time.
+
+  This is the biggest challenge that SDRs have. Getting over this mental hump.
+metaKeywords: Ever want to know the mindset of the best performing SDRs?
 ---
 
 Think about it. SDRs are typically calling high level decision makers. The C-Suite and VPs, or at least director level executives. These are people who often times have decades of experience in their field, certifications, awards, accolades. They've been there and done that.
