@@ -63,7 +63,17 @@ Most importantly, you will never apologize to your prospects ever again.
 
 ![jl3.jpeg](img/jl3.jpeg)
 
+### Preparation
 
+Now, there's definitely a balance here. Doing a certain level of call preparation is essential, especially in the world of complex, high end B2B enterprise sales. However, analysis paralysis is also a real epidemic. If you do too much research before each call, you simply won't have enough activity to move the needle. [Jeb Blount](https://www.linkedin.com/in/jebblount/) goes into this in his awesome book, [_Fanatical Prospecting_](https://www.fanaticalprospecting.com/) which I highly recommend.
+
+With that being said, I'd like to introduce what I call, the EFI Rule. EFI, or Easily Found on the Internet. You see, the internet has changed prospecting. Five years ago it was common to hear sales people ask prospects questions like, "What does your company do?", "Can you point me in the right direction?", "What is your role in the purchasing process?" or "How many locations / employees does your company have?"
+
+But in 2017, if you ask questions like that on a prospecting call you are wasting your prospect's time - and it's insulting to them. These are all questions you could find the answers to in less than 30 seconds on Google. Such information is Easily Found on the Internet (EFI).
+
+By the same token, because of the massive amounts of information available to buyers today, they're able to do more of their research online - they're expecting MORE from sales reps. Canned product pitches no longer cut it. That's why the high-performing SDRs peak their prospect's curiosity and challenge them with a new way of thinking - they provide insight that's not Easily Found on the Internet (EFI).
+
+**The EFI Rule for SDRs is: **
 
 
 
