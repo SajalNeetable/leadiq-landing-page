@@ -28,7 +28,8 @@ import TripActions from './pages/TripActions';
 import University from './pages/University';
 import Videolicious from './pages/Videolicious';
 import Videos from './pages/Videos';
-import Webinar from './pages/Webinar';
+import Webinar from './pages/Webinar'; 
+import MasterServiceAgreement from './pages/MasterServiceAgreement';
 
 import ThankYou from './components/ThankYou';
 
@@ -70,9 +71,10 @@ class App extends React.Component {
                         <Route exact path='/sales-operations' component={() => (<div><TopNav /><CampaignBuilder /></div>)} />
                         <Route exact path='/sales-development-reps' component={() => (<div><TopNav /><CampaignBuilder /></div>)} />
                         <Route exact path='/account-executives' component={() => (<div><TopNav /><CampaignBuilder /></div>)} />
+                        <Route exact path='/thank-you-success/' component={() => (<div><TopNav /><ThankYou /></div>)} />
+
                         <Route exact path='/category' component={Category} />
                         <Route exact path='/university' component={University} />
-                        <Route exact path='/thank-you-success/' component={ThankYou} />
                         <Route exact path='/get-100-free-leads' component={GetLeads} />
                         <Route exact path='/leadiq-university-one' component={LeadsUniversityOne} />
                         <Route exact path='/leadiq-university-two' component={LeadsUniversityTwo} />
@@ -80,6 +82,7 @@ class App extends React.Component {
 
                         <Route exact path='/faq' component={() => (<div><TopNav /><FrequentlyAskedQuestion /></div>)} />
                         <Route exact path='/privacy-policy' component={() => (<div><TopNav /><PrivacyPolicy /></div>)} />
+                        <Route exact path='/master-service-agreement' component={() => (<div><TopNav /><MasterServiceAgreement /></div>)} />
                         <Route exact path='/terms-of-use' component={() => (<div><TopNav /><TermsOfUse /></div>)} />
                     </Switch>
                 </LayoutFooter>
