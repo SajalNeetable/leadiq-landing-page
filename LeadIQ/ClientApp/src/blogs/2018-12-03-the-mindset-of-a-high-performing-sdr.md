@@ -88,7 +88,18 @@ Once you have these three areas covered, you will sound smooth, confident, relax
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fnNlaI3dN8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-After that first call, I want the prospect to lean back in their chair and say, "Wow, that was really good. I would have paid for that conversation - I would have paid for that insight."> We loved with a love that was more than love
+> After that first call, I want the prospect to lean back in their chair and say, "Wow, that was really good. I would have paid for that conversation - I would have paid for that insight." We loved with a love that was more than love.
+
+In other words, the goal for every SDR, every time you pick up the phone should be, by the end of that call the prospect is thanking you - not the other way around.
+
+![jl5.jpeg](img/jl5.jpeg)
+
+Once you've got the right mindset as an SDR, everything else falls into place!
+
+There's a huge demand for SDRs / BDRs right now. Some are average or below average - they're in sales because they don't know what else to do. But many SDRs are really freaking good! They'll immerse themselves in your company, in your technology, they're dedicated to getting better, dedicated to learning who your buyer is and what makes them tick. They're some of the most valuable people in your company.
+
+
+
 
 
 
