@@ -3,10 +3,10 @@ layout: blog
 published: true
 title: The Mindset of a High-Performing SDR
 description: >-
-  Let's dive right in and whiteboard this: You see the difference? The
-  low-performing SDR has this defeatist mindset. In their head, the prospect is
-  way above them and the SDR isn't worthy of their time. This is the biggest
-  challenge that SDRs have. Getting over this mental hump.
+  The low-performing SDR has this defeatist mindset. In their head, the prospect
+  is way above them and the SDR isn't worthy of their time.This is the biggest
+  challenge that SDRs have. Getting over this mental hump. Today, let's dive
+  into the mindset of a high-performing SDR.
 coverImage: img/jl0.jpeg
 publishDate: 'December 1, 2018'
 author: Jeremy Leveille
