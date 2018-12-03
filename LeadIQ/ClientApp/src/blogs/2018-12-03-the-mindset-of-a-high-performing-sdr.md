@@ -10,11 +10,16 @@ description: >-
   time.
 
   This is the biggest challenge that SDRs have. Getting over this mental hump.
+coverImage: (img/jl0.jpeg)
+publishDate: 'December 1, 2019'
+author: Jeremy Leveille
 ---
 
 Think about it. SDRs are typically calling high level decision makers. The C-Suite and VPs, or at least director level executives. These are people who often times have decades of experience in their field, certifications, awards, accolades. They've been there and done that.
 
 Yet we're having SDRs call them. SDRs who typically are young, inexperienced, 1st / 2nd job out of college. They don't have a degree in the industry they're prospecting into - let alone one in sales.
+
+
 
 ## I call this the SDR Paradox .
 
