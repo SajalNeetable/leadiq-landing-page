@@ -77,7 +77,7 @@ class App extends React.Component {
                         <Route exact path='/leadiq-university-two' component={LeadsUniversityTwo} />
                         <Route exact path='/leadiq-university-three' component={LeadsUniversityThree} />
 
-                        <Route exact path='/master-service-agreement' component={() => (<div><TopNav /><MasterServiceAgreement /></div>)} />
+                        <Route exact path='/msa' component={() => (<div><TopNav /><MasterServiceAgreement /></div>)} />
                         <Route exact path='/thank-you-success/' component={() => (<div><TopNav /><ThankYou /></div>)} />
                         <Route exact path='/faq' component={() => (<div><TopNav /><FrequentlyAskedQuestion /></div>)} />
                         <Route exact path='/privacy-policy' component={() => (<div><TopNav /><PrivacyPolicy /></div>)} />
