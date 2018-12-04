@@ -29,7 +29,7 @@ import University from './pages/University';
 import Videolicious from './pages/Videolicious';
 import Videos from './pages/Videos';
 import Webinar from './pages/Webinar';
-
+import ThankYou from './components/ThankYou';
 
 
 class App extends React.Component {
@@ -75,6 +75,8 @@ class App extends React.Component {
                         <Route exact path='/leadiq-university-two' component={LeadsUniversityTwo} />
                         <Route exact path='/leadiq-university-three' component={LeadsUniversityThree} />
 
+
+                        <Route exact path='/thank-you-success/' component={() => (<div><TopNav /><ThankYou /></div>)} />
                         <Route exact path='/faq' component={() => (<div><TopNav /><FrequentlyAskedQuestion /></div>)} />
                         <Route exact path='/privacy-policy' component={() => (<div><TopNav /><PrivacyPolicy /></div>)} />
                         <Route exact path='/terms-of-use' component={() => (<div><TopNav /><TermsOfUse /></div>)} />
