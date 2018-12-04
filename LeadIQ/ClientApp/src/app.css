@@ -962,7 +962,7 @@ img {
     background-size: cover;
     height: 60vh;
 }
-.privacy-Cover, .terms-cover {
+.privacy-Cover, .terms-cover, .service-cover {
     background-image: url('/img/privacy-cover.jpg');
     background-repeat: no-repeat;
     background-size: cover;
