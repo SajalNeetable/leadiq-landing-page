@@ -4,17 +4,23 @@ import { withStyles } from '@material-ui/core/styles';
 import React from 'react';
 
 const styles = {
-    dialogPaper: {
-        minHeight: '50vh',
-        maxHeight: '50vh',
-        overflow: 'hidden'
-    },
     MuiDialogContentroot45: {
         padding: 0
+    },
+    dialogPaper:{
+      overflow:'hidden',
     },
     ComponentDialogPaper1: {
         minHeight: 0,
         maxHeight: 0
+    },
+    DialogContent:{
+      height:'100vh',
+    },
+    root:{
+      marginTop:'-10px',
+      marginLeft:'-5px',
+      marginRight:'-5px'
     }
 }
 
@@ -23,7 +29,6 @@ class WatchDemo extends React.Component {
 
     constructor(props) {
         super(props);
-
         this.state = {
             open: false
         };
@@ -37,7 +42,7 @@ class WatchDemo extends React.Component {
         this.setState({ open: false });
     };
 
-    
+
     render() {
         const { fullScreen, classes } = this.props;
         return (
@@ -50,9 +55,9 @@ class WatchDemo extends React.Component {
                     open={this.state.open}
                     onClose={this.handleClose.bind(this)}
                     aria-labelledby="responsive-dialog-title"
-                    classes={{ paper: classes.dialogPaper }}
+                    className={classes.root}
                     >
-                    <DialogContent style={{padding: "0"}}>
+                    <DialogContent className={classes.DialogContent}>
                         <iframe src="https://play.vidyard.com/8m7aQvWpq9ozshq8E8UtKw?" className="iframeVideo" title="video" allowscriptaccess="always"></iframe>
                     </DialogContent>
                 </Dialog>
