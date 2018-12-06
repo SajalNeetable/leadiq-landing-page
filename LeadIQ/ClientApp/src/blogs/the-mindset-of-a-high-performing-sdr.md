@@ -108,4 +108,13 @@ Once you've got the right mindset as an SDR, everything else falls into place!
 
 There's a huge demand for SDRs / BDRs right now. Some are average or below average - they're in sales because they don't know what else to do. But many SDRs are really freaking good! They'll immerse themselves in your company, in your technology, they're dedicated to getting better, dedicated to learning who your buyer is and what makes them tick. They're some of the most valuable people in your company.
 
+[## Learn how to differentiate betweent the good, the bad, and the ugly accounts of sales. Sign up here.##](https://ter.li/1nguem)
+
+
+![goodbaduglywebinar.png](img/goodbaduglywebinar.png)
+
+
+
+
+
 This post first appeared on [LinkedIn](https://www.linkedin.com/pulse/3-keys-high-performing-sdr-mindset-jeremy-leveille/).
