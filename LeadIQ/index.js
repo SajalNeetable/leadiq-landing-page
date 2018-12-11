@@ -31,8 +31,8 @@ var cors = require('cors');
 
 	let podcastFolderPath = [], podcast = null, podcastList = [], resultPodcast = [];
 
-	traverseDir('client/src/blogs');
-	traversePodcastDir('client/src/podcasts');
+	traverseDir('ClientApp/src/blogs');
+	traversePodcastDir('ClientApp/src/podcasts');
 
 	function traverseDir(dir) {
 	 	fs.readdirSync(dir).forEach(file => {
@@ -140,10 +140,10 @@ var cors = require('cors');
 	}
 
 
-app.use(express.static('client/build'));
+app.use(express.static('ClientApp/build'));
 
 app.get('*',  (req, res) => {
-    res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
+    res.sendFile(path.resolve(__dirname, 'ClientApp', 'build', 'index.html'));
 })
 
 if(process.env.NODE_ENV === 'production'){
