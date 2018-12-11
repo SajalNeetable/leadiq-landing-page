@@ -77,6 +77,11 @@ prose:
           element: "textarea"
           label: "Description"
           value: ""
+      - name: "publishDate"
+        field:
+          element: "text"
+          label: "Publish Date"
+          value: ""
       - name: "coverImage"
         field:
           element: "text"
