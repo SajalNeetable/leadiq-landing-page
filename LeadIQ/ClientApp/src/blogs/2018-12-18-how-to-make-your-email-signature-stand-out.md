@@ -118,6 +118,9 @@ We’ve now started to implement it across our team. Jon Mazza, an Sales Develop
 
 These videos have some decent editing, but the expectation for most prospects is a video of you just talking to them. That’s all it really takes. Doing this for your entire team will show off your human side, and if you setup link tracking, give your team another trigger to call a prospect. 
 
+[### BUILD YOUR OWN FREE EMAIL SIGNATURE BY CLICKING HERE!](https://PAGES.leadiq.com/free-email-signature)
+
+![emailsignaturebuilder.png](img/emailsignaturebuilder.png)
 
 
 
