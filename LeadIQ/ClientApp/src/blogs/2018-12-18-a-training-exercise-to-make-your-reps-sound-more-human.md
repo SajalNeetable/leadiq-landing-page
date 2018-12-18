@@ -38,6 +38,7 @@ Whether that be from a book, TV show, or movie or podcast, whatever. Take an aft
 
 I took that idea and decided to bring it to what we typically call an Objection Handling training.
 
+### What was the training?
 
 During this training, we will talk about the objections we get most frequently, and  how to answer them in the most business-appropriate ways possible. What this allowed us to do is take a step out of the normal way of communicating with potential prospects, and get away from business appropriate responses.
 
@@ -46,10 +47,14 @@ Some of the stuff did get rated R for lack of a better way to put it. It introdu
 
 I had the group pick an objection that had been getting to them a lot recently, which was an objection that was a competitor essentially.  I told them to spend about fifteen minutes writing down the characteristics that defined the particular character they decided to be. What makes Don Draper, Don Draper? What makes Ricky, Ricky? How do they handle problems? Why are they unique? Why are they recognizable as a character.
 
+![Ricky.jpg](img/Ricky.jpg)
+
+
 
 Once they identified what that character was and who they were, I had them literally go about role playing the situation they were in. I told them to imagine Tony Stark had lost all his money in some sort of Ponzi scheme or something and he had to go out and get a job. We hired him on as an SDR in Lead Forensics. 
 
-That Annalise Keating, I guess she's a lawyer, her practice got sued for malpractice and she had to leave the political realm. So we hired these people. I wanted them to pretend they had gotten this objection on the phone as that person; had them roleplay it back and forth. 
+
+Annalise Keating, I guess she's a lawyer from _How To Get Away with Murder_, her practice got sued for malpractice and she had to leave the political realm. So we hired these people. I wanted them to pretend they had gotten this objection on the phone as that person; had them roleplay it back and forth. 
 
 I tell ya, it was hysterical to watch.  I let them get the freedom...I didn't tell them to impersonate the person, per se, but a lot of them did, with accents and everything.
 
