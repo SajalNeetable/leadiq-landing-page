@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: How To Make Your Email Signature Stand Out
 description: >-
   I’m always talking about how as a sales rep, you need to stand out and be
