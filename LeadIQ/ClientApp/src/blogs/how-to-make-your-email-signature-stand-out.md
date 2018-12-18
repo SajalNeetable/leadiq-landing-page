@@ -9,13 +9,15 @@ description: >-
   interruption.
 author: Ryan O'Hara
 publishDate: December 18. 2018
-authorProfile: "Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb.\nRyan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.\_"
+authorProfile: "Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb. Ryan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.\_"
 authorImage: img/Ryan-OHara-Headshot.png
+coverImage: img/emailsignaturebuilder.png
 ---
 
 If you haven’t read one of our greatest hits blog posts, _[What Makes The Perfect Email Pitch]_(https://leadiq.com/blog/what-makes-the-perfect-email-pitch) , I say there are the four questions every cold email should answer. One of the toughest questions to answer is “Who are you?” 
 
 If you talk about yourself too much, your email is doomed to get deleted or archived. If you miss the mark though, and don’t give enough trust or value to convince the person to respond, you are doomed as well. 
+
 
 Today, I’m going to talk about your email signature, and how it can be a powerful weapon for prospecting.
 
