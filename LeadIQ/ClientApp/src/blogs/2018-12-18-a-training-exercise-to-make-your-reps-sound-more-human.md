@@ -41,3 +41,27 @@ Once they identified what that character was and who they were, I had them liter
 That Annalise Keating, I guess she's a lawyer, her practice got sued for malpractice and she had to leave the political realm. So we hired these people. I wanted them to pretend they had gotten this objection on the phone as that person; had them roleplay it back and forth. 
 
 I tell ya, it was hysterical to watch.  I let them get the freedom...I didn't tell them to impersonate the person, per se, but a lot of them did, with accents and everything.
+
+What I found was it allowed them freedom to get outside the normal responses they felt comfortable giving to a DM. Because a lot of time you see fresh Grads, young people with not a lot of experience, get intimidated by VP's, Director's, Owners. 
+
+By pretending to be a multi-billionaire Super Hero or a badass Lawyer or apparently, a drug addict from a trailer park, it allowed them to be really creative and confident in delivering the messaging. While obviously, they would never say a lot of the things they said in that training on the phone, it was interesting to watch them go back on the phones and deal with those exact objections with somebody later that day. Because the conversation was free; it was real. 
+
+They weren't value dumping to try to pressure people into things; they were really having conversations with people and they were comfortable in their own skin.
+
+It's something that I tried once, literally a couple weeks back. It had great, great results so I started doing it with small pockets of my team every week. The results have been the same, right? They really enjoy it. They laugh, they have fun; it loosens them up and their conversations afterwards are exponentially better and they're producing better results coming out of the trainings.
+
+### Are there elements of those characters that they're now putting into their cold calls?
+
+
+I've noticed a lot of them have held onto some of the particular traits. A lot of helped...now obviously the guy that did Ricky...I don't know if...I've never seen the show but he was described as...literally, his thing was stupid, dimwitted, looking for the easy way out. 
+
+Again this is one of those things, let's just say I don't want you emulating that.
+
+Some of the good things they said about these people were that they were persistent? 
+
+They were creative; they were challenging. They were intelligent. They've taken these particular styles; it's actually interesting watching them adopt how...maybe before if somebody gave them a 'hey you know what, we use XYZ competitor right now, they would've gone into a value dump of "this is why we're better. This is why we're different." The typical stuff nobody wants to hear as a buyer.
+
+
+Now they're going about it from a much different perspective from the people that did the lawyer stuff, right? They're asking more situational questions to build a scene about why this particular tool is important to them and what they have been using the tool for, right? Finding the real reason these people have engaged in using these automation tools or these sales enabling tools and then using that information to position the Lead Forensics tool as a solution to an issue they're still having regardless of what they're using now.
+
+
