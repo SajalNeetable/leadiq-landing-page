@@ -13,7 +13,7 @@ authorProfile: "Ryan O'Hara has been an early employee at several startups helpi
 authorImage: img/Ryan-OHara-Headshot.png
 ---
 
-If you haven’t read one of our greatest hits blog posts, What Makes The Perfect Email Pitch https://leadiq.com/blog/what-makes-the-perfect-email-pitch, I say there are the four questions every cold email should answer. One of the toughest questions to answer is “Who are you?” 
+If you haven’t read one of our greatest hits blog posts, _[What Makes The Perfect Email Pitch]_(https://leadiq.com/blog/what-makes-the-perfect-email-pitch) , I say there are the four questions every cold email should answer. One of the toughest questions to answer is “Who are you?” 
 
 If you talk about yourself too much, your email is doomed to get deleted or archived. If you miss the mark though, and don’t give enough trust or value to convince the person to respond, you are doomed as well. 
 
