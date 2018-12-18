@@ -14,7 +14,8 @@ author: Brenton Heffernan
 authorProfile: >-
   Brenton Heffernan is a Manager of Sales Development at Lead Forensics in
   Atlanta, GA.
-coverImage: (img/tony.jpg)
+coverImage: img/tony.jpg
+authorImage: img/brenton.jpeg
 ---
 I was scrolling on LinkedIn the other day and saw a video of two dudes dressed in ridiculous suits. One being Ryan O'Hara the VP of Marketing & Growth at LeadIQ. 
 
@@ -27,6 +28,8 @@ In the video, they talked about humanizing yourself in your email outreach. Huma
 At Lead Forensics, we are much more focused on an old school approach. We do a lot of phone outreach. We don't mess around with email or LinkedIn that much. 
 
 So, I wanted to take the messaging,the training that he talked about which was essentially, stepping away from your normal scripting process and writing a message in the voice of your favorite characters. 
+
+
 
 
 
