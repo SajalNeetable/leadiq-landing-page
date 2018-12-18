@@ -110,6 +110,16 @@ What’s crazy too is this video, just being my signature has more 1600+  views 
 
 Signatures are a great space for this, and we’ve seen people reply about the videos when it wasn’t emphasized in the original cold email. 
 
+![mazzasignature.png](img/mazzasignature.png)
+
+We’ve now started to implement it across our team. Jon Mazza, an Sales Development Rep, is now sharing a video about why he came back to LeadIQ. This is his video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UZlhFUfe1kU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+These videos have some decent editing, but the expectation for most prospects is a video of you just talking to them. That’s all it really takes. Doing this for your entire team will show off your human side, and if you setup link tracking, give your team another trigger to call a prospect. 
+
+
+
 
 
 
