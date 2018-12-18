@@ -19,6 +19,10 @@ Today, I’m going to talk about your email signature, and how it can be a power
 
 I don’t want to make this blog post about this, so I’ll try and keep this part short. An email signature is useful for a couple of reasons.  
 
+![tracking_notification.gif](img/tracking_notification.gif)
+_In the image above, a user is using [MixMax](mixmax.com)to track if their email is being opened by a prospect._
+
+
 ### Reason 1: Open Tracking
 
 If your sales team is using any sort of software to track if someone is reading or opening your email, you’ll get a notifications whenever a prospect opens your email. I’m going to share something you probably don’t know. 
