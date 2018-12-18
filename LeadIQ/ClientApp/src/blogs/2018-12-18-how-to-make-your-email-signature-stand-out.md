@@ -33,3 +33,8 @@ When a user opens the email, it sends a notification back to the service you are
 
 The problem is, if there is no email signature with a logo or some other image file in it, and the user doesn’t have display images turned on in their settings tab, there could be a warning message asking the user to “display images.”
 
+![display.png](img/display.png)
+
+
+
+
