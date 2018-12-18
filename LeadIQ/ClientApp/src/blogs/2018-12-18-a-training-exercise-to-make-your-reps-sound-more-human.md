@@ -92,6 +92,9 @@ I want to start to bringing up different levels of management and do these thing
 
 They've become very, very free in the way they talk. They're still on structure; they're not wasting people's time but it's something I'm starting to bleed into all my other trainings because honestly, I think it encourages creativity and freedom in discussing things with prospect. That's something I'm a big believer in as the salesperson and manager here.It's been great. I've watched it bleed over into everything else and I intend to continue that further and further down the line.
 
+[BUILD YOUR OWN EMAIL SIGNATURE. <------CHECK IT OUT](https://pages.leadiq.com/free-email-signature)
+![emailsignaturebuilder.png](img/emailsignaturebuilder.png)
+
 
 
 
