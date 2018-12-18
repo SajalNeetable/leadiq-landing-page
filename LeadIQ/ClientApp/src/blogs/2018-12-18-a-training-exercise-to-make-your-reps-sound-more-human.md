@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: A Training Exercise To Make Your Reps Sound More Human
 description: >-
   I run the sales development team over here at LeadForensics. As those of you
@@ -94,8 +94,3 @@ They've become very, very free in the way they talk. They're still on structure;
 
 [BUILD YOUR OWN EMAIL SIGNATURE. <------CHECK IT OUT](https://pages.leadiq.com/free-email-signature)
 ![emailsignaturebuilder.png](img/emailsignaturebuilder.png)
-
-
-
-
-
