@@ -29,8 +29,7 @@ At Lead Forensics, we are much more focused on an old school approach. We do a l
 
 So, I wanted to take the messaging,the training that he talked about which was essentially, stepping away from your normal scripting process and writing a message in the voice of your favorite characters. 
 
-
-
+![dondraper.jpg](img/dondraper.jpg)
 
 
 
