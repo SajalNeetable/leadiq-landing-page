@@ -7,6 +7,10 @@ description: >-
   interesting. If you are a VP of Sales and you’re running a team, you need your
   reps to have a brand, do tactics that make the prospect stop, and notice their
   interruption.
+author: Ryan O'Hara
+publishDate: December 18. 2018
+authorProfile: "Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb.\nRyan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.\_"
+authorImage: img/Ryan-OHara-Headshot.png
 ---
 
 If you haven’t read one of our greatest hits blog posts, What Makes The Perfect Email Pitch https://leadiq.com/blog/what-makes-the-perfect-email-pitch, I say there are the four questions every cold email should answer. One of the toughest questions to answer is “Who are you?” 
@@ -121,18 +125,3 @@ These videos have some decent editing, but the expectation for most prospects is
 [### BUILD YOUR OWN FREE EMAIL SIGNATURE BY CLICKING HERE!](https://PAGES.leadiq.com/free-email-signature)
 
 ![emailsignaturebuilder.png](img/emailsignaturebuilder.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
