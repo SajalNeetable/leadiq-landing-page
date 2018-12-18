@@ -70,12 +70,12 @@ The big thing is to have fun and make fun of yourself a little bit. The nice thi
 
 Ok...generally speaking I think you need the following in your email signature:
 
-#1 Title
-#2 Company Name
-#3 Direct number
+#1 Title.
+#2 Company Name.
+#3 Direct number.
 #4 Company website. 
 #5 Your social profiles. 
-#6 Your email
+#6 Your email.
 #7 Your company logo
 
 **Seems fairly stock right?**
@@ -87,7 +87,7 @@ Anyone that follows us knows that we love video prospecting. If you haven’t tr
 
 This past summer, I did a webinar with Jeremy Leveille where we talked about advanced video prospecting techniques, and there is one tip that I keep hearing has helped a ton of folks. 
 
-Making an email signature video!
+**Making an email signature video!**
 
 Back in 2016, I was prospecting at LeadIQ and wanted to do something with video. I was worried with our product still being kind of new that if I made something that was too product heavy, our UI would change dramatically making the video too dated.
 
@@ -100,6 +100,17 @@ I had no HD camera, no lights, and no fancy video editing software. I just had a
 
 
 Now this is very well edited given the circumstances, but the lesson here is this. You need to tell a story, and make yourself seem interesting. For me, the cool part is when I was emailing people with a YouTube link, if they used Google Apps they’d actually see a preview of the video in the signature like this:
+
+![youtubepreview.png](img/youtubepreview.png)
+
+I’ve since this moment moved the video into one of the prospecting platforms, but there is no reason you can’t record a video with your webcam sharing your story, and doing something that makes you seem interesting. 
+
+What’s crazy too is this video, just being my signature has more 1600+  views (note I do mention it in another blog post but more come from direct links). 
+
+
+Signatures are a great space for this, and we’ve seen people reply about the videos when it wasn’t emphasized in the original cold email. 
+
+
 
 
 
