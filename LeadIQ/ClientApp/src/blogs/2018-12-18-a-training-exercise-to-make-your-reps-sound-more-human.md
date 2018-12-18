@@ -53,15 +53,30 @@ It's something that I tried once, literally a couple weeks back. It had great, g
 ### Are there elements of those characters that they're now putting into their cold calls?
 
 
-I've noticed a lot of them have held onto some of the particular traits. A lot of helped...now obviously the guy that did Ricky...I don't know if...I've never seen the show but he was described as...literally, his thing was stupid, dimwitted, looking for the easy way out. 
+I've noticed a lot of them have held onto some of the particular traits. A lot of it helped. Now obviously the guy that did Ricky, I don't know if I've never seen _Trailer Park Boys_,  but he was described as stupid, dimwitted, and always looking for the easy way out. 
 
-Again this is one of those things, let's just say I don't want you emulating that.
+Again this is one of those things, let's just say I don't want them emulating that.
 
-Some of the good things they said about these people were that they were persistent? 
+Some of the good things they said about these people were that they were persistent. They wouldn't give up. 
 
-They were creative; they were challenging. They were intelligent. They've taken these particular styles; it's actually interesting watching them adopt how...maybe before if somebody gave them a 'hey you know what, we use XYZ competitor right now, they would've gone into a value dump of "this is why we're better. This is why we're different." The typical stuff nobody wants to hear as a buyer.
+They were creative; they were challenging. They were intelligent. They've taken their particular styles; it's actually interesting watching them adopt it. Maybe before if somebody gave them a "hey you know what, we use XYZ competitor right now," they would've gone into a value dump of "this is why we're better. This is why we're different." 
+
+The typical stuff nobody wants to hear as a buyer.
 
 
-Now they're going about it from a much different perspective from the people that did the lawyer stuff, right? They're asking more situational questions to build a scene about why this particular tool is important to them and what they have been using the tool for, right? Finding the real reason these people have engaged in using these automation tools or these sales enabling tools and then using that information to position the Lead Forensics tool as a solution to an issue they're still having regardless of what they're using now.
+Now they're going about it from a much different perspective from the people that did the lawyer stuff, right? They're asking more situational questions to build a scene about why this particular tool is important to them and what they have been using the tool for. 
+
+Finding the real reason these people have engaged in using these automation tools or these sales enabling tools and then using that information to position the Lead Forensics tool as a solution to an issue they're still having regardless of what they're using now.
+
+I've seen it change in the way they go about the daily interactions with their prospects. 
+
+We now do it every week with little groups. One of the things I think that I may change going forward is to get more public with the results internally. Right now I just use my team to do this, but I see it as something that could absolutely benefit our sales team as well; the guys that are running the demonstrates and handling the rest of the sales cycle. 
+
+I want to start to bringing up different levels of management and do these things as well because I think...one of things as a sales organization, as a sales management team that we run into, especially here, maybe we're unique in this...it's consistency of messaging. 
+
+They've become very, very free in the way they talk. They're still on structure; they're not wasting people's time but it's something I'm starting to bleed into all my other trainings because honestly, I think it encourages creativity and freedom in discussing things with prospect. That's something I'm a big believer in as the salesperson and manager here.It's been great. I've watched it bleed over into everything else and I intend to continue that further and further down the line.
+
+
+
 
 
