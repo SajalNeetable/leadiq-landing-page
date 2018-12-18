@@ -50,19 +50,23 @@ The other nice part is sometimes your prospect will rope in in someone, who want
 
 ### Reason 3: Giving your prospects somewhere to go gather their own info without impacting reply rates.
 
-Ok...I did some pretty rigorous testing on this in the early days of LeadIQ. I sent cold emails to prospects with links included in the body of the email, knowint it wouldn’t work.  Guess what? They did not. When I included links in the bodies of cold emails, I had a 0% reply rate. Z-E-R-O. Maybe I had a few replies, but they were all asking me to unsubscribe. 
+Ok...I did some pretty rigorous testing on this in the early days of LeadIQ. I sent cold emails to prospects with links included in the body of the email, knowing it wouldn’t work.  Guess what? It did not. 
 
-Big surprise. If you have a life changing webinar, or an award winning case study you want to send to a prospect, nothing kills your chances of getting an opportunity with a reply like asking them to check that in a cold prospecting email. 
+When I included links in the bodies of cold emails, I had a 0% positive reply rate. Z-E-R-O. Maybe I had a few replies, but they were all asking me to unsubscribe. 
+
+Big surprise. If you have a life changing webinar, or an award winning case study you want to send to a prospect, nothing kills your chances of getting an opportunity with a reply like asking them to check a link in a cold prospecting email. 
 
 What I recommend doing instead is putting a link to one of these things in your email signature with quick text to plug it. Don’t just spell it out though. Have a little fun with selling it. 
 
 The best part: If someone clicks one of those links, you have something you can mention on the cold call. 
 
-If you get a notification that they clicked on one of those links, just open up your cold call with these lines. 
+If you get a notification that they clicked on one of those links, you could open up your call with this:
 
-“Hey Prospect Name, Just shot you an email. Not sure if you saw this, but we’re doing a XYZ (or have ASSET ABC) ..and thought it could be useful for you. I’m actually been trying to get to know your team for a while now because <insert something that’s special about them here that’s sincere>. Have you heard of us or seen my  Oscar nominated emails?”
+_“Hey Prospect Name, Just shot you an email.  I’m actually been trying to get to know your team for a while now because <insert something that’s special about them here that’s sincere. Not sure if you saw this, but we’re doing a XYZ (or have ASSET ABC) ...and thought it could be useful for you. Have you heard of us or seen my  Oscar nominated emails?”_
 
 The big thing is to have fun and make fun of yourself a little bit. The nice thing is you aren’t opening your call with you just shooting off features and benefits or talking to your product or service. When you do this, you can make the conversation more natural. 
+
+
 
 
 
