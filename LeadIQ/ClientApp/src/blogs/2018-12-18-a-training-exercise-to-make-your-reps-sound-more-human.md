@@ -9,6 +9,12 @@ description: >-
   keep things interesting, right? And to do trainings in a unique way that still
   delivers value to the reps, but gets them out of their normal comfort zone and
   breaks up some of the monotony.
+publishDate: 'December 19, 2018'
+author: Brenton Heffernan
+authorProfile: >-
+  Brenton Heffernan is a Manager of Sales Development at Lead Forensics in
+  Atlanta, GA.
+coverImage: (img/tony.jpg)
 ---
 I was scrolling on LinkedIn the other day and saw a video of two dudes dressed in ridiculous suits. One being Ryan O'Hara the VP of Marketing & Growth at LeadIQ. 
 
@@ -21,6 +27,9 @@ In the video, they talked about humanizing yourself in your email outreach. Huma
 At Lead Forensics, we are much more focused on an old school approach. We do a lot of phone outreach. We don't mess around with email or LinkedIn that much. 
 
 So, I wanted to take the messaging,the training that he talked about which was essentially, stepping away from your normal scripting process and writing a message in the voice of your favorite characters. 
+
+
+
 
 Whether that be from a book, TV show, or movie or podcast, whatever. Take an afternoon writing the way they may write an email to your potential buyers and see what kind of freedom that allows you. 
 
