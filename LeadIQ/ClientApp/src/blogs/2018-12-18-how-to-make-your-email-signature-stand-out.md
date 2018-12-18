@@ -66,6 +66,44 @@ _“Hey Prospect Name, Just shot you an email.  I’m actually been trying to ge
 
 The big thing is to have fun and make fun of yourself a little bit. The nice thing is you aren’t opening your call with you just shooting off features and benefits or talking to your product or service. When you do this, you can make the conversation more natural. 
 
+##  What should you have in your signature?
+
+Ok...generally speaking I think you need the following in your email signature:
+
+#1 Title
+#2 Company Name
+#3 Direct number
+#4 Company website. 
+#5 Your social profiles. 
+#6 Your email
+#7 Your company logo
+
+**Seems fairly stock right?**
+
+
+## Okay. Now let’s dive into a trick to make your email signature stand out!
+
+Anyone that follows us knows that we love video prospecting. If you haven’t tried any of the video prospecting tools out there, I can’t recommend them enough. 
+
+This past summer, I did a webinar with Jeremy Leveille where we talked about advanced video prospecting techniques, and there is one tip that I keep hearing has helped a ton of folks. 
+
+Making an email signature video!
+
+Back in 2016, I was prospecting at LeadIQ and wanted to do something with video. I was worried with our product still being kind of new that if I made something that was too product heavy, our UI would change dramatically making the video too dated.
+
+So one Saturday, I opened up iMovie on my MAC, wrote out a voiceover, and just cut together a video. 
+
+I had no HD camera, no lights, and no fancy video editing software. I just had a bunch of screenshots, my webcam for a microphone, and a story. This is what I made:
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HPxZuCYkgMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Now this is very well edited given the circumstances, but the lesson here is this. You need to tell a story, and make yourself seem interesting. For me, the cool part is when I was emailing people with a YouTube link, if they used Google Apps they’d actually see a preview of the video in the signature like this:
+
+
+
+
 
 
 
