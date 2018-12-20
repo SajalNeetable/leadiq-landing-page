@@ -13,3 +13,9 @@ publishDate: 'December 20, 2018'
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aFusxnrnmik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+[##Check out our webinar on brand archetypes and person branding. <----](https://pages.leadiq.com/how-to-build-a-personal-brand-webinar)
+
+![baplug.png](img/baplug.png)
+
+
