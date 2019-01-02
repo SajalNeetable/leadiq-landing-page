@@ -40,6 +40,23 @@ Something had to change, inspired by BBC’s Sherlock, I started to look through
 
 * _Sidenote: This objection is the most annoying. What more do you want. I literally gave you everything, I even read case studies to help put you to sleep, but sure I’ll send you a packet with more information. _
 
+Every single one of these objections basically stated “Who are you?” or “How can I be so sure you aren’t scamming me?”
+
+In one case, a marijuana dispensary in Seattle yelled over and over “Yo whose mans is this?” Basically, they looked at me as another salesman selling them a product because it suited our needs. After seeing this, I realized I needed to change the way of my approach. I needed to find a way to install trust with the potential client. 
+
+## Lasting Friendships:
+
+I reversed engineered the concept of trust and purchasing habits, I saw two different traits:
+People create decisions based on emotions. E.G. I bought Ballpark Hot Dogs because Michael Jordan told me to. I want to be like Mike. 
+
+People trust their friends. E.G. Based off high praise, I bought tickets to see Batman Vs. Superman. Sidenote: Movie was so bad, it completely ruined our friendship. 
+
+Fundamentally, if I were to befriend each client, gain their trust, I can then create a sense of urgency to buy this product to help their business. The issue was I didn’t know how to build quick friendships, all of my friendships happened over time through very calculated lies. 
+
+After a great deal of research, I realized friendships happens when you connect over something of similar interest. Then I remembered how my girlfriend and I created our first connection, over comedy. To be frank, I discussed my love for all things comedy and she discussed her love for Hasan Minhaj. 
+
+
+
 
 
 
