@@ -1911,6 +1911,9 @@ img {
         .pointerDesign:before {
             display: none;
         }
+        .testimonial-section{
+            display: none;
+        }
 
         .slick-prev {
             left: -13px;
