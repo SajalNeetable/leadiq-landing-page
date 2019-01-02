@@ -47,6 +47,9 @@ Every single one of these objections basically stated “Who are you?” or “H
 
 In one case, a marijuana dispensary in Seattle yelled over and over “Yo whose mans is this?” Basically, they looked at me as another salesman selling them a product because it suited our needs. After seeing this, I realized I needed to change the way of my approach. I needed to find a way to install trust with the potential client. 
 
+![future.jpeg](img/future.jpeg)
+
+
 ## Lasting Friendships:
 
 I reversed engineered the concept of trust and purchasing habits, I saw two different traits:
