@@ -24,6 +24,9 @@ The first 4 months on the sales floor, I would barely hit my quota, although, my
 
 I would constantly annoy my training manager to do a one-on-one. I didn’t understand what I was doing incorrectly. Was it my tone? My pitch? My voice? Was I speaking too fast? Did I not come off as genuine?  I assumed my name wasn’t the issue, I had already changed that twice. I went from Rishi Mathur to Ricky Mather to Richard Matters.
 
+![whoami.jpeg](img/whoami.jpeg)
+
+
 Week after week with the same advice: “Your pitch is perfect, just slow down a bit more”. I felt trapped, in some type of weird,  glitchy matrix, where I relived the same moment over and over again like Bill Murray in Groundhog Day. 
 
 **Inspiration:**
