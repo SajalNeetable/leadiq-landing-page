@@ -18,6 +18,17 @@ description: >-
   Unfortunately, the only person to say yes to me was my friend Omar and we went
   to go see Pirates of the Caribbean.
 authorImage: img/rishi.jpeg
+authorProfile: >-
+  Rishi Mathur is the Content Producer for LeadIQ and is one of the most
+  important voices for his generation. Rishi has been on many occasions been
+  compared to the likes of Aziz Ansari and Gandhi based solely on his looks. He
+  has helped with the growth of several different startups and has experience
+  with both marketing and sales. He has been published in many publications such
+  as TealMango, India.com, The Oregonian, and Highland Park Planet. He is a
+  champion at building communities and would love to start his own cult
+  worshipping the different cuisines around the world.
+author: 'Rishi Mathur '
+publishDate: 1/2/2019
 ---
 **Conundrum:**
 
