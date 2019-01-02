@@ -93,7 +93,7 @@ class Footer extends React.Component {
                                         </li>
                                     );
                                 }))}
-                            //</ul>
+                            </ul>
                         </div>
                         <div className="col-sm-4">
                             <h6>Prospect Smarter</h6>
