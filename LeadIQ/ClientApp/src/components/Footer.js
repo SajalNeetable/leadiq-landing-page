@@ -50,7 +50,7 @@ class Footer extends React.Component {
                                 </ul>
                             </div>
                             <div className="mt-4 ">
-                                <small>© 2018 LeadIQ, All rights reserved.</small>
+                                <small>© 2019 LeadIQ, All rights reserved.</small>
                             </div>
                         </div>
                         <div className="col-sm-2">
