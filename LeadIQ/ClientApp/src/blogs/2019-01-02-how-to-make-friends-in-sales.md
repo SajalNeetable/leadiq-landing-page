@@ -55,6 +55,18 @@ Fundamentally, if I were to befriend each client, gain their trust, I can then c
 
 After a great deal of research, I realized friendships happens when you connect over something of similar interest. Then I remembered how my girlfriend and I created our first connection, over comedy. To be frank, I discussed my love for all things comedy and she discussed her love for Hasan Minhaj. 
 
+The idea of finding common interests with strangers was initially tough, but then I came across the Big Bang Theory Friendship Algorithm. This very simplistic chart goes over the effortless way to bond with someone, such as a co-worker and gain their friendship. But unfortunately the algorithm does not address the challenges in developing virtual connections.  
+
+To tackle this challenge, I tailored a few of the boxes, for example, I changed “Would you like to Share A Meal?” to “I see you have trouble listing your business, would you like help with that?” or “Do you enjoy a hot beverage?” to “What problems are you facing when listing your business?” 
+
+Anything, I can do to get them to drive the discussion about their business problems was key. I also did a great deal of research about their business such as competitor intel, and became very persistent. This approach allowed me to build a bridge to their heart much faster, giving them a sense of comfort about knowing their “industry” and their problems made them feel more comfortable the solution being provided.
+
+This methodology was very useful for one of my clients. She was a beekeeper who sold honey to the locals in North Carolina, initially when I called her I went right into my usual approach of just pitching, she immediately hung up. The second time I called, before I can say anything she told me “I ain’t interested in none of your business or religion. Thank you!” I knew right away she just didn’t want to deal with another pestering salesman. It was at this moment I decided to truly implement this new ideology of mine to see if it would work. I decided to send her an email, instead to discuss the benefits of the honey on her farm. I wanted to showcase to her that I took an interest in her business. Then after she explained to me all the benefits, I followed-up with her on the process she took growing her own honey and asked if we can jump on the phone. She was more than happy to jump on the phone talk to me about her entire business, how she got into it and what her major issues were. After asking her and providing solutions for a few of her problems she began to trust my judgement and within 10 minutes of our phone call she bought the premium package from me. At this moment I knew, the more friends I make the more sales I will have. 
+
+Once I implemented this new approach, I started to see a few changes. Not only was I converting more customers, but I also was developing great relationships with my clients. Any issues they had, they knew they could get hold of me. But more importantly, my cancellation rates (buyers remorse) reduced from 18% to 5%. It completely changed the way I not only pitched, but also this ideology helped with my everyday life. 
+
+
+
 
 
 
