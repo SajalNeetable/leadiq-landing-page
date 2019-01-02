@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: The Importance of Friendship in Sales
 description: >-
   In 2015 as a bright eyed, bushy tailed, young 25 year old, I embarked on a new
@@ -10,7 +10,6 @@ description: >-
   Associates, we were trained to smile and dial, like a bunch of robo-dialing
   zombies on nitrous oxide, expected to make 150 calls, 75 emails and 75-90
   voicemails per day.
-
 
   The obvious idea is spray and pray. The more people you pitch, the more sales
   you generate. It reminded me of my senior year of high school, the day before
@@ -96,19 +95,4 @@ I knew right away she just didn’t want to deal with another pestering salesman
 
 After asking her and providing solutions for a few of her problems she began to trust my judgement and within 10 minutes of our phone call she bought the premium package from me. At this moment I knew, the more friends I make the more sales I will have. 
 
-Once I implemented this new approach, I started to see a few changes. Not only was I converting more customers, but I also was developing great relationships with my clients. Any issues they had, they knew they could get hold of me. But more importantly, my cancellation rates (buyers remorse) reduced from 18% to 5%. It completely changed the way I not only pitched, but also this ideology helped with my everyday life. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Once I implemented this new approach, I started to see a few changes. Not only was I converting more customers, but I also was developing great relationships with my clients. Any issues they had, they knew they could get hold of me. But more importantly, my cancellation rates (buyers remorse) reduced from 18% to 5%. It completely changed the way I not only pitched, but also this ideology helped with my everyday life.
