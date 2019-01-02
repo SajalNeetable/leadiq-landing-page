@@ -57,6 +57,9 @@ People create decisions based on emotions. E.G. I bought Ballpark Hot Dogs becau
 
 People trust their friends. E.G. Based off high praise, I bought tickets to see Batman Vs. Superman. Sidenote: Movie was so bad, it completely ruined our friendship. 
 
+![batmanvssuperman.jpg](img/batmanvssuperman.jpg)
+
+
 Fundamentally, if I were to befriend each client, gain their trust, I can then create a sense of urgency to buy this product to help their business. The issue was I didn’t know how to build quick friendships, all of my friendships happened over time through very calculated lies. 
 
 After a great deal of research, I realized friendships happens when you connect over something of similar interest. Then I remembered how my girlfriend and I created our first connection, over comedy. To be frank, I discussed my love for all things comedy and she discussed her love for Hasan Minhaj. 
