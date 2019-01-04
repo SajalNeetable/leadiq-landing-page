@@ -42,9 +42,10 @@ class Home extends React.Component {
         return (
             <div>
                 <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
-                    this.state.browserVersion === "IE 9") ? "" : "cover"} style={{ background: "#EBFFF1"}}>
-                    
-                    <div className="d-none d-md-block prospect-cover-image"></div>
+                    this.state.browserVersion === "IE 9") ? "" : "cover"}>
+                    <div className="d-none d-md-block">
+                        <img src="/img/home-bg-cover.png" alt="Home Cover" />
+                    </div>
                     <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                         this.state.browserVersion === "IE 9") ? "titleFix cover-content" : "cover-content"}>
                         <div className="container">
@@ -62,7 +63,6 @@ class Home extends React.Component {
                             </section>
                         </div>
                     </div>
-                    
                 </div>
                 <div className="testimonial-section"></div>
                 <div className="container">
