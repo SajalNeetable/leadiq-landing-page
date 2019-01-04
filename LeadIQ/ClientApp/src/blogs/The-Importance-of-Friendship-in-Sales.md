@@ -9,21 +9,20 @@ description: >-
   Howard Lerman and quaaludes with Yoo-hoo and Asian Chex Mix. As Sales
   Associates, we were trained to smile and dial, like a bunch of robo-dialing
   zombies on nitrous oxide, expected to make 150 calls, 75 emails and 75-90
-  voicemails per day.
-
-  The obvious idea is spray and pray. The more people you pitch, the more sales
-  you generate. It reminded me of my senior year of high school, the day before
-  prom I was asking every girl if they would go with me in hopes one said yes.
-  Unfortunately, the only person to say yes to me was my friend Omar and we went
-  to go see Pirates of the Caribbean.
+  voicemails per day. The obvious idea is spray and pray. The more people you
+  pitch, the more sales you generate. It reminded me of my senior year of high
+  school, the day before prom I was asking every girl if they would go with me
+  in hopes one said yes. Unfortunately, the only person to say yes to me was my
+  friend Omar and we went to go see Pirates of the Caribbean.
 authorImage: img/rishi.jpeg
 authorProfile: >-
   Rishi Mathur is the Content Producer for LeadIQ and is one of the most
-  important voices for his generation. Rishi has been on many occasions been
-  compared to the likes of Aziz Ansari and Gandhi based solely on his looks. He
-  has helped with the growth of several different startups and has experience
-  with both marketing and sales. He has been published in many publications such
-  as TealMango, India.com, The Oregonian, and Highland Park Planet. He is a
+  important voices for this generation. Rishi has on many occasions been
+  compared to the likes of Aziz Ansari and Gandhi based solely on his looks.
+
+  He has helped with the growth of several different startups and has experience
+  in both marketing and sales. He has been published in many major media outlets
+  such as TealMango, India.com, The Oregonian, and Highland Park Planet. He is a
   champion at building communities and would love to start his own cult
   worshipping the different cuisines around the world.
 author: 'Rishi Mathur '
