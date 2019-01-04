@@ -84,7 +84,7 @@ class TestimonialCard extends React.Component {
                         </a>
                     </div>
                     <div className="col-md-7 col-lg-7 leader-tag">
-                        <h2>Trusted by over 10,000 sales professionals worldwide!</h2>
+                        <h2 className="homeStepTitle">Trusted by over 10,000 sales professionals worldwide!</h2>
                         <div class="d-flex pt-5">
                             <img src="./img/leader-tag.png" alt="Leader Tag" /> <p>G2 Crowd Leader <br /> <label style={{fontSize: "14px"}}>Check out our reviews </label></p>
                         </div>
