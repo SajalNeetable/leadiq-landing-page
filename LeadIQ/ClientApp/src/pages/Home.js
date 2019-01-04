@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Demo from '../components/buttons/Demo';
 import FreeLeads from '../components/buttons/FreeLeads';
@@ -37,8 +36,6 @@ class Home extends React.Component {
         this.setState({
             browserVersion: navigator.sayswho
         });
-
-
     }
 
     render() {
