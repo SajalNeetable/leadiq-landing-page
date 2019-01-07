@@ -45,6 +45,8 @@ About 3 years ago was the first time I stepped on stage, I initially did it to i
 
 The worst part was staring out at the audience’s blank faces, I never felt more demoralized in my life. Like the moment you realized Santa isn’t real, after you baked him cookies and sat out all night waiting for him.  
 
+![funny-kids-letters-santa-18-5a181c159bac6__605.jpg](img/funny-kids-letters-santa-18-5a181c159bac6__605.jpg)
+
 
 
 
