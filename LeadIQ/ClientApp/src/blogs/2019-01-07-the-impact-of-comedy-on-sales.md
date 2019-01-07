@@ -52,6 +52,12 @@ After recovering from my full blown panic attack, my friend from Rutgers called 
 His determination was inspiring, not Tiger Woods winning the 2008 US Open or Planet Earth II: Iguana vs Snakes video inspiring. But watching your little brother parallel park for the first time after months of failure inspiring. Sure he had some dents and scratches, but he did it. So with that news, I decided to continue down this journey of comedy, mainly for the girls.
 
 
+### Crossing Paths:
+
+After months and months of bombing*, I started to notice a slight parallel between the way people behaved to my comedy and the way people reacted to my pitch, utter confusion. 
+
+But as I continued through this journey, more and more patterns started to emerge. I felt like Sherlock Holmes trying to connect the dots. I started to notice that sales and comedy are very similar, they both work if the target audience trusts you. In comedy, the audience trusts that you will be entertaining them, in sales it’s the trust you have a concrete solution to their problems.
+
 
 
 
