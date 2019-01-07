@@ -59,8 +59,6 @@ class Videos extends React.Component {
         this.setState({
             open: true,
             videoLinkSet: videoLinks
-        }, () => {
-            console.log("display--->", this.state.open)
         });
     };
 

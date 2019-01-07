@@ -36,8 +36,6 @@ class Home extends React.Component {
         this.setState({
             browserVersion: navigator.sayswho
         });
-
-
     }
 
     render() {
@@ -45,14 +43,16 @@ class Home extends React.Component {
             <div>
                 <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                     this.state.browserVersion === "IE 9") ? "" : "cover"}>
-                    <div className="d-none d-md-block prospect-cover-image"></div>
+                    <div className="d-none d-md-block">
+                        <img src="/img/home-bg-cover.png" alt="Home Cover" />
+                    </div>
                     <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                         this.state.browserVersion === "IE 9") ? "titleFix cover-content" : "cover-content"}>
                         <div className="container">
                             <section>
                                 <div className="row">
                                     <div className="col-md-6">
-                                        <p className="mb-3 homepage-title">Prospect Smarter </p>
+                                        <p className="mb-3 homepage-title">Prospect Smarter</p>
                                         <p className="mb-3">Find prospect data in real time, get it into your <br /> sales tools without doing a million clicks.</p>
                                         <div className="row pl-3">
                                             <FreeLeads size="lg" />
@@ -63,6 +63,12 @@ class Home extends React.Component {
                             </section>
                         </div>
                     </div>
+                </div>
+                <div className="testimonial-section"></div>
+                <div className="container">
+                    <section>
+                        <TestimonialCard browserVersion={this.state.browserVersion} />
+                    </section>
                 </div>
 
                 <div className="container">
@@ -140,13 +146,7 @@ class Home extends React.Component {
                     </div>
                 </div>
 
-                <div className="testimonial-section"></div>
 
-                <div className="container">
-                    <section>
-                        <TestimonialCard browserVersion={this.state.browserVersion} />
-                    </section>
-                </div>
             </div>
         );
     }
