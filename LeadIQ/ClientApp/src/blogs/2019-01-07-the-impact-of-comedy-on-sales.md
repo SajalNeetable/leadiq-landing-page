@@ -9,3 +9,4 @@ Selling is an art, it’s not necessarily about the product, it’s about the tr
 
 Back in 2015, I worked for a tech company and every day for two straight weeks, I remember banging my head on my desk. At the end of each work day, I would see my name at the bottom of the sales leader board highlighted in red. It was the type of red that created internal panic, that type of color that caused you to accidentally do the harlem shake when you saw it.
 
+![]({{site.baseurl}}/LeadIQ/ClientApp/public/img/harlemshake.gif)
