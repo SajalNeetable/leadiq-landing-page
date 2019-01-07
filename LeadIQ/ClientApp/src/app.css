@@ -379,6 +379,7 @@ footer {
     background-position: bottom;
     background-repeat: no-repeat;
     height: 15vh;
+
 }
 .cardTestimonal {
     position: relative;
@@ -1675,7 +1676,11 @@ img {
         .pointerDesign:before {
             display: none;
         }
-
+        .testimonial-section {
+            position: relative;
+            bottom: 60px;
+            z-index: -1;
+        }
         .terms-container {
             bottom: 190px;
         }
@@ -1838,7 +1843,18 @@ img {
         .faq-waveDesignProspect {
             bottom: 9vh;
         }
+        .wave-design-testimonal {
+            bottom: 59px;
+        }
 
+        .leader-tag {
+            padding-left: 80px;
+        }
+        .testimonial-section {
+            position: relative;
+            bottom: 60px;
+            z-index: -1;
+        }
 
         .sectionBox {
             padding-left: 30px;
@@ -1901,7 +1917,7 @@ img {
         .slick-prev {
             left: -25px;
         }
-
+        
         .slick-next {
             right: -25px;
         }
