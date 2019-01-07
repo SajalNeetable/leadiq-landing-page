@@ -47,6 +47,11 @@ The worst part was staring out at the audience’s blank faces, I never felt mor
 
 ![funny-kids-letters-santa-18-5a181c159bac6__605.jpg](img/funny-kids-letters-santa-18-5a181c159bac6__605.jpg)
 
+After recovering from my full blown panic attack, my friend from Rutgers called me. His call was to teach me to “...never not believe in yourself”. That with enough drive, conviction and focus you can accomplish anything...literally anything. Although he was at risk of failing out of school, this man “... finally ate 6 big greasy fat sandwiches in 35 minutes”. 35 minutes! That’s about 1,500 calories per sandwich, roughly 15 Big Macs. He should legally be a vegetable right now, but after “4 years of practicing...” he accomplished one of his dreams. 
+
+His determination was inspiring, not Tiger Woods winning the 2008 US Open or Planet Earth II: Iguana vs Snakes video inspiring. But watching your little brother parallel park for the first time after months of failure inspiring. Sure he had some dents and scratches, but he did it. So with that news, I decided to continue down this journey of comedy, mainly for the girls.
+
+
 
 
 
