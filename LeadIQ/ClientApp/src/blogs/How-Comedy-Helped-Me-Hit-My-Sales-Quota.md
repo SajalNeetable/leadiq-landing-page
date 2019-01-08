@@ -12,7 +12,7 @@ description: >-
   leader board highlighted in red. It was the type of red that created internal
   panic, that type of color that caused you to accidentally do the harlem shake
   when you saw it.
-coverImage: '![](img/harlemshake.gif)'
+coverImage: img/harlemshake.gif
 author: Rishi Mathur
 authorProfile: >-
   Rishi Mathur is the Content Producer for LeadIQ and is one of the most
@@ -98,4 +98,3 @@ I took this ideology and applied it to my sales calls. At first I would make min
 I learned that the way information is presented makes a huge difference. That people not only cared about what you were saying, but how you said that information. They wanted to purchase something from someone they felt had their best interest at heart  and was fun to talk to, someone that makes them feel better. Once I showed them who I really was they began to trust my judgement and the rest was history. 
 
 * ![Bomb.png](img/Bomb.png)
-
