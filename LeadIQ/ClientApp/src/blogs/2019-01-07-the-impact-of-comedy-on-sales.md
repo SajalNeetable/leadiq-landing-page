@@ -20,6 +20,7 @@ authorProfile: >-
   worshipping the different cuisines around the world.
 ---
  
+Back in 2015, I worked for a tech company and every day for two straight weeks, I remember banging my head on my desk. At the end of each work day, I would see my name at the bottom of the sales leader board highlighted in red. It was the type of red that created internal panic, that type of color that caused you to accidentally do the harlem shake when you saw it.
 
 Each color had a significance, it felt as if they all had some type of individual achievement attached:
 
