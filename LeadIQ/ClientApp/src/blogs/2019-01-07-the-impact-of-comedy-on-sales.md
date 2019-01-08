@@ -61,6 +61,7 @@ But as I continued through this journey, more and more patterns started to emerg
 Week after week went by with slow progress, I started to see small improvements with both with my comedy and my pitch. Still no one was budging, in 5 months I accounted for 0 laughs and 0 sales, but I started to celebrate the minor victories.  Finally 6 months later, I got my first laugh. Not from an audience member, but from the whole crowd. It was the single, greatest moment in my life, also the moment that turned my life around. The crowd’s laughter can only be described as getting a hug from your constantly disappointed dad for a job well done. 
 
 
+![dadhug.gif](img/dadhug.gif)
 
 
 
