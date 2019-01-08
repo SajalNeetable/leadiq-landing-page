@@ -30,7 +30,7 @@ publishDate: 'January 8, 2019'
 
 Each color had a significance, it felt as if they all had some type of individual achievement attached:
 
-![table1.png]({{site.baseurl}}/LeadIQ/ClientApp/public/img/table1.png)
+![table1.jpg]({{site.baseurl}}/LeadIQ/ClientApp/public/img/table1.jpg)
 
 To this day the color red triggers me the same way all words trigger the politically correct, “hey you can’t say bald, it discriminates those without hair!”  
 
