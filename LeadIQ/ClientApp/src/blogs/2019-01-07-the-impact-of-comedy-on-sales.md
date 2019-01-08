@@ -13,6 +13,16 @@ description: >-
   panic, that type of color that caused you to accidentally do the harlem shake
   when you saw it.
 coverImage: '![](img/harlemshake.gif)'
+author: Rishi Mathur
+authorProfile: >-
+  Rishi Mathur is the Content Producer for LeadIQ and is one of the most
+  important voices for this generation. Rishi has on many occasions been
+  compared to the likes of Aziz Ansari and Gandhi based solely on his looks. He
+  has helped with the growth of several different startups and has experience in
+  both marketing and sales. He has been published in many major media outlets
+  such as TealMango, India.com, The Oregonian, and Highland Park Planet. He is a
+  champion at building communities and would love to start his own cult
+  worshipping the different cuisines around the world.
 ---
 
 
