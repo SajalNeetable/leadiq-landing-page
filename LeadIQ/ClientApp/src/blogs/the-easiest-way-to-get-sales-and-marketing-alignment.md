@@ -41,7 +41,7 @@ The mentality needs to be this. Sales needs to be marketing’s hearing aid. Mar
 
 If you look all over LinkedIn, Twitter, Facebook, and web content, it’s very easy to see people from marketing in the content that a company produces. Hell I do this:
 
-<iframe src=”https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6487029621505159168” height="823" width="504" frameborder="0" allowfullscreen=””></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yyDwkkeJu4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Marketing leaders are totally cool repping the company, but let me ask leaders of marketing and sales teams this: Why aren’t your sales reps in more content?
