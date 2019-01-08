@@ -79,5 +79,13 @@ In that exact moment as I sipped my pineapple juice, I realized people actually 
 I sat in silence, trying to comprehend everything that transpired. And just like that I was hit with a stroke of genius, I recognized that I needed to use comedy to sell. I noticed when people laugh, they begin to feel comfortable which is the foundation for trust. Also I noticed, people are able to digest information better when humor is involved. 
 
 
+![i-love-lamp-17940602.png](img/i-love-lamp-17940602.png)
+
+I took this ideology and applied it to my sales calls. At first I would make minor jokes with the small business owners, then I started to share with them funny stories. Finally I would tailor each call to the prospective client I was speaking with so the jokes did not feel generic, yet more personalized. Slowly as I kept working on building the rapport, I noticed I became a natural with selling. Within the month I went from 0 sales to hitting my quota month after month. 
+
+I learned that the way information is presented makes a huge difference. That people not only cared about what you were saying, but how you said that information. They wanted to purchase something from someone they felt had their best interest at heart  and was fun to talk to, someone that makes them feel better. Once I showed them who I really was they began to trust my judgement and the rest was history. 
+
+*Bombing means I didn’t do well, actually means no one liked my act at all and the crowd sat in silence until the next performer came up. 
+
 
 
