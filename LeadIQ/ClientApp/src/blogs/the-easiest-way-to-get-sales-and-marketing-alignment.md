@@ -86,7 +86,7 @@ This is a beautiful way to align.
 
 Another thing marketing can do is offer another way for a company to build a relationship with prospect. 
 
-If you look at _The Prospecting Podcast_ we do at LeadIQ, half of the guest are dream prospects of hours who we’d like to get as clients some day. This is a great way to help build a relationship with someone, and it also helps LeadIQ produce content. 
+If you look at _The Prospecting Podcast_ we do at LeadIQ, half of the guest are dream prospects of ours who we’d like to get as clients some day. This is a great way to help build a relationship with someone, and it also helps LeadIQ produce content. 
 
 ![podcastonitunes.png](img/podcastonitunes.png)
 
