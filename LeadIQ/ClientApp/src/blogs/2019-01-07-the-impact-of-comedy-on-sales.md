@@ -2,6 +2,17 @@
 layout: blog
 published: false
 title: The Impact of Comedy on Sales
+description: >-
+  Selling is an art, it’s not necessarily about the product, it’s about the
+  trust you build. Doesn’t matter if you’re selling shoes to a Cutco sales rep
+  or Lollipops to a nun, we live in an era where any solution you provide there
+  are at least a hundred similar.
+
+  Back in 2015, I worked for a tech company and every day for two straight
+  weeks, I remember banging my head on my desk. At the end of each work day, I
+  would see my name at the bottom of the sales leader board highlighted in red.
+  It was the type of red that created internal panic, that type of color that
+  caused you to accidentally do the harlem shake when you saw it.
 ---
 ### Life As A Salesman:
 
@@ -75,7 +86,4 @@ I took this ideology and applied it to my sales calls. At first I would make min
 
 I learned that the way information is presented makes a huge difference. That people not only cared about what you were saying, but how you said that information. They wanted to purchase something from someone they felt had their best interest at heart  and was fun to talk to, someone that makes them feel better. Once I showed them who I really was they began to trust my judgement and the rest was history. 
 
-*Bombing means I didn’t do well, actually means no one liked my act at all and the crowd sat in silence until the next performer came up. 
-
-
-
+*Bombing means I didn’t do well, actually means no one liked my act at all and the crowd sat in silence until the next performer came up.
