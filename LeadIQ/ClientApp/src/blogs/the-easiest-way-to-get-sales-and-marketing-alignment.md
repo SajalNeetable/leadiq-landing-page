@@ -6,22 +6,24 @@ description: >-
   I remember last year I flew out to a sales and marketing org of a publicly
   traded company to do prospecting training. Out of respect for the company, I
   won’t mention them here, but I’ll tell you something I learned. Marketing and
-  sales rarely get along, no matter how big the company is.
-
-  This seems to be a reoccuring theme I see across many different companies. As
-  a company gets bigger, so does the resentment.
-
-  There seems to be a paradox that happens at all these companies. It’s this:
-  Sales believes that marketing isn’t giving them good leads. Marketing believes
-  that sales isn’t closing their leads.
-
+  sales rarely get along, no matter how big the company is. This seems to be a
+  reoccuring theme I see across many different companies. As a company gets
+  bigger, so does the resentment. There seems to be a paradox that happens at
+  all these companies. It’s this: Sales believes that marketing isn’t giving
+  them good leads. Marketing believes that sales isn’t closing their leads.
   Today I’m going to talk about one of the easiest ways to get Sales and
   Marketing can get along.
 author: Ryan O'Hara
-authorProfile: "Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb.\nRyan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.\_"
+authorProfile: "Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb. Ryan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.\_"
 authorImage: img/Ryan-OHara-Headshot.png
 publishDate: 'January 8, 2019'
 coverImage: img/Hamilton-burr-duel.jpg
+metaTitle: The Easiest Way to Get Sales and Marketing Alignment
+metaDescription: >-
+  There seems to be a paradox that happens at all these companies. It’s this:
+  Sales believes that marketing isn’t giving them good leads. Marketing believes
+  that sales isn’t closing their leads.
+metaKeywords: sales and marketing alignment
 ---
 ![lethal.png](img/lethal.png)
 _Sales and marketing should be like Riggs and Murtaugh. A Lethal Weapon to any company._
@@ -112,16 +114,3 @@ If you can do this, the rest of the problems with alignment will work themselves
 
 [## Learn the art of booking a meeting once your prospect says yes. Check this out!](https://ter.li/297g0y)
 ![meetingwebinar.png](img/meetingwebinar.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
