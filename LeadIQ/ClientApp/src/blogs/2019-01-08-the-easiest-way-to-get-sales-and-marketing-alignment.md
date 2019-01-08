@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: The Easiest Way to Get Sales and Marketing Alignment
 description: >-
   I remember last year I flew out to a sales and marketing org of a publicly
