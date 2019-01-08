@@ -13,7 +13,7 @@ description: >-
   would see my name at the bottom of the sales leader board highlighted in red.
   It was the type of red that created internal panic, that type of color that
   caused you to accidentally do the harlem shake when you saw it.
-coverImage: '![](img/harlemshake.gif)'
+coverImage: img/harlemshake.gif
 author: Rishi Mathur
 authorProfile: >-
   Rishi Mathur is the Content Producer for LeadIQ and is one of the most
