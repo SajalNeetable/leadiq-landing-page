@@ -76,6 +76,7 @@ As the show came to a close, I was at the bar ordering pineapple juice. There wa
 
 In that exact moment as I sipped my pineapple juice, I realized people actually felt a connection to this pill, this made-up pill. This pill was essentially a solution for their needs, whether you had a flatulent boyfriend or  a gag gift for your family. The way I presented the pill gave everyone with enough information and a sense of familiarity that they convinced themselves this pill is worth having. 
 
+I sat in silence, trying to comprehend everything that transpired. And just like that I was hit with a stroke of genius, I recognized that I needed to use comedy to sell. I noticed when people laugh, they begin to feel comfortable which is the foundation for trust. Also I noticed, people are able to digest information better when humor is involved. 
 
 
 
