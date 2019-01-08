@@ -23,6 +23,8 @@ authorProfile: >-
   such as TealMango, India.com, The Oregonian, and Highland Park Planet. He is a
   champion at building communities and would love to start his own cult
   worshipping the different cuisines around the world.
+authorImage: img/rishi.jpeg
+publishDate: 'January 8, 2019'
 ---
 
 
@@ -98,3 +100,15 @@ I took this ideology and applied it to my sales calls. At first I would make min
 I learned that the way information is presented makes a huge difference. That people not only cared about what you were saying, but how you said that information. They wanted to purchase something from someone they felt had their best interest at heart  and was fun to talk to, someone that makes them feel better. Once I showed them who I really was they began to trust my judgement and the rest was history. 
 
 * ![Bomb.png](img/Bomb.png)
+
+
+[## LeadIQ is letting me host a webinar! What are they thinking? We're going to break down how to reduce no-shows and Indian stereotypes.](https://ter.li/297g0y  )
+
+![meetingwebinar.png](img/meetingwebinar.png)
+
+
+
+
+
+
+
