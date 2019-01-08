@@ -95,6 +95,21 @@ With marketing adding their magic to your reps posts and content, your reps will
 
 _“Wow all these people liked my post that gave some value, showed off our wisdom, and plugged the marketing acitvity your team is working on. Thanks marketing team for helping blow it up!” -Your Sales Reps_
 
+Which lead has a better chance to respond to your sales rep? The person who attended a webinar, or the lead who just watched that person personally emailing talk about a topic or issue? It’s always going to be the second one. 
+
+### So the easiest way to get marketing to align with sales is for marketing to use sales in their content, and for sales to ask marketing for help promoting their stuff.
+
+VPs of Sales need to train reps on how to speak in a marketing context in a way that will creat compelling stories, and VPs of Marketing need to train reps on how to be on brand in their content. 
+
+Sitdowd and do a brainstorm with reps to help them on their brand journey and rest will work itself out. 
+
+If you can do this, the rest of the problems with alignment will work themselves out. 
+
+[## Learn the art of booking a meeting once your prospect says yes. Check this out!](https://ter.li/297g0y)
+![meetingwebinar.png](img/meetingwebinar.png)
+
+
+
 
 
 
