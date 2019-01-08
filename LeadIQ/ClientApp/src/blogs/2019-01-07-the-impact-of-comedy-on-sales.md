@@ -17,7 +17,7 @@ authorProfile: >-
   such as TealMango, India.com, The Oregonian, and Highland Park Planet. He is a
   champion at building communities and would love to start his own cult
   worshipping the different cuisines around the world.
-coverImage: img/cutco.jpg
+coverImage: /img/cutco.jpg
 ---
  
 Back in 2015, I worked for a tech company and every day for two straight weeks, I remember banging my head on my desk. At the end of each work day, I would see my name at the bottom of the sales leader board highlighted in red. It was the type of red that created internal panic, that type of color that caused you to accidentally do the harlem shake when you saw it.
