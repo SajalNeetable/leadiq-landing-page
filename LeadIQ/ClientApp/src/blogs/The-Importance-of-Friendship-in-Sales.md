@@ -27,6 +27,12 @@ authorProfile: >-
 author: 'Rishi Mathur '
 publishDate: 1/2/2019
 coverImage: img/smile-while-you-dial.jpg
+metaTitle: The Importance of Friendship in Sales
+metaDescription: >-
+  As Sales Associates, we were trained to smile and dial, like a bunch of
+  robo-dialing zombies on nitrous oxide, expected to make 150 calls, 75 emails
+  and 75-90 voicemails per day.
+metaKeywords: 'sales, sales process'
 ---
 **Conundrum:**
 
