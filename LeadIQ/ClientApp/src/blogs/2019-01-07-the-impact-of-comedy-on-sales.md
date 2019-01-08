@@ -87,4 +87,5 @@ I took this ideology and applied it to my sales calls. At first I would make min
 
 I learned that the way information is presented makes a huge difference. That people not only cared about what you were saying, but how you said that information. They wanted to purchase something from someone they felt had their best interest at heart  and was fun to talk to, someone that makes them feel better. Once I showed them who I really was they began to trust my judgement and the rest was history. 
 
-*Bombing means I didn’t do well, actually means no one liked my act at all and the crowd sat in silence until the next performer came up.
+* ![Bomb.png](img/Bomb.png)
+
