@@ -26,7 +26,6 @@ Each color had a significance, it felt as if they all had some type of individua
 
 ![table1.png]({{site.baseurl}}/LeadIQ/ClientApp/public/img/table1.png)
 
-
 ### Lesson #1: Work Smart, Not Hard 
 
 To this day the color red triggers me the same way all words trigger the politically correct, “hey you can’t say bald, it discriminates those without hair!”  
