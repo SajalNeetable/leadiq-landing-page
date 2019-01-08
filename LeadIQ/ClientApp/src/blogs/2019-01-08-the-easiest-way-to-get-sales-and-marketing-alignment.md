@@ -11,13 +11,16 @@ description: >-
   This seems to be a reoccuring theme I see across many different companies. As
   a company gets bigger, so does the resentment.
 
-  There seems to be a paradox that happens at all these companies.
-
-  It’s this: Sales believes that marketing isn’t giving them good leads.
-  Marketing believes that sales isn’t closing their leads.
+  There seems to be a paradox that happens at all these companies. It’s this:
+  Sales believes that marketing isn’t giving them good leads. Marketing believes
+  that sales isn’t closing their leads.
 
   Today I’m going to talk about one of the easiest ways to get Sales and
   Marketing can get along.
+author: Ryan O'Hara
+authorProfile: "Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb.\nRyan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.\_"
+authorImage: img/Ryan-OHara-Headshot.png
+publishDate: 'January 8, 2019'
 ---
 ![lethal.png](img/lethal.png)
 _Sales and marketing should be like Riggs and Murtaugh. A Lethal Weapon to any company._
