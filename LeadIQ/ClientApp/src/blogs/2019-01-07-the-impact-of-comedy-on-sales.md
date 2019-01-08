@@ -58,6 +58,9 @@ After months and months of bombing*, I started to notice a slight parallel betwe
 
 But as I continued through this journey, more and more patterns started to emerge. I felt like Sherlock Holmes trying to connect the dots. I started to notice that sales and comedy are very similar, they both work if the target audience trusts you. In comedy, the audience trusts that you will be entertaining them, in sales it’s the trust you have a concrete solution to their problems.
 
+Week after week went by with slow progress, I started to see small improvements with both with my comedy and my pitch. Still no one was budging, in 5 months I accounted for 0 laughs and 0 sales, but I started to celebrate the minor victories.  Finally 6 months later, I got my first laugh. Not from an audience member, but from the whole crowd. It was the single, greatest moment in my life, also the moment that turned my life around. The crowd’s laughter can only be described as getting a hug from your constantly disappointed dad for a job well done. 
+
+
 
 
 
