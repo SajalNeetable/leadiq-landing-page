@@ -7,7 +7,6 @@ description: >-
   trust you build. Doesn’t matter if you’re selling shoes to a Cutco sales rep
   or lollipops to a nun, we live in an era where any solution you provide there
   are at least a hundred similar.
-coverImage: img/harlemshake.gif
 author: Rishi Mathur
 authorProfile: >-
   Rishi Mathur is the Content Producer for LeadIQ and is one of the most
