@@ -63,6 +63,13 @@ Week after week went by with slow progress, I started to see small improvements 
 
 ![dadhug.gif](img/dadhug.gif)
 
+What I had said wasn’t ground breaking, but it was authentic, relatable and most importantly honest. This was the key I had been missing in my comedy. As I saw the light at the end of the tunnel I started to follow suit, I kept talking about things that related to me in my life and bringing that to the stage. As I continued to open my world audiences became more receptive. I felt as if my life was coming together, although I still had 0 sales I had a notion that will soon change. 
+
+On June 22nd, 2016, I saw a commercial for viagra. As I watched the commercial I realized it made no sense at all, for example why is there a need to end the commercial with two separate bathtubs. Anyway, I got so excited I decided to create an entire set based on the idea of selling.
+
+Basically, I broke down three types of commercials and spoke about what they are selling and the ways to sell it. After this breakdown, I decided in the mist of the performance to sell my own product, a pill to help with Gastrointestinal disorder, I called it GIDDI (Gastrointestinal Disorder During Intercourse). 
+
+
 
 
 
