@@ -41,7 +41,7 @@ After all this work, I was still in the red. It was a glaring sign of complete f
 
 ### Girls Love Funny Guys:
 
-About 3 years ago was the first time I stepped on stage, I initially did it to impress my date. I was told by many co-workers and friends that girls like funny guys. So I figured if I can show this girl I am funny during a comedy show, she would surely fall in love with me. Fortunately, much like the audience’s enjoyment, she never showed up.  At the time it felt like one of the most traumatic experiences in my life. It was like watching a one year old  learning to walk for the first time, constant attempts at trying to be funny just to wind up falling to the ground. 
+About 3 years ago was the first time I stepped on stage, I initially did it to impress my date. I was told by many co-workers and friends that girls like funny guys. So I figured if I can show this girl I am funny during a comedy show, she would surely fall in love with me. Fortunately, much like the audience’s enjoyment, she never showed up.  At the time it felt like one of the most traumatic experiences in my life. It was like watching a one year old  [learning to walk](https://www.youtube.com/watch?v=jIzuy9fcf1k) for the first time, constant attempts at trying to be funny just to wind up falling to the ground. 
 
 The worst part was staring out at the audience’s blank faces, I never felt more demoralized in my life. Like the moment you realized Santa isn’t real, after you baked him cookies and sat out all night waiting for him.  
 
