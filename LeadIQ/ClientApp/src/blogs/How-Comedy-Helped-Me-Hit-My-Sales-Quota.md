@@ -12,7 +12,7 @@ description: >-
   leader board highlighted in red. It was the type of red that created internal
   panic, that type of color that caused you to accidentally do the harlem shake
   when you saw it.
-coverImage: img/harlemshake.gif
+coverImage: img/cutco.jpg
 author: Rishi Mathur
 authorProfile: >-
   Rishi Mathur is the Content Producer for LeadIQ and is one of the most
@@ -30,8 +30,7 @@ publishDate: 'January 8, 2019'
 
 Each color had a significance, it felt as if they all had some type of individual achievement attached:
 
-![table.png](img/table.png)
-
+![table1.png]({{site.baseurl}}/LeadIQ/ClientApp/public/img/table1.png)
 
 To this day the color red triggers me the same way all words trigger the politically correct, “hey you can’t say bald, it discriminates those without hair!”  
 
@@ -105,10 +104,3 @@ I learned that the way information is presented makes a huge difference. That pe
 [## LeadIQ is letting me host a webinar! What are they thinking? We're going to break down how to reduce no-shows and Indian stereotypes.](https://ter.li/297g0y  )
 
 ![meetingwebinar.png](img/meetingwebinar.png)
-
-
-
-
-
-
-
