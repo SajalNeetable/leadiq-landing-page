@@ -24,7 +24,7 @@ Back in 2015, I worked for a tech company and every day for two straight weeks, 
 
 Each color had a significance, it felt as if they all had some type of individual achievement attached:
 
-![table1.png](img/table1.png)
+![table1.png](/img/table1.png)
 
 
 ### Lesson #1: Work Smart, Not Hard 
