@@ -70,6 +70,9 @@ On June 22nd, 2016, I saw a commercial for viagra. As I watched the commercial I
 Basically, I broke down three types of commercials and spoke about what they are selling and the ways to sell it. After this breakdown, I decided in the mist of the performance to sell my own product, a pill to help with Gastrointestinal disorder, I called it GIDDI (Gastrointestinal Disorder During Intercourse). 
 
 
+![gasx.jpg](img/gasx.jpg)
+
+
 
 
 
