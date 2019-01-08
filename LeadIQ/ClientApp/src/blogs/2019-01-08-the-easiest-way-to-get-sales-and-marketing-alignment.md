@@ -81,7 +81,21 @@ This is a beautiful way to align.
 
 Another thing marketing can do is offer another way for a company to build a relationship with prospect. 
 
-If you look at The Prospecting Podcast we do at LeadIQ, half of the guest are dream prospects of hours who we’d like to get as clients some day. This is a great way to help build a relationship with someone, and it also helps LeadIQ produce content. 
+If you look at _The Prospecting Podcast_ we do at LeadIQ, half of the guest are dream prospects of hours who we’d like to get as clients some day. This is a great way to help build a relationship with someone, and it also helps LeadIQ produce content. 
+
+![podcastonitunes.png](img/podcastonitunes.png)
+
+
+ow does this help increase marketing qualified leads?
+So the other part of this that will help is with decent quantity you have more items in your stash you can use to get in front of people. If your company is seen everywhere, the prospect will eventually convert and ask what your company does. 
+
+With marketing adding their magic to your reps posts and content, your reps will see more impressions, engagements, and likes on their post. This will make them want to do it more, but it also will become a reactive “inbound” lead list of people reps get to work. 
+
+![likesonlinkedin.png](img/likesonlinkedin.png)
+
+_“Wow all these people liked my post that gave some value, showed off our wisdom, and plugged the marketing acitvity your team is working on. Thanks marketing team for helping blow it up!” -Your Sales Reps_
+
+
 
 
 
