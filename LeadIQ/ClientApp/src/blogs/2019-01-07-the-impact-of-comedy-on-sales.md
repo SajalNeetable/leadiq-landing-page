@@ -72,6 +72,10 @@ Basically, I broke down three types of commercials and spoke about what they are
 
 ![gasx.jpg](img/gasx.jpg)
 
+As the show came to a close, I was at the bar ordering pineapple juice. There was a tap on the back of my shoulder, three audience members came to me not only to tell me how amazing my set was, but to let me know if that product ever exists they would purchase it for family members. In the midst of thanking them, another audience member barged into the conversation spewing the same rhetoric about my set. “Oh my god! That was hilarious! Just fantastic! I think I should buy my boyfriend this pill he definitely suffers from something like this. Please let me know when you have created it!” 
+
+In that exact moment as I sipped my pineapple juice, I realized people actually felt a connection to this pill, this made-up pill. This pill was essentially a solution for their needs, whether you had a flatulent boyfriend or  a gag gift for your family. The way I presented the pill gave everyone with enough information and a sense of familiarity that they convinced themselves this pill is worth having. 
+
 
 
 
