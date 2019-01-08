@@ -21,9 +21,11 @@ author: Ryan O'Hara
 authorProfile: "Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb.\nRyan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.\_"
 authorImage: img/Ryan-OHara-Headshot.png
 publishDate: 'January 8, 2019'
+coverImage: img/Hamilton-burr-duel.jpg
 ---
 ![lethal.png](img/lethal.png)
 _Sales and marketing should be like Riggs and Murtaugh. A Lethal Weapon to any company._
+
 
 
 ## Let’s admit something.
