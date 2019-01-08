@@ -1,18 +1,17 @@
 ---
 layout: blog
 published: false
-title: The Impact of Comedy on Sales
+title: How Comedy Helped Me Hit My Sales Quota
 description: >-
   Selling is an art, it’s not necessarily about the product, it’s about the
   trust you build. Doesn’t matter if you’re selling shoes to a Cutco sales rep
-  or Lollipops to a nun, we live in an era where any solution you provide there
-  are at least a hundred similar.
-
-  Back in 2015, I worked for a tech company and every day for two straight
-  weeks, I remember banging my head on my desk. At the end of each work day, I
-  would see my name at the bottom of the sales leader board highlighted in red.
-  It was the type of red that created internal panic, that type of color that
-  caused you to accidentally do the harlem shake when you saw it.
+  or lollipops to a nun, we live in an era where any solution you provide there
+  are at least a hundred similar. Back in 2015, I worked for a tech company and
+  every day for two straight weeks, I remember banging my head on my desk. At
+  the end of each work day, I would see my name at the bottom of the sales
+  leader board highlighted in red. It was the type of red that created internal
+  panic, that type of color that caused you to accidentally do the harlem shake
+  when you saw it.
 coverImage: '![](img/harlemshake.gif)'
 ---
 
@@ -37,18 +36,23 @@ After all this work, I was still in the red. It was a glaring sign of complete f
 
 ### Girls Love Funny Guys:
 
-About 3 years ago was the first time I stepped on stage, I initially did it to impress my date. I was told by many co-workers and friends that girls like funny guys. So I figured if I can show this girl I am funny during a comedy show, she would surely fall in love with me. Fortunately, much like the audience’s enjoyment, she never showed up.  At the time it felt like one of the most traumatic experiences in my life. It was like watching a one year old  [learning to walk](https://www.youtube.com/watch?v=jIzuy9fcf1k) for the first time, constant attempts at trying to be funny just to wind up falling to the ground. 
+About 3 years ago was the first time I stepped on stage, I initially did it to impress my date. I was told by many co-workers and friends that girls like funny guys. So I figured if I can show this girl I am funny during a comedy show, she would surely fall in love with me. Fortunately, much like the audience’s enjoyment, she never showed up. 
+
+At the time it felt like one of the most traumatic experiences in my life. It was like watching a one year old learning to walk for the first time, constant attempts at trying to be funny just to wind up falling to the ground. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jIzuy9fcf1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 The worst part was staring out at the audience’s blank faces, I never felt more demoralized in my life. Like the moment you realized Santa isn’t real, after you baked him cookies and sat out all night waiting for him.  
 
 ![funny-kids-letters-santa-18-5a181c159bac6__605.jpg](img/funny-kids-letters-santa-18-5a181c159bac6__605.jpg)
 
-After recovering from my full blown panic attack, my friend from Rutgers called me. His call was to teach me to “...never not believe in yourself”. That with enough drive, conviction and focus you can accomplish anything...literally anything. Although he was at risk of failing out of school, this man “... finally ate 6 big greasy [fat sandwiches](https://en.wikipedia.org/wiki/Grease_trucks) in 35 minutes”. 35 minutes! That’s about 1,500 calories per sandwich, roughly 15 Big Macs. He should legally be a vegetable right now, but after “4 years of practicing...” he accomplished one of his dreams. 
+After recovering from my full blown panic attack, my friend from Rutgers called me. His call was to teach me to “...never not believe in yourself.” That with enough drive, conviction and focus you can accomplish anything...literally anything. Although he was at risk of failing out of school, this man “... finally ate 6 big greasy [fat sandwiches](https://en.wikipedia.org/wiki/Grease_trucks) in 35 minutes.” 35 minutes! That’s about 1,500 calories per sandwich, roughly 15 Big Macs. He should legally be a vegetable right now, but after “4 years of practicing...” he accomplished one of his dreams. 
 
 His determination was inspiring, not Tiger Woods winning the 2008 US Open or Planet Earth II: Iguana vs Snakes video inspiring. But watching your little brother parallel park for the first time after months of failure inspiring. Sure he had some dents and scratches, but he did it. So with that news, I decided to continue down this journey of comedy, mainly for the girls.
 
 
-### Crossing Paths:
+### Lesson #1: Read your audience. 
 
 After months and months of bombing*, I started to notice a slight parallel between the way people behaved to my comedy and the way people reacted to my pitch, utter confusion. 
 
@@ -58,6 +62,8 @@ Week after week went by with slow progress, I started to see small improvements 
 
 
 ![dadhug.gif](img/dadhug.gif)
+
+### Lesson 2: Be relatable 
 
 What I had said wasn’t ground breaking, but it was authentic, relatable and most importantly honest. This was the key I had been missing in my comedy. As I saw the light at the end of the tunnel I started to follow suit, I kept talking about things that related to me in my life and bringing that to the stage. As I continued to open my world audiences became more receptive. I felt as if my life was coming together, although I still had 0 sales I had a notion that will soon change. 
 
