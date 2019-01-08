@@ -13,18 +13,8 @@ Back in 2015, I worked for a tech company and every day for two straight weeks, 
 
 Each color had a significance, it felt as if they all had some type of individual achievement attached:
 
-Color
-Meaning
-Achievement Felt
-Flashing Colors
-4 or more sales
-Cloud nine. You felt as if you were one the best salesman.
-Blue
-1 to 3 sales
-Safe. You felt as if a huge weight has been lifted off your shoulders.
-Red
-No Sales
-Judgement. You felt as if all eyes were on you for being the worst salesman ever, “You call yourself a salesman. Why do they even let you on the phone?”
+![table.png](img/table.png)
+
 
 To this day the color red triggers me the same way all words trigger the politically correct, “hey you can’t say bald, it discriminates those without hair!”  
 
