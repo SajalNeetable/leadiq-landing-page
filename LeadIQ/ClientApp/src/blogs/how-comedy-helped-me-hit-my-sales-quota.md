@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: How Comedy Helped Me Hit My Sales Quota
 description: >-
   Selling is an art, it’s not necessarily about the product, it’s about the
