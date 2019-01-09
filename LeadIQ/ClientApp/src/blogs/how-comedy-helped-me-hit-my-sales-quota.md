@@ -23,7 +23,7 @@ Back in 2015, I worked for a tech company and every day for two straight weeks, 
 
 Each color had a significance, it felt as if they all had some type of individual achievement attached:
 
-![table1.jpg]({{site.baseurl}}/LeadIQ/ClientApp/public/img/table1.jpg)
+![table1.jpg](/img/table1.jpg)
 
 ### Lesson #1: Work Smart, Not Hard 
 
