@@ -18,8 +18,8 @@ variables:
   HELM_FILENAME: helm-${HELM_VERSION}-linux-amd64.tar.gz
   PROD_NAMESPACE: landingpage
   DEV_NAMESPACE: landingpage
-  PROD_DOMAIN: ["leadiq.com","www.leadiq.com"]
-  DEV_DOMAIN: ["staging.leadiq.com", "stagingv2.leadiq.com"]
+  PROD_DOMAIN: "{leadiq.com,www.leadiq.com}"
+  DEV_DOMAIN: "{staging.leadiq.com, stagingv2.leadiq.com}"
   DOCKER_DRIVER: overlay2
   
 
