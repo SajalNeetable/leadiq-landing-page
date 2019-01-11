@@ -24,7 +24,7 @@ ingress:
   paths:
     - "/"
   hosts:
-    - staging.leadiq.com
+    - dev.leadiq.com
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:

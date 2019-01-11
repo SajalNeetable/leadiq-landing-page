@@ -18,8 +18,8 @@ variables:
   HELM_FILENAME: helm-${HELM_VERSION}-linux-amd64.tar.gz
   PROD_NAMESPACE: landingpage
   DEV_NAMESPACE: landingpage
-  PROD_DOMAIN: leadiq.com
-  DEV_DOMAIN: staging.leadiq.com
+  PROD_DOMAIN: ["leadiq.com","www.leadiq.com"]
+  DEV_DOMAIN: ["staging.leadiq.com", "stagingv2.leadiq.com"]
   DOCKER_DRIVER: overlay2
   
 
@@ -66,7 +66,7 @@ deploy-staging:
     - helm package --version 1.0.0-$SHA1 landing-page-chart --debug
     - export RELEASE_NAME="landing-page"
     - export DEPLOYS=$(helm ls | grep $RELEASE_NAME | wc -l)
-    - if [ ${DEPLOYS}  -eq 0 ]; then helm install --name=${RELEASE_NAME} --set image.tag=1.0.0-$SHA1 --wait landing-page-chart-1.0.0-$SHA1.tgz --namespace=${DEV_NAMESPACE}; else helm upgrade ${RELEASE_NAME} --set image.tag=1.0.0-$SHA1 --wait --recreate-pods landing-page-chart-1.0.0-$SHA1.tgz --namespace=${DEV_NAMESPACE}; fi
+    - if [ ${DEPLOYS}  -eq 0 ]; then helm install --name=${RELEASE_NAME} --set image.tag=1.0.0-$SHA1 --set ingress.hosts=$DEV_DOMAIN --wait landing-page-chart-1.0.0-$SHA1.tgz --namespace=${DEV_NAMESPACE}; else helm upgrade ${RELEASE_NAME} --set image.tag=1.0.0-$SHA1 --set ingress.hosts=$DEV_DOMAIN --wait --recreate-pods landing-page-chart-1.0.0-$SHA1.tgz --namespace=${DEV_NAMESPACE}; fi
   artifacts:
     paths: 
       - ./*.tgz
