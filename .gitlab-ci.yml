@@ -1,38 +1,74 @@
-image: docker:latest
-services:
-  - docker:dind
-
-stages:
-  - build
-  - test
-  - deploy
+#
+# GitLab CI config for leadiq-sbt
+#
 
 before_script:
-  - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+  # Print out some info about the build env.
+  - docker info
+  # Login to GitLab's docker registry so we can access images from there. CI_BUILD_TOKEN is a given variable by the build runner.
+  - docker login -u gitlab-ci-token -p "$CI_BUILD_TOKEN" registry.gitlab.com
 
+stages:
+- build-stage
+- deploy
+
+variables:
+  KUBECONFIG: /etc/.kube/config
+  HELM_VERSION: v2.12.0
+  HELM_FILENAME: helm-${HELM_VERSION}-linux-amd64.tar.gz
+  PROD_NAMESPACE: heimdall
+  DEV_NAMESPACE: heimdall
+  PROD_DOMAIN: leadiq.com
+  DEV_DOMAIN: staging.leadiq.com
+  DOCKER_DRIVER: overlay2
+  
+
+#
+# Build the docker image and tag it with the commit's SHA1. Runs on all builds.
+#
+build-job:
+  stage: build-stage
+  image: docker:git
+  tags:
+    - docker
+  services:
+    - docker:dind
+  script:
+    - SHA1=${CI_BUILD_REF:0:7}
+    - IMAGE=registry.gitlab.com/leadiq/leadiq-landing-page-ci:$SHA1
+    - RELEASE_IMAGE=registry.gitlab.com/leadiq/leadiq-landing-page-ci:${CI_COMMIT_REF_NAME}
+    - docker pull $RELEASE_IMAGE || true
+    - docker build --cache-from $RELEASE_IMAGE -t $IMAGE -t $RELEASE_IMAGE . 
+    - docker push $IMAGE
+    - docker push $RELEASE_IMAGE
+  only:
+    - staging
+    - master
 deploy-prod:
   stage: deploy
   tags:
-    - ansible
+    - docker
+  image: docker:latest  
+  before_script:
+    - mkdir -p /etc/.kube
+    - echo ${kube_config} | base64 -d > ${KUBECONFIG}
+    - apk add --no-cache curl
+    - curl -o aws-iam-authenticator https://amazon-eks.s3-us-west-2.amazonaws.com/1.10.3/2018-07-26/bin/linux/amd64/aws-iam-authenticator
+    - chmod +x ./aws-iam-authenticator
+    - mv ./aws-iam-authenticator /usr/local/bin/aws-iam-authenticator
+    - curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl
+    - chmod +x ./kubectl
+    - mv ./kubectl /usr/local/bin/kubectl
+    - kubectl config use-context $kubeconfig_context
+    - curl -L https://storage.googleapis.com/kubernetes-helm/${HELM_FILENAME} | tar xz && mv linux-amd64/helm /bin/helm && rm -rf linux-amd64
+    - helm init --client-only
   script:
-    - checkoutREF=$(echo 'cd account-leadiq-com && pwd && git checkout tags/'${CI_COMMIT_TAG})
-    - ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.173 'cd /home/ec2-user/leadiq-landing-page/LeadIQ/ClientApp/ && pwd && git stash && git checkout master && git pull'
-    #- ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.173 $checkoutREF
-    - ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.173 'cd /home/ec2-user/leadiq-landing-page/LeadIQ/ClientApp/ && pwd && npm i && npm run build'
-    - ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.173 'sudo cp -ruv /home/ec2-user/leadiq-landing-page/LeadIQ/ClientApp/build/ /usr/share/nginx/leadiq'
+    - helm package --version $CI_COMMIT_TAG heimdall-chart --debug
+    - export RELEASE_NAME="heimdall-web"
+    - export DEPLOYS=$(helm ls | grep $RELEASE_NAME | wc -l)
+    - if [ ${DEPLOYS}  -eq 0 ]; then helm install --name=${RELEASE_NAME} --set image.tag=${CI_COMMIT_TAG} --wait heimdall-chart-${CI_COMMIT_TAG}.tgz --namespace=${PROD_NAMESPACE}; else helm upgrade ${RELEASE_NAME} --set image.tag=${CI_COMMIT_TAG} --wait --recreate-pods heimdall-chart-${CI_COMMIT_TAG}.tgz --namespace=${PROD_NAMESPACE}; fi
+  artifacts:
+    paths: 
+      - ./*.tgz
   only:
-    - tags
-    - master
-
-deploy-staging:
-  stage: deploy
-  tags:
-    - ansible
-  script:
-    - checkoutREF=$(echo 'cd account-leadiq-com && pwd && git checkout tags/'${CI_COMMIT_TAG})
-    - ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.161 'cd /home/ec2-user/leadiq-landing-page/LeadIQ/ClientApp/ && pwd && git stash && git checkout master && git pull'
-    #- ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.161 $checkoutREF
-    - ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.161 'cd /home/ec2-user/leadiq-landing-page/LeadIQ/ClientApp/ && pwd && npm i && npm run build'
-    - ssh -i ~/.ssh/leadiq.pem ec2-user@172.25.4.161 'sudo cp -ruv /home/ec2-user/leadiq-landing-page/LeadIQ/ClientApp/build/ /usr/share/nginx/leadiq'
-  only:
-    - staging
+    - tags        
