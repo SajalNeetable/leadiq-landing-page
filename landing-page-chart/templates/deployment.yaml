@@ -19,6 +19,8 @@ spec:
         app.kubernetes.io/name: {{ include "landing-page-chart.name" . }}
         app.kubernetes.io/instance: {{ .Release.Name }}
     spec:
+      imagePullSecrets:
+        - name: gitlab-com
       containers:
         - name: {{ .Chart.Name }}
           image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
