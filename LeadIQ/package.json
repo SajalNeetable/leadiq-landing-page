@@ -12,7 +12,7 @@
     "server": "nodemon index.js",
     "ClientApp": "npm run start --prefix ClientApp",
     "dev": "concurrently \"npm run server\" \"npm run ClientApp\"",
-    "build": "NPM_CONFIG_PRODUCTION=false npm install --prefix ClientApp && npm run build --prefix ClientApp",
+    "build": "npm install --prefix ClientApp && npm run build --prefix ClientApp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
