@@ -16,8 +16,8 @@ variables:
   KUBECONFIG: /etc/.kube/config
   HELM_VERSION: v2.12.0
   HELM_FILENAME: helm-${HELM_VERSION}-linux-amd64.tar.gz
-  PROD_NAMESPACE: heimdall
-  DEV_NAMESPACE: heimdall
+  PROD_NAMESPACE: landingpage
+  DEV_NAMESPACE: landingpage
   PROD_DOMAIN: leadiq.com
   DEV_DOMAIN: staging.leadiq.com
   DOCKER_DRIVER: overlay2
@@ -35,7 +35,7 @@ build-job:
     - docker:dind
   script:
     - SHA1=${CI_BUILD_REF:0:7}
-    - IMAGE=registry.gitlab.com/leadiq/leadiq-landing-page-ci:$SHA1
+    - IMAGE=registry.gitlab.com/leadiq/leadiq-landing-page-ci:1.0.0-$SHA1
     - RELEASE_IMAGE=registry.gitlab.com/leadiq/leadiq-landing-page-ci:${CI_COMMIT_REF_NAME}
     - docker pull $RELEASE_IMAGE || true
     - docker build --cache-from $RELEASE_IMAGE -t $IMAGE -t $RELEASE_IMAGE . 
@@ -44,14 +44,14 @@ build-job:
   only:
     - staging
     - master
-deploy-prod:
+deploy-staging:
   stage: deploy
   tags:
     - docker
   image: docker:latest  
   before_script:
     - mkdir -p /etc/.kube
-    - echo ${kube_config} | base64 -d > ${KUBECONFIG}
+    - echo ${kube_config_staging} | base64 -d > ${KUBECONFIG}
     - apk add --no-cache curl
     - curl -o aws-iam-authenticator https://amazon-eks.s3-us-west-2.amazonaws.com/1.10.3/2018-07-26/bin/linux/amd64/aws-iam-authenticator
     - chmod +x ./aws-iam-authenticator
@@ -59,16 +59,16 @@ deploy-prod:
     - curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl
     - chmod +x ./kubectl
     - mv ./kubectl /usr/local/bin/kubectl
-    - kubectl config use-context $kubeconfig_context
+    - kubectl config use-context $kubeconfig_context_staging
     - curl -L https://storage.googleapis.com/kubernetes-helm/${HELM_FILENAME} | tar xz && mv linux-amd64/helm /bin/helm && rm -rf linux-amd64
     - helm init --client-only
   script:
-    - helm package --version $CI_COMMIT_TAG heimdall-chart --debug
-    - export RELEASE_NAME="heimdall-web"
+    - helm package --version 1.0.0-$SHA1 landing-page-chart --debug
+    - export RELEASE_NAME="landing-page"
     - export DEPLOYS=$(helm ls | grep $RELEASE_NAME | wc -l)
-    - if [ ${DEPLOYS}  -eq 0 ]; then helm install --name=${RELEASE_NAME} --set image.tag=${CI_COMMIT_TAG} --wait heimdall-chart-${CI_COMMIT_TAG}.tgz --namespace=${PROD_NAMESPACE}; else helm upgrade ${RELEASE_NAME} --set image.tag=${CI_COMMIT_TAG} --wait --recreate-pods heimdall-chart-${CI_COMMIT_TAG}.tgz --namespace=${PROD_NAMESPACE}; fi
+    - if [ ${DEPLOYS}  -eq 0 ]; then helm install --name=${RELEASE_NAME} --set image.tag=1.0.0-$SHA1 --wait landing-page-chart-1.0.0-$SHA1.tgz --namespace=${DEV_NAMESPACE}; else helm upgrade ${RELEASE_NAME} --set image.tag=1.0.0-$SHA1 --wait --recreate-pods landing-page-chart-1.0.0-$SHA1.tgz --namespace=${DEV_NAMESPACE}; fi
   artifacts:
     paths: 
       - ./*.tgz
   only:
-    - tags        
+    - staging       
