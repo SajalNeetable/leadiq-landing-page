@@ -35,7 +35,7 @@ build-fronted-job:
   services:
     - docker:dind
   script:
-    - cd LeadIq/ClientApp
+    - cd LeadIQ/ClientApp
     - SHA1=${CI_BUILD_REF:0:7}
     - IMAGE=registry.gitlab.com/leadiq/leadiq-landing-page-ci/frontend:1.0.0-0.$SHA1
     - RELEASE_IMAGE=registry.gitlab.com/leadiq/leadiq-landing-page-ci/frontend:${CI_COMMIT_REF_NAME}
