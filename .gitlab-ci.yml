@@ -19,7 +19,8 @@ variables:
   PROD_NAMESPACE: landingpage
   DEV_NAMESPACE: landingpage
   PROD_DOMAIN: "{leadiq.com,www.leadiq.com}"
-  DEV_DOMAIN: "{staging.leadiq.com,stagingv2.leadiq.com}"
+  DEV_DOMAIN: "{staging.leadiq.com}"
+  DEV_BACKEND_DOMAIN: "{lpsbackend.leadiq.com}"
   DOCKER_DRIVER: overlay2
   VERSION: 1.0.0-0.$SHA1
   
@@ -120,7 +121,7 @@ deploy-backend-staging:
     - helm package --version 1.0.0-0.$SHA1 landing-page-backend-chart --debug
     - export RELEASE_NAME="landing-page-backend"
     - export DEPLOYS=$(helm ls | grep $RELEASE_NAME | wc -l)
-    - if [ ${DEPLOYS}  -eq 0 ]; then helm install --name ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set ingress.hosts=$DEV_DOMAIN --wait landing-page-backend-chart-1.0.0-0.$SHA1.tgz --namespace=${DEV_NAMESPACE}; else helm upgrade ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set ingress.hosts=$DEV_DOMAIN --wait --recreate-pods landing-page-backend-chart-1.0.0-0.$SHA1.tgz --namespace=${DEV_NAMESPACE}; fi
+    - if [ ${DEPLOYS}  -eq 0 ]; then helm install --name ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set ingress.hosts=$DEV_BACKEND_DOMAIN --wait landing-page-backend-chart-1.0.0-0.$SHA1.tgz --namespace=${DEV_NAMESPACE}; else helm upgrade ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set ingress.hosts=$DEV_BACKEND_DOMAIN --wait --recreate-pods landing-page-backend-chart-1.0.0-0.$SHA1.tgz --namespace=${DEV_NAMESPACE}; fi
   artifacts:
     paths: 
       - ./*.tgz
