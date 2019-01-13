@@ -27,7 +27,7 @@ variables:
 #
 # Build the docker image and tag it with the commit's SHA1. Runs on all builds.
 #
-build-job:
+build-fronted-job:
   stage: build-stage
   image: docker:git
   tags:
@@ -35,9 +35,10 @@ build-job:
   services:
     - docker:dind
   script:
+    - cd LeadIq/ClientApp
     - SHA1=${CI_BUILD_REF:0:7}
-    - IMAGE=registry.gitlab.com/leadiq/leadiq-landing-page-ci:1.0.0-0.$SHA1
-    - RELEASE_IMAGE=registry.gitlab.com/leadiq/leadiq-landing-page-ci:${CI_COMMIT_REF_NAME}
+    - IMAGE=registry.gitlab.com/leadiq/leadiq-landing-page-ci/frontend:1.0.0-0.$SHA1
+    - RELEASE_IMAGE=registry.gitlab.com/leadiq/leadiq-landing-page-ci/frontend:${CI_COMMIT_REF_NAME}
     - docker pull $RELEASE_IMAGE || true
     - docker build --cache-from $RELEASE_IMAGE -t $IMAGE -t $RELEASE_IMAGE . 
     - docker push $IMAGE
@@ -45,7 +46,7 @@ build-job:
   only:
     - staging
     - master
-deploy-staging:
+deploy-frontend-staging:
   stage: deploy
   tags:
     - docker

@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: registry.gitlab.com/leadiq/leadiq-landing-page-ci
+  repository: registry.gitlab.com/leadiq/leadiq-landing-page-ci/frontend
   tag: staging
   pullPolicy: Always
 
