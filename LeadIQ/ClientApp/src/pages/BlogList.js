@@ -14,7 +14,7 @@ class BlogList extends React.Component {
 
     componentDidMount() {
         window.scrollTo(0, 0)
-        fetch('https://lpsbackend.leadiq.com/api/blogs')
+        fetch('https://lpsbackend.leadiq.com/api/blogs', {mode: 'no-cors'})
             .then(response => response.json())
             .then(data => this.setState({
                 blogs: [...this.state.blogs, ...data]
