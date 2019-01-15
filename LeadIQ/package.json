@@ -1,0 +1,44 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "8.11.0",
+    "npm": "5.6.0"
+  },
+  "scripts": {
+    "start": " node index.js",
+    "server": "nodemon index.js",
+    "ClientApp": "npm run start --prefix ClientApp",
+    "dev": "concurrently \"npm run server\" \"npm run ClientApp\"",
+    "build": "npm install --prefix ClientApp && npm run build --prefix ClientApp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.18.3",
+    "concurrently": "^3.6.0",
+    "cookie-session": "^2.0.0-beta.3",
+    "cors": "^2.8.5",
+    "cors-anywhere": "^0.4.1",
+    "express": "^4.16.3",
+    "fm": "^0.8.0",
+    "front-matter": "^3.0.1",
+    "fs": "0.0.1-security",
+    "markdown": "^0.5.0",
+    "marked": "^0.5.2",
+    "mongoose": "^5.1.6",
+    "nexmo": "^2.3.2",
+    "nodemon": "^1.17.5",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-slick": "^0.23.1",
+    "redux": "^4.0.0",
+    "sendgrid": "^5.2.3",
+    "slick-carousel": "^1.8.1",
+    "stripe": "^6.2.1"
+  }
+}
