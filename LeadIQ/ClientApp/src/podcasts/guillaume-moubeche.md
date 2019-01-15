@@ -3,7 +3,7 @@ layout: podcast
 title: High Fives with Guillaume Moubeche
 description: >-
   Ryan O'Hara and Guillaume Moubeche dive into cold emailing, and
-using customized images when you could email. 
+  using customized images when you could email. 
 coverImage: ./img/podcastbeach.jpg
 refLink: null
 webImage: ./img/podcastbeach.jpg
