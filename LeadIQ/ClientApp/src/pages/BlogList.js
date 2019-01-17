@@ -13,8 +13,9 @@ class BlogList extends React.Component {
     }
 
     componentDidMount() {
+        console.log("environment variables", process.env.NODE_ENV);
         window.scrollTo(0, 0)
-        fetch('https://lpsbackend.leadiq.com/api/blogs', {mode: 'cors'})
+        fetch('https://lpbackend.leadiq.com/api/blogs', {mode: 'cors'})
             .then(response => response.json())
             .then(data => this.setState({
                 blogs: [...this.state.blogs, ...data]
