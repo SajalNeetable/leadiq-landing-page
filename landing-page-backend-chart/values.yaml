@@ -22,7 +22,7 @@ ingress:
     kubernetes.io/ingress.class: nginx-layer-4
     # kubernetes.io/tls-acme: "true"
   paths:
-    - "/api/blogs"
+    - "/api/"
   hosts:
     - dev.leadiq.com
   tls: []
