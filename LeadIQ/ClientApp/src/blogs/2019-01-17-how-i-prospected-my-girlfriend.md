@@ -23,11 +23,13 @@ Every Tinder picture reminded me of a Big Mac or chicken nuggets. So I ventured 
 ![McDONALDS.png](img/McDONALDS.png)
 
 
-Initial Interactions Matter:
+## Initial Interactions Matter:
 
 Before I knew anything about my girlfriend, all I knew was that she loved to travel and  she was really cute to me. With all that information to work with, I still feared the dreaded blank bar, the bar that constantly taunts you to write on it. 
 
-The more I stared at the emptiness the more terrified I became. This is essentially very similar to a cold email, if I make it too generic I am no different than any of the other Anthony Weiner's sending messages. 
+The more I stared at the emptiness the more terrified I became. "No that's dumb." kept swiriling through my head. No matter what message I sent, I felt it would never be good enough for her.
+
+This is essentially very similar to a cold email, if I make it too generic I am no different than any of the other Anthony Weiner's sending messages. 
 
 If I make it too personalized then she will think I’m a creep. I need to have this message be witty, charming and personalized enough where it doesn’t seem like I am spamming her. 
 
