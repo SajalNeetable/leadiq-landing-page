@@ -29,6 +29,9 @@ Before I knew anything about my girlfriend, all I knew was that she loved to tra
 
 The more I stared at the emptiness the more terrified I became. "No that's dumb." kept swiriling through my head. No matter what message I sent, I felt it would never be good enough for her.
 
+![briantinder.png](img/briantinder.png)
+
+
 This is essentially very similar to a cold email, if I make it too generic I am no different than any of the other Anthony Weiner's sending messages. 
 
 If I make it too personalized then she will think I’m a creep. I need to have this message be witty, charming and personalized enough where it doesn’t seem like I am spamming her. 
