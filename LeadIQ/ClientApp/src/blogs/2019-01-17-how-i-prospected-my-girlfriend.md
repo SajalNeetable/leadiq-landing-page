@@ -60,7 +60,4 @@ To which I replied, “Damn, I guess I can reschedule your murder to another tim
 
 After constant messaging back and forth I started to see a pattern arise, the more we spoke the more I got to know her and the more comfortable I began to feel. We had a lot of common interests, both of us loved comedy, we both wanted large families, have a very similar upbringing, both have older siblings, have similar life goals and more importantly both of us think Hasan should play Aladdin and I should play Abu.  
 After a few days, I asked her out again and she obliged. Going back through my conversation with her, I noticed that when I carefully prospected this random girl my chances of landing a date with her dramatically increased. Now I am no longer sending generic messages to every woman. I am now carefully crafting messages to those girls I believe would be of interest to me. 
-One of the reason she decided to go out with me was because she felt more comfortable with me, also she felt that this could be a partnership that would be mutually beneficial. All of my sales I ever made was due to this fact as well, the potential client vibed with me, I gave them a sense of comfort. Then the product I pitched after getting to know them felt as if this was something they would benefit from and so they bought. 
-
-
-
+One of the reason she decided to go out with me was because she felt more comfortable with me, also she felt that this could be a partnership that would be mutually beneficial. All of my sales I ever made was due to this fact as well, the potential client vibed with me, I gave them a sense of comfort. Then the product I pitched after getting to know them felt as if this was something they would benefit from and so they bought.
