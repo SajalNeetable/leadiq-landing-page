@@ -6,19 +6,22 @@ description: >-
   Before all the ladies called me Papi Chulo, I was just regular Rishi “Ricky”
   Mathur. Ricky was given to me from the powers at Yext. They discovered for me
   to do my job properly I needed to change my name, Rishi was very difficult to
-  pronounce in the midwest. But Ricky just rolled right off the tongue.
-
-  Anyway, at that time all I did was exercise, perform stand-up, sell
-  powerlistings and constantly swipe right on Tinder. Just to clarify before I
-  am labeled misogynist, I would like the record to show I only swiped right on
-  every girl because I am an equal opportunist (not thirsty). Unfortunately,
-  they did not share my views, they on the other hand were very picky. It seemed
-  almost very aggressive, like there is a conspiracy against me.
+  pronounce in the midwest. But Ricky just rolled right off the tongue. Anyway,
+  at that time all I did was exercise, perform stand-up, sell powerlistings and
+  constantly swipe right on Tinder. Just to clarify before I am labeled
+  misogynist, I would like the record to show I only swiped right on every girl
+  because I am an equal opportunist (not thirsty). Unfortunately, they did not
+  share my views, they on the other hand were very picky. It seemed almost very
+  aggressive, like there is a conspiracy against me.
 ---
 ## How You Present Yourself Matters: 
 
 I went to my coworker, he advised me about his methods of using Tinder. He showed me every aspect of his profile is tailored to show a different side to him. He then showed me two types of pictures: 1) proper types of pictures to post and 2) pictures which should never see the light of day or as he puts it “these need to burn in the cloud.” This blew my mind, it reminded me of how restaurants would enhance the pictures of their food to seem more appealing. 
+
 Every Tinder picture reminded me of a Big Mac or chicken nuggets. So I ventured out to create my own chicken nuggets, I took some amazingly photoshopped photos of myself and posted them up on my profile. Soon enough hit after hit after hit, to be honest it was only 3 girls who responded to me, but before that it was 22 years of silence.
+
+![McDONALDS.png](img/McDONALDS.png)
+
 
 Initial Interactions Matter:
 
