@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: How I Prospected My Girlfriend
 description: >-
   Before all the ladies called me Papi Chulo, I was just regular Rishi “Ricky”
