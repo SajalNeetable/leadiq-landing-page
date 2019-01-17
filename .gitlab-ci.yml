@@ -18,7 +18,7 @@ variables:
   HELM_FILENAME: helm-${HELM_VERSION}-linux-amd64.tar.gz
   PROD_NAMESPACE: landingpage
   DEV_NAMESPACE: landingpage
-  PROD_DOMAIN: "{leadiq.com,landing.leadiq.com}"
+  PROD_DOMAIN: "{leadiq.com,landing.leadiq.com,www.leadiq.com,www.leadiq.io,leadiq.io}"
   DEV_DOMAIN: "{staging.leadiq.com}"
   DEV_BACKEND_DOMAIN: "{lpsbackend.leadiq.com}"
   PROD_BACKEND_DOMAIN: "{lpbackend.leadiq.com}"

@@ -15,7 +15,7 @@ var cors = require('cors');
 
 
 	app.use(function(req, res, next) {
-		var allowedOrigins = ['https://leadiq-new.azurewebsites.net','https://leadiq.com','https://landing.leadiq.com',  'https://staging.leadiq.com', 'http://staging.leadiq.com','https://lpbackend.leadiq.com', 'http://lpbackend.leadiq.com','https://lpsbackend.leadiq.com', 'http://lpsbackend.leadiq.com' ,'http://127.0.0.1:9007', 'http://localhost:9007', 'http://127.0.0.1:3000', 'http://localhost:3000'];
+		var allowedOrigins = ['https://leadiq-new.azurewebsites.net','https://www.leadiq.com','https://www.leadiq.io','https://leadiq.io','https://leadiq.com','https://landing.leadiq.com',  'https://staging.leadiq.com', 'http://staging.leadiq.com','https://lpbackend.leadiq.com', 'http://lpbackend.leadiq.com','https://lpsbackend.leadiq.com', 'http://lpsbackend.leadiq.com' ,'http://127.0.0.1:9007', 'http://localhost:9007', 'http://127.0.0.1:3000', 'http://localhost:3000'];
 		var origin = req.headers.origin;
 		if(allowedOrigins.indexOf(origin) > -1){
 		    res.setHeader('Access-Control-Allow-Origin', origin);
