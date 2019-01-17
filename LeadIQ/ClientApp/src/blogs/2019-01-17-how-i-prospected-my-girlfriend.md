@@ -40,18 +40,20 @@ Even after all that, there is still a high risk she never replies.
 
  “...the average open rates for business emails hover between 14% and 23%”. 
 
-Do Not Be Generic (Sheep-like)
+## Do Not Be Generic (Sheep-like)
 
 “The key to a Tinder opener is attention. This girl is getting 10,000 "heys" a day from a bunch of schlubs who have nothing to offer her. If you send her another "hey" then what makes you worth talking to? Your winning smile? Newsflash. There are winning smiles elsewhere found in nature.” 
+
 After studying many dating app messages, I noticed people are boring.  But more importantly each of these messages look very similar to a business cold email. Very bland, trying to look exciting and just nothing but value props. So I decided to take an unconventional route, I decided to study one of the top sales reps. 
 
 After studying many cold emails, with their amazing responses. I realized there are 4 traits that make a solid cold message:
 
-Keep it short
-Be human
-Personalize it
-Be Creative
-Be You, Be Creative
+- Keep it short
+- Be human
+- Personalize it
+- Be Creative
+
+## Be You, Be Creative
 
 So after an hour of debate I sent all three the same question, “Who do you think, could win in a fight Oprah Winfrey or Michelle Obama?” I felt this message was precise, mainly because after doing some digging, I found out that she loves comedy. More importantly, she use to be a recruiter. Which means she can smell bullsh*t from a mile away, also at the time her favorite comedian was Hasan Minhaj. Meaning she loved fast paced pretty speaking Indian men. So what better way to showcase who I am from those 14 words. 
 
