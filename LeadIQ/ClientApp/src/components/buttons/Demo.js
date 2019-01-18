@@ -55,7 +55,7 @@ class Demo extends React.Component {
                 >
                     <DialogContent className={classes.DialogContent} style={{marginTop: "-10px", paddingTop: "0px"}}>
                         <div className="modal-body">
-                            <iframe id="frame" src="https://leadiq.chilipiper.com/router/talk-to-sales" className="lightboxDesign"></iframe>
+                            <iframe id="frame" src="https://leadiq.chilipiper.com/router/talk-to-sales_v2" className="lightboxDesign"></iframe>
                         </div>
                     </DialogContent>
                 </Dialog>

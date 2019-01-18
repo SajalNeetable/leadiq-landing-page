@@ -13,7 +13,6 @@ class BlogList extends React.Component {
     }
 
     componentDidMount() {
-        console.log("environment variables", process.env.NODE_ENV);
         window.scrollTo(0, 0)
         fetch('https://lpbackend.leadiq.com/api/blogs', {mode: 'cors'})
             .then(response => response.json())
@@ -48,7 +47,7 @@ class BlogList extends React.Component {
                                     <div className="row">
                                     {this.state.blogs.map((blog, index) => {
                                         let blogUrl = blog.attributes.url.substr(blog.attributes.url.lastIndexOf('/')+1);
-                                       return (
+                                        return (
                                             <div className={(index % 4 === 0 || (index + 1) % 4 === 0) ? "col-md-7 col-lg-7 pt-3 pb-3" : "col-md-5 col-lg-5 pt-3 pb-3"}>
                                                 <Link to={"/blog/" + blogUrl.substring(0, blogUrl.indexOf('.'))}>
                                                         <div className="blog-card-design" style={{
