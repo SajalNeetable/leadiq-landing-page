@@ -5,7 +5,7 @@
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 1. Install NODE JS for your OS Download Node JS here [https://nodejs.org/en/].
-2. Install Github fro your OS. [https://git-scm.com/downloads].
+2. Install Github for your OS. [https://git-scm.com/downloads].
 3. Clone the repository and let's install some commands.
 
 ### Installing
