@@ -14,6 +14,7 @@ description: >-
   share my views, they on the other hand were very picky. It seemed almost very
   aggressive, like there is a conspiracy against me.
 publishDate: 'Jan 19, 2019'
+coverImage: /img/ezgif.com-optimize.gif
 ---
 
 
