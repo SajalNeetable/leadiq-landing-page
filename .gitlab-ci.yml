@@ -18,7 +18,7 @@ variables:
   HELM_FILENAME: helm-${HELM_VERSION}-linux-amd64.tar.gz
   PROD_NAMESPACE: landingpage
   DEV_NAMESPACE: landingpage
-  PROD_DOMAIN: "{leadiq.com,landing.leadiq.com,www.leadiq.com,www.leadiq.io,leadiq.io}"
+  PROD_DOMAIN: "{leadiq.com,landing.leadiq.com,www.leadiq.com}"
   DEV_DOMAIN: "{staging.leadiq.com}"
   DEV_BACKEND_DOMAIN: "{lpsbackend.leadiq.com}"
   PROD_BACKEND_DOMAIN: "{lpbackend.leadiq.com}"
@@ -152,7 +152,7 @@ deploy-frontend-prod:
     - helm package --version 1.0.0-0.$SHA1 landing-page-chart --debug
     - export RELEASE_NAME="landing-page"
     - export DEPLOYS=$(helm ls | grep $RELEASE_NAME | wc -l)
-    - if [ ${DEPLOYS}  -eq 0 ]; then helm install --name ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set replicaCount=4 --set ingress.hosts=$PROD_DOMAIN --wait landing-page-chart-1.0.0-0.$SHA1.tgz --namespace=${PROD_NAMESPACE}; else helm upgrade ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set ingress.hosts=$PROD_DOMAIN --wait --recreate-pods landing-page-chart-1.0.0-0.$SHA1.tgz --namespace=${PROD_NAMESPACE}; fi
+    - if [ ${DEPLOYS}  -eq 0 ]; then helm install --name ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set replicaCount=4 --set ingress.hosts=$PROD_DOMAIN --wait landing-page-chart-1.0.0-0.$SHA1.tgz --namespace=${PROD_NAMESPACE}; else helm upgrade ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set replicaCount=4 --set ingress.hosts=$PROD_DOMAIN --wait --recreate-pods landing-page-chart-1.0.0-0.$SHA1.tgz --namespace=${PROD_NAMESPACE}; fi
   artifacts:
     paths: 
       - ./*.tgz
@@ -182,7 +182,7 @@ deploy-backend-prod:
     - helm package --version 1.0.0-0.$SHA1 landing-page-backend-chart --debug
     - export RELEASE_NAME="landing-page-backend"
     - export DEPLOYS=$(helm ls | grep $RELEASE_NAME | wc -l)
-    - if [ ${DEPLOYS}  -eq 0 ]; then helm install --name ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set replicaCount=4 --set ingress.hosts=$PROD_BACKEND_DOMAIN --wait landing-page-backend-chart-1.0.0-0.$SHA1.tgz --namespace=${PROD_NAMESPACE}; else helm upgrade ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set ingress.hosts=$PROD_BACKEND_DOMAIN --wait --recreate-pods landing-page-backend-chart-1.0.0-0.$SHA1.tgz --namespace=${PROD_NAMESPACE}; fi
+    - if [ ${DEPLOYS}  -eq 0 ]; then helm install --name ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set replicaCount=4 --set ingress.hosts=$PROD_BACKEND_DOMAIN --wait landing-page-backend-chart-1.0.0-0.$SHA1.tgz --namespace=${PROD_NAMESPACE}; else helm upgrade ${RELEASE_NAME} --set image.tag=1.0.0-0.$SHA1 --set replicaCount=4 --set ingress.hosts=$PROD_BACKEND_DOMAIN --wait --recreate-pods landing-page-backend-chart-1.0.0-0.$SHA1.tgz --namespace=${PROD_NAMESPACE}; fi
   artifacts:
     paths: 
       - ./*.tgz
