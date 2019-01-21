@@ -16,7 +16,6 @@ description: >-
 publishDate: 'Jan 19, 2019'
 ---
 
-
 ## How You Present Yourself Matters: 
 
 I went to my coworker, he advised me about his methods of using Tinder. He showed me every aspect of his profile is tailored to show a different side to him. He then showed me two types of pictures: 1) proper types of pictures to post and 2) pictures which should never see the light of day or as he puts it “these need to burn in the cloud.” This blew my mind, it reminded me of how restaurants would enhance the pictures of their food to seem more appealing. 
@@ -53,6 +52,8 @@ After studying many cold emails, with their amazing responses. I realized there 
 - Be human
 - Personalize it
 - Be Creative
+
+![dancing .gif](img/dancing%20.gif)
 
 ## Be You, Be Creative
 
