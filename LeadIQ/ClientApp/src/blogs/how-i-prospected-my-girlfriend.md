@@ -27,7 +27,7 @@ authorProfile: >-
   worshipping the different cuisines around the world.
 author: 'Rishi Mathur '
 authorImage: img/rishi.jpeg
-metaTitle: LeadIQ | How I Prospected My Girlfriend
+metaTitle: How I Prospected My Girlfriend
 metaDescription: >-
   At that time all I did was exercise, perform stand-up, sell powerlistings and
   constantly swipe right on Tinder. Neither Ricky nor Rishi knew how to prospect
