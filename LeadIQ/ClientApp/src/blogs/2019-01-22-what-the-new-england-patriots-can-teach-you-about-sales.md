@@ -1,35 +1,27 @@
 ---
 layout: blog
-published: false
+published: true
 title: What the New England Patriots Can Teach You About Sales
 description: >-
   Two weeks back the New England Patriots thumped the Los Angeles Chargers.  You
   have to live under a rock to not know how successful they’ve been. Let’s put
-  it this way…
-
-  Kansas Chiefs Quarterback Patrick Mahomes, who is the leading candidate to win
-  the MVP in the NFL this year, couldn’t get driver’s license the last time the
-  Patriots weren’t in the AFC Championship game.
-
-  My brother Jack O’Hara, who was born in 1999, has no memory of the Patriots
-  missing the playoffs, except the year they went 11-5 with Matt Cassel due to
-  Tom Brady tearing his ACL in 2008.
-
-  I’m sure there are tons of motivation speakers out there that could talk about
-  about having a winners mentality, and how driving in private jets to their
-  next million dollar deal is awesome.
-
-  I’m not going to do that today. As a lifelong Patriots fan, who also remembers
-  the Ben Coats, Terry Glenn, Shaun Jefferson, Bill Parcels to Pete Carroll era
-  of the team, I know I’m spoiled.  I’ll tell you some things managers can learn
-  from the Patriots success.
-
-  (Note: This blog post was written prior to the Patriots clinching a trip to
-  their 3rd consecutive Super Bowl).
+  it this way… Kansas Chiefs Quarterback Patrick Mahomes, who is the leading
+  candidate to win the MVP in the NFL this year, couldn’t get driver’s license
+  the last time the Patriots weren’t in the AFC Championship game. My brother
+  Jack O’Hara, who was born in 1999, has no memory of the Patriots missing the
+  playoffs, except the year they went 11-5 with Matt Cassel due to Tom Brady
+  tearing his ACL in 2008. I’m sure there are tons of motivation speakers out
+  there that could talk about about having a winners mentality, and how driving
+  in private jets to their next million dollar deal is awesome. I’m not going to
+  do that today. As a lifelong Patriots fan, who also remembers the Ben Coats,
+  Terry Glenn, Shaun Jefferson, Bill Parcels to Pete Carroll era of the team, I
+  know I’m spoiled.  I’ll tell you some things managers can learn from the
+  Patriots success. (Note: This blog post was written prior to the Patriots
+  clinching a trip to their 3rd consecutive Super Bowl).
 author: Ryan O'Hara
 coverImage: img/jameswhitebrady.png
 publishDate: 'January 22, 2019'
-authorProfile: "Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb.\nRyan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.\_"
+authorProfile: "Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb. Ryan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.\_"
 authorImage: img/Ryan-OHara-Headshot.png
 ---
 ## Lesson 1: One vision will always beat out two visions.
@@ -140,12 +132,3 @@ Take these lessons and run with it! Be great, and more  greatness will follow.
 [## Learn the art of booking a meeting once your prospect says yes. Check this out!](https://ter.li/297g0y)
 
 [meetingwebinar.png](https://ter.li/297g0y)
-
-
-
-
-
-
-
-
-
