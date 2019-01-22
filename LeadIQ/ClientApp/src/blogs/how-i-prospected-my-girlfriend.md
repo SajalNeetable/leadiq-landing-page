@@ -50,7 +50,8 @@ Before I knew anything about my girlfriend, all I knew was that she loved to tra
 
 The more I stared at the emptiness the more terrified I became. "No that's dumb." kept swiriling through my head. No matter what message I sent, I felt it would never be good enough for her. I didn't wind up like my friend Brian.
 
-![briantinder.png](img/briantinder.png)
+![briantinder.jpg](img/briantinder.jpg)
+
 
 This is essentially very similar to a cold email, if I make it too generic I am no different than any of the other Anthony Weiner's sending messages. 
 
@@ -104,6 +105,9 @@ I wanted to make sure my next few messages showed that I had common interests as
 To which she replied, “How about we get to know each other first. How do I know you aren’t dangerous or a creep. I think before we take time out of our day to meet, we should take here for a while to see if there is chemistry. This way we aren’t wasting each others time.” 
 
 To which I replied, “Damn, I guess I can reschedule your murder to another time.” To my defense I thought this would be funny, she did not. But to her better judgement, she didn’t hold that against me. 
+
+![sanamtinder.jpg](img/sanamtinder.jpg)
+
 
 After constant messaging back and forth I started to see a pattern arise, the more we spoke the more I got to know her and the more comfortable I began to feel. We had a lot of common interests, both of us loved comedy, we both wanted large families, have a very similar upbringing, both have older siblings, have similar life goals and more importantly both of us think Hasan should play Aladdin and I should play Abu.  
 
