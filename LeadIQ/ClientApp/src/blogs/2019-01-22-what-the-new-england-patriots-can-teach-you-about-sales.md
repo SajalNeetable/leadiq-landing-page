@@ -95,6 +95,25 @@ Find ways to bend the rules and gain an advantage without getting caught. That�
 If you are reading up about your prospect, or know someone that knows something about them, use that to your advantage. 
 
 
+## Lesson 5: Adapt your playbook for your prospect.
+
+Most NFL teams have an identity to be focus on what their strengths are, and put effort into working on their execution of their strengths. 
+
+The Patriots on the other hand customize their gameplans week by week based on what their opponents do. It’s one of the reasons they’ve had such sustained success. 
+
+Here’s an example. Two weeks back, in the wildcard round of the playoffs, the Los Angeles Chargers had 6 defensive backs on the field against the Baltimore Ravens. The thinking behind it to most media members was that they wanted to have their fast players on the field to deal with Ravens quarterback Lamar Jackson since he is a scrambling quarterback who likes to tuck the ball and run on many passing plays.  
+
+This means that the Ravens offensive line usually started the play pass blocking, so they didn’t need to have big players on the field. The Chargers defensive coordinator, Gus Bradley, was praised for the game plan. 
+
+So last week when they went up against New England, it was really confusing to see that Tom Brady, literally one of the least mobile quarterbacks in the NFL, was also up against 6 defensive backs, even though we had formations that were running back heavy. 
+
+If any team had watched the Patriots all year, they’d realize the New England was less pass heavy this year. They had a much more balanced offense, rushing nearly 30 times more in 2018 vs 2017 (that’s almost two games more of rushing than last year).  Long story short, the Patriots ran and smashed the Chargers defense all over the field. 
+
+![gamechart.png](img/gamechart.png)
+_What’s even more surprising is the lack of in game adjustments the Chargers did to stop the run._
+
+So how does this equate to sales. On the prospecting end, you need to customize the way you prospect around  who your prospect is. Some prospects don’t check LinkedIn all the time. Some prospects don’t check email as often as others. Some prospects have very different jobs even though their titles are the same. 
+
 
 
 
