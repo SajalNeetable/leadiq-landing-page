@@ -48,7 +48,7 @@ Every Tinder picture reminded me of a Big Mac or chicken nuggets. So I ventured 
 
 Before I knew anything about my girlfriend, all I knew was that she loved to travel and  she was really cute to me. With all that information to work with, I still feared the dreaded blank bar, the bar that constantly taunts you to write on it. 
 
-The more I stared at the emptiness the more terrified I became. "No that's dumb." kept swiriling through my head. No matter what message I sent, I felt it would never be good enough for her.
+The more I stared at the emptiness the more terrified I became. "No that's dumb." kept swiriling through my head. No matter what message I sent, I felt it would never be good enough for her. I didn't wind up like my friend Brian.
 
 ![briantinder.png](img/briantinder.png)
 
@@ -56,9 +56,9 @@ This is essentially very similar to a cold email, if I make it too generic I am 
 
 If I make it too personalized then she will think I’m a creep. I need to have this message be witty, charming and personalized enough where it doesn’t seem like I am spamming her. 
 
-![screenshotstats.png](img/screenshotstats.png)
-
 Even after all that, there is still a high risk she never replies.   
+
+![screenshotstats.png](img/screenshotstats.png)
 
  “...the average open rates for business emails hover between 14% and 23%”. 
 
