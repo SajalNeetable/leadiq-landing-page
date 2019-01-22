@@ -95,7 +95,10 @@ Seeing this message I knew I couldn’t respond “Hi” it would kill the conve
 
 I knew that whatever I say, it needs to help me lead to an in person meet. So I went back to the drawing board, I began to note down everything types of post she liked, types of post she posted, types of events she attended, basically I studied her for about 2 hours. 
 
-I wanted to make sure my next few messages showed that I had common interests as her and that we would be very compatible together. But after all that digging I noticed she was a very direct person or so I thought. Sometimes you can misconstrued messages and posts. 
+![nerdstuding.gif](img/nerdstuding.gif)
+
+I wanted to make sure my next few messages showed that I had common interests as her and that we would be very compatible together. But after all that digging I noticed she was a very direct person or so I thought. Sometimes you can misconstrue messages and posts. 
+
 “Hey I see you’re in NYC and love comedy because I searched your instagram. Would you like to see me perform Saturday?” 
 
 To which she replied, “How about we get to know each other first. How do I know you aren’t dangerous or a creep. I think before we take time out of our day to meet, we should take here for a while to see if there is chemistry. This way we aren’t wasting each others time.” 
