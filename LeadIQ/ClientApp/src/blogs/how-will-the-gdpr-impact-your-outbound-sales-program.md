@@ -1,13 +1,21 @@
-﻿---
+---
 layout: blog
 title: How will the GDPR impact your outbound sales program
-description: If you are working in prospecting, there is a pretty good chance you’re going to get an opportunity to pitch to prospects in person. With the fall events season starting to kick off in the next few weeks, I figured it’d be a good idea to jump into this topic. We have new BDRs going to their first events this month, so why not share our internal secrets with the world? If events are a battle, more than half the fight is won or loss before the event even starts. You need to be reaching out to prospects attending before the event even happens
-coverImage: 
-publishDate: Apr 30, 2018
-
+description: >-
+  If you are working in prospecting, there is a pretty good chance you’re going
+  to get an opportunity to pitch to prospects in person. With the fall events
+  season starting to kick off in the next few weeks, I figured it’d be a good
+  idea to jump into this topic. We have new BDRs going to their first events
+  this month, so why not share our internal secrets with the world? If events
+  are a battle, more than half the fight is won or loss before the event even
+  starts. You need to be reaching out to prospects attending before the event
+  even happens
+publishDate: 'Apr 30, 2018'
 author: Mei Siauw
-authorProfile: Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb. Ryan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.
-authorImage: 
+published: true
+authorProfile: >-
+  Mei Siauw is the CEO and cofounder of LeadIQ. Prior to joining LeadIQ, she
+  spent over a decade working at Oracle.
 ---
 
 _Disclaimer: This blog is intended for informational purposes only, and is not intended to constitute legal advice. You should consult with your legal counsel to fully understand how the GDPR impacts you and your business._
