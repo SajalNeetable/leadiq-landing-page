@@ -77,15 +77,18 @@ After studying many cold emails, with their amazing responses. I realized there 
 - Personalize it
 - Be Creative
 
-![dancing .gif](img/dancing%20.gif)
-
 ## Be You, Be Creative
 
 So after an hour of debate I sent all three the same question, “Who do you think, could win in a fight Oprah Winfrey or Michelle Obama?” I felt this message was precise, mainly because after doing some digging, I found out that she loves comedy. More importantly, she use to be a recruiter. Which means she can smell hogwash from a mile away. Also, at the time her favorite comedian was Hasan Minhaj. Meaning she loved fast paced pretty speaking Indian men. So what better way to showcase who I am from those 14 words. 
 
-After patiently waiting next to my phone for half hour, I decided to occupy my mind with meaningless activities. I went to work, I performed stand-up, I hung out with friends. Finally after a long wait, I got the message “Hi.” This was incredible. Something about me and my message triggered her enough to want to talk to me. Now what?
+After patiently waiting next to my phone for half hour, I decided to occupy my mind with meaningless activities. I went to work, I performed stand-up, I hung out with friends. Finally after a long wait, I got the message “Hi.”
 
-Build Your Value
+![dancing .gif](img/dancing%20.gif)
+
+This was incredible. Something about me and my message triggered her enough to want to talk to me. Now what?
+
+## Build Your Value
+
 “I got so caught in in getting her attention that I forgot to create the interest I needed to make her return any of my affection. Once you have a prospect's attention you need to do something with it. Build the value.” 
 
 Seeing this message I knew I couldn’t respond “Hi” it would kill the conversation, but I also couldn’t ask her about her work in the Education space (when I meant digging, I also researched her LinkedIn). 
