@@ -76,6 +76,25 @@ The lesson here is simple. Not keeping Lawyer Milloy opened up opportunity for o
 
 With contracts and negotiations with potential customers, think about attention you and your staff has to give to a company that doesn’t see value in working for you at full price. Letting a prospect walk away sometimes ends up being the right move in the long run, and will yield more business in the long run. 
 
+## Lesson 4: Bend the rules, and ask for forgiveness instead of permission.
+
+I know many of the people that read this blog post hate the Patriots. Take away their sustained success, and their dominance over the past 18 years, and it’s very popular to crap on them for the cheating scandals they’ve been charged with over the years.
+
+One of the most popular controversies was Spygate. For people that don’t know what this was, in the NFL, teams are allowed to scout their opponents hand signals. On the sideline, coaches will do something with their hands to tell players on the field what adjustments to make play by play. 
+
+However, the NFL made a rule that prohibited teams from recording these signals with a camera. You could only scout teams with your eyes. The Patriots got caught doing this, and it caused a pretty big hatred to grow among football fans outside of New England. 
+
+A few years ago, they also were allegedly deflating footballs below the NFL’s PSI standards to make it easier to throw and catch footballs. 
+
+I could argue  that cheating is wrong, and that these things are unethical. To some of us here in New England, we actually view some of this as gamesmanship. 
+
+Don’t lie. Don’t be dishonest. With sales, it’s ok to sometimes bend the rules to gain an advantage. If you have an existing customer who switched from your competitor to you guys, find out what pricing they had before you go into a call with a customer. 
+
+Find ways to bend the rules and gain an advantage without getting caught. That’s the one problem for the Patriots. Even if these things aren’t as bad as people say, they did get caught. 
+
+If you are reading up about your prospect, or know someone that knows something about them, use that to your advantage. 
+
+
 
 
 
