@@ -107,6 +107,7 @@ So last week when they went up against New England, it was really confusing to s
 If any team had watched the Patriots all year, they’d realize the New England was less pass heavy this year. They had a much more balanced offense, rushing nearly 30 times more in 2018 vs 2017 (that’s almost two games more of rushing than last year).  Long story short, the Patriots ran and smashed the Chargers defense all over the field. 
 
 ![gamechart.png](img/gamechart.png)
+
 _What’s even more surprising is the lack of in game adjustments the Chargers did to stop the run._
 
 So how does this equate to sales. On the prospecting end, you need to customize the way you prospect around  who your prospect is. Some prospects don’t check LinkedIn all the time. Some prospects don’t check email as often as others. Some prospects have very different jobs even though their titles are the same. 
