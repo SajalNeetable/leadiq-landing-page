@@ -38,6 +38,8 @@ This is essentially very similar to a cold email, if I make it too generic I am 
 
 If I make it too personalized then she will think I’m a creep. I need to have this message be witty, charming and personalized enough where it doesn’t seem like I am spamming her. 
 
+![screenshotstats.png](img/screenshotstats.png)
+
 Even after all that, there is still a high risk she never replies.   
 
  “...the average open rates for business emails hover between 14% and 23%”. 
