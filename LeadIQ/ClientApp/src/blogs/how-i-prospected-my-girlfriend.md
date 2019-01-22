@@ -8,11 +8,12 @@ description: >-
   to do my job properly I needed to change my name, Rishi was very difficult to
   pronounce in the midwest. But Ricky just rolled right off the tongue. Anyway,
   at that time all I did was exercise, perform stand-up, sell powerlistings and
-  constantly swipe right on Tinder. Just to clarify before I am labeled
-  misogynist, I would like the record to show I only swiped right on every girl
-  because I am an equal opportunist (not thirsty). Unfortunately, they did not
-  share my views, they on the other hand were very picky. It seemed almost very
-  aggressive, like there is a conspiracy against me.
+  constantly swipe right on Tinder. Neither Ricky nor Rishi knew how to prospect
+  properly. Just to clarify before I am labeled misogynist, I would like the
+  record to show I only swiped right on every girl because I am an equal
+  opportunist (not thirsty). Unfortunately, they did not share my views, they on
+  the other hand were very picky. It seemed almost very aggressive, like there
+  is a conspiracy against me.
 publishDate: 'Jan 19, 2019'
 coverImage: /img/ezgif.com-optimize.gif
 authorProfile: >-
@@ -27,6 +28,11 @@ authorProfile: >-
 author: 'Rishi Mathur '
 authorImage: img/rishi.jpeg
 metaTitle: LeadIQ | How I Prospected My Girlfriend
+metaDescription: >-
+  At that time all I did was exercise, perform stand-up, sell powerlistings and
+  constantly swipe right on Tinder. Neither Ricky nor Rishi knew how to prospect
+  properly.
+metaKeywords: 'prospecting, sales, sales process, dating, vetting, personalizaiton'
 ---
 
 
