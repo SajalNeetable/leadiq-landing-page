@@ -26,6 +26,11 @@ description: >-
 
   (Note: This blog post was written prior to the Patriots clinching a trip to
   their 3rd consecutive Super Bowl).
+author: Ryan O'Hara
+coverImage: img/jameswhitebrady.png
+publishDate: 'January 22, 2019'
+authorProfile: "Ryan O'Hara has been an early employee at several startups helping them with marketing and prospecting tactics, including Dyn who was acquired by Oracle for $600+ million in 2016. He's had prospecting campaigns featured in Fortune, Mashable, and TheNextWeb.\nRyan specializes in branding, business development, prospecting, and coaching people on how to make good digital first impressions. He also mentors two accelerators, The Iron Yard and The Alpha Loft, and hosts The Prospecting Podcast.\_"
+authorImage: img/Ryan-OHara-Headshot.png
 ---
 ## Lesson 1: One vision will always beat out two visions.
 
@@ -113,6 +118,27 @@ If any team had watched the Patriots all year, they’d realize the New England 
 _What’s even more surprising is the lack of in game adjustments the Chargers did to stop the run._
 
 So how does this equate to sales. On the prospecting end, you need to customize the way you prospect around  who your prospect is. Some prospects don’t check LinkedIn all the time. Some prospects don’t check email as often as others. Some prospects have very different jobs even though their titles are the same. 
+
+You need to study your prospect and adapt to how you are going to break in and turn it into a deal. 
+
+Once you have the deal and you are in the game, you need to adjust your pitch to fit with what the prospect is telling you. I see so many companies make a slide deck, and talk through their power point. Putting my company logo in your slide deck is not customization. 
+
+Sure, a sales process is important, but you need to make more than one process for the different types of buyers you are going to come across. 
+
+A 200 person company that makes software that allows you to video stream webinars is going to need LeadIQ for a very different reason than a 200 person company that sells analytics software. 
+
+Sure, both companies may have to get buy in from marketing and sales departments, but we have to sell to them very differently. Their cultures are different. Their team structure and  background are different. Hell, even their geographic culture could be different. 
+
+One company may have a more slick inbound process where lead routing is more important, while the other may have more of a “spray and pray” approach to prospecting. 
+
+Adapting your sales process to be adjustable based on each deal is the best type of process, and it’s likely what makes a sales team your company’s competitive advantage. 
+
+The Patriots have talent, but they’ve also had years where they didn’t nearly have as great of a roster as some of the other teams. Yet, they are one of the final four year after year. 
+
+Take these lessons and run with it! Be great, and more  greatness will follow.
+
+
+
 
 
 
