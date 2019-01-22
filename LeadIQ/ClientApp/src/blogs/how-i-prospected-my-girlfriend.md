@@ -25,6 +25,8 @@ authorProfile: >-
   champion at building communities and would love to start his own cult
   worshipping the different cuisines around the world.
 author: 'Rishi Mathur '
+authorImage: img/rishi.jpeg
+metaTitle: LeadIQ | How I Prospected My Girlfriend
 ---
 
 
