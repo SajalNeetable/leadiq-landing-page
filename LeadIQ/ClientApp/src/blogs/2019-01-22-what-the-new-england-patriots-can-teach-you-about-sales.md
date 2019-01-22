@@ -137,6 +137,9 @@ The Patriots have talent, but they’ve also had years where they didn’t nearl
 
 Take these lessons and run with it! Be great, and more  greatness will follow.
 
+[## Learn the art of booking a meeting once your prospect says yes. Check this out!](https://ter.li/297g0y)
+
+[meetingwebinar.png](https://ter.li/297g0y)
 
 
 
