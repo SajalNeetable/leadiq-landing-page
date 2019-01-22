@@ -45,6 +45,40 @@ Whether it’s marketing picking an event to sponsor, or a sales rep trying to p
 
 One vision always wins out. At LeadIQ, we’re really trying to drive our vision around the idea that every rep should feel good about their job, whether they work at a big company or a small company. 
 
+## Lesson 2: Letting great people go is sometimes for the best.
+
+Ok. We talked about how the Patriot way is all about how one player is never bigger than the team. This lesson is two fold. On the talent side, you need to get rid of toxic talent, no matter how good it is. Over the past decade, the Patriots move talent away if there seems to be problems in the locker room. 
+
+One example that comes to mind is in 2016 when the Patriots traded away Defensive end Chandler Jones to the Arizona Cardinals, and Linebacker Jamie Collins to the Browns in the same season. 
+
+Both players were considering extremely talented and appeared to be core members of the Patriots defensive blueprint for years to come. However, Collins was known for freelancing on the field, and not listening to coaches.
+
+Chandler Jones on the other hand was due to get a big contract extension at the end of the season, and had been arrested by law enforcement the year before for doing drugs. This off the field distraction caused a concern for the locker room, and had they rewarded Jones, it would have set a bad example of the young players. 
+
+Both of these players have a ton of talent, and Chandler Jones has flourished in Arizona. However, that same season, the Patriots despite losing both starters via trades, made it to the Super Bowl and beat the Atlanta Falcons. 
+
+## Lesson 3: Don’t discount on pricing. Make a value ceiling for each customer and stick to it.
+
+Now let’s talk about the other part of the previous lesson.  Let’s use the player metaphor for your customers as well. If you are working a deal with your customer, and they keep trying to negotiate down the price, while you can respect every company has a different budget, you also need to respect your company’s budget. That budget includes time, support, server load, labor, everything. 
+
+Back in 2003, I’ll never forget the day I got out of school and found out the Patriots cut Pro Bowl safety Lawyer Milloy. His cap hit was going to be $5 million dollars, and with his tackle, int, and sack numbers were heading on the decline. 
+
+![lawyermilloy.jpg](img/lawyermilloy.jpg)
+_Lawyer Milloy was a core part of the Patriots defense for several years._
+
+The Patriots had set a ceiling for how much they were willing to pay for him that was below the $5 million dollar mark he was due.  He refused to take a paycut, and the next day, he was cut from the team. The locker room was shocked. 
+
+A week later, playing on his new team, the Buffalo Bills, Lawyer Milloy and the Bills crushed the Patriots in the season opener, 31-0. To this day it is still one of the worst defeats in the Brady-Belichick era.
+
+However, the Patriots bounced back after Week 1, and went on to defeat the Carolina Panthers in the Super Bowl that season. What’s even better, in week 17, they played the Bills again, and defeated them 31-0.
+
+The lesson here is simple. Not keeping Lawyer Milloy opened up opportunity for other customers. It freed up salary for the Patriots to bring in running back Corey Dillon the following year. 
+
+With contracts and negotiations with potential customers, think about attention you and your staff has to give to a company that doesn’t see value in working for you at full price. Letting a prospect walk away sometimes ends up being the right move in the long run, and will yield more business in the long run. 
+
+
+
+
 
 
 
