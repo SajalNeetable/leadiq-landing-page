@@ -50,6 +50,8 @@ Even after all that, there is still a high risk she never replies.
 
 After studying many dating app messages, I noticed people are boring.  But more importantly each of these messages look very similar to a business cold email. Very bland, trying to look exciting and just nothing but value props. So I decided to take an unconventional route, I decided to study one of the top sales reps. 
 
+![mazaemail.png](img/mazaemail.png)
+
 After studying many cold emails, with their amazing responses. I realized there are 4 traits that make a solid cold message:
 
 - Keep it short
