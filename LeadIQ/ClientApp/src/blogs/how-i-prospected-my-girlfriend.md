@@ -98,7 +98,7 @@ I knew that whatever I say, it needs to help me lead to an in person meet. So I 
 
 ![nerdstuding.gif](img/nerdstuding.gif)
 
-I wanted to make sure my next few messages showed that I had common interests as her and that we would be very compatible together. But after all that digging I noticed she was a very direct person or so I thought. Sometimes you can misconstrue messages and posts. 
+I wanted to make sure my next few messages showed that I had common interests as her and that we would be very compatible together. But after all that digging, I noticed she was a very direct person or so I thought. Sometimes you can misconstrue messages and posts. 
 
 “Hey I see you’re in NYC and love comedy because I searched your instagram. Would you like to see me perform Saturday?” 
 
