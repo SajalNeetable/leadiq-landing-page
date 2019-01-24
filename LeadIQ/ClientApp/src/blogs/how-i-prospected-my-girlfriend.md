@@ -12,8 +12,8 @@ description: >-
   knew how to prospect properly. Just to clarify before I am labeled misogynist,
   I would like the record to show I only swiped right on every girl because I am
   an equal opportunist (not thirsty). Unfortunately, they did not share my
-  views, they on the other hand were very picky. It seemed almost very
-  aggressive, like there is a conspiracy against me.
+  views, they on the other hand were very picky. Aggressively picky, to the
+  point where it felt like there was a conspiracy against me.
 publishDate: 'Jan 19, 2019'
 coverImage: /img/ezgif.com-optimize.gif
 authorProfile: >-
