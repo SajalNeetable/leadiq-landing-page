@@ -40,7 +40,7 @@ metaKeywords: 'prospecting, sales, sales process, dating, vetting, personalizait
 
 I went to my coworker, he advised me about his methods of using Tinder. He showed me every aspect of his profile is tailored to show a different side to him. He then showed me two types of pictures: 1) proper types of pictures to post and 2) pictures which should never see the light of day or as he puts it “these need to burn in the cloud.” This blew my mind, it reminded me of how restaurants would enhance the pictures of their food to seem more appealing. 
 
-Every Tinder picture reminded me of a Big Mac or chicken nuggets. So I ventured out to create my own chicken nuggets, I took some amazingly photoshopped photos of myself and posted them up on my profile. Soon enough hit after hit after hit, to be honest it was only 3 girls who responded to me, but before that it was 22 years of silence.
+Every Tinder picture reminded me of a Big Mac or chicken nuggets. So I ventured out to create my own chicken nuggets, I took some amazingly photoshopped photos of myself and posted them up on my profile. Soon enough I received hit after hit. Well, it was only 3 girls. But those 3 girls broke my 22 years of silence.
 
 ![McDONALDS.png](img/McDONALDS.png)
 
