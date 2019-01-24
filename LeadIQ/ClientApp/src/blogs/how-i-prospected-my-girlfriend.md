@@ -90,11 +90,12 @@ This was incredible. Something about me and my message triggered her enough to w
 
 ## Build Your Value
 
-“I got so caught in in getting her attention that I forgot to create the interest I needed to make her return any of my affection. Once you have a prospect's attention you need to do something with it. Build the value.” 
+“I got so caught up in getting her attention that I forgot to create the interest I needed to make her return any of my affection. Once you have a prospect's attention you need to do something with it. Build the value.” 
 
 Seeing this message I knew I couldn’t respond “Hi” it would kill the conversation, but I also couldn’t ask her about her work in the Education space (when I meant digging, I also researched her LinkedIn). 
 
-I knew that whatever I say, it needs to help me lead to an in person meet. So I went back to the drawing board, I began to note down everything types of post she liked, types of post she posted, types of events she attended, basically I studied her for about 2 hours. 
+I knew that whatever I say, it needs to help me lead to an in person meet. So I went back to the drawing board, I began to note down everything, like the types of post she liked, types of picturesI knew that whatever I say, it needs to help me lead to an in person meet. So I went back to the drawing board, I began to note down everything, like the types of post she liked, types of pictures she posted and types of events she attended. Basically, I studied her for about 2 hours.
+ she posted, types of events she attended, basically I studied her for about 2 hours. 
 
 ![nerdstuding.gif](img/nerdstuding.gif)
 
