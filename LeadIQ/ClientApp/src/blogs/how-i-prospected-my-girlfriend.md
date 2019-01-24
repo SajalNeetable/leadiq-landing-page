@@ -80,7 +80,7 @@ After studying many cold emails, with their amazing responses. I realized there 
 
 ## Be You, Be Creative
 
-So after an hour of debate I sent all three the same question, “Who do you think, could win in a fight Oprah Winfrey or Michelle Obama?” I felt this message was precise, mainly because after doing some digging, I found out that she loves comedy. More importantly, she use to be a recruiter. Which means she can smell hogwash from a mile away. Also, at the time her favorite comedian was Hasan Minhaj. Meaning she loved fast paced pretty speaking Indian men. So what better way to showcase who I am from those 14 words. 
+So after an hour of debate I sent my crush the inevitable question, “Who do you think, could win in a fight Oprah Winfrey or Michelle Obama?” I felt this message was precise, mainly because after doing some digging, I found out that she loves comedy. More importantly, she use to be a recruiter. Which means she can smell hogwash from a mile away. Also, at the time her favorite comedian was Hasan Minhaj. Meaning she loved fast paced pretty speaking Indian men. So what better way to showcase who I am from those 14 words. 
 
 After patiently waiting next to my phone for half hour, I decided to occupy my mind with meaningless activities. I went to work, I performed stand-up, I hung out with friends. Finally after a long wait, I got the message “Hi.”
 
