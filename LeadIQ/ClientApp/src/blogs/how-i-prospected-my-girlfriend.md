@@ -102,7 +102,7 @@ I wanted to make sure my next few messages showed that I had common interests as
 
 “Hey I see you’re in NYC and love comedy because I searched your instagram. Would you like to see me perform Saturday?” 
 
-To which she replied, “How about we get to know each other first. How do I know you aren’t dangerous or a creep. I think before we take time out of our day to meet, we should take here for a while to see if there is chemistry. This way we aren’t wasting each others time.” 
+To which she replied, “How about we get to know each other first? How do I know you aren’t dangerous or a creep? I think before we take time out of our day to meet, we should talk here for a while to see if there is chemistry. This way we aren’t wasting each others time.” 
 
 To which I replied, “Damn, I guess I can reschedule your murder to another time.” To my defense I thought this would be funny, she did not. But to her better judgement, she didn’t hold that against me. 
 
