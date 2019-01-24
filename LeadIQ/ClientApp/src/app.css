@@ -39,7 +39,7 @@ body {
 }
 /*Scrollbar style*/
 .modal-body {
-    min-width: 400px !important;
+    min-width: 500px !important;
     padding: 0rem !important;
     overflow: hidden !important;
 }
