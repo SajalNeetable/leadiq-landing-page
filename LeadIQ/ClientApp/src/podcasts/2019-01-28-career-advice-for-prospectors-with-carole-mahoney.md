@@ -1,7 +1,20 @@
 ---
 layout: podcast
-published: false
+published: true
 title: Career Advice for Prospectors with Carole Mahoney
+description: >-
+  Ryan O'Hara sat down and talked with sales coach, Carole Mahoney about
+  motivation in sales, hiring, and how to keep yourself from getting down in the
+  dumps.
+metaDescription: >-
+  Ryan O'Hara sat down and talked with sales coach, Carole Mahoney about
+  motivation in sales, hiring, and how to keep yourself from getting down in the
+  dumps.
+metaKeywords: >-
+  Ryan O'Hara sat down and talked with sales coach, Carole Mahoney about
+  motivation in sales, hiring, and how to keep yourself from getting down in the
+  dumps.
+metaTitle: Career Advice for Prospectors with Carole Mahoney
 ---
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/565905456&color=%2300d586&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -11,5 +24,6 @@ Ryan sat down and talked with sales coach [Carole Mahoney](https://www.linkedin.
 
 
 
+![carolepodcast.png](img/carolepodcast.png)
 
 
