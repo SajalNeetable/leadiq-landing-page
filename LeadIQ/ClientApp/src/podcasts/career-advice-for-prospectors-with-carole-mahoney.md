@@ -25,6 +25,6 @@ Ryan sat down and talked with sales coach [Carole Mahoney](https://www.linkedin.
 
 [Check out Carole's blog and jump into her coaching.](http://www.unboundgrowth.com/)
 
-[## If you want watch a live pitch between a buyer and a seller in front hundreds of sales rep... you should check our our RateMyPitch event. <---- Check this out](https://pages.leadiq.com/rate-my-pitch-showdown)
+[[## If you want watch a live pitch between a buyer and a seller in front hundreds of sales rep... you should check our our RateMyPitch event. <---- Check this out]](https://pages.leadiq.com/rate-my-pitch-showdown?utm_source=linkedin&utm_medium=social&utm_campaign=leadiq+webinar&utm_term=creation&utm_content=carole+mahoney+podcast)
 
 ![showdown.png](img/showdown.png)
