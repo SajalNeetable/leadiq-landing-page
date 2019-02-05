@@ -64,6 +64,21 @@ A great question to ask yourself during the hiring process is: can this SDR hire
 
 ![mgsmom.gif](img/mgsmom.gif)
 
+## Ability To Adapt:
+
+![JasonN.png](img/JasonN.png)
+
+The ability to think quick on your feet is truly something I feel a lot of SDRs are missing. 
+
+Very much like comedy a lot of SDRs stick to a script, they don’t deter and don’t take into account the potential client. I call this the Seinfeld approach, except Seinfeld is way funnier than you are.  
+
+With this approach what happens is when SDRs are given an objection they aren’t familiar with, they do not know how to think for themselves and they wind up like a deer in headlights. 
+
+Being able to adapt and change for any situation that arises is key, this deals with your mindset. The key is you need a good blend of discipline and flexibility. 
+
+When thinking of SDRs, typically they’ll be early in their career and easily influenced. You need someone who’s going to not be sidetracked by an AE, but also works well with their direct manager. 
+
+
 
 
 
