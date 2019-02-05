@@ -82,7 +82,10 @@ When thinking of SDRs, typically they’ll be early in their career and easily i
 
 ![ScottSmith.png](img/ScottSmith.png)
 
-##
+## Understanding An SDRs Mindset:
+
+![JoshB.png](img/JoshB.png)
+
 
 
 
