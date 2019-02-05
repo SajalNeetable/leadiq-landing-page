@@ -15,10 +15,26 @@ description: >-
   Someone who works tirelessly to try and vet potential clients just to get them
   to book a demo with an Account Executive (AE). With a tired out script and a
   cheerful attitude this endeavor seemed almost laughable.
-coverImage: /img/4aws.gif
+coverImage: img/4aws.gif
+authorImage: img/rishi.jpeg
+authorProfile: >-
+  Rishi Mathur is the Content Producer for LeadIQ and is one of the most
+  important voices for this generation. Rishi has on many occasions been
+  compared to the likes of Aziz Ansari and Gandhi based solely on his looks. He
+  has helped with the growth of several different startups and has experience in
+  both marketing and sales. He has been published in many major media outlets
+  such as TealMango, India.com, The Oregonian, and Highland Park Planet. He is a
+  champion at building communities and would love to start his own cult
+  worshipping the different cuisines around the world.
+author: 'Rishi Mathur '
+publishDate: 2/5/2019
+metaTitle: LeadIQ | The Importance of Hiring Your First SDR
+metaKeywords: 'sales, sales process'
+metaDescription: >-
+  Instead of acting like a mindless zombie everyday, you transform, like an
+  animorph, into someone more creative. Someone who figured out ways to stand
+  out from the crowd and showcases his personality with each touch.
 ---
-
-![4aws.gif]({{site.baseurl}}/LeadIQ/ClientApp/public)
 
 Once I joined LeadIQ, I realized there is something actually fun and interesting about being an SDR. Something actually almost poetic about the job. See, I realized if you redefine how you approach your outreach this position can become very entertaining. 
 
