@@ -110,8 +110,20 @@ A lot of SDRs that get hired aren’t concentrating on the job they have because
 This more often than not, has the opposite effect the hiring manager was expecting. SDRs end up rushing through their job, starting to book poor meetings and not setting up the right expectations with customers. 
 
 When hiring, there are a few attributes managers should focus on that create amazing SDRs:
-Great Listening Skills
-High EQ
-Very Conversational
-Enjoy being an SDR, not looking to jump
+-- Great Listening Skills
+- High EQ
+- Very Conversational
+- Enjoy being an SDR, not looking to jump
+
+## Curious and Competitive:
+
+![CollinS.png](img/CollinS.png)
+
+Every great Sales Rep has a little bit of Michael Jordan inside them. Curiosity and competitiveness motivate the best people in life to excel. 
+
+Take anyone at the top of their game, from Tom Brady to Steve Jobs, all have two key traits in common. They have an innate curiosity to learn how to become better at their craft and have a competitive edge where they keep comparing themselves to others to see how they can improve on their weaknesses. 
+
+When you first hire your rep you need to make sure they are curious, they are curious to take take feedback, they are curious to learn more about who they are prospecting and figuring out how they can be a good fit, new ways to reach out to a prospective client, to take risks, etc. They are constantly looking to improve on themselves and make sure they are being their best selves.  
+
+##
 
