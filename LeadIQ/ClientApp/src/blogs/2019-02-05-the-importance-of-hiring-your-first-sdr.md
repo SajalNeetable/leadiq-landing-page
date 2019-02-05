@@ -131,8 +131,25 @@ When you first hire your rep you need to make sure they are curious, they are cu
 
 Being coachable is every sales managers dream candidate trait. Someone who is willing to learn and constantly grow. 
 
-Most skills that a salesperson needs, from the soft skills like asking the right questions, to the hard skills like using sales tools, can be taught.  
+Most skills that a salesperson needs, from the soft skills like asking the right questions, to the hard skills like using sales tools, can be taught.
+
+![cftbcar.gif](img/cftbcar.gif)
+
+## Diversity:
+
+![KellyP.png](img/KellyP.png)
+
+It’s 2019 this is an obvious, the idea of hiring diversity is super important. According to the Harvard Business Review, racially diverse teams outperform non diverse teams by 35% and gender diverse teams were “...15% more likely to have returns above the industry mean”. 
+
+## Handling Rejection:
 
 
+Being able to bounce back from rejection is a very key trait for hiring your first SDR. Finding a candidate who has a knack for optimism, is very tough to find. But it creates all the difference. 
+
+Most SDRs who become discouraged easily are more likely to quit. A poor attitude to failure will start to creep on the verge of self doubt, but once you doubt your own abilities your sales will decline no matter who you are. 
+
+Confidence is key in sales, if you’re not confident about yourself it doesn’t matter what you're selling no one is buying. 
+
+I would personally recommend all SDRs try some type of performance art with this issue. When you get numb to the idea of bombing and start to embrace it you start to see yourself becoming more optimistic. 
 
 
