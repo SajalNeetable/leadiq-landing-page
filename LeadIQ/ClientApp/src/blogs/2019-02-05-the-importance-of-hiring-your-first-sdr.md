@@ -96,12 +96,22 @@ For example: If you have a grill and only the left burners work for the grill. Y
 
 Now, If a sales rep approaches you and asks you if you are interested in buying a new one and tried to sell the features you are most likely not going to buy. 
 
-But, if that same sales rep approaches you with the concept that your propane tank might be leaking, then you may need to make time to find another grill to avoid blowing up. 
+But, if that same sales rep approaches you with the concept that your propane tank might be leaking, then you may need to make time to find another grill to avoid blowing up.
+
+![grillexplodes.gif](img/grillexplodes.gif)
+
+## Attributes To Look For:
+
+![ArmenZ.png](img/ArmenZ.png)
 
 
+A lot of SDRs that get hired aren’t concentrating on the job they have because they are only focused about the next job. “They are looking to boost their numbers to get the recognition and opportunity to be promoted.” 
 
+This more often than not, has the opposite effect the hiring manager was expecting. SDRs end up rushing through their job, starting to book poor meetings and not setting up the right expectations with customers. 
 
-
-
-
+When hiring, there are a few attributes managers should focus on that create amazing SDRs:
+Great Listening Skills
+High EQ
+Very Conversational
+Enjoy being an SDR, not looking to jump
 
