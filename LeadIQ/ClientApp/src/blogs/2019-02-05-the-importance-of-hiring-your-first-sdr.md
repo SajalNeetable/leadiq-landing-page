@@ -21,5 +21,17 @@ So I ventured out to interview with VP of Sales, Sales Managers, and CEOs from s
 
 ## Setting The Culture:
 
-![Screen Shot 2019-02-05 at 9.10.52 AM.png](img/Screen Shot 2019-02-05 at 9.10.52 AM.png)
+![JesseK.png](img/JesseK.png)
+
+
+Majority of my conversations have ended with the notion that your first sales rep is really helping to set the stepping stones for your sales culture. 
+
+They are basically defining how your future sales reps will outreach, they are helping create the playbook for the company. 
+
+These first hires are crucial in a startup because in a startup environment there is so much accountability. Most of the time you aren’t given leads to follow-up with. You need to have a hunter-like mentality. Basically, find and source leads yourself.
+
+## Create an Environment of Success:
+
+![JackK.png](img/JackK.png)
+
 
