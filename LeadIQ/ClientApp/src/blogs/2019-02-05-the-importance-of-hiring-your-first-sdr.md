@@ -78,6 +78,13 @@ Being able to adapt and change for any situation that arises is key, this deals 
 
 When thinking of SDRs, typically they’ll be early in their career and easily influenced. You need someone who’s going to not be sidetracked by an AE, but also works well with their direct manager. 
 
+## Creative Thinker:
+
+![ScottSmith.png](img/ScottSmith.png)
+
+##
+
+
 
 
 
