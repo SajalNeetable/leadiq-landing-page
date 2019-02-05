@@ -143,6 +143,7 @@ It’s 2019 this is an obvious, the idea of hiring diversity is super important.
 
 ## Handling Rejection:
 
+![CurtisE.png](img/CurtisE.png)
 
 Being able to bounce back from rejection is a very key trait for hiring your first SDR. Finding a candidate who has a knack for optimism, is very tough to find. But it creates all the difference. 
 
@@ -151,5 +152,10 @@ Most SDRs who become discouraged easily are more likely to quit. A poor attitude
 Confidence is key in sales, if you’re not confident about yourself it doesn’t matter what you're selling no one is buying. 
 
 I would personally recommend all SDRs try some type of performance art with this issue. When you get numb to the idea of bombing and start to embrace it you start to see yourself becoming more optimistic. 
+
+![bombingstage.jpg](img/bombingstage.jpg)
+
+
+
 
 
