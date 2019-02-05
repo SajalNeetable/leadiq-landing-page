@@ -13,3 +13,9 @@ Someone who works tirelessly to try and vet potential clients just to get them t
 
 Once I joined LeadIQ, I realized there is something actually fun and interesting about being an SDR. Something actually almost poetic about the job. See, I realized if you redefine how you approach your outreach this position can become very entertaining. 
 
+Instead of acting like a mindless zombie everyday, you transform, like an animorph, into someone more creative. Someone who figured out ways to stand out from the crowd and showcases his personality with each touch. 
+
+This realization got me to think about how important is it to hire the right SDR to your team and how teams should act when hiring SDRs to become more successful. 
+
+So I ventured out to interview with VP of Sales, Sales Managers, and CEOs from some of the best sales teams to understand best practices when hiring SDRs. 
+
