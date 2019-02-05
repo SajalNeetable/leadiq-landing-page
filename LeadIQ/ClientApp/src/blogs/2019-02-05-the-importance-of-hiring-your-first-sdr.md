@@ -125,5 +125,14 @@ Take anyone at the top of their game, from Tom Brady to Steve Jobs, all have two
 
 When you first hire your rep you need to make sure they are curious, they are curious to take take feedback, they are curious to learn more about who they are prospecting and figuring out how they can be a good fit, new ways to reach out to a prospective client, to take risks, etc. They are constantly looking to improve on themselves and make sure they are being their best selves.  
 
-##
+## Coachable:
+
+![JakeS.png](img/JakeS.png)
+
+Being coachable is every sales managers dream candidate trait. Someone who is willing to learn and constantly grow. 
+
+Most skills that a salesperson needs, from the soft skills like asking the right questions, to the hard skills like using sales tools, can be taught.  
+
+
+
 
