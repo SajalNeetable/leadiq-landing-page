@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: The Importance of Hiring Your First SDR
 description: >-
   “So every 100 emails, I should get 5 responses?” Up until joining LeadIQ,
