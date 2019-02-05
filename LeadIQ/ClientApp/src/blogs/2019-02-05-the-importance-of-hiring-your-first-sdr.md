@@ -34,4 +34,36 @@ These first hires are crucial in a startup because in a startup environment ther
 
 ![JackK.png](img/JackK.png)
 
+When you hire your first SDR/BDR make sure you clearly vet the candidate and create an environment for success. 
+
+Most organizations tend to find people with proven track records without really understanding how that specific individual operates. 
+
+For example, when Jack Kosakowski was hiring his first BDR, like everybody, he thought he “...brought on the perfect guy…” Shortly after Jack found out his mistake, he hired someone who was not the right fit for the job at all. On paper he was great, but Jack found out that this SDR was not a hunter. He was just a sales rep with a proven track record.
+
+Jack realized he brought him on too early. He was not set up to create an environment for this BDR to succeed. He didn’t have the infrastructure, “...don’t have the right engine for them, especially if they are not a hunter. They are not use to that”  So he had to go back and find someone who had those specific qualities. 
+
+## Setting Expectations:
+
+![bennyh.png](img/bennyh.png)
+
+Being an SDR/BDR is a very tough role, there are a lot of rejections they to face on a day to day basis. 
+
+So make sure you provide them with a set of expectations before you hire, for example: 
+Make sure they align with company values. 
+Have strong internal intrinsic motivators for being part of the SDR team.
+Alignment with company values.
+Fearless: Not afraid of change and providing feedback.
+
+Setting these expectations up front will really help in the interview process. You can understand who really wants to grow and learn within the SDR/BDR role itself, not using the opportunity as a stepping stone to become an Account Executive. 
+
+## Face Of The Company::
+
+![RyanH.png](img/RyanH.png)
+
+A great question to ask yourself during the hiring process is: can this SDR hire represent your organization?
+
+![mgsmom.gif](img/mgsmom.gif)
+
+
+
 
