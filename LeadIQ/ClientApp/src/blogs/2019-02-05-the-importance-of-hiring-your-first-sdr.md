@@ -86,6 +86,19 @@ When thinking of SDRs, typically they’ll be early in their career and easily i
 
 ![JoshB.png](img/JoshB.png)
 
+When building your team you need to think what kind of SDRs you want on your team. Asking questions similar to the one Josh presented above allows you to really understand the way your SDR thinks. Depending on how they answers, you familiarize yourself with how they will react to certain situations. 
+
+Learning about someone’s mindset is interesting it allows you to understand how they view selling, for example I’ve seen a lot of great sales reps look at the urgency temperatures of each call. If you sense the person doesn’t have urgency to solve the issue, then you move on without wasting anyone's time. 
+
+The real question is based on talking to the prospective client how can you make them understand the sense of urgency.
+
+For example: If you have a grill and only the left burners work for the grill. You may need to buy another grill. But after searching around you noticed that it’s not worth spending that much money to replace the grill. 
+
+Now, If a sales rep approaches you and asks you if you are interested in buying a new one and tried to sell the features you are most likely not going to buy. 
+
+But, if that same sales rep approaches you with the concept that your propane tank might be leaking, then you may need to make time to find another grill to avoid blowing up. 
+
+
 
 
 
