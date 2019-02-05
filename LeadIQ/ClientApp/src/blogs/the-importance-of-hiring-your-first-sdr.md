@@ -3,18 +3,14 @@ layout: blog
 published: false
 title: The Importance of Hiring Your First SDR
 description: >-
-  “So every 100 emails, I should get 5 responses?”
-
-  Up until joining LeadIQ, being an SDR made no sense to me. Like the WNBA or my
-  fear of shark attacks in a swimming pool.
-
-  Being an SDR seemed to me as a stepping stone to becoming an Account
-  Executive. Almost every company I interviewed with described SDRs as a pawn in
-  some kind of chess match.
-
-  Someone who works tirelessly to try and vet potential clients just to get them
-  to book a demo with an Account Executive (AE). With a tired out script and a
-  cheerful attitude this endeavor seemed almost laughable.
+  “So every 100 emails, I should get 5 responses?” Up until joining LeadIQ,
+  being an SDR made no sense to me. Like the WNBA or my fear of shark attacks in
+  a swimming pool. Being an SDR seemed to me as a stepping stone to becoming an
+  Account Executive. Almost every company I interviewed with described SDRs as a
+  pawn in some kind of chess match. Someone who works tirelessly to try and vet
+  potential clients just to get them to book a demo with an Account Executive
+  (AE). With a tired out script and a cheerful attitude this endeavor seemed
+  almost laughable.
 coverImage: img/4aws.gif
 authorImage: img/rishi.jpeg
 authorProfile: >-
@@ -186,9 +182,4 @@ I would personally recommend all SDRs try some type of performance art with this
 
 When you boil everything down, you are basically looking for a hustler. Someone who will grind it out and get you what you want, they are someone you can trust to get the job done. Your first SDR needs to be someone you can count to be persistent, they are understand each cutomer they speak with and more importantly they have the ability to teach others. 
 
-![Hustle.jpg](img/Hustle.jpg)
-
-
-
-
-
+![hustler.gif](img/hustler.gif)
