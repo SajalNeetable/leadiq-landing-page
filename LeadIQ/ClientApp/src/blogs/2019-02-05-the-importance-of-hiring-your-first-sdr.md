@@ -15,7 +15,10 @@ description: >-
   Someone who works tirelessly to try and vet potential clients just to get them
   to book a demo with an Account Executive (AE). With a tired out script and a
   cheerful attitude this endeavor seemed almost laughable.
+coverImage: /img/4aws.gif
 ---
+
+![4aws.gif]({{site.baseurl}}/LeadIQ/ClientApp/public)
 
 Once I joined LeadIQ, I realized there is something actually fun and interesting about being an SDR. Something actually almost poetic about the job. See, I realized if you redefine how you approach your outreach this position can become very entertaining. 
 
