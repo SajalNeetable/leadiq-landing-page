@@ -159,7 +159,8 @@ Most skills that a salesperson needs, from the soft skills like asking the right
 
 ## Diversity:
 
-![KellyP.png](img/KellyP.png)
+![Kellypiane.png](img/Kellypiane.png)
+
 
 It’s 2019 this is an obvious, the idea of hiring diversity is super important. According to the Harvard Business Review, racially diverse teams outperform non diverse teams by 35% and gender diverse teams were “...15% more likely to have returns above the industry mean”. 
 
