@@ -19,3 +19,7 @@ This realization got me to think about how important is it to hire the right SDR
 
 So I ventured out to interview with VP of Sales, Sales Managers, and CEOs from some of the best sales teams to understand best practices when hiring SDRs. 
 
+## Setting The Culture:
+
+![Screen Shot 2019-02-05 at 9.10.52 AM.png](img/Screen Shot 2019-02-05 at 9.10.52 AM.png)
+
