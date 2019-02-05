@@ -148,7 +148,8 @@ When you first hire your rep you need to make sure they are curious, they are cu
 
 ## Coachable:
 
-![JakeS.png](img/JakeS.png)
+![jakespear.png](img/jakespear.png)
+
 
 Being coachable is every sales managers dream candidate trait. Someone who is willing to learn and constantly grow. 
 
