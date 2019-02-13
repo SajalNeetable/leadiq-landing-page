@@ -31,6 +31,7 @@ import Videolicious from './pages/Videolicious';
 import Videos from './pages/Videos';
 import Webinar from './pages/Webinar';
 import ThankYou from './components/ThankYou';
+import EnrichmentAPI from './pages/EnrichmentAPI';
 
 
 
@@ -82,6 +83,9 @@ class App extends React.Component {
                         <Route exact path='/faq' component={() => (<div><TopNav /><FrequentlyAskedQuestion /></div>)} />
                         <Route exact path='/privacy-policy' component={() => (<div><TopNav /><PrivacyPolicy /></div>)} />
                         <Route exact path='/terms-of-use' component={() => (<div><TopNav /><TermsOfUse /></div>)} />
+                        
+                        <Route exact path='/enrichment-apis' component={() => (<div><TopNav /><EnrichmentAPI /></div>)} />
+                        
                     </Switch>
                 </LayoutFooter>
             </BrowserRouter>

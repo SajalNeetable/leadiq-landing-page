@@ -2187,6 +2187,102 @@ img {
         }
     }
 
+    .section-50vh{
+        height:50vh;
+        width:100%;
+        padding:100px;
+    }
+
+    .section-100vh{
+        height:100vh;
+        width:100%;
+        padding:100px;
+    }
+
+    .section-80vh{
+        height:80vh;
+        width:100%;
+        padding:100px;
+    }
+
+    .enrichment-title{
+        font-family: Helvetica;
+        font-weight: normal;
+        font-size:28px;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #1d262c;
+    }
+
+    .enrichment-body{
+        font-family: Helvetica;
+        font-size: 18px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        color: #71828a;
+    }
+
+    .enrichment-hero-banner-button{
+        width: 160px;
+        height: 50px;
+        border-radius: 4px;
+        background-color: #0074e4;
+        font-family: Helvetica;
+        font-size: 16px;
+        display: flex;
+        align-items:center;
+        justify-content:center;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ffffff;
+        border:none;
+        outline: none;
+    }
+
+    .enrichment-section-color{
+       background-color: #f9f9f9;
+    }
+
+    .enrichment-api-card{
+        background-color:white;
+        font-family: helvetica;
+        font-size:16px;
+        box-shadow: 0 10px 40px 0 rgba(7, 42, 68, 0.1);
+    }
+
+    .login-illustration-2{
+        align-content: flex-end;
+        align-items: flex-end;
+        display: flex;
+    }
+
+    .enrichment-section-blue{
+        background-color:#0774dd;
+    }
+
+    .text-white{
+        color:white;
+    }
+
+    .enrichment-email{
+        opacity: 0.2;
+        border-radius: 4px;
+     background-color: #ffffff;
+    }
+
+  
+
+
+
+
 
     /*
 @media (max-width:1440px) and (min-width:1280px) {
