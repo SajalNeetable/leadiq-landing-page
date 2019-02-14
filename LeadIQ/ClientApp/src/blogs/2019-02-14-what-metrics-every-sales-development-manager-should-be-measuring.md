@@ -67,5 +67,21 @@ Ok. First things first, you’ll need to calculate your Response Rate. A good re
 
 If we see a rep isn’t hitting close to at least a 10% response rate, we usually focus a lot of attention on them because a low response rate could soil our good name we’ve worked so hard to create. 
 
+![leadiqbrand.png](img/leadiqbrand.png)
+
+_We obviously can’t afford to soil our good brand with a bad response rate._
+
+
+Here’s metrics from of one of our reps that didn’t work out here. 
+
+![lookatthisgraph.png](img/lookatthisgraph.png)
+
+Notice that in this image above, I don’t really care about open rates or clicks. While these numbers are useful for a rep to figure out how effective their subject lines are, plus cold calling the prospect after they open,  I think these stats are some of least useful things managers tend to dwell on.
+
+Outside of triggering your next activity with a prospect, tell me why so many reps get excited by open rates? 
+
+
+
+
 
 
