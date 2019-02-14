@@ -189,6 +189,12 @@ If it's time management, [do the 10 minute game](https://leadiq.com/blog/how-to-
 
 **It may seem nerdy to keep track of this data, but you won’t regret it. This equation is the easiest way to tell how well your sales reps are doing with prospecting.**
 
+[## We broke down a real pitch in front of 200 sales reps. You gotta see this.](https://pages.leadiq.com/rate-my-pitch-showdown)
+
+![rmpvidyardinstapage.png](img/rmpvidyardinstapage.png)
+
+
+
 
 
 
