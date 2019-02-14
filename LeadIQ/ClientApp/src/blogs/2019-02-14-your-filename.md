@@ -9,3 +9,4 @@ The idea of Social Selling is more than just providing knowledge (about your com
 
 Social Selling needs to allow people to understand who you are and what you stand for. More importantly, it needs to come off as if you’re not selling a product, but providing a solution. You want to establish yourself as not only an expert, but a friend in the neighborhood who is just trying to help people learn and grow. Your m.o. isn’t to pitch your product, but to create or join a community where you can solicit your ideas. 
 
+![4aws.gif](img/4aws.gif)
