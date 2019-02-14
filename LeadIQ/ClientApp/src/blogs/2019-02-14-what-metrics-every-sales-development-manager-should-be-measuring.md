@@ -59,7 +59,7 @@ In my opinion, if you really care about helping your team, you need to have some
 
 If you don’t have these three things, you should setup a CRM and use reporting,  or get a sales engagement platform that will help measure replies. In my opinion having a dialer combined with emailing is usually the easiest way to attack this. 
 
-## Equation #1: Response Rate ##
+## Equation 1: Response Rate ##
 
 ![responserate.png](img/responserate.png)
 
@@ -79,6 +79,29 @@ Here’s metrics from of one of our reps that didn’t work out here.
 Notice that in this image above, I don’t really care about open rates or clicks. While these numbers are useful for a rep to figure out how effective their subject lines are, plus cold calling the prospect after they open,  I think these stats are some of least useful things managers tend to dwell on.
 
 Outside of triggering your next activity with a prospect, tell me why so many reps get excited by open rates? 
+
+**Now back to calculating response rates. **
+
+First you need to add up all the touches your sales rep does. Social, cold calling, and cold emailing all should count as touches. Then calculate the number of responses you have from all three media. If you don’t track responses over phone and social yet, you need to do this. 
+
+We sum all of the responses up from all three media, and divide them by the total number of touches. 
+
+In this example, it was 1181 touches divided by 50 responses. 
+
+This rep didn’t end up working out for us, and a big part of this is because they only had a 4.23% response rate. Far too low for our standards here.
+
+A good response rate is important because you aren’t hiring your sales rep to pump up awareness when they are prospecting. They have a different job. Their job is to book meetings. If you want awareness, go talk to marketing. 
+
+Response rates are obviously a very good sign of how well a rep is doing, however they don’t tell the whole story. A huge part of prospecting once you get high enough response rates is turning the response into a qualified meeting. 
+
+This is why we added the next part of the equation
+
+I would love to just to tell reps this is the only metric that matters, but part of the art of prospecting is figuring out not just how to get responses, but how to turn those responses into 
+
+## Equation 2: Qualification Rate
+
+
+
 
 
 
