@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: What Metrics Every Sales Development Manager Should Be Measuring
 description: >-
   Over the past few years here at LeadIQ, we’ve gone through many different team
