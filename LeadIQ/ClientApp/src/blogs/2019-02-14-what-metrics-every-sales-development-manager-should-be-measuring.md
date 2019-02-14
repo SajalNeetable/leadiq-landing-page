@@ -157,6 +157,42 @@ At LeadIQ our SDR’s quota is 15 QSOs for a baseline every month. Since PES is 
 
 The rep that failed here had a PES score of .677%. Since I want them to get 15 QSOs, I can calculate how many touches it takes for them to get there. 
 
+![quotagoal.png](img/quotagoal.png)
+
+_You can calculate how many touches your sales rep has to do to hit quota. Take your QSO quota and divide it by their PES._
+
+In this the example we’re using for this blog post, we’ll take the 15 QSOs and divide them by .00677. 
+
+_15/.00677 = 2216 touches/month_
+
+This number is wayyyyy to high for us. This is roughly 100 touches a day, which is impossible to do personalization for. Clearly this rep needs coaching, or they may just be a bad fit. 
+
+## So how do you use these numbers for coaching? 
+
+So here’s how use these numbers to give you direction on coaching.
+
+Here’s the equation again for reference. 
+
+![pes.png](img/pes.png)
+
+If you are looking at a rep and you see their response rate is lower than the best reps on your team, you know to focus on coaching that rep up on their cold prospecting. Spend some time showing them better ways to do cold calling, emailing, and social. Teach them personalization. 
+
+If your rep has a decent response rate (let’s say the benchmark is 10% like LeadIQs),  but their qualification rate is lower than your best reps, you should be coaching your sales reps on how to overturn objections, how to create urgency, and book the meeting. 
+
+Both problems are much easier to identify using this equation as oppose to guessing, and you should measure your reps on this month by month.  
+
+If your rep has a Prospecting Efficiency Score, but isn’t hitting their QSO quota, there is a pretty good chance they aren’t working fast enough. Maybe they are having some issues with focus or time management? 
+
+See if you can find ways to help them focus, or give them a little bit more micromanaging to get them focused. 
+
+If it's time management, [do the 10 minute game](https://leadiq.com/blog/how-to-get-more-personalized-prospecting-done) or watch how they are working to try find gaps in their effieciency. The good news is coaching time management is very easy to fix, and your rep is already getting the difficult parts done. They just need more guidence on the way they get their outreach done. 
+
+**It may seem nerdy to keep track of this data, but you won’t regret it. This equation is the easiest way to tell how well your sales reps are doing with prospecting.**
+
+
+
+
+
 
 
 
