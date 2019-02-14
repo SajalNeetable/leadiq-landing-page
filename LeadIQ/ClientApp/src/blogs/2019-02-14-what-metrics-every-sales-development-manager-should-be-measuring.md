@@ -108,19 +108,62 @@ Now to calculate opportunities, I recommend running a report in Salesforce where
 
 With the rep in question that we went over earlier, I found out they had 8 opportunities created during that period. So we’ll take the 8 opportunities they created and divide it by their total responses,  which was 50. 
 
-Their total Qualification Rate: 16%. 
+**The Qualification Rate: 16%. **
 
 Qualification rate is the best way to assess how well your rep is at dealing with responses. So this rep had a low response rate, and a higher qualification rate. However, generally speaking, your reps should have a much higher qualification rate than response rate. I’ve calculated some people on our team having higher than a 50% qualification rate, which is pretty impressive! 
 
-Now we have both these numbers for this rep that failed to hit quota. 
+## Now we have both these numbers for this rep that failed to hit quota. Let's finish the equation off.
 
-We now multiply their Response Rate of  .042 (4.2%)  and their Qualification Rate .16 (16%) and get 0.00677. Since we want to present in human terms, let’s make it a percentage. That’s the rep’s Prospecting Efficiency Score. 
+We now multiply their Response Rate of  **.042 (4.2%)**  and their Qualification Rate **.16 (16%**) and get **0.00677**. Since we want to present this in human terms, let’s make it a percentage. That’s the rep’s Prospecting Efficiency Score. 
 
-.042 x .16 = 0.00677
+_.042 x .16 = 0.00677_
 
-This rep’s PES was  .677%.
+_**This rep’s PES is .677%.**_
 
 That means for every 100 prospects they reach out to, they book an opportunity with .6 of them. It basically tells us this rep needs to do well over 100 touches just to book one meeting. 
+
+
+
+### ...But wait..there's a twist!
+
+Here’s the plot twist my friends. Since number of responses is in both fractions and being multiplied, we can actually cancel out both parts of the fractions and it a simpler equation to remember:
+
+![shortpesscore.png](img/shortpesscore.png)
+
+_So this is the same equation, but with less information involved._
+
+This number is also the number of opportunities divided by the number of touches! 
+
+So in the example, the number of opportunities is 8, and let’s divide that by the 1,181 touches the rep did. 
+
+_8/1181= **.00677**_
+
+Recognize that number?  This is also the sales rep’s PES! PES is the probability that a rep’s touch will turn into a qualified sales opportunity. 
+
+That means that probability of that rep’s outreach turning into an opportunities is .677%. That number is far too low for us. 
+
+
+### So how do you know what is a good Prospecting Efficiency Score?
+
+If you go through multiple organizations, Response Rate, Qualification Rate, and Prospecting Efficiency Score are going to be different based on what your prospecting strategy is, how many touches you expect from your reps, and how many qualified sales opportunities (QSOs) your reps are accountable for. 
+
+If you have reps that are consistently hitting the quota you have in place, calculate both parts of their Prospecting Efficiency Score, and use that data to benchmark what a good PES should be for your team. 
+
+For example, if your top rep has a .22 (22% Response Rate) and a .5 (50% Qualification Rate), their PES is 11%. That means that 11% of the touches they do turns into an opp. That’s pretty impressive, and can be a good benchmark of where you want your team to be. 
+
+**Let’s jump back into our example to calculate how bad this rep was. **
+
+At LeadIQ our SDR’s quota is 15 QSOs for a baseline every month. Since PES is the probability that a touch will turn into an opp, I can actually work backwards to determine how many touches the reps have to do to hit their quota based on the historic PES score. 
+
+The rep that failed here had a PES score of .677%. Since I want them to get 15 QSOs, I can calculate how many touches it takes for them to get there. 
+
+
+
+
+
+
+
+
 
 
 
