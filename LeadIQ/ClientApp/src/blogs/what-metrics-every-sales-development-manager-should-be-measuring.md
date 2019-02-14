@@ -80,7 +80,7 @@ Notice that in this image above, I don’t really care about open rates or click
 
 Outside of triggering your next activity with a prospect, tell me why so many reps get excited by open rates? 
 
-**Now back to calculating response rates. **
+Now back to calculating response rates....
 
 First you need to add up all the touches your sales rep does. Social, cold calling, and cold emailing all should count as touches. Then calculate the number of responses you have from all three media. If you don’t track responses over phone and social yet, you need to do this. 
 
