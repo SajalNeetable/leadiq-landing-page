@@ -100,6 +100,30 @@ I would love to just to tell reps this is the only metric that matters, but part
 
 ## Equation 2: Qualification Rate
 
+![qualificationrate.png](img/qualificationrate.png)
+
+Qualification Rate is calculated by the number of opportunities, divided by the number of responses you’ve received. 
+
+Now to calculate opportunities, I recommend running a report in Salesforce where you see how many opportunities were “created by” the rep’s name over the same time period you are looking at touches and responses. This will keep the reporting accurate for a given time period. 
+
+With the rep in question that we went over earlier, I found out they had 8 opportunities created during that period. So we’ll take the 8 opportunities they created and divide it by their total responses,  which was 50. 
+
+Their total Qualification Rate: 16%. 
+
+Qualification rate is the best way to assess how well your rep is at dealing with responses. So this rep had a low response rate, and a higher qualification rate. However, generally speaking, your reps should have a much higher qualification rate than response rate. I’ve calculated some people on our team having higher than a 50% qualification rate, which is pretty impressive! 
+
+Now we have both these numbers for this rep that failed to hit quota. 
+
+We now multiply their Response Rate of  .042 (4.2%)  and their Qualification Rate .16 (16%) and get 0.00677. Since we want to present in human terms, let’s make it a percentage. That’s the rep’s Prospecting Efficiency Score. 
+
+.042 x .16 = 0.00677
+
+This rep’s PES was  .677%.
+
+That means for every 100 prospects they reach out to, they book an opportunity with .6 of them. It basically tells us this rep needs to do well over 100 touches just to book one meeting. 
+
+
+
 
 
 
