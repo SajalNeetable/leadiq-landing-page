@@ -60,15 +60,17 @@ section {
         color: #444444;
     }
 
-footer {
-    position: relative;
-    background-color: #485366;
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-    color: white;
-    line-height: 1.7;
-    font-size: 1rem;
-}
+    footer {
+        position: initial;
+        background-color: #485366;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        color: white;
+        line-height: 1.7;
+        font-size: 1rem;
+        float: left;
+        width: 100%;
+    }
 
     footer a {
         color: white;
@@ -1917,7 +1919,7 @@ img {
         .slick-prev {
             left: -25px;
         }
-        
+
         .slick-next {
             right: -25px;
         }
@@ -2187,98 +2189,8 @@ img {
         }
     }
 
-    .section-50vh{
-        height:50vh;
-        width:100%;
-        padding:100px;
-    }
+ 
 
-    .section-100vh{
-        height:100vh;
-        width:100%;
-        padding:100px;
-    }
-
-    .section-80vh{
-        height:80vh;
-        width:100%;
-        padding:100px;
-    }
-
-    .enrichment-title{
-        font-family: Helvetica;
-        font-weight: normal;
-        font-size:28px;
-        font-style: normal;
-        font-stretch: normal;
-        line-height: normal;
-        letter-spacing: normal;
-        color: #1d262c;
-    }
-
-    .enrichment-body{
-        font-family: Helvetica;
-        font-size: 18px;
-        font-weight: normal;
-        font-style: normal;
-        font-stretch: normal;
-        line-height: 1.33;
-        letter-spacing: normal;
-        color: #71828a;
-    }
-
-    .enrichment-hero-banner-button{
-        width: 160px;
-        height: 50px;
-        border-radius: 4px;
-        background-color: #0074e4;
-        font-family: Helvetica;
-        font-size: 16px;
-        display: flex;
-        align-items:center;
-        justify-content:center;
-        font-weight: normal;
-        font-style: normal;
-        font-stretch: normal;
-        line-height: normal;
-        letter-spacing: normal;
-        color: #ffffff;
-        border:none;
-        outline: none;
-    }
-
-    .enrichment-section-color{
-       background-color: #f9f9f9;
-    }
-
-    .enrichment-api-card{
-        background-color:white;
-        font-family: helvetica;
-        font-size:16px;
-        box-shadow: 0 10px 40px 0 rgba(7, 42, 68, 0.1);
-    }
-
-    .login-illustration-2{
-        align-content: flex-end;
-        align-items: flex-end;
-        display: flex;
-    }
-
-    .enrichment-section-blue{
-        background-color:#0774dd;
-    }
-
-    .text-white{
-        color:white;
-    }
-
-    .enrichment-email{
-        opacity: 0.2;
-        border-radius: 4px;
-     background-color: #ffffff;
-    }
-
-  
 
 
 
@@ -2436,7 +2348,7 @@ body{
 .checkbox-content {
     display: flex;
     font-size: 22px;
- 
+
     font-size: 22px;
     font-weight: normal;
     font-style: normal;
@@ -2480,3 +2392,397 @@ body{
     margin-top: 80px;
     margin-bottom: 35px;
 }*/
+
+
+
+/*Enrichment API Landing Page*/
+
+.enrichment-api-maincontainer {
+    float: left;
+    width: 100%;
+}
+
+.enrichment-api-headercontainer {
+    float: left;
+    width: 100%;
+    padding: 80px 0px;
+}
+
+.enrichment-api-infocontainer {
+    float: left;
+    width: 100%;
+    padding: 80px 0px;
+    background-image: linear-gradient(to bottom, #f9f9f9, #ffffff);
+}
+
+.enrichment-api-contactinfo {
+    float: left;
+    width: 100%;
+    padding: 30px;
+    background: #fff;
+    margin-bottom: 20px;
+    box-shadow: 0 10px 40px 0 rgba(7, 42, 68, 0.1);
+}
+
+.enrichment-api-intlcontainer {
+    float: left;
+    width: 100%;
+    padding: 80px 0px;
+    background-color: #f9f9f9;
+}
+
+.enrichment-api-form-control {
+    color: #fff !important;
+}
+
+.enrichment-api-markettingcontainer {
+    float: left;
+    width: 100%;
+    padding: 100px 0px;
+}
+
+.enrichment-api-markinner a::after {
+    content: '\f178';
+    font-family: FontAwesome;
+    padding-left: 16px;
+}
+
+.enrichment-api-inteinner a::after {
+    content: '\f178';
+    font-family: FontAwesome;
+    padding-left: 16px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.enrichment-api-1+ */
+    color:#fff !important;
+    opacity: 1; /* Firefox */
+  }
+
+.enrichment-api-datacontainer {
+    float: left;
+    width: 100%;
+    padding: 100px 0px;
+    background-image: linear-gradient(to bottom, #f9f9f9, #ffffff);
+}
+
+.enrichment-api-newscontainer {
+    float: left;
+    width: 100%;
+    padding: 100px 0px;
+    background-image: linear-gradient(to right, #0074e4, #0774dd);
+}
+
+.enrichment-api-welcontainer h3 {
+    font-size: 36px;
+    color: #1d262c;
+    margin: 0px;
+    padding: 15px 0px;
+}
+
+.enrichment-api-welcontainer p {
+    font-size: 24px;
+    color: #71828a;
+    padding-bottom: 15px;
+}
+
+.enrichment-api-welcontainer li {
+    list-style: none;
+    display: inline-block;
+}
+
+.enrichment-api-welcontainer ul {
+    padding: 0px;
+}
+
+.enrichment-api-welcontainer li a {
+    background-color: #0074e4;
+    border-radius: 4px;
+    padding: 11px 40px;
+    margin-right: 19px;
+    float: left;
+    color: #fff;
+    font-size: 18px;
+}
+
+.enrichment-api-inteinner a {
+    color: #0074e4;
+    font-size: 16px;
+}
+
+.enrichment-api-markinner.enrichment-api-cont {
+    position: relative;
+    top: 100px;
+}
+
+.enrichment-api-markinner a {
+    color: #0074e4;
+    font-size: 16px;
+}
+
+.enrichment-api-markinner .enrichment-api-marker {
+    float: right;
+    padding-top: 54px;
+}
+
+.enrichment-api-welcontainer a:hover {
+    text-decoration: none;
+}
+
+.enrichment-api-lefimg img {
+    width: 48%;
+    display: block;
+    margin: 0 auto;
+}
+
+.enrichment-api-righimg{
+    display: flex !important;
+    align-items:flex-end !important;
+}
+
+.enrichment-api-inteinner h4 {
+    font-size: 30px;
+    color: #1d262c;
+    padding-bottom: 15px;
+}
+
+.enrichment-api-inteinner p {
+    color: #71828a;
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+.enrichment-api-markinner h4 {
+    font-size: 30px;
+    color: #1d262c;
+    padding-bottom: 15px;
+    margin: 0px;
+}
+
+.enrichment-api-markinner p {
+    color: #71828a;
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+.enrichment-api-datasec {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.enrichment-api-datasec h2 {
+    font-size: 30px;
+    color: #1d262c;
+}
+
+.enrichment-api-datasec p {
+    font-size: 18px;
+    color: #71828a;
+}
+
+.enrichment-api-datacont h4 {
+    color: #1d262c;
+    font-size: 17px;
+    padding: 15px 0px;
+}
+
+.enrichment-api-datacont p {
+    font-size: 16px;
+    color: #71828a;
+    line-height: 27px;
+}
+
+.enrichment-api-newshead {
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    padding-bottom: 80px;
+}
+
+.enrichment-api-inteinner a:hover {
+    text-decoration: none;
+}
+
+.enrichment-api-cont a:hover {
+    text-decoration: none;
+}
+
+.enrichment-api-welcontainer a:hover {
+    transition: all .8s ease-in-out;
+}
+
+.enrichment-api-form-control {
+    border: 2px solid #fff;
+}
+
+.enrichment-api-news {
+    float: left;
+    width: 100%;
+}
+
+.enrichment-api-news h3 {
+    font-size: 30px;
+    color: #fff;
+    margin: 0px;
+}
+
+.enrichment-api-news p {
+    color: #fff;
+    padding-top: 14px;
+}
+
+.enrichment-api-icon img {
+    display: block;
+    margin: 0 auto;
+}
+
+.enrichment-api-btn-default {
+    color: #0674de;
+    background-color: #fff;
+    border-color: transparent;
+    font-size: 14px;
+}
+
+.enrichment-api-btn {
+    padding: 15px 44px;
+}
+
+.enrichment-api-form-control {
+    height: auto;
+    background-image: linear-gradient(to right, #0074e4, #0774dd);
+    padding: 10px 27px;
+}
+
+.enrichment-api-form-control {
+    float: left;
+}
+
+@media (max-width:1024px){
+    .enrichment-api-leftimg {
+        padding-bottom: 30px;
+    }
+    .enrichment-api-lefimg img {
+        width: 74%;
+    }
+    .enrichment-api-welcontainer li {
+        float: left;
+    }
+    .enrichment-api-welimg {
+        position: relative;
+        top: 50px;
+    }
+}
+
+@media (max-width:991px){
+    .enrichment-api-form-control {
+        height: auto;
+        background-image: linear-gradient(to right, #0074e4, #0774dd);
+        padding: 15px 21px;
+    }
+    .enrichment-api-markinner.enrichment-api-cont {
+        top: 0px;
+    }
+    .enrichment-api-welimg {
+        position: relative;
+        top: 110px;
+    }
+    .enrichment-api-welimg {
+        position: initial !important;
+        top: 0px;
+        padding-top: 30px;
+    }
+}
+
+@media (max-width:768px){
+    .enrichment-api-btn {
+        padding: 17px 14px;
+    }
+}
+
+.enrichment-api-markinner img {
+    float: right;
+}
+
+@media (max-width: 746px) {
+    .enrichment-api-headercontainer {
+        padding: 30px 0px;
+    }
+    .img-responsive.marker {
+        display: none;
+    }
+    .enrichment-api-welcontainer h3 {
+        font-size: 28px;
+    }
+    .enrichment-api-welcontainer p {
+        font-size: 19px;
+    }
+    .enrichment-api-welcontainer li a {
+        padding: 11px 32px;
+        font-size: 16px;
+    }
+    .enrichment-api-infocontainer {
+        padding: 30px 0px;
+    }
+    .enrichment-api-lefimg img {
+        display: none;
+    }
+    .enrichment-api-righimg {
+        display: none !important;
+    }
+    .enrichment-api-intlcontainer {
+        padding: 30px 0px;
+    }
+    .enrichment-api-leftimg {
+        padding-bottom: 30px;
+    }
+    .enrichment-api-markettingcontainer {
+        padding: 30px 0px;
+    }
+    .enrichment-api-markinner .enrichment-api-marker {
+        display: none;
+    }
+    .enrichment-api-markinner img {
+        padding: 15px 0px;
+    }
+    .enrichment-api-markinner.enrichment-api-cont {
+        position: initial;
+        padding-bottom: 20px;
+    }
+    .enrichment-api-datacontainer {
+        padding: 30px 0px;
+    }
+    .enrichment-api-newscontainer {
+        padding: 30px 0px;
+    }
+    .enrichment-api-newshead {
+        font-size: 26px;
+        padding-bottom: 30px;
+    }
+    .enrichment-api-btn {
+        padding: 13px 15px;
+    }
+    .enrichment-api-form-control {
+        padding: 11px 14px;
+    }
+    .enrichment-api-news {
+        padding-bottom: 30px;
+    }
+}
+
+@media (max-width: 480px){
+    .enrichment-api-welcontainer li {
+        margin-bottom: 15px;
+    }
+    .enrichment-api-news h3 {
+        font-size: 23px;
+    }
+    .enrichment-api-newshead {
+        font-size: 23px;
+        padding-bottom: 30px;
+    }
+    .enrichment-api-form-control {
+        padding: 11px 0px;
+        text-align: center;
+    }
+}
