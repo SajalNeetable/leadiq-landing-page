@@ -82,7 +82,7 @@ class EnrichmentAPI extends Component {
                             <p>Leverage our Data APIs to find your target customer’s email and phone contacts. We
                                 automatically update contact data to provide you with the most accurate data for your
                                 sales needs, saving you time and effort on data entry.</p>
-                            <a href="#">View the docs</a>
+                            <a href="#">View the docs </a>
                         </div>
                     </div>
                 </div>
