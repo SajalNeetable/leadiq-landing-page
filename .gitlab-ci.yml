@@ -19,7 +19,7 @@ variables:
   PROD_NAMESPACE: landingpage
   DEV_NAMESPACE: landingpage
   PROD_DOMAIN: "{leadiq.com,landing.leadiq.com,www.leadiq.com}"
-  DEV_DOMAIN: "{staging.leadiq.com}"
+  DEV_DOMAIN: "{staging.leadiq.com,staging.leadiq.io}"
   DEV_BACKEND_DOMAIN: "{lpsbackend.leadiq.com}"
   PROD_BACKEND_DOMAIN: "{lpbackend.leadiq.com}"
   DOCKER_DRIVER: overlay2
