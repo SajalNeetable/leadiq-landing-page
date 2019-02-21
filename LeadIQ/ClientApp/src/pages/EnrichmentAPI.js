@@ -1,5 +1,6 @@
 import React, { Component, Fragment } from "react";
 import AOS from 'aos';
+import TwentyTwenty from 'react-twentytwenty';
 
 class EnrichmentAPI extends Component {
     componentDidMount() {
@@ -89,9 +90,11 @@ class EnrichmentAPI extends Component {
                                 <div className="row">
                                     <div className="col-sm-7 col-xs-12">
                                         <div className="enrichment-api-intelligenceimg">
-                                            <div className="juxtapose">
-                                                <img src="/img/enrichment-api/part1.png" />
-                                            </div>
+                                            <TwentyTwenty
+                                                left={<img src="/img/enrichment-api/part1.png" />}
+                                                right={<img src="/img/enrichment-api/part2.png" />}
+                                                slider={<div className="slider" />}
+                                                />
                                         </div>
                                     </div>
                                     <div className="col-sm-5 col-xs-12">
