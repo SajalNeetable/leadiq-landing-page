@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from "react";
 import AOS from 'aos';
 import TwentyTwenty from 'react-twentytwenty';
-
+import Helmet from 'react-helmet';
 class EnrichmentAPI extends Component {
     componentDidMount() {
         AOS.init({
@@ -10,8 +10,13 @@ class EnrichmentAPI extends Component {
     }
 
     render() {
+        let enrichmentpagetitle = "LeadIQ for Developers - Data APIs"; 
         return (
             <Fragment>
+                <Helmet>
+                    <title>{enrichmentpagetitle}</title>
+                    <meta name="description" content={enrichmentpagetitle} />
+                </Helmet>
                 <div className="App">
                     <div className="enrichment-api-maincont">
                         <div className="enrichment-api-bannercontainer enrichment-api-cent">
@@ -24,7 +29,7 @@ class EnrichmentAPI extends Component {
                                                 <p>Access one of the world’s largest B2B datasets of propect data via our business intelligence API.</p>
                                                 <ul>
                                                     <li><a href="">Get Started</a></li>
-                                                    <li><a href="">View the Docs</a></li>
+                                                    <li><a href="https://developer.leadiq.com/" target="_blank">View the Docs</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -77,7 +82,7 @@ class EnrichmentAPI extends Component {
                                         <div className="enrichment-api-bannercontent enrichment-api-intelligencecontain" data-aos="fade-up" >
                                             <h3>Sales Intelligence</h3>
                                             <p>Leverage our Data APIs to find your target customer’s email and phone contacts. We automatically update contact data to provide you with the most accurate data for your sales needs, saving your time and effort on data entry.</p>
-                                            <a href="#">View the Docs</a>
+                                            <a href="https://developer.leadiq.com/" target="_blank">View the Docs</a>
                                         </div>
                                     </div>
                                     <div className="col-sm-7 col-xs-12">
@@ -101,7 +106,7 @@ class EnrichmentAPI extends Component {
                                         <div className="enrichment-api-bannercontent enrichment-api-intelligencecontain" data-aos="fade-up" >
                                             <h3>Marketing Intelligence</h3>
                                             <p>Enrich missing profile information for your inbound B2B customers. We combine dozens of data sources to keep tabs on current and past employment information, social profiles, and more, making it easier to segment your inbound customers.</p>
-                                            <a href="">View the Docs</a>
+                                            <a href="https://developer.leadiq.com/" target="_blank">View the Docs</a>
                                         </div>
                                     </div>
                                 </div>

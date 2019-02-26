@@ -1,4 +1,13 @@
-﻿html{
+﻿@font-face {
+    font-family: 'HELR45W';
+    src: url('/img/fonts/HELR45W.eot');
+    src: url('/img/fonts/HELR45W.eot') format('embedded-opentype'),
+         url('/img/fonts/HELR45W.woff2') format('woff2'),
+         url('/img/fonts/HELR45W.woff') format('woff'),
+         url('/img/fonts/HELR45W.ttf') format('truetype'),
+         url('/img/fonts/HELR45W.svg#HELR45W') format('svg');
+}
+html{
     height: 100%;
 }
 body {
@@ -3025,8 +3034,352 @@ body{
 }
 
 
+/* Competitor Page CSS Start */
+.leadiq-competitor-main li {
+    list-style: none;
+  }
+  .leadiq-competitor-main ul, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'HELR45W';
+    color: #485366;
+  }
+  .leadiq-competitor-innerbanner, .leadiq-competitor-discoverorg, .leadiq-competitor-love-us-container, .leadiq-competitor-promocontainer, .leadiq-competitor-prospectingcontainer {
+    float: left;
+    width: 100%;
+    padding: 80px 0px;
+  }
+  .leadiq-competitor-discoverorg-content h2 {
+    font-size: 27px;
+    padding-bottom: 20px;
+}
+  .leadiq-competitor-main img{
+    width: 100%;
+  }
+  .leadiq-competitor-main {
+    float: left;
+    width: 100%;
+  }
+  .leadiq-competitor-innerbannercontent li {
+    display: inline-block;
+    font-size: 34px;
+    font-weight: bold;
+    padding: 0px 6px;
+}
+  .leadiq-competitor-innerbannercontent {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 190px;
+  }
+  .leadiq-competitor-innerbanner {
+    background: url("/img/competitor/background.jpg") no-repeat;
+    background-size: 100% 100%;
+  }
+  .leadiq-competitor-innerbannercontent ul {
+    padding-bottom: 30px;
+  }
+  .leadiq-competitor-innerbannercontent a, .leadiq-competitor-discoverorg a, .leadiq-competitor-sales-team a, .leadiq-competitor-promocontainer .btnlast {
+    background: #01d68c;
+    color: #fff;
+    padding: 10px 30px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .leadiq-competitor-innerbannercontent p {
+    margin: 0px;
+    float: left;
+    width: 100%;
+    padding-bottom: 40px;
+    font-family: 'HELR45W';
+    color: #71828a;
+    padding-top: 15px;
+}
+.leadiq-competitor-innerbannercontent h1 {
+    font-weight: 800;
+    color: #3d3d3d;
+}
+.leadiq-competitor-innerbannercontent img {
+    width: 44%;
+    padding: 0px 15px;
+}
+  .leadiq-competitor-discoverorg {
+    text-align: center;
+  }
+  .leadiq-competitor-innerbannercontent li:first-child {
+    text-align: right;
+  }
+  .leadiq-competitor-innerbannercontent li:last-child {
+    text-align: left;
+  }
+  .leadiq-competitor-discoverorg-content img {
+    width: 40%;
+    padding: 33px 0px;
+    max-height: 256px;
+}
+  .leadiq-competitor-discoverorg .container {
+    max-width: 80% !important;
+  }
+  .leadiq-competitor-discoverorg-content {
+    float: left;
+    width: 100%;
+    margin-bottom: 100px;
+  }
+  .leadiq-competitor-love-us-container {
+    background: #f4f4f4;
+  }
+  .leadiq-competitor-testiimg {
+    float: left;
+    width: 20%;
+    padding-right: 15px;
+  }
+  .leadiq-competitor-rating {
+    float: left;
+    width: 80%;
+    padding-left: 15px;
+  }
+  .leadiq-competitor-rating li {
+    display: inline-block;
+  }
+  .fa.fa-star {
+    color: #ffd200;
+    padding-right: 6px;
+}
+.leadiq-competitor-rating h2 {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 6px 0px 3px;
+}
+.leadiq-competitor-love-us-container .container {
+    max-width: 80%;
+}
+.leadiq-competitor-rating h2{
+    color: 3d3d3d;
+}
+.leadiq-competitor-rating span {
+    color: #39dd9d;
+    font-size: 16px;
+    font-weight: bold;
+}
+.leadiq-competitor-rating p {
+    font-size: 14px;
+    padding: 15px 0px;
+}
+.leadiq-competitor-sales-team {
+    text-align: center;
+    border-top: 5px solid #ccc;
+    padding-top: 80px;
+    margin-top: 80px;
+}
+.leadiq-competitor-sales-team h1 {
+    font-size: 40px;
+    color: #485366;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+.leadiq-competitor-sales-team b {
+    font-size: 20px;
+    padding-bottom: 60px;
+    float: left;
+    width: 100%;
+}
+.leadiq-competitor-sales-team li {
+    display: inline-block;
+    width: 18%;
+}
+.leadiq-competitor-sales-team img {
+    padding: 0px 30px;
+}
+.leadiq-competitor-sales-team ul {
+    padding-bottom: 60px;
+}
+.leadiq-competitor-prospectingcontainer-head {
+    text-align: center;
+    padding-bottom: 80px;
+}
+.leadiq-competitor-prospectingcontainer-head h2 {
+    color: #485366;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.leadiq-competitor-prospectingcontainer-head h3{
+    font-size: 20px;
+    font-weight: bold;
+    color: #404040;
+}
+.row.leadiq-competitor-prospectinginner {
+    padding-bottom: 60px;
+}
+.leadiq-competitor-prospectcont h2 {
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.leadiq-competitor-prospectingcontainer {
+    background: #fafafa;
+}
+.leadiq-competitor-promocontainer {
+    background: #f4f4f4;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.leadiq-competitor-promocontainer-inner li {
+    display: inline-block;
+    max-height: 100px;
+    width: 20%;
+    padding: 0px 15px;
+}
+.leadiq-competitor-promocontainer-inner ul {
+    padding: 60px 0px;
+}
+.leadiq-competitor-promocontainer-inner h1 {
+    text-align: center;
+    font-size: 40px;
+    color: #485366;
+    font-weight: bold;
+}
+.leadiq-competitor-promocontainer-inner img {
+    flex-direction: column;
+    padding: 0px 30px;
+    vertical-align: middle;
+}
+.leadiq-competitor-prospectcont p {
+    color: #71828a;
+}
+.leadiq-competitor-discoverorg-header h1 {
+    color: #485366;
+    font-weight: 700;
+}
+.leadiq-competitor-discoverorg-header p {
+    color: #404040;
+    font-weight: bold;
+    font-size: 24px;
+    padding-top: 10px;
+}
+.leadiq-competitor-discoverorg-content p {
+    font-size: 18px;
+    color: #71828a;
+}
+.leadiq-competitor-prospectcont h2 {
+    color: #000;
+}
+.leadiq-competitor-love-us-container-head {
+    text-align: center;
+    padding-bottom: 50px;
+    color: #485366;
+    font-weight: bold;
+}
 
+a:hover{
+    text-decoration: none;
+}
 
+@media(max-width:1200px){
+    .leadiq-competitor-discoverorg-content img {
+        height: 190px;
+    }
+}
 
+@media(max-width: 991px){
+    .leadiq-competitor-prospectcont h2 {
+        padding-top: 30px;
+    }
+    .leadiq-competitor-innerbannercontent li {
+        width: 33.333%;
+    }
+    .leadiq-competitor-innerbannercontent img {
+        width: 100%;
+        padding: 0px;
+        display: flex;
+    }
+}
+@media(max-width:768px){
+    .leadiq-competitor-innerbannercontent li {
+        width: 30%;
+    }
+    .leadiq-competitor-innerbannercontent img {
+        width: 100%;
+        display: flex;
+    }
+    .leadiq-competitor-promocontainer-inner img {
+        padding: 0px;
+    }
+    .leadiq-competitor-prospectcont h2 {
+        padding-top: 30px;
+    }
+    .leadiq-competitor-sales-team li {
+        width: 50%;
+    }
+    .leadiq-competitor-discoverorg-content img {
+        height: 150px;
+    }
+}
 
-
+@media(max-width:480px){
+    .leadiq-competitor-innerbannercontent img {
+        width: 100%;
+        padding: 0px;
+        display: flex;
+    }
+    .leadiq-competitor-discoverorg-content img {
+        height: auto;
+    }
+    .leadiq-competitor-innerbannercontent li {
+        width: 33%;
+    }
+    .leadiq-competitor-testiimg {
+        width: 100%;
+    }
+    .leadiq-competitor-rating {
+        width: 100%;
+        padding: 30px 0px;
+        text-align: center;
+    }
+    .leadiq-competitor-discoverorg-content p{
+        padding-bottom: 30px;
+    }
+    .leadiq-competitor-sales-team {
+        padding-top: 40px;
+    }
+    .leadiq-competitor-love-us-container-head h1{
+        font-size: 35px;
+    }
+    .leadiq-competitor-sales-team a{
+        font-size: 17px;
+    }
+    .leadiq-competitor-prospectingcontainer-head h2{
+        font-size: 30px;
+    }
+    .leadiq-competitor-love-us-container {
+        padding: 30px 0px;
+    }
+    .leadiq-competitor-prospectcont h2 {
+        padding-top: 30px;
+        font-size: 23px;
+    }
+    .leadiq-competitor-promocontainer {
+        padding-bottom: 30px;
+    }
+    .leadiq-competitor-promocontainer-inner li {
+        display: inline-block;
+        max-height: 300px;
+        width: 100%;
+        padding: 15px;    
+    }
+    .leadiq-competitor-promocontainer-inner h1 {
+        font-size: 31px;  
+    }
+    .leadiq-competitor-innerbannercontent a, .leadiq-competitor-discoverorg a {
+        font-size: 16px;
+    }
+    .leadiq-competitor-discoverorg .container {
+        max-width: 100% !important;
+    }
+    .leadiq-competitor-discoverorg-header h1 {
+        font-size: 30px;
+    }
+    .leadiq-competitor-discoverorg-content {
+        margin-bottom: 0px;
+    }
+}
+/* Competitor Page CSS End */
