@@ -22,7 +22,7 @@ class Competitor extends Component {
                                                 <li>/</li>
                                                 <li><img src="/img/competitor/DiscoverOrg-Sales-Intelligence-Solutions-Logo.png" className="img-responsive" alt="LeadIQ" /></li>
                                             </ul>
-                                            <h1>LeadIQ Vs. Discover.org</h1>
+                                            <h1>LeadIQ Vs. DiscoverOrg</h1>
                                             <p>Build prospect lists in seconds, not days. Fully capture the details you need to drive your sales prospecting forward without digging into a database. Plans start at $60/month with no contract or setup fee. </p>
                                             <a href="">GET 100 LEADS FREE</a>
                                         </div>
