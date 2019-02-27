@@ -6,11 +6,9 @@ title: 'The Proper Way To Cold Email: My Trip To University of New Hampshire'
 description: >-
   We tend to always put so much pressure on ourselves during the first day of
   school. When I was asked to join Ryan at University of New Hampshire for a
-  talk. I freaked out, I had so many questions:
-
-  1. Will I fit in? 2. Is Katy Perry still a thing? 3. Do they know who Snoop
-  Dogg is? 4. How do the kids dress now?
-
+  talk. I freaked out, I had so many questions: 1. Will I fit in? 2. Is Katy
+  Perry still a thing? 3. Do they know who Snoop Dogg is? 4. How do the kids
+  dress now?
 
   All these questions had nothing to do with the fact we were going there to
   teach. Also, I am at least 7 years older then all those kids. Why am I so
@@ -46,10 +44,15 @@ We went through a few of the students emails, and discussed the issues. 90% of a
 
 We live in this bubble we tend to forget people really do not care for us as much we would like them to. They just want to see quick samples from everyone. Think of a cold email like food samples at the mall, the idea of the sample is to give you a small taste for what is about to come at you if you bought that meal. 
 
+![mallchefs.jpg](img/mallchefs.jpg)
+
 
 The idea is to wet your appetite, or as the french say “amuse bouche”. Yes! I can write in french, with google translate I am able to write anything in any language. 
 
 What blows my mind is most people don’t realize and what Ryan pointed out was “most people read their emails on their phone.” So you basically have the entire length of a phone screen to grab someone's attention. That’s crazy short, you’re better off typing your email in an Instagram post or twitter. But that’s the world we live in, ask yourself what would you rather answer?
+
+![emails.jpg](img/emails.jpg)  vs.   
+
 
 The shorter the better, another few points Ryan had on their cold emails was to cut out the fat. Even in our everyday lives  we have so much fat to cut out, conversationally speaking. 
 
