@@ -3383,3 +3383,112 @@ a:hover{
     }
 }
 /* Competitor Page CSS End */
+
+
+/* Sales Demo Page and Thank You Success Page CSS Start*/
+
+.leadiq-sales-demo {
+    float: left;
+    width: 100%;
+    background-image: url("/img/sales-demo/sales-home-cover.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.leadiq-sales-demo-innerbanner {
+    padding: 140px 0px;
+}
+.leadiq-sales-demo-requestform, .leadiq-sales-demo-from-group {
+    float: left;
+    width: 100%;
+}
+.leadiq-sales-demo-form-control {
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 15px 30px;
+}
+.leadiq-sales-demo-form-control {
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 15px 30px;
+    border-radius: 33px;
+    border: none;
+    background: #f5f9fc;
+}
+.leadiq-sales-demo-from-group.leadiq-sales-demo-submit {
+    text-align: center;
+    margin-top: 36px;
+}
+.leadiq-sales-demo-from-group.leadiq-sales-demo-submit a {
+    background: #67cc84;
+    padding: 10px 26px;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 30px;
+}
+.leadiq-sales-demo-leftcont h1 {
+    padding-bottom: 30px;
+    font-size: 35px;
+}
+.leadiq-sales-demo-leftcont p {
+    margin: 0px;
+    padding-bottom: 40px;
+    color: #485366;
+    font-size: 15px;
+    line-height: 32px;
+}
+.leadiq-sales-demo-leftcont img {
+    border: 6px solid #67cc84;
+    border-radius: 50%;
+}
+.leadiq-sales-demo-leftcont blockquote {
+    font-size: 15px;
+    font-family: lato;
+    color: #485366;
+    padding-top: 40px;
+}
+.leadiq-sales-demo-leftcont span {
+    color: #485366;
+    font-size: 15px;
+    font-family: lato;
+    font-weight: bold;
+}
+
+.leadiq-sales-demo-requestform.leadiq-sales-demo-thankyousuccess iframe {
+    width: 100%;
+    height: 370px;
+}
+
+@media(max-width:1200px){
+    .leadiq-sales-demo-innerbanner {
+        padding: 80px 0px;
+    }
+}
+
+@media(max-width:991px){
+    .leadiq-sales-demo-innerbanner {
+        padding: 40px 0px;
+    }
+    .leadiq-sales-demo-leftcont h1 {
+        font-size: 21px;
+    }
+}
+@media(max-width:480px){
+    .leadiq-sales-demo-innerbanner {
+        padding: 30px 0px 60px;
+    }
+    .leadiq-sales-demo-leftcont span {
+        padding-bottom: 30px;
+        float: left;
+    }
+    .leadiq-sales-demo-leftcont h1 {
+        font-size: 25px;
+    }
+}
+.leadiq-sales-demo-leftcont.thank-you-success-content {
+    padding-top: 19%;
+}
+
+
+/* Sales Demo Page and Thank You Success Page CSS End*/
