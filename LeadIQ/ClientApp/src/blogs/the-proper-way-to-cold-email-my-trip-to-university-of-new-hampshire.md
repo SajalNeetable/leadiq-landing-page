@@ -13,7 +13,7 @@ description: >-
   I so needy for acceptance?  I realized in that moment, we always tend to fall
   back into our old habits.
 coverImage: img/ryanbff.png
-publishDate: 'February 27th, 2019'
+publishDate: 'February 27, 2019'
 author: Rishi Mathur
 authorProfile: >-
   Rishi Mathur is the Content Producer for LeadIQ and is one of the most
