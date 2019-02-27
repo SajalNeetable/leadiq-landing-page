@@ -28,6 +28,12 @@ authorProfile: >-
   such as TealMango, India.com, The Oregonian, and Highland Park Planet. He is a
   champion at building communities and would love to start his own cult
   worshipping the different cuisines around the world.
+metaKeywords: 'prospecting, sales, sales process, dating, vetting, personalizaiton, research'
+authorImage: img/rishi.jpeg
+metaTitle: 'The Proper Way To Cold Email: My Trip To University of New Hampshire'
+metaDescription: >-
+  Why am I so needy for acceptance?  I realized in that moment, we always tend
+  to fall back into our old habits.
 ---
 
 
