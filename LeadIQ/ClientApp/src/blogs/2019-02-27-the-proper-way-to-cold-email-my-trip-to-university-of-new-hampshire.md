@@ -40,6 +40,23 @@ NEVER ASK. ALWAYS ASSUME, BE CONFIDENT!
 
 Saying statements like “would love to…” or “If you get a chance” … or even “If you had some time next week, would love to…” All of these sell underconfidence and gives the person an out of the conversation. 
 
+## Cold Email Statistics:
+
+These stats are crazy low, 3.5% means every 100 people you target you are only hearing back from 4. Out of those 4 how many will actually close? 
+
+“I’m sorry we really aren’t interested at this moment.”
+
+Also, if you speak with a lot of reps they would say sometimes luck plays a huge factor. Luck?! Luck isn’t for cold calling or emailing, that’s a lot of people's livelihood. Might as well just play the lottery or go to Bingo Night at Dover Bowl, at least those are more fun. 
+
+## Stand-Out Be Different:
+
+In this day and age there are thousands of companies in the field who are all doing the same thing as you and prospecting the same companies as you are. So to go in with the same tired script every single day, to every single person, doesn’t separate you from your competition.  
+
+Think about it? Most of your clients inboxes: 
+
+
+
+
 
 
 
