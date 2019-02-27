@@ -30,4 +30,12 @@ The shorter the better, another few points Ryan had on their cold emails was to 
 
 When you write an email most of the time it does not makes sense to introduce yourself. You have all your name and information below, that’s like when that random guy on Facebook reaches out and introduces himself you know there is something off about that. 
 
+Also, most of the emails didn’t have any personalization, these students made the same mistake most professionals make their emails were all about them and what they can do. It was a “ME...Me...Me” email. Which made their emails unbearable to read, as tough as that was to say it’s true. But even after all that, the last crucial part I think these students and many Sales reps have was their closing, each and every one of the emails we critiqued had a weak closer. 
+
+“If you had some time would love to speak with you hopefully next week about using my services.” 
+
+NEVER ASK. ALWAYS ASSUME, BE CONFIDENT! 
+
+Saying statements like “would love to…” or “If you get a chance” … or even “If you had some time next week, would love to…” All of these sell underconfidence and gives the person an out of the conversation. 
+
 
