@@ -91,6 +91,21 @@ Not to that extreme, but you need to, in 5 minutes, find out as much as you can 
 
 Before I wrote my email, I did the research. At the time he just finished creating his play which is now a Netflix special called ‘Homecoming King’. So I went to go watch it and then came back and sent him an email praising his show. Within minutes Hasan wrote back and we were able to shoot the interview. 
 
+## What Does My Cold Email Need To Address?:
+
+Now once you have understood, their likes and dislikes, before you begin to write the email you need to ask yourself four questions:
+Why am I reaching out to this specific individual and organization? 
+How will I make this person feel special?
+What value do you and your organization bring?
+What do you want them to do? (Call To Action)
+
+These four questions will help you formulate your email and will help you keep it write to the point. 
+
+## Show Me Who You Are:
+
+Now as you begin to write your email, think about who you are. Basically, identify who you are and figure out what is your brand archetype. 
+
+
 
 
 
