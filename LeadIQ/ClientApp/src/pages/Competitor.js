@@ -24,7 +24,7 @@ class Competitor extends Component {
                                             </ul>
                                             <h1>LeadIQ Vs. Discover.org</h1>
                                             <p>Build prospect lists in seconds, not days. Fully capture the details you need to drive your sales prospecting forward without digging into a database. Plans start at $60/month with no contract or setup fee. </p>
-                                            <a href="">GET 100 LEADS FREE</a>
+                                            <a href="https://account.leadiq.com/app/signup/">GET 100 LEADS FREE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -72,7 +72,7 @@ Get up to date contact details, including email,direct dials and more.</p>
                                 <div className="row">
                                     <div className="col-lg-12">
                                         <div className="mid-button">
-                                            <a href="">GET 100 LEADS FREE</a>
+                                            <a href="https://account.leadiq.com/app/signup/">GET 100 LEADS FREE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -217,7 +217,7 @@ organized.</p>
                                                 <li><img src="/img/competitor/g2-logo.png" className="img-responsive" alt="5 out of 5 stars" /></li>
                                                 <li><img src="/img/competitor/cap-logo.png" className="img-responsive" alt="cap-logo" /></li>
                                             </ul>
-                                            <a href="">GET 100 LEADS FREE</a>
+                                            <a href="https://account.leadiq.com/app/signup/">GET 100 LEADS FREE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -288,7 +288,7 @@ organized.</p>
                                                 <li><a><img src="/img/competitor/ae47fa9a8fd263aa364018517020552d.png" className="img-responsive" alt="Salesforce Logo" /></a></li>
                                                 <li><a><img src="/img/competitor/t_0065_Outreach.png" className="img-responsive" alt="Salesforce Logo" /></a></li>
                                             </ul>
-                                            <a href="" className="btnlast">GET 100 LEADS FREE</a>
+                                            <a href="https://account.leadiq.com/app/signup/" className="btnlast">GET 100 LEADS FREE</a>
                                         </div>
                                     </div>
                                 </div>
