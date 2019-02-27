@@ -128,7 +128,7 @@ For example, back in 2015 Hasan Minhaj was working for The Daily Show. Now he wa
 
 Before I wrote my email, I did the research. At the time he just finished creating his play which is now a Netflix special called ‘Homecoming King’. So I went to go watch it and then came back and sent him an email praising his show. Within minutes Hasan wrote back and we were able to shoot the interview. 
 
-https://www.youtube.com/watch?v=hpSa3ldhPLM&t=38s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hpSa3ldhPLM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What Does My Cold Email Need To Address?:
 
