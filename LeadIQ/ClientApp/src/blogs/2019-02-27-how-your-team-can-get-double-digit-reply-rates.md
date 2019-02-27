@@ -26,10 +26,6 @@ authorProfile: >-
 authorImage: img/rishi.jpeg
 coverImage: /img/ryanbff.png
 ---
-
-
-
-
 ## Rate My Pitch
 
 ![ryanquote.png](img/ryanquote.png)
