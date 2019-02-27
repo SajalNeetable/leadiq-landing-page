@@ -54,6 +54,28 @@ In this day and age there are thousands of companies in the field who are all do
 
 Think about it? Most of your clients inboxes: 
 
+When you start to target your prospective client try to figure out ways for you to stand out. 
+
+Right now you must be thinking, me? I need to be creative, I’m not really the creative type! As your head slams on your desk.  
+
+But it’s really not about being that creative or even that special, let's be honest we really aren’t special from one another. 
+
+Those that are really special are super weird. Think about it, any kid you have ever met that was slightly different, like that kid who played magic during gym class, was weird. 
+
+But think if everyone is sending the same tired script and acts like Beaker from the muppets, basically just talking about how they can benefit the client. How will you stand out?
+
+- You can have the focus on them.
+- You can personalize the email
+- Not have a generic Subject Line
+- Shorten the length of the email
+- Instead of sending a written email, send a video using tools like Vidyard (cough...cough).
+- You should even showcase your personality in your email. 
+- Being more confident in your close.
+
+
+These are a few ways, but the most important ways in which we can separate ourselves. 
+
+
 
 
 
