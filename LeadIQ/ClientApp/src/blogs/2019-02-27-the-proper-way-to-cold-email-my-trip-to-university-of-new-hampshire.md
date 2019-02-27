@@ -122,6 +122,10 @@ First step is to look up your target client everywhere, I mean if you haven’t 
 
 Not to that extreme, but you need to, in 5 minutes, find out as much as you can going through their LinkedIn, Twitter, Facebook, Instagram, websites, etc. See what they like, what they talk about, etc. Then use that to format your email.
 
+For example, back in 2015 Hasan Minhaj was working for The Daily Show. Now he wasn’t the household name he is today... by household I mean he’s known all across the country, where ever they have massive Asian populations. But at that time, he was still very busy…
+
+![hasanemail.png](img/hasanemail.png)
+
 Before I wrote my email, I did the research. At the time he just finished creating his play which is now a Netflix special called ‘Homecoming King’. So I went to go watch it and then came back and sent him an email praising his show. Within minutes Hasan wrote back and we were able to shoot the interview. 
 
 ## What Does My Cold Email Need To Address?:
