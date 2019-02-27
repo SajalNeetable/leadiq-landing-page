@@ -75,6 +75,21 @@ But think if everyone is sending the same tired script and acts like Beaker from
 
 These are a few ways, but the most important ways in which we can separate ourselves. 
 
+## Personalize Your Email:
+
+A lot of times we forget, that we shouldn’t constantly speak about ourselves. But it’s in our DNA at this point to just keep speaking about how great we are to one another gets really boring. 
+
+Which is why dating is so hard everyone just speaks of themselves as either Martin Luther King or as Larry David. 
+
+But since we are all this way, personalizing is a good way to exploit this minor glitch in our system. If we keep focus on the other person and discuss how great they are, we have a higher chance of getting faster responses. 
+
+“So what’s the first step to personalization?” 
+
+First step is to look up your target client everywhere, I mean if you haven’t seen the show “You” on Netflix, you need to watch asap. 
+
+Not to that extreme, but you need to, in 5 minutes, find out as much as you can going through their LinkedIn, Twitter, Facebook, Instagram, websites, etc. See what they like, what they talk about, etc. Then use that to format your email.
+
+
 
 
 
