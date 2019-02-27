@@ -36,8 +36,9 @@ metaDescription: >-
   to fall back into our old habits.
 ---
 
-
 ## Rate My Pitch
+
+![ryanquote.png](img/ryanquote.png)
 
 It’s so interesting how people love to cram everything about themselves in one shot, email after email. Each one looking as if they were all asked to send in their memoirs. I’m positive one of the students spoke about her wisdom teeth being removed and how that’s made her a better person. What?! That’s crazy! I understand you are trying to sell yourself, but the point of your first cold email is to not sell your product. It’s to get a response, get a conversation started. 
 
