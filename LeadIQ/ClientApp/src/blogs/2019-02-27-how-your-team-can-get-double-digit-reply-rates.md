@@ -24,10 +24,11 @@ authorProfile: >-
   champion at building communities and would love to start his own cult
   worshipping the different cuisines around the world.
 authorImage: img/rishi.jpeg
+coverImage: /img/ryanbff.png
 ---
 
 
-/img/ryanbff.png
+
 
 ## Rate My Pitch
 
