@@ -118,8 +118,18 @@ Also, instead of sending just generic emails. You can also be creative in your e
 
 ## Ready For The Dismount:
 
-Finally, your close is the most important sentence in your email. This is your 'Call To Action' It encapsulates exactly why you reached out to this individual. Don’t be weak, the close needs to be strong and remember to always assume the sale, so make sure every word is a strong word. 
- 
+Finally, your close is the most important sentence in your email. This is your 'Call To Action' it encapsulates exactly why you reached out to this individual. 
+
+Don’t be weak, the close needs to be strong and remember to always assume the sale, so make sure every word is a strong word. A weak call to action, is like when a gymnast tries to dismount only to fall flat on their face.
+
+
+Exuding confidence is the key here, you want to struct like a peacock. Make sure they know exactly the point you want them to take away and never use words like "if" and "would love", makes you seem weak. You need to use declaritive statements and try not to give them options. 
+
+"Here's some times we're available for an initial meeting"
+
+"Let’s hop on a call to share how you’d like to see your team be more effective with X and learn more about how we can help. Does Thursday February 28th at 2 pm EST work or would the next week work better?"
+
+"What’s the best way to get on your calendar?"
 
 If you want to give options, it should only be for when they would like to speak. Even then provide some dates and times. The close is the part where even a great email can lose the sale, most sales reps in emails tend to be weak in their ask. This allows the client the option to retreat. It also shows your lack of confidence, and no one wants to deal with that. 
 
