@@ -106,7 +106,6 @@ But think if everyone is sending the same tired script and acts like Beaker from
 - You should even showcase your personality in your email. 
 - Being more confident in your close.
 
-
 These are a few ways, but the most important ways in which we can separate ourselves. 
 
 ## Personalize Your Email:
