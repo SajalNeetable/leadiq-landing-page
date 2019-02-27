@@ -1,7 +1,7 @@
 ---
 layout: blog
 ogType: website
-published: false
+published: true
 title: 'The Proper Way To Cold Email: My Trip To University of New Hampshire'
 description: >-
   We tend to always put so much pressure on ourselves during the first day of
@@ -127,6 +127,8 @@ For example, back in 2015 Hasan Minhaj was working for The Daily Show. Now he wa
 ![hasanemail.png](img/hasanemail.png)
 
 Before I wrote my email, I did the research. At the time he just finished creating his play which is now a Netflix special called ‘Homecoming King’. So I went to go watch it and then came back and sent him an email praising his show. Within minutes Hasan wrote back and we were able to shoot the interview. 
+
+https://www.youtube.com/watch?v=hpSa3ldhPLM&t=38s
 
 ## What Does My Cold Email Need To Address?:
 
