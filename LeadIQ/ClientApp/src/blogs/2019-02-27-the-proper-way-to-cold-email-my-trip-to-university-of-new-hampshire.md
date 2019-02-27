@@ -131,16 +131,19 @@ Before I wrote my email, I did the research. At the time he just finished creati
 ## What Does My Cold Email Need To Address?:
 
 Now once you have understood, their likes and dislikes, before you begin to write the email you need to ask yourself four questions:
-Why am I reaching out to this specific individual and organization? 
-How will I make this person feel special?
-What value do you and your organization bring?
-What do you want them to do? (Call To Action)
+
+1. Why am I reaching out to this specific individual and organization? 
+2. How will I make this person feel special?
+3. What value do you and your organization bring?
+4. What do you want them to do? (Call To Action)
 
 These four questions will help you formulate your email and will help you keep it write to the point. 
 
 ## Show Me Who You Are:
 
 Now as you begin to write your email, think about who you are. Basically, identify who you are and figure out what is your brand archetype. 
+
+![socialselling.png](img/socialselling.png)
 
 When you write your email you want to be writing from that perspective. This will give you a clear voice and more importantly separate you from everyone else. In each of your emails you want to showcase your own personality. 
 
