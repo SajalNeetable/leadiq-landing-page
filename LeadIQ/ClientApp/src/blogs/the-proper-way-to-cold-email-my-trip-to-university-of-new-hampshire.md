@@ -12,7 +12,7 @@ description: >-
   there to teach. Also, I am at least 7 years older then all those kids. Why am
   I so needy for acceptance?  I realized in that moment, we always tend to fall
   back into our old habits.
-coverImage: /img/ryanbff.png
+coverImage: img/ryanbff.png
 publishDate: 'February 27th, 2019'
 author: Rishi Mathur
 authorProfile: >-
