@@ -113,6 +113,17 @@ This can stem from everything about the email, not just the email itself.
 
 For example, your subject line. Instead of writing, “Would Love To Connect” you could write “I cried at Starbucks by myself” or even “I made this video about best taxidermy practices for you”. 
 
+Depending on your personality, the sky's the limit you just want the subject to be fun and engaging. Think about all the emails you prioritize on top, what do they all have in common?
+Also, instead of sending just generic emails. You can also be creative in your emails such as:
+
+## Ready For The Dismount:
+
+Finally, your close is the most important sentence in your email. This is your 'Call To Action' It encapsulates exactly why you reached out to this individual. Don’t be weak, the close needs to be strong and remember to always assume the sale, so make sure every word is a strong word. 
+ 
+
+If you want to give options, it should only be for when they would like to speak. Even then provide some dates and times. The close is the part where even a great email can lose the sale, most sales reps in emails tend to be weak in their ask. This allows the client the option to retreat. It also shows your lack of confidence, and no one wants to deal with that. 
+
+
 
 
 
