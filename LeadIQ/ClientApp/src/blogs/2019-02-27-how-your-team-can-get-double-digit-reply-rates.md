@@ -1,7 +1,7 @@
 ---
 layout: blog
 ogType: website
-published: false
+published: true
 title: 'How Your Team Can Get Double Digit Reply Rates '
 description: >-
   We tend to always put so much pressure on ourselves during the first day of
@@ -170,6 +170,6 @@ Exuding confidence is the key here, you want to struct like a peacock. Make sure
 
 "Let’s hop on a call to share how you’d like to see your team be more effective with X and learn more about how we can help. Does Thursday February 28th at 2 pm EST work or would the next week work better?"
 
-"What’s the best way to get on your calendar?"
+_"What’s the best way to get on your calendar?"_
 
 If you want to give options, it should only be for when they would like to speak. Even then provide some dates and times. The close is the part where even a great email can lose the sale, most sales reps in emails tend to be weak in their ask. This allows the client the option to retreat. It also shows your lack of confidence, and no one wants to deal with that.
