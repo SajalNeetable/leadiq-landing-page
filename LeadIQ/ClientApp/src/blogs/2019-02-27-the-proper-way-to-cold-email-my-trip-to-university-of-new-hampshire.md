@@ -158,6 +158,8 @@ For example, your subject line. Instead of writing, “Would Love To Connect” 
 Depending on your personality, the sky's the limit you just want the subject to be fun and engaging. Think about all the emails you prioritize on top, what do they all have in common?
 Also, instead of sending just generic emails. You can also be creative in your emails such as:
 
+![mazaemail.png](img/mazaemail.png)
+
 ## Ready For The Dismount:
 
 Finally, your close is the most important sentence in your email. This is your 'Call To Action' it encapsulates exactly why you reached out to this individual. 
