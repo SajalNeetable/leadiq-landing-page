@@ -151,7 +151,9 @@ People should have a clear understanding who they are talking to before they eve
 
 This can stem from everything about the email, not just the email itself. 
 
-For example, your subject line. Instead of writing, “Would Love To Connect” you could write “I cried at Starbucks by myself” or even “I made this video about best taxidermy practices for you”. 
+For example, your subject line. Instead of writing, “Would Love To Connect” you could write “I cried at Starbucks by myself” or even “I made this video about best taxidermy practices for you”.
+
+![scott.jpg](img/scott.jpg)
 
 Depending on your personality, the sky's the limit you just want the subject to be fun and engaging. Think about all the emails you prioritize on top, what do they all have in common?
 Also, instead of sending just generic emails. You can also be creative in your emails such as:
