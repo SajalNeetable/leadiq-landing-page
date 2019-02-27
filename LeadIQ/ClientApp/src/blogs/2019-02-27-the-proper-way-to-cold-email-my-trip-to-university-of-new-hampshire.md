@@ -3,16 +3,20 @@ layout: blog
 ogType: website
 published: false
 title: 'The Proper Way To Cold Email: My Trip To University of New Hampshire'
+description: >-
+  We tend to always put so much pressure on ourselves during the first day of
+  school. When I was asked to join Ryan at University of New Hampshire for a
+  talk. I freaked out, I had so many questions:
+
+  1. Will I fit in? 2. Is Katy Perry still a thing? 3. Do they know who Snoop
+  Dogg is? 4. How do the kids dress now?
+
+
+  All these questions had nothing to do with the fact we were going there to
+  teach. Also, I am at least 7 years older then all those kids. Why am I so
+  needy for acceptance?  I realized in that moment, we always tend to fall back
+  into our old habits.
 ---
-We tend to always put so much pressure on ourselves during the first day of school. When I was asked to join Ryan at University of New Hampshire for a talk. I freaked out, I had so many questions:
-
-1. Will I fit in?
-2. Is Katy Perry still a thing?
-3. Do they know who Snoop Dogg is?
-4. How do the kids dress now?
-
-
-All these questions had nothing to do with the fact we were going there to teach. Also, I am at least 7 years older then all those kids. Why am I so needy for acceptance?  I realized in that moment, we always tend to fall back into our old habits.
 
 
 ## Rate My Pitch
