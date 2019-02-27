@@ -105,6 +105,14 @@ These four questions will help you formulate your email and will help you keep i
 
 Now as you begin to write your email, think about who you are. Basically, identify who you are and figure out what is your brand archetype. 
 
+When you write your email you want to be writing from that perspective. This will give you a clear voice and more importantly separate you from everyone else. In each of your emails you want to showcase your own personality. 
+
+People should have a clear understanding who they are talking to before they even jump on a phone with you. 
+
+This can stem from everything about the email, not just the email itself. 
+
+For example, your subject line. Instead of writing, “Would Love To Connect” you could write “I cried at Starbucks by myself” or even “I made this video about best taxidermy practices for you”. 
+
 
 
 
