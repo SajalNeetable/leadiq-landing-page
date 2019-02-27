@@ -49,7 +49,7 @@ The idea is to wet your appetite, or as the french say “amuse bouche”. Yes! 
 
 What blows my mind is most people don’t realize and what Ryan pointed out was “most people read their emails on their phone.” So you basically have the entire length of a phone screen to grab someone's attention. That’s crazy short, you’re better off typing your email in an Instagram post or twitter. But that’s the world we live in, ask yourself what would you rather answer?
 
-![emails.jpg](img/emails.jpg)  vs.   
+![emails.jpg](img/emails.jpg)  vs.  ![emailtogf.jpg](img/emailtogf.jpg)
 
 
 The shorter the better, another few points Ryan had on their cold emails was to cut out the fat. Even in our everyday lives  we have so much fat to cut out, conversationally speaking. 
@@ -69,6 +69,8 @@ Saying statements like “would love to…” or “If you get a chance” … o
 
 ## Cold Email Statistics:
 
+![coldemailstats.png](img/coldemailstats.png)
+
 These stats are crazy low, 3.5% means every 100 people you target you are only hearing back from 4. Out of those 4 how many will actually close? 
 
 “I’m sorry we really aren’t interested at this moment.”
@@ -81,9 +83,14 @@ In this day and age there are thousands of companies in the field who are all do
 
 Think about it? Most of your clients inboxes: 
 
+![inboxfull.png](img/inboxfull.png)
+
+
 When you start to target your prospective client try to figure out ways for you to stand out. 
 
 Right now you must be thinking, me? I need to be creative, I’m not really the creative type! As your head slams on your desk.  
+
+
 
 But it’s really not about being that creative or even that special, let's be honest we really aren’t special from one another. 
 
