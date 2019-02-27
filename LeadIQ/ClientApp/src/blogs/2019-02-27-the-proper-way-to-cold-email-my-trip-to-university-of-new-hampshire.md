@@ -26,3 +26,8 @@ The idea is to wet your appetite, or as the french say “amuse bouche”. Yes! 
 
 What blows my mind is most people don’t realize and what Ryan pointed out was “most people read their emails on their phone.” So you basically have the entire length of a phone screen to grab someone's attention. That’s crazy short, you’re better off typing your email in an Instagram post or twitter. But that’s the world we live in, ask yourself what would you rather answer?
 
+The shorter the better, another few points Ryan had on their cold emails was to cut out the fat. Even in our everyday lives  we have so much fat to cut out, conversationally speaking. 
+
+When you write an email most of the time it does not makes sense to introduce yourself. You have all your name and information below, that’s like when that random guy on Facebook reaches out and introduces himself you know there is something off about that. 
+
+
