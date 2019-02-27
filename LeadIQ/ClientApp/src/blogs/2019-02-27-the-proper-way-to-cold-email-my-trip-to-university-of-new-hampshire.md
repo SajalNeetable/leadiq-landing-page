@@ -24,7 +24,6 @@ We went through a few of the students emails, and discussed the issues. 90% of a
 We live in this bubble we tend to forget people really do not care for us as much we would like them to. They just want to see quick samples from everyone. Think of a cold email like food samples at the mall, the idea of the sample is to give you a small taste for what is about to come at you if you bought that meal. 
 
 
-
 The idea is to wet your appetite, or as the french say “amuse bouche”. Yes! I can write in french, with google translate I am able to write anything in any language. 
 
 What blows my mind is most people don’t realize and what Ryan pointed out was “most people read their emails on their phone.” So you basically have the entire length of a phone screen to grab someone's attention. That’s crazy short, you’re better off typing your email in an Instagram post or twitter. But that’s the world we live in, ask yourself what would you rather answer?
@@ -33,7 +32,7 @@ The shorter the better, another few points Ryan had on their cold emails was to 
 
 When you write an email most of the time it does not makes sense to introduce yourself. You have all your name and information below, that’s like when that random guy on Facebook reaches out and introduces himself you know there is something off about that. 
 
-Also, most of the emails didn’t have any personalization, these students made the same mistake most professionals make their emails were all about them and what they can do. It was a “ME...Me...Me” email. Which made their emails unbearable to read, as tough as that was to say it’s true. But even after all that, the last crucial part I think these students and many Sales reps have was their closing, each and every one of the emails we critiqued had a weak closer. 
+Also, most of the emails didn’t have any personalization, these students made the same mistake most professionals make their emails were all about them and what they can do. It was a “ME...Me...Me” email. Which made their emails unbearable to read, as tough as that was to say it’s true. But even after all that. The last crucial misstep a lot of these students and many sales reps make would be their call to action at the end of each email. Each and every one of the emails we critiqued had a weak call to action. 
 
 “If you had some time would love to speak with you hopefully next week about using my services.” 
 
