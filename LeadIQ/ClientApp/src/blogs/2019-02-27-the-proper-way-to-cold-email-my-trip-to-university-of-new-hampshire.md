@@ -166,6 +166,7 @@ Finally, your close is the most important sentence in your email. This is your '
 
 Don’t be weak, the close needs to be strong and remember to always assume the sale, so make sure every word is a strong word. A weak call to action, is like when a gymnast tries to dismount only to fall flat on their face.
 
+![dismountfail.gif](img/dismountfail.gif)
 
 Exuding confidence is the key here, you want to struct like a peacock. Make sure they know exactly the point you want them to take away and never use words like "if" and "would love", makes you seem weak. You need to use declaritive statements and try not to give them options. 
 
