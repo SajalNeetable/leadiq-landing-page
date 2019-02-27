@@ -90,7 +90,7 @@ When you start to target your prospective client try to figure out ways for you 
 
 Right now you must be thinking, me? I need to be creative, I’m not really the creative type! As your head slams on your desk.  
 
-
+![Lifeissohard.gif](img/Lifeissohard.gif)
 
 But it’s really not about being that creative or even that special, let's be honest we really aren’t special from one another. 
 
