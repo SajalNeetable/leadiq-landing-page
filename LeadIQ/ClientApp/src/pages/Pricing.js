@@ -91,7 +91,7 @@ export default class Pricing extends React.Component {
                         <p className="mb-0"><mark className="highlightText">Do you have a trial ?</mark></p>
                         <p className="answerText">We have a 7-day trial and during the trial period you will also be given 100 credits to use for free!</p>
                         <p className="mb-0"><mark className="highlightText">Where does LeadIQ gets its data?</mark></p>
-                        <p className="answerText">We pull our data from publicly available sources. We also have machine learning that helps to validate contact details making LeadIQ one of the most accurat resources on the web for sales teams. We also perform 111 different queries per second to find and validate contact information. That’s a lot of mouse clicks!</p>
+                        <p className="answerText">We pull our data from publicly available sources. We also have machine learning that helps to validate contact details making LeadIQ one of the most accurate resources on the web for sales teams. We also perform 111 different queries per second to find and validate contact information. That’s a lot of mouse clicks!</p>
                         <p className="mb-0"><mark className="highlightText">How are you different than a database tool?</mark></p>
                         <p className="answerText">Database tools typically have very low quality data.They also reinforce mass messaging and outreach ,which we know is not effective. With LeadIQ we help you prospect smarter by giving you only the contact details you need. </p>
                         <p className="mb-0"><mark className="highlightText">What kind of support do you offer ?</mark></p>
