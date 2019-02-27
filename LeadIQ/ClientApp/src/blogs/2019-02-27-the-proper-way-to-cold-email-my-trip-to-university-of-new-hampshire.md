@@ -8,12 +8,10 @@ description: >-
   school. When I was asked to join Ryan at University of New Hampshire for a
   talk. I freaked out, I had so many questions: 1. Will I fit in? 2. Is Katy
   Perry still a thing? 3. Do they know who Snoop Dogg is? 4. How do the kids
-  dress now?
-
-  All these questions had nothing to do with the fact we were going there to
-  teach. Also, I am at least 7 years older then all those kids. Why am I so
-  needy for acceptance?  I realized in that moment, we always tend to fall back
-  into our old habits.
+  dress now? All these questions had nothing to do with the fact we were going
+  there to teach. Also, I am at least 7 years older then all those kids. Why am
+  I so needy for acceptance?  I realized in that moment, we always tend to fall
+  back into our old habits.
 coverImage: /img/ryanbff.png
 publishDate: 'February 27th, 2019'
 author: Rishi Mathur
@@ -56,7 +54,10 @@ What blows my mind is most people don’t realize and what Ryan pointed out was 
 
 The shorter the better, another few points Ryan had on their cold emails was to cut out the fat. Even in our everyday lives  we have so much fat to cut out, conversationally speaking. 
 
-When you write an email most of the time it does not makes sense to introduce yourself. You have all your name and information below, that’s like when that random guy on Facebook reaches out and introduces himself you know there is something off about that. 
+When you write an email most of the time it does not makes sense to introduce yourself. You have all your name and information below, that’s like when that random guy on Facebook reaches out and introduces himself you know there is something off about that.
+
+![VI4fvC.png](img/VI4fvC.png)
+
 
 Also, most of the emails didn’t have any personalization, these students made the same mistake most professionals make their emails were all about them and what they can do. It was a “ME...Me...Me” email. Which made their emails unbearable to read, as tough as that was to say it’s true. But even after all that. The last crucial misstep a lot of these students and many sales reps make would be their call to action at the end of each email. Each and every one of the emails we critiqued had a weak call to action. 
 
@@ -157,16 +158,4 @@ Exuding confidence is the key here, you want to struct like a peacock. Make sure
 
 "What’s the best way to get on your calendar?"
 
-If you want to give options, it should only be for when they would like to speak. Even then provide some dates and times. The close is the part where even a great email can lose the sale, most sales reps in emails tend to be weak in their ask. This allows the client the option to retreat. It also shows your lack of confidence, and no one wants to deal with that. 
-
-
-
-
-
-
-
-
-
-
-
-
+If you want to give options, it should only be for when they would like to speak. Even then provide some dates and times. The close is the part where even a great email can lose the sale, most sales reps in emails tend to be weak in their ask. This allows the client the option to retreat. It also shows your lack of confidence, and no one wants to deal with that.
