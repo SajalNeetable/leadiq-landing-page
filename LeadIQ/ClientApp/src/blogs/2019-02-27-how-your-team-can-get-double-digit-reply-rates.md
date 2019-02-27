@@ -17,6 +17,7 @@ author: Rishi Mathur
 authorProfile: >-
   Rishi Mathur is a Content Producer, Stand Up Comedian, and former long time
   sales rep at LeadIQ.
+authorImage: img/rishi.jpeg
 ---
 
 
