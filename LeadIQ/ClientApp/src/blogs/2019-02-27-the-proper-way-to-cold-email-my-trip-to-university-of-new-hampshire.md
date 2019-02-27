@@ -22,3 +22,7 @@ We went through a few of the emails, and discussed the issues. 90% of all those 
 We live in this bubble we tend to forget people really do not care for us as much we would like them to. They just want to see quick samples from everyone. Think of a cold email like food samples at the mall, the idea of the sample is to give you a small taste for what is about to come at you if you bought that meal. 
 
 
+The idea is to wet your appetite, or as the french say “amuse bouche”. Yes! I can write in french, with google translate I am able to write anything in any language. 
+
+What blows my mind is most people don’t realize and what Ryan pointed out was “most people read their emails on their phone.” So you basically have the entire length of a phone screen to grab someone's attention. That’s crazy short, you’re better off typing your email in an Instagram post or twitter. But that’s the world we live in, ask yourself what would you rather answer?
+
