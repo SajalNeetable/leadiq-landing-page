@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from "react";
 import Helmet from 'react-helmet';
-class SalesDemo extends Component {
 
+class SalesDemo extends Component {
     componentDidMount() {
         const script = document.createElement("script");
         script.src = "https://js.chilipiper.com/marketing.js";
@@ -28,7 +28,7 @@ class SalesDemo extends Component {
                                             <p>Cut through the clutter with LeadlQ. Research-based prospecting is on the rise and your team should be on board. Let us show you how you can use LeadlQ to increase sales pipeline with the right prospects. </p>
                                             <div className="row">
                                                 <div className="col-lg-4 col-xs-12">
-                                                    <img src="/img/sales-demo/bitmap@3x.jpg" className="img-responsive" alt="" />
+                                                    <img src="/img/sales-demo1/bitmap@3x.jpg" className="img-responsive" alt="" />
                                                 </div>
                                                 <div className="col-lg-8 col-xs-12">
                                                     <blockquote>

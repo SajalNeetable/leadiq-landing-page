@@ -97,7 +97,7 @@ class EnrichmentAPI extends Component {
                                         <div className="enrichment-api-intelligenceimg">
                                             <TwentyTwenty
                                                 left={<img src="/img/enrichment-api/part1.png" />}
-                                                right={<img src="/img/enrichment-api/part2.png" />}
+                                                right={<img src="/img/enrichment-api/part2.png" className="iconimgmove"/>}
                                                 slider={<div className="slider" />}
                                                 />
                                         </div>
