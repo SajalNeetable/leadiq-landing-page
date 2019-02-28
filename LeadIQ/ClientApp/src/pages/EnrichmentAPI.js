@@ -95,7 +95,7 @@ class EnrichmentAPI extends Component {
                                 <div className="row">
                                     <div className="col-sm-7 col-xs-12">
                                         <div className="enrichment-api-intelligenceimg">
-                                            <TwentyTwenty
+                                            <TwentyTwenty  onChange={(e)=>{e.preventDefault();}}
                                                 left={<img src="/img/enrichment-api/part1.png" />}
                                                 right={<img src="/img/enrichment-api/part2.png" className="iconimgmove"/>}
                                                 slider={<div className="slider" />}

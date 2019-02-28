@@ -3481,9 +3481,28 @@ input.leadiq-sales-demo-form-control:focus{
         font-size: 25px;
     }
 }
+
 .leadiq-sales-demo-leftcont.thank-you-success-content {
     padding-top: 19%;
 }
 
-
+.slider::before {
+    color: #f4f4f4;
+    position: absolute;
+    right: -18px;
+    background-size: 30px 29px;
+    display: inline-block;
+    width: 33px;
+    height: 33px;
+    content: "\f07e";
+    position: absolute;
+    top: 50%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    background-position: center;
+    font-family: FontAwesome;
+    text-align: center;
+    border: 2px solid #fff;
+    box-shadow: 6px 4px -2px #f4f4f4;
+}
 /* Sales Demo Page and Thank You Success Page CSS End*/
