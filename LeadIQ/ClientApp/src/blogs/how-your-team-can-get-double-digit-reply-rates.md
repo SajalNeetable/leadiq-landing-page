@@ -173,3 +173,7 @@ Exuding confidence is the key here, you want to struct like a peacock. Make sure
 _"What’s the best way to get on your calendar?"_
 
 If you want to give options, it should only be for when they would like to speak. Even then provide some dates and times. The close is the part where even a great email can lose the sale, most sales reps in emails tend to be weak in their ask. This allows the client the option to retreat. It also shows your lack of confidence, and no one wants to deal with that.
+
+![ryanandrew.jpg](img/ryanandrew.jpg)
+
+[## SIGN UP TO LEARN HOW TO GET DOUBLE DIGIT REPLY RATES](https://www.outreach.io/lp/sales-science-increase-efficiency-webinar)
