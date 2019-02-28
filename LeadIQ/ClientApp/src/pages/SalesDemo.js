@@ -1,5 +1,6 @@
 import React, { Component, Fragment } from "react";
 import Helmet from 'react-helmet';
+
 class SalesDemo extends Component {
     componentDidMount() {
         const script = document.createElement("script");
@@ -7,6 +8,7 @@ class SalesDemo extends Component {
         script.async = true;
         document.body.appendChild(script);
     }
+    
     render() {
         let salesdemoTitle = "LeadIQ for Developers - Data APIs";
         return (
