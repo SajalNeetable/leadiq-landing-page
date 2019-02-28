@@ -3393,6 +3393,9 @@ a:hover{
     float: left;
     width: 100%;
 }
+input.leadiq-sales-demo-form-control:focus{
+    outline: none;
+}
 .leadiq-sales-demo-form-control {
     float: left;
     width: 100%;
