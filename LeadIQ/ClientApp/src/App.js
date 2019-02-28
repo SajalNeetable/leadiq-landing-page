@@ -35,6 +35,7 @@ import University from './pages/University';
 import Videolicious from './pages/Videolicious';
 import Videos from './pages/Videos';
 import Webinar from './pages/Webinar';
+import Competitor from './pages/competitor';
 
 class App extends React.Component {
     render() {
@@ -88,6 +89,8 @@ class App extends React.Component {
                         
                         <Route exact path='/competitor-discoverorg' component={() => (<div><TopNav /><CompetitorDiscoverOrg /></div>)} />
                         
+                        <Route exact path='/competitor' component={() => (<div><TopNav /><Competitor /></div>)} />
+
                         <Route exact path='/salesdemo' component={() => (<div><TopNav /><SalesDemo /></div>)} />
                         <Route exact path='/thankyousuccess' component={() => (<div><TopNav /><ThankYouSuccess /></div>)} />
                     </Switch>
