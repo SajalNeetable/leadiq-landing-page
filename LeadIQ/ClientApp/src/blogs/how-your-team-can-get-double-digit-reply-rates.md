@@ -43,7 +43,7 @@ The idea is to wet your appetite, or as the french say “amuse bouche”. Yes! 
 
 What blows my mind is most people don’t realize and what Ryan pointed out was “most people read their emails on their phone.” So you basically have the entire length of a phone screen to grab someone's attention. That’s crazy short, you’re better off typing your email in an Instagram post or twitter. But that’s the world we live in, ask yourself what would you rather answer?
 
-![emails.jpg](img/emails.jpg)  vs.  ![emailtogf.jpg](img/emailtogf.jpg)
+![emailvs.jpg](img/emailvs.jpg)
 
 
 The shorter the better, another few points Ryan had on their cold emails was to cut out the fat. Even in our everyday lives  we have so much fat to cut out, conversationally speaking. 
