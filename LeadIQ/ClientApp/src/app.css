@@ -14,13 +14,11 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Lato, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
     font-size: 1rem;
 }
-
 @media (min-width: 992px) {
     body {
         font-size: 1.25rem;
     }
 }
-
 .prospect-cover-image {
     background-image: url(/img/home-bg-cover.png);
     background-size: cover;
@@ -34,12 +32,10 @@ body {
     width: 100%;
     bottom: 90px;
 }
-
 .leader-tag {
     padding-top: 16px;
     padding-left: 150px;
 }
-
 .lightboxDesign {
     display: block; /* iframes are inline by default */
     border: none; /* Reset default border */
@@ -57,15 +53,11 @@ body {
     padding-top: 0px;
     margin-top: -10px;
 }
-
 section {
     padding-top: 3rem;
     padding-bottom: 3rem;
     line-height: 1.5;
-}
-
-
-    section h1 {
+}   section h1 {
         color: #444444;
     }
 
@@ -3390,7 +3382,7 @@ a:hover{
 .leadiq-sales-demo {
     float: left;
     width: 100%;
-    background-image: url("/img/sales-demo/sales-home-cover.jpg");
+    background-image: url("/img/sales-demo1/sales-home-cover.jpg");
     background-size: cover;
     background-position: center;
 }

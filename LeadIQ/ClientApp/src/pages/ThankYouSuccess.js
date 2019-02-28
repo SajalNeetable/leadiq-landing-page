@@ -1,7 +1,6 @@
 import React, { Component, Fragment } from "react";
 import Helmet from 'react-helmet';
 class ThankYouSuccess extends Component {
-
     render() {
         let ThankYouSuccessTitle = "LeadIQ for Developers - Data APIs";
         return (
@@ -19,7 +18,6 @@ class ThankYouSuccess extends Component {
                                         <div className="leadiq-sales-demo-leftcont thank-you-success-content">
                                             <h1>We look forward to chatting soon!</h1>
                                             <p>If not in a hurry, you can check out how pumped we are for being named a leader on G2Crowd.</p>
-                                            
                                         </div>
                                     </div>
                                     <div className="col-sm-6 col-xs-12">
@@ -36,5 +34,4 @@ class ThankYouSuccess extends Component {
         );
     }
 }
-
 export default ThankYouSuccess;

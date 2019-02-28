@@ -33,8 +33,8 @@ import Webinar from './pages/Webinar';
 import ThankYou from './components/ThankYou';
 import EnrichmentAPI from './pages/EnrichmentAPI';
 import Competitor from './pages/Competitor';
-
-
+import SalesDemo from './pages/SalesDemo';
+import ThankYouSuccess from './pages/ThankYouSuccess';
 
 class App extends React.Component {
     render() {
@@ -60,7 +60,6 @@ class App extends React.Component {
 
                         <Route path='/webinars' component={() => (<div><TopNav /><Webinar /></div>)} />
                         <Route path='/webinars/:webinarId' component={() => (<div><TopNav /><Webinar /></div>)} />
-
                         <Route exact path='/prospect-anywhere' component={() => (<div><TopNav /><ProspectAnywhere /></div>)} />
                         <Route exact path='/account-based-prospector' component={() => (<div><TopNav /><AccountBasedProspector /></div>)} />
                         <Route exact path='/public-sales-announcements' component={() => (<div><TopNav /><PublicSalesAnnouncements /></div>)} />
@@ -87,6 +86,8 @@ class App extends React.Component {
                         
                         <Route exact path='/enrichment-apis' component={() => (<div><TopNav /><EnrichmentAPI /></div>)} />
                         <Route exact path='/competitor' component={() => (<div><TopNav /><Competitor /></div>)} />
+                        <Route exact path='/salesdemo' component={() => (<div><TopNav /><SalesDemo /></div>)} />
+                        <Route exact path='/thankyousuccess' component={() => (<div><TopNav /><ThankYouSuccess /></div>)} />
                     </Switch>
                 </LayoutFooter>
             </BrowserRouter>
