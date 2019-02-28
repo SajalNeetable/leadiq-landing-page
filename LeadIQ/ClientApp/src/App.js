@@ -32,7 +32,7 @@ import Videos from './pages/Videos';
 import Webinar from './pages/Webinar';
 import ThankYou from './components/ThankYou';
 import EnrichmentAPI from './pages/EnrichmentAPI';
-import Competitor from './pages/Competitor';
+import Competitor from './pages/Competitor-discoverorg';
 
 
 
