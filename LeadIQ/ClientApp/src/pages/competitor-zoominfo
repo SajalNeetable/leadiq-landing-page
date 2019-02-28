@@ -22,7 +22,7 @@ class Competitor extends Component {
                                                 <li>/</li>
                                                 <li><img src="/img/competitor/DiscoverOrg-Sales-Intelligence-Solutions-Logo.png" className="img-responsive" alt="LeadIQ" /></li>
                                             </ul>
-                                            <h1>LeadIQ Vs. Discover.org</h1>
+                                            <h1>LeadIQ Vs. DiscoverOrg</h1>
                                             <p>Build prospect lists in seconds, not days. Fully capture the details you need to drive your sales prospecting forward without digging into a database. Plans start at $60/month with no contract or setup fee. </p>
                                             <a href="https://account.leadiq.com/app/signup/">GET 100 LEADS FREE</a>
                                         </div>
@@ -241,13 +241,11 @@ organized.</p>
                                         <div className="leadiq-competitor-prospectcont">
                                             <h2>GET OUT OF YOUR CRM</h2>
                                             <p>Sorry guys, but Name, Company, and Title aren't good enough anymore. You need to read up about your prospects online. </p>
-
                                             <p>Research your prospects as you browse the web, and see who is already in your different sales platforms</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row leadiq-competitor-prospectinginner">
-
                                     <div className="col-lg-6 col-xs-12">
                                         <div className="leadiq-competitor-prospectcont">
                                             <h2>NO DATA? NO PROBLEM</h2>
@@ -300,5 +298,4 @@ organized.</p>
         );
     }
 }
-
 export default Competitor;
