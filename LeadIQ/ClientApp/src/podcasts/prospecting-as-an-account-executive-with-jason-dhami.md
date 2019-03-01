@@ -1,6 +1,6 @@
 ---
 layout: podcast
-published: false
+published: true
 title: Prospecting As An Account Executive with Jason Dhami
 coverImage: ' img/pcastjason.png'
 webImage: ' img/pcastjason.png'
