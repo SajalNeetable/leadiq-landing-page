@@ -7,6 +7,10 @@ webImage: ' img/pcastjason.png'
 description: >-
   Ryan talks with Jason Dhami from Dooly about prospecting as an account
   executive.
+publishDate: 'March 1, 2019'
+metaDescription: >-
+  Ryan talks with Jason Dhami from Dooly about prospecting as an account
+  executive.
 ---
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/583433226&color=%2300d586&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
