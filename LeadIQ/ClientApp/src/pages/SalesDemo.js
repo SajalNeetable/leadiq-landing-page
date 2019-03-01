@@ -2,12 +2,6 @@ import React, { Component, Fragment } from "react";
 import Helmet from 'react-helmet';
 
 class SalesDemo extends Component {
-    componentDidMount() {
-        const script = document.createElement("script");
-        script.src = "https://js.chilipiper.com/marketing.js";
-        script.async = true;
-        document.body.appendChild(script);
-    }
     
     render() {
         let salesdemoTitle = "LeadIQ for Developers - Data APIs";
