@@ -36,6 +36,7 @@ import Videolicious from './pages/Videolicious';
 import Videos from './pages/Videos';
 import Webinar from './pages/Webinar';
 import Competitor from './pages/competitor';
+import salesdemo from './pages/SalesDemo';
 
 class App extends React.Component {
     render() {
@@ -80,7 +81,7 @@ class App extends React.Component {
                         <Route exact path='/leadiq-university-three' component={LeadsUniversityThree} />
 
                         <Route exact path='/msa' component={() => (<div><TopNav /><MasterServiceAgreement /></div>)} />
-                        <Route exact path='/thank-you-success/' component={() => (<div><TopNav /><ThankYou /></div>)} />
+                        <Route exact path='/thank-you-success-old/' component={() => (<div><TopNav /><ThankYou /></div>)} />
                         <Route exact path='/faq' component={() => (<div><TopNav /><FrequentlyAskedQuestion /></div>)} />
                         <Route exact path='/privacy-policy' component={() => (<div><TopNav /><PrivacyPolicy /></div>)} />
                         <Route exact path='/terms-of-use' component={() => (<div><TopNav /><TermsOfUse /></div>)} />
@@ -91,8 +92,8 @@ class App extends React.Component {
                         
                         <Route exact path='/competitor' component={() => (<div><TopNav /><Competitor /></div>)} />
 
-                        <Route exact path='/salesdemo' component={() => (<div><TopNav /><SalesDemo /></div>)} />
-                        <Route exact path='/thankyousuccess' component={() => (<div><TopNav /><ThankYouSuccess /></div>)} />
+                        <Route exact path='/sales-demo' component={() => (<div><TopNav /><SalesDemo /></div>)} />
+                        <Route exact path='/thank-you-success' component={() => (<div><TopNav /><ThankYouSuccess /></div>)} />
                     </Switch>
                 </LayoutFooter>
             </BrowserRouter>

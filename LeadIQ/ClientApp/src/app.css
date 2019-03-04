@@ -3455,6 +3455,10 @@ input.leadiq-sales-demo-form-control:focus{
     height: 370px;
 }
 
+select.leadiq-sales-demo-form-control:focus {
+    outline: none !important;
+}
+
 @media(max-width:1200px){
     .leadiq-sales-demo-innerbanner {
         padding: 80px 0px;
