@@ -8,9 +8,9 @@ class SalesDemo extends Component {
         script.async = true;
         document.body.appendChild(script);
     }
-    
+
     render() {
-        let salesdemoTitle = "LeadIQ for Developers - Data APIs";
+        let salesdemoTitle = "LeadIQ | Sales Demo";
         return (
             <Fragment>
                 <Helmet>
@@ -58,7 +58,12 @@ class SalesDemo extends Component {
                                                     <input placeholder="Company Name" className="leadiq-sales-demo-form-control" />
                                                 </div>
                                                 <div className="leadiq-sales-demo-from-group">
-                                                    <input placeholder="Employee Count" className="leadiq-sales-demo-form-control" />
+                                                    <select className="leadiq-sales-demo-form-control">
+                                                        <option value="">Employee Count</option>
+                                                        <option value="0-50">0-50</option>
+                                                        <option value="51-200">51-200</option>
+                                                        <option value="201+">201+</option>
+                                                    </select>
                                                 </div>
                                                 <div className="leadiq-sales-demo-from-group leadiq-sales-demo-submit">
                                                     <a href="">See it in action</a>

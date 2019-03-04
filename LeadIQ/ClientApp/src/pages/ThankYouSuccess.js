@@ -2,7 +2,7 @@ import React, { Component, Fragment } from "react";
 import Helmet from 'react-helmet';
 class ThankYouSuccess extends Component {
     render() {
-        let ThankYouSuccessTitle = "LeadIQ for Developers - Data APIs";
+        let ThankYouSuccessTitle = "LeadIQ | Thank You Success";
         return (
             <Fragment>
                 <Helmet>
