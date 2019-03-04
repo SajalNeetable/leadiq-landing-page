@@ -66,7 +66,7 @@ class SalesDemo extends Component {
                                                     </select>
                                                 </div>
                                                 <div className="leadiq-sales-demo-from-group leadiq-sales-demo-submit">
-                                                    <a href="">See it in action</a>
+                                                    <a href="/thank-you-success">See it in action</a>
                                                 </div>
                                             </form>
                                         </div>
