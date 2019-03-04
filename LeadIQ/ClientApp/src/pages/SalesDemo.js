@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from "react";
 import Helmet from 'react-helmet';
 
-class salesdemo extends Component {
+class SalesDemo extends Component {
     componentDidMount() {
         const script = document.createElement("script");
         script.src = "https://js.chilipiper.com/marketing.js";
@@ -10,7 +10,7 @@ class salesdemo extends Component {
     }
 
     render() {
-        let salesdemoTitle = "LeadIQ for Developers - Data APIs";
+        let salesdemoTitle = "LeadIQ | Sales Demo";
         return (
             <Fragment>
                 <Helmet>
@@ -58,7 +58,7 @@ class salesdemo extends Component {
                                                     <input placeholder="Company Name" className="leadiq-sales-demo-form-control" />
                                                 </div>
                                                 <div className="leadiq-sales-demo-from-group">
-                                                    <select className="leadiq-sales-demo-form-control" id="sel1">
+                                                    <select className="leadiq-sales-demo-form-control">
                                                         <option value="">Employee Count</option>
                                                         <option value="0-50">0-50</option>
                                                         <option value="51-200">51-200</option>
@@ -82,4 +82,4 @@ class salesdemo extends Component {
     }
 }
 
-export default salesdemo;
+export default SalesDemo;

@@ -3458,7 +3458,17 @@ input.leadiq-sales-demo-form-control:focus{
 select.leadiq-sales-demo-form-control:focus {
     outline: none !important;
 }
-
+select.leadiq-sales-demo-form-control {
+    color: #736969;
+}
+.leadiq-sales-demo-from-group select {
+    -moz-appearance:none; /* Firefox */
+    -webkit-appearance:none; /* Safari and Chrome */
+    appearance:none;
+}
+.leadiq-sales-demo-form-control option {
+    border-radius: 12px;
+}
 @media(max-width:1200px){
     .leadiq-sales-demo-innerbanner {
         padding: 80px 0px;
