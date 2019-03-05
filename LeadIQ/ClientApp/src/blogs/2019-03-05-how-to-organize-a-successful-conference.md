@@ -6,7 +6,13 @@ title: How To Organize A Successful Event
 ---
 As the winter slowly fades away… and by that I mean slowly creeping into our spring and chipping at our sanity. 
 
-Good news arrives, conferences season is here. Understandably conferences happen all year, but from March to June is a very popular time for most conferences. 
+Good news arrives, conferences season is here.
+
+Quick sidenote, I understand that spring really doesn’t take effect till mid-march. But how many times can you claim your car has been frozen in the beginning of March? C’MON!
+
+![frozen.jpeg](img/frozen.jpeg)
+
+Understandably conferences happen all year, but from March to June is a very popular time for most conferences. 
 
 For example the ten largest sales conferences take place during this period. 
 
@@ -20,10 +26,6 @@ For example the ten largest sales conferences take place during this period.
 - Hypergrowth
 - LeadsCon
 - Accelerate
-
-Side note: I understand that spring really doesn’t take effect till mid-march, but how many times can you claim your car has been frozen in the beginning of March? C’MON!
-
-![frozen.jpeg](img/frozen.jpeg)
 
 As majority companies figure out which reps to send where, a few are thinking about starting their own events/conferences. Creating an event within your industry, is an amazing idea. 
 
