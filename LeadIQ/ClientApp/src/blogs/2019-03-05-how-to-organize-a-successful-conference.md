@@ -86,6 +86,17 @@ If you are just doing it for the exposure, stop! You can gain exposure in so man
 The reasons tons of conferences fail is because of disorganization and being ill prepared. What makes planning events so difficult is that anything can happen at anytime and you need to be prepared. 
 
 
-## 4. Understand Your Audience:
+## 4. Be Prepared:
+
+![sanam.png](img/sanam.png)
+
+![hannahandhusband.jpg](img/hannahandhusband.jpg)
+
+Remember this? Ahh to be 7 again! 
+
+Now, I’m not trying to be your mom or scout leader. But this has been something that’s been said to us since we were kids. 
+
+It’s as important now as it was back then.  
+
 
 ## 5. Understand Your Audience:
