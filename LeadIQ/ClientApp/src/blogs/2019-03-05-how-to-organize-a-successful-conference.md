@@ -62,7 +62,11 @@ From what I’ve gained the best conferences have hidden guidelines everyone fol
 
 A great conference is one where you go and become inspired to accomplish whatever it was you were seeking answers for. You want to make sure not everyone is just pitching their product, but more so helping create an experience for the attendees. 
 
-I have a strong belief that every speaker at a conference shouldn’t even be allowed to pitch their product, they can mention it, but not pitch it. Because then they will just stick to speaking about issues and different ways to solve said issue. Each speaker should be there to act as a mentor to the attendees someone they can look to for guidance. 
+I have a strong belief that every speaker at a conference shouldn’t even be allowed to pitch their product, they can mention it, but not pitch it. 
+
+Because then they will just stick to speaking about issues and different ways to solve said issue. Each speaker should be there to act as a mentor to the attendees someone they can look to for guidance. 
+
+
 
 
 
