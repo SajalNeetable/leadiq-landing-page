@@ -73,6 +73,17 @@ Then they will just stick to speaking about issues and different ways to solve t
 
 This is what life is all about. We all constantly are seeking new experiences.
 
+![newexperiences.gif](img/newexperiences.gif)
+
+So when you start to put together your event/conference think about what you are providing your attendees. If it’s something they can find at any conference how will you ever stand out? 
+
+“Oh, there will be alcohol and food? Wow! That’s amazing! Very unique” 
+
+Don’t be like everyone else, make this event apart of who you are, what your organization represents. More importantly think about what the purpose for this conference is. 
+
+If you are just doing it for the exposure, stop! You can gain exposure in so many ways why give yourself the headache of throwing an event. 
+
+The reasons tons of conferences fail is because of disorganization and being ill prepared. What makes planning events so difficult is that anything can happen at anytime and you need to be prepared. 
 
 
 ## 4. Understand Your Audience:
