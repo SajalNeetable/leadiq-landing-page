@@ -3,12 +3,17 @@ layout: blog
 ogType: website
 published: false
 title: How To Organize A Successful Event
+description: >-
+  As the winter slowly fades away… and by that I mean slowly creeping into our
+  spring and chipping at our sanity.
+
+  Good news arrives, conferences season is here.
+
+  Quick sidenote, I understand that spring really doesn’t take effect till
+  mid-march. But how many times can you claim your car has been frozen in the
+  beginning of March? C’MON!
 ---
-As the winter slowly fades away… and by that I mean slowly creeping into our spring and chipping at our sanity. 
 
-Good news arrives, conferences season is here.
-
-Quick sidenote, I understand that spring really doesn’t take effect till mid-march. But how many times can you claim your car has been frozen in the beginning of March? C’MON!
 
 ![frozen.jpeg](img/frozen.jpeg)
 
