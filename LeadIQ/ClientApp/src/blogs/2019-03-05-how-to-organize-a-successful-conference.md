@@ -99,4 +99,21 @@ Now, I’m not trying to be your mom or scout leader. But this has been somethin
 It’s as important now as it was back then.  
 
 
-## 5. Understand Your Audience:
+## 5. Provide Value:
+
+![jeremy.png](img/jeremy.png)
+
+Finally, Jeremy sums it up best people go to events to network and learn. 
+
+This isn’t a party it’s a way for attendees to better themselves, they want to either learn how to expand their business or create new opportunities. 
+
+So when you sit down to plan out your event make sure each speaker has actionable takeaways and they are not the same. 
+
+You want diversity within your conference not just in people, but also in thought. 
+
+And you want to make sure every aspect of your conference allows and nurtures attendees to network. 
+
+At the end of the day your job as an organization is to help others grow or better their life in some way. 
+
+Once you are able to do that properly you will have an event or conference that will provide an experience people never forget and will want to share with their friends.
+
