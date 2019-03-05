@@ -12,10 +12,22 @@ description: >-
   Quick sidenote, I understand that spring really doesn’t take effect till
   mid-march. But how many times can you claim your car has been frozen in the
   beginning of March? C’MON!
+coverImage: /img/frozen.jpeg
+publishDate: 'March 5, 2019'
+author: Rishi Mathur
+authorProfile: >-
+  Rishi Mathur is the Content Producer for LeadIQ and is one of the most
+  important voices for this generation. Rishi has on many occasions been
+  compared to the likes of Aziz Ansari and Gandhi based solely on his looks. He
+  has helped with the growth of several different startups and has experience in
+  both marketing and sales. He has been published in many major media outlets
+  such as TealMango, India.com, The Oregonian, and Highland Park Planet. He is a
+  champion at building communities and would love to start his own cult
+  worshipping the different cuisines around the world.
 ---
 
 
-![frozen.jpeg](img/frozen.jpeg)
+![frozen.jpeg]()
 
 Understandably conferences happen all year, but from March to June is a very popular time for most conferences. 
 
