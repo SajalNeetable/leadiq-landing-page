@@ -64,7 +64,7 @@ A great conference is one where you go and become inspired to accomplish whateve
 
 I have a strong belief that every speaker at a conference shouldn’t even be allowed to pitch their product, they can mention it, but not pitch it. 
 
-Because then they will just stick to speaking about issues and different ways to solve said issue. Each speaker should be there to act as a mentor to the attendees someone they can look to for guidance. 
+Then they will just stick to speaking about issues and different ways to solve said issue. Each speaker should be there to act as a mentor to the attendees someone they can look to for guidance. 
 
 
 
