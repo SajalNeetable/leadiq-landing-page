@@ -39,7 +39,7 @@ For example the ten largest sales conferences take place during this period.
 - LeadsCon
 - Accelerate
 
-As majority companies figure out which reps to send where, a few are thinking about starting their own events/conferences. Creating an event within your industry, is an amazing idea. 
+As a majority of companies figure out which reps to send where, a few are thinking about starting their own events/conferences. Creating an event within your industry, is an amazing idea. 
 
 Not only does it help with establishing your brand within your industry, but it really helps with helping set your organization apart from the rest. 
 
