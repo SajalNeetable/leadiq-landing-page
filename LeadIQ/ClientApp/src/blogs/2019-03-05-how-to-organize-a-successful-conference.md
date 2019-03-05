@@ -49,6 +49,8 @@ But this needs to be emphasized, understanding your audience is massively import
 
 They just haphazardly throw together an event. I know we make jokes at the expense of Billy McFarland and the Fyre Festival disaster, but there are many conferences that are just as disorganized as that festival.  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uZ0KNVU2fV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I once attended an event for Global Warming in New Jersey, the one aspect they nailed was the concept of reducing our footprint. That theme was amazing, but as I entered the event everyone was just trying to sell me a product. Even the keynote speakers weren’t really addressing an issue, they were mostly promoting their products. 
 
 Which brings me to my next point:
