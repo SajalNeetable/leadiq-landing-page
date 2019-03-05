@@ -12,7 +12,7 @@ description: >-
   Quick sidenote, I understand that spring really doesn’t take effect till
   mid-march. But how many times can you claim your car has been frozen in the
   beginning of March? C’MON!
-coverImage: /img/frozen.jpeg
+coverImage: /img/frozencar.jpeg
 publishDate: 'March 5, 2019'
 author: Rishi Mathur
 authorProfile: >-
@@ -135,4 +135,3 @@ And you want to make sure every aspect of your conference allows and nurtures at
 At the end of the day your job as an organization is to help others grow or better their life in some way. 
 
 Once you are able to do that properly you will have an event or conference that will provide an experience people never forget and will want to share with their friends.
-
