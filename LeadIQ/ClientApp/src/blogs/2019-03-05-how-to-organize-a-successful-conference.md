@@ -37,4 +37,15 @@ I began to notice a consensus of 5 attributes that can help you shape your confe
 
 ![farelythatwasawesome.gif](img/farelythatwasawesome.gif)
 
+## 1. Understand Your Audience:
+
+
+
+## 1. Understand Your Audience:
+
+## 1. Understand Your Audience:
+
+## 1. Understand Your Audience:
+
+## 1. Understand Your Audience:
 
