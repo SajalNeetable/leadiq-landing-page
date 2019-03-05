@@ -1,7 +1,7 @@
 ---
 layout: blog
 ogType: website
-published: false
+published: true
 title: How To Organize A Successful Event
 description: >-
   As the winter slowly fades away… and by that I mean slowly creeping into our
@@ -24,10 +24,8 @@ authorProfile: >-
   such as TealMango, India.com, The Oregonian, and Highland Park Planet. He is a
   champion at building communities and would love to start his own cult
   worshipping the different cuisines around the world.
+authorImage: img/rishi.jpeg
 ---
-
-
-![frozen.jpeg]()
 
 Understandably conferences happen all year, but from March to June is a very popular time for most conferences. 
 
