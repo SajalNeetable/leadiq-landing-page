@@ -54,10 +54,12 @@ I once attended an event for Global Warming in New Jersey, the one aspect they n
 Which brings me to my next point:
 
 
-## 1. Understand Your Audience:
+## 2. Set Strict Guidelines:
 
-## 1. Understand Your Audience:
 
-## 1. Understand Your Audience:
 
-## 1. Understand Your Audience:
+## 3. Understand Your Audience:
+
+## 4. Understand Your Audience:
+
+## 5. Understand Your Audience:
