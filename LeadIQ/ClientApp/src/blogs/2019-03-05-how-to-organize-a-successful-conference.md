@@ -25,6 +25,15 @@ Side note: I understand that spring really doesn’t take effect till mid-march,
 
 ![frozen.jpeg](img/frozen.jpeg)
 
+As majority companies figure out which reps to send where, a few are thinking about starting their own events/conferences. Creating an event within your industry, is an amazing idea. 
+
+Not only does it help with establishing your brand within your industry, but it really helps with helping set your organization apart from the rest. 
+
+So with hundreds of conferences happening every year, how can you make yours stand out?! 
+
+After speaking with a bunch of C-Level executives from various industries, who all have either participated with many conferences or attended. 
+
+I began to notice a consensus of 5 attributes that can help you shape your conference from just okay to attendees saying: 
 
 
 
