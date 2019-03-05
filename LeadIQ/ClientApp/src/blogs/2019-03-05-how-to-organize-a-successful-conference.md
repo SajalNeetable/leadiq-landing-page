@@ -23,3 +23,10 @@ For example the ten largest sales conferences take place during this period.
 
 Side note: I understand that spring really doesn’t take effect till mid-march, but how many times can you claim your car has been frozen in the beginning of March? C’MON!
 
+![frozen.jpeg](img/frozen.jpeg)
+
+
+
+
+
+
