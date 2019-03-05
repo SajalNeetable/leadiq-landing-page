@@ -67,10 +67,9 @@ I have a strong belief that every speaker at a conference shouldn’t even be al
 Then they will just stick to speaking about issues and different ways to solve that specific issue. Each speaker should be there to act as a mentor to the attendees someone they can look to for guidance. 
 
 
+## 3. Nurture An Experience:
 
 
-
-## 3. Understand Your Audience:
 
 ## 4. Understand Your Audience:
 
