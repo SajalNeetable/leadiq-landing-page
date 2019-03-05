@@ -69,6 +69,10 @@ Then they will just stick to speaking about issues and different ways to solve t
 
 ## 3. Nurture An Experience:
 
+![venkat.png](img/venkat.png)
+
+This is what life is all about. We all constantly are seeking new experiences.
+
 
 
 ## 4. Understand Your Audience:
