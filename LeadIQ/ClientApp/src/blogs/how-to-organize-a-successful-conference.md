@@ -47,7 +47,7 @@ So with hundreds of conferences happening every year, how can you make yours sta
 
 After speaking with a bunch of C-Level executives from various industries, who all have either participated with many conferences or attended. 
 
-I began to notice a consensus of 5 attributes that can help you shape your conference from just okay to attendees saying
+I began to notice a consensus of 6 attributes that can help you shape your conference from just okay to attendees saying
 
 ![farelythatwasawesome.gif](img/farelythatwasawesome.gif)
 
@@ -114,8 +114,9 @@ Now, I’m not trying to be your mom or scout leader. But this has been somethin
 
 It’s as important now as it was back then.  
 
+## 6. Provide Value:
 
-## 5. Provide Value:
+## 6. Provide Value:
 
 ![jeremy.png](img/jeremy.png)
 
