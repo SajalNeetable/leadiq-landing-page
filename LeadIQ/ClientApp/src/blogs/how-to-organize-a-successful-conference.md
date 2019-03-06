@@ -116,6 +116,7 @@ It’s as important now as it was back then.
 
 ## 5. Focus On The Audience:
 
+![vadim.png](img/vadim.png)
 
 Most conferences are built on the concept of the theme, everything is built around the theme. 
 
@@ -141,8 +142,6 @@ Finally make sure you pay attention to the experience, but do not forget to focu
 A lot of times great conferences can fall flat because they spent too much time focusing on the event not the marketing and no one shows up. 
 
 And your marketing needs to focus on the value being provided to them. 
-
-
 
 ## 6. Provide Value:
 
