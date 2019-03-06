@@ -114,7 +114,32 @@ Now, I’m not trying to be your mom or scout leader. But this has been somethin
 
 It’s as important now as it was back then.  
 
-## 6. Provide Value:
+## 5. Focus On The Audience:
+
+
+Most conferences are built on the concept of the theme, everything is built around the theme. 
+
+But the real case is your audience is everything, so when putting together your conference keep them in the front of your mind. 
+
+It’s amazing to have a theme, but if you are targeting a certain demographic and they don’t care for your theme...what’s the point?
+
+So before you start planning make sure you have a check-list this will help when building the experience for your conference.
+
+In the checklist identify who your audience is: (E.G.)
+What do they like
+What conferences they usually attend (can help with building the theme)
+Problems they face
+Influencers they usually tend to listen to
+
+Anything that can identify who they are you need to know. 
+
+Finally make sure you pay attention to the experience, but do not forget to focus on marketing. 
+
+A lot of times great conferences can fall flat because they spent too much time focusing on the event not the marketing and no one shows up. 
+
+And your marketing needs to focus on the value being provided to them. 
+
+
 
 ## 6. Provide Value:
 
