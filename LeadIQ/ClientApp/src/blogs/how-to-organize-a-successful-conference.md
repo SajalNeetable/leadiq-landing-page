@@ -121,15 +121,18 @@ Most conferences are built on the concept of the theme, everything is built arou
 
 But the real case is your audience is everything, so when putting together your conference keep them in the front of your mind. 
 
+![standingo.gif](img/standingo.gif)
+
 It’s amazing to have a theme, but if you are targeting a certain demographic and they don’t care for your theme...what’s the point?
 
 So before you start planning make sure you have a check-list this will help when building the experience for your conference.
 
 In the checklist identify who your audience is: (E.G.)
-What do they like
-What conferences they usually attend (can help with building the theme)
-Problems they face
-Influencers they usually tend to listen to
+
+- What do they like
+- What conferences they usually attend (can help with building the theme)
+- Problems they face
+- Influencers they usually tend to listen to
 
 Anything that can identify who they are you need to know. 
 
