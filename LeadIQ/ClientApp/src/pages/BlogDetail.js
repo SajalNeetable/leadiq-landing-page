@@ -47,6 +47,7 @@ class BlogDetail extends React.Component {
                     <div>
                         <TopNav />
                         <Helmet>
+                            
                             <meta charSet="utf-8" />
                             <title>{this.state.blog.attributes.metaTitle}</title>
                             <meta property="og:title" content={this.state.blog.attributes.title ||''} />
