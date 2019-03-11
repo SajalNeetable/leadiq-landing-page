@@ -50,7 +50,7 @@ class BlogDetail extends React.Component {
 
                             <meta charSet="utf-8" />
                             <title>{this.state.blog.attributes.metaTitle}</title>
-                            <meta property="og:title" content={this.state.blog.attributes.title} />
+                            <meta property="og:title" content={this.state.blog.attributes.title} />                   
                             <meta property="og:url" content={"https://leadiq.com/blog/"+this.state.url ||''} />
                             <meta property="og:type" content={this.state.blog.attributes.ogType || 'website'} />
                             <meta property="og:description" content={this.state.blog.attributes.description ||''} />
