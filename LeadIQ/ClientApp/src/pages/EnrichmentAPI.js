@@ -14,8 +14,10 @@ class EnrichmentAPI extends Component {
         return (
             <Fragment>
                 <Helmet>
-                    <title>{enrichmentpagetitle}</title>
-                    <meta name="description" content={enrichmentpagetitle} />
+                    <title>LeadIQ | Enrichment API</title>
+                    <meta name="description" content="Enrichment API" />
+                    <meta name="keywords" content="leadIQ, Enrichment API" />
+                    <meta name="author" content="LeadIQ" />
                 </Helmet>
                 <div className="App">
                     <div className="enrichment-api-maincont">

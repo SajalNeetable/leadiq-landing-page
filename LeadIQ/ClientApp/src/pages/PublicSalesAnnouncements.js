@@ -1,7 +1,7 @@
 ﻿import React, { Component } from 'react';
 import VideoCard from '../components/cards/VideoCard';
 import videos from "./../data/videos.json";
-
+import Helmet from 'react-helmet';
 export default class PublicSalesAnnouncements extends Component {
     constructor(props) {
         super(props);
@@ -17,6 +17,12 @@ export default class PublicSalesAnnouncements extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Public Sales Annoucements</title>
+                    <meta name="description" content="Public Sales Annoucements" />
+                    <meta name="keywords" content="Public Sales Annoucements" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="cover">
                     <div className="d-none d-md-block">
                         <img src="/img/sales-home-cover.png" className="img-fluied" alt="cover" />

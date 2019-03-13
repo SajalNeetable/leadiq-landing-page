@@ -6,8 +6,10 @@ class ThankYouSuccess extends Component {
         return (
             <Fragment>
                 <Helmet>
-                    <title>{ThankYouSuccessTitle}</title>
-                    <meta name="description" content={ThankYouSuccessTitle} />
+                    <title>LeadIQ | Thank You Success</title>
+                    <meta name="description" content="Thank You Success" />
+                    <meta name="keywords" content="Thank You Success" />
+                    <meta name="author" content="LeadIQ" />
                 </Helmet>
                 <div className="App">
                     <div className="leadiq-sales-demo">

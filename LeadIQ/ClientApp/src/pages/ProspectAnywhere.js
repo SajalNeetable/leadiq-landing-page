@@ -1,7 +1,7 @@
 ﻿import React, { Component } from 'react';
 import FreeLeads from '../components/buttons/FreeLeads';
 import GetStarted from '../components/buttons/GetStarted';
-
+import Helmet from 'react-helmet';
 export default class ProspectAnywhere extends Component {
 
     componentDidMount() {
@@ -11,6 +11,12 @@ export default class ProspectAnywhere extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Prospect Any Where</title>
+                    <meta name="description" content="Prospect Any Where" />
+                    <meta name="keywords" content="Prospect Any Where" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="prospectCover">
                     <div className="container prospectHeaderTitle">
                         <section className="pt-5 gettingStarted">

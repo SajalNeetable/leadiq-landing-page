@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import blogs from "./../data/blogData.json";
 import BlogReferenceCard from "./../components/BlogReferenceCard.js";
 import BackToLessons from "./../components/buttons/BackToLessons.js";
-
+import Helmet from 'react-helmet';
 export default class LeadsUniversityOne extends React.Component {
     constructor(props) {
         super(props);
@@ -116,6 +116,12 @@ export default class LeadsUniversityOne extends React.Component {
     render() {
         return (
             <div className="universityOne">
+                <Helmet>
+                    <title>LeadIQ | Leads University One</title>
+                    <meta name="description" content="Leads University One" />
+                    <meta name="keywords" content="Leads University One" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                     this.state.browserVersion === "IE 9") ? "" : "cover"}>
                     <div className="d-none d-md-block">

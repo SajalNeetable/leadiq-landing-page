@@ -2,7 +2,7 @@
 import StayConnected from '../components/buttons/StayConnected';
 import ResourceCard from '../components/cards/ResourceCard';
 import resources from "./../data/resources.json";
-
+import Helmet from 'react-helmet';
 export default class Resources extends Component {
     constructor(props) {
         super(props);
@@ -18,6 +18,12 @@ export default class Resources extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Resources</title>
+                    <meta name="description" content="Resources" />
+                    <meta name="keywords" content="Resources" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="cover">
                     <div className="d-none d-md-block">
                         <img src="/img/resource-home-cover.png" className="img-fluied" alt="resource-home-cover" />

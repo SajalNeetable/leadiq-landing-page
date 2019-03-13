@@ -1,16 +1,15 @@
 import React, { Component, Fragment } from "react";
 import Helmet from 'react-helmet';
-
 class Competitor extends Component {
 
     render() {
-        let competitorTitle = "LeadIQ for Developers - Data APIs";
+        let enrichmentTitle = "LeadIQ for Developers - Data APIs";
         return (
             <Fragment>
                 <Helmet>
-                    <title>LeadIQ | Competitor</title>
-                    <meta name="description" content="Competitor" />
-                    <meta name="keywords" content="leadIQ, Competitor" />
+                    <title>LeadIQ | Competitor Zoominfo</title>
+                    <meta name="description" content="Competitor Zoominfo" />
+                    <meta name="keywords" content="leadIQ, Competitor Zoominfo" />
                     <meta name="author" content="LeadIQ" />
                 </Helmet>
                 <div className="App">
@@ -244,13 +243,11 @@ organized.</p>
                                         <div className="leadiq-competitor-prospectcont">
                                             <h2>GET OUT OF YOUR CRM</h2>
                                             <p>Sorry guys, but Name, Company, and Title aren't good enough anymore. You need to read up about your prospects online. </p>
-
                                             <p>Research your prospects as you browse the web, and see who is already in your different sales platforms</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row leadiq-competitor-prospectinginner">
-
                                     <div className="col-lg-6 col-xs-12">
                                         <div className="leadiq-competitor-prospectcont">
                                             <h2>NO DATA? NO PROBLEM</h2>
@@ -303,5 +300,4 @@ organized.</p>
         );
     }
 }
-
 export default Competitor;

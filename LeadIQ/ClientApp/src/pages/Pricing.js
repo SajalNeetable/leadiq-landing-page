@@ -3,7 +3,7 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import SalesTalk from '../components/buttons/SalesTalk';
 import Subscribe from '../components/buttons/Subscribe';
 import partner from "./../data/partners-free-leads.json";
-
+import Helmet from 'react-helmet';
 export default class Pricing extends React.Component {
     constructor(props) {
         super(props);
@@ -19,6 +19,12 @@ export default class Pricing extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Pricing</title>
+                    <meta name="description" content="Pricing" />
+                    <meta name="keywords" content="Pricing" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="container pricingSection">
                     <section>
                         <div className="row justify-content-center d-flex mb-5">

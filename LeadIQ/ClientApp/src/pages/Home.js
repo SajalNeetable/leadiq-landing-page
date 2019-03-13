@@ -5,7 +5,7 @@ import WatchDemo from '../components/buttons/WatchDemo';
 import PartnerCard from '../components/cards/PartnerCard';
 import TestimonialCard from '../components/cards/TestimonialCard';
 import CheckboxItem from '../components/CheckboxItem';
-
+import Helmet from 'react-helmet';
 class Home extends React.Component {
 
     constructor(props) {
@@ -41,6 +41,12 @@ class Home extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Home</title>
+                    <meta name="description" content="LeadIQ" />
+                    <meta name="keywords" content="leadIQ" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                     this.state.browserVersion === "IE 9") ? "" : "cover"}>
                     <div className="d-none d-md-block">

@@ -2,7 +2,7 @@
 import policies from "./../data/policy.json";
 import GetStarted from '../components/buttons/GetStarted';
 import PolicyCard from '../components/cards/PolicyCard';
-
+import Helmet from 'react-helmet';
 class PrivacyPolicy extends React.Component {
     constructor(props) {
         super(props);
@@ -30,6 +30,12 @@ class PrivacyPolicy extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Privacy Policy</title>
+                    <meta name="description" content="Privacy Policy" />
+                    <meta name="keywords" content="Privacy Policy" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div>
                     <div className="privacy-Cover">
                         <div className="container prospectHeaderTitle">

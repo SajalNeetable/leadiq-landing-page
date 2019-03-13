@@ -1,7 +1,7 @@
 ﻿import React from 'react';
 import { Link } from "react-router-dom";
 import BackToLessons from "./../components/buttons/BackToLessons.js";
-
+import Helmet from 'react-helmet';
 export default class LeadsUniversityTwo extends React.Component {
     constructor(props) {
         super(props);
@@ -114,6 +114,12 @@ export default class LeadsUniversityTwo extends React.Component {
     render() {
         return (
             <div className="universityOne">
+                <Helmet>
+                    <title>LeadIQ | Leads University Two</title>
+                    <meta name="description" content="Leads University Two" />
+                    <meta name="keywords" content="Leads University Two" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                     this.state.browserVersion === "IE 9") ? "" : "cover"}>
                     <div className="d-none d-md-block">

@@ -5,7 +5,7 @@ import Dialog from '@material-ui/core/Dialog';
 import { withStyles } from '@material-ui/core/styles';
 import DialogContent from '@material-ui/core/DialogContent';
 import { Link } from "react-router-dom";
-
+import Helmet from 'react-helmet';
 const styles = {
     dialogPaper: {
         minHeight: '50vh',
@@ -117,6 +117,12 @@ class Videos extends React.Component {
         };
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Videos</title>
+                    <meta name="description" content="Videos" />
+                    <meta name="keywords" content="Videos" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                     this.state.browserVersion === "IE 9") ? "" : "cover"}>
                     <div className="d-none d-md-block">

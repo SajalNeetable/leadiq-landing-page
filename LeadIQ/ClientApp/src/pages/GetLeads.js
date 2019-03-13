@@ -5,7 +5,7 @@ import Number from '../components/buttons/Number';
 import SalesTalk from '../components/buttons/SalesTalk';
 import Subscribe from '../components/buttons/Subscribe';
 import HelpCard from '../components/cards/HelpCard';
-
+import Helmet from 'react-helmet';
 import partner from "./../data/partners-free-leads.json";
 import leadsHelp from "./../data/help-sector.json";
 import leadsTrust from "./../data/trusted-partners.json";
@@ -27,6 +27,12 @@ export default class GetLeads extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Get Leads</title>
+                    <meta name="description" content="Get Leads" />
+                    <meta name="keywords" content="leadIQ, Get Leads" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="leadIq-cover-contents leadIq-image-cover">
                     <div className="container">
                         <div className="row get-Touch"><Number size="lg" /></div>
