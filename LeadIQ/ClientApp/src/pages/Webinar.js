@@ -40,8 +40,8 @@ class Webinar extends React.Component {
         return (
             <div>
                 <Helmet>
-                    <title>LeadIQ | Webinar</title>
-                    <meta name="description" content="Webinar" />
+                    <title>B2B Sales Webinars | LeadIQ </title>
+                    <meta name="description" content="In depth sales training and other B2B sales tips, expert intereviews and more." />
                     <meta name="keywords" content="Webinar" />
                     <meta name="author" content="LeadIQ" />
                 </Helmet>
