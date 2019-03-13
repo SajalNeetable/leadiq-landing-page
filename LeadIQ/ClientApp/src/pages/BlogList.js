@@ -3,7 +3,7 @@ import GetStarted from '../components/buttons/GetStarted';
 import BlogCards from '../components/cards/BlogCards';
 import blogTemplates from './../data/blogs.json';
 import { Link } from "react-router-dom";
-
+import { Helmet } from 'react-helmet';
 class BlogList extends React.Component {
     constructor(props) {
         super(props);
@@ -25,6 +25,12 @@ class BlogList extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Blog List</title>
+                    <meta name="description" content="Blog List" />
+                    <meta name="keywords" content="Blog List" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div>
                     <div className="privacy-Cover">
                         <div className="container prospectHeaderTitle">

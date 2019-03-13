@@ -3,6 +3,7 @@ import GetStarted from '../components/buttons/GetStarted';
 import campaigns from "./../data/campaigns.json";
 import FreeLeads from '../components/buttons/FreeLeads';
 import CampaignCard from '../components/cards/CampaignCard';
+import { Helmet } from 'react-helmet';
 
 export default class CampaignBuilder extends Component {
     constructor(props) {
@@ -19,6 +20,12 @@ export default class CampaignBuilder extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Campaign Builder</title>
+                    <meta name="description" content="Campaign Builder" />
+                    <meta name="keywords" content="leadIQ, Campaign Builder" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="campaign">
                     <div className="videoCoverCampaign">
                         <video autoPlay loop>

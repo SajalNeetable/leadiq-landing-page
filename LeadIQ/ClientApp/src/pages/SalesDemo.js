@@ -8,8 +8,10 @@ class SalesDemo extends Component {
         return (
             <Fragment>
                 <Helmet>
-                    <title>{salesdemoTitle}</title>
-                    <meta name="description" content={salesdemoTitle} />
+                    <title>LeadIQ | Sales Demo</title>
+                    <meta name="description" content="Sales Demo" />
+                    <meta name="keywords" content="Sales Demo" />
+                    <meta name="author" content="LeadIQ" />
                 </Helmet>
                 <div className="App">
                     <div className="leadiq-sales-demo">

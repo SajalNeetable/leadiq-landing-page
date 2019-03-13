@@ -4,6 +4,7 @@ import videos from "./../data/videos.json";
 import Dialog from '@material-ui/core/Dialog';
 import { withStyles } from '@material-ui/core/styles';
 import DialogContent from '@material-ui/core/DialogContent';
+import Helmet from 'react-helmet';
 const styles = {
     dialogPaper: {
         minHeight: '20vh',
@@ -56,6 +57,12 @@ class RateMyPitch extends Component {
         const { fullScreen, classes } = this.props;
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Rate My Pitch</title>
+                    <meta name="description" content="Rate My Pitch" />
+                    <meta name="keywords" content="Rate My Pitch" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="cover-rate-my-pitch">
                     <div className="container">
                         <section>

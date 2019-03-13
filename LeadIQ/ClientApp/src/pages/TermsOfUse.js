@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-
+import Helmet from 'react-helmet';
 class TermsOfUse extends React.Component {
 
     componentDidMount() {
@@ -10,6 +10,12 @@ class TermsOfUse extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Terms of Use</title>
+                    <meta name="description" content="Terms of Use" />
+                    <meta name="keywords" content="Terms of Use" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div>
                     <div className="privacy-Cover">
                         <div className="container prospectHeaderTitle">

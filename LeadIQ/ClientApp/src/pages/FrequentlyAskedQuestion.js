@@ -1,7 +1,7 @@
 ﻿import React from 'react';
 import question from "./../data/frequently-asked-questions.json";
 import GetStarted from '../components/buttons/GetStarted';
-
+import Helmet from 'react-helmet';
 class FrequentlyAskedQuestion extends React.Component {
     constructor(props) {
         super(props);
@@ -24,6 +24,12 @@ class FrequentlyAskedQuestion extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Frequently Asked Question</title>
+                    <meta name="description" content="Frequently Asked Question" />
+                    <meta name="keywords" content="leadIQ, Frequently Asked Question" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="faqCover">
                     <div className="container prospectHeaderTitle">
                         <section className="pt-5 gettingStarted">

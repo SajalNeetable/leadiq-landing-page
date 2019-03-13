@@ -3,7 +3,7 @@ import FreeLeads from '../components/buttons/FreeLeads';
 import podcastAudioLists from './../data/podcast-audio-lists.json';
 import PodcastCards from '../components/cards/PodcastCards';
 import { Link } from "react-router-dom";
-
+import Helmet from 'react-helmet';
 class Podcast extends React.Component {
     constructor(props) {
         super(props);
@@ -25,6 +25,12 @@ class Podcast extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Podcast</title>
+                    <meta name="description" content="Podcast" />
+                    <meta name="keywords" content="Podcast" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div>
                     <div className="privacy-Cover">
                         <div className="container prospectHeaderTitle">

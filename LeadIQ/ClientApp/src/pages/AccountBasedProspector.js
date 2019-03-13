@@ -1,6 +1,7 @@
 ﻿import React, { Component } from 'react';
 import FreeLeads from '../components/buttons/FreeLeads';
 import GetStarted from '../components/buttons/GetStarted';
+import { Helmet } from 'react-helmet';
 
 export default class AccountBasedProspector extends Component {
 
@@ -11,6 +12,12 @@ export default class AccountBasedProspector extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Account Based Prospector</title>
+                    <meta name="description" content="Account Based Prospector" />
+                    <meta name="keywords" content="leadIQ, Account Based Prospector" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="campaign">
                     <div className="videoCoverCampaign">
                         <video autoPlay loop>
@@ -41,9 +48,9 @@ export default class AccountBasedProspector extends Component {
                 </section>
                 <div className="waveProspectListBg">
                     <div className="container text-center pt-4">
-                            <h1 className="text-center prospectTitleText pt-3">Add prospects to campaigns as you browse our data.</h1>
-                            <img src="/img/account-based-laptop-third.png" className="img-fluied mt-5" alt="account-based-laptop-third" />
-                            <p className="mt-3 mb-4">Hand pick what prospects are most important to you, and add them to your campaigns inside Campaign Builder. Import prospects into Salesforce as Leads or Contacts in one easy click.</p>
+                        <h1 className="text-center prospectTitleText pt-3">Add prospects to campaigns as you browse our data.</h1>
+                        <img src="/img/account-based-laptop-third.png" className="img-fluied mt-5" alt="account-based-laptop-third" />
+                        <p className="mt-3 mb-4">Hand pick what prospects are most important to you, and add them to your campaigns inside Campaign Builder. Import prospects into Salesforce as Leads or Contacts in one easy click.</p>
                     </div>
                 </div>
                 <div>

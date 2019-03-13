@@ -7,8 +7,10 @@ class Competitor extends Component {
         return (
             <Fragment>
                 <Helmet>
-                    <title>{enrichmentTitle}</title>
-                    <meta name="description" content={enrichmentTitle} />
+                    <title>LeadIQ | Competitor Discover ORG</title>
+                    <meta name="description" content="Competitor Discover ORG" />
+                    <meta name="keywords" content="leadIQ, Competitor Discover ORG" />
+                    <meta name="author" content="LeadIQ" />
                 </Helmet>
                 <div className="App">
                     <div className="leadiq-competitor-main">

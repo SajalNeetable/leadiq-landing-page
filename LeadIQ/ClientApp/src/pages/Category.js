@@ -1,6 +1,7 @@
 ﻿import React from 'react';
 import categories from "./../data/categories.json";
 import { Link } from "react-router-dom";
+import { Helmet } from 'react-helmet';
 
 class Category extends React.Component {
     constructor(props) {
@@ -40,6 +41,12 @@ class Category extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Category</title>
+                    <meta name="description" content="Category" />
+                    <meta name="keywords" content="leadIQ, Category" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                     this.state.browserVersion === "IE 9") ? "" : "cover"}>
                     <div className="d-none d-md-block">
