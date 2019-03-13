@@ -11,8 +11,8 @@ export default class TripActions extends Component {
         return (
             <div>
                 <Helmet>
-                    <title>LeadIQ | Trip Action</title>
-                    <meta name="description" content="Trip Action" />
+                    <title>TripActions Uses LeadIQ to Book Sales Meetings</title>
+                    <meta name="description" content="Learn how TripActions uses LeadIQ to book sales meetings. " />
                     <meta name="keywords" content="Trip Action" />
                     <meta name="author" content="LeadIQ" />
                 </Helmet>
