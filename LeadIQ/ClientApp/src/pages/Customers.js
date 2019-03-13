@@ -42,8 +42,8 @@ export default class Customers extends React.Component {
         return (
             <div>
                 <Helmet>
-                    <title>LeadIQ | Customers</title>
-                    <meta name="description" content="Customers" />
+                    <title>Sales Prospecting Tool for Sales Orgs | LeadIQ</title>
+                    <meta name="description" content="Get to know how our customers are fueling their sales efforts with highly targeted prospecting. " />
                     <meta name="keywords" content="leadIQ, Customers" />
                     <meta name="author" content="LeadIQ" />
                 </Helmet>
