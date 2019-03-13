@@ -43,7 +43,7 @@ class Home extends React.Component {
             <div>
                 <Helmet>
                     <title>LeadIQ - Sales Prospecting Tool for Lead Generation </title>
-                    <meta name="Find contact information for ideal prospects and create lead lists in minutes not days. The original deal finder." content="LeadIQ" />
+                    <meta name="description" content="Find contact information for ideal prospects and create lead lists in minutes not days. The original deal finder." />
                     <meta name="keywords" content="leadIQ" />
                     <meta name="author" content="LeadIQ" />
                 </Helmet>
