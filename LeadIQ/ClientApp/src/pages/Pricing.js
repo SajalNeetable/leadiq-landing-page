@@ -20,8 +20,8 @@ export default class Pricing extends React.Component {
         return (
             <div>
                 <Helmet>
-                    <title>LeadIQ | Pricing</title>
-                    <meta name="description" content="Pricing" />
+                    <title>Pricing and Plans for Sales Prospecting Tool | LeadIQ </title>
+                    <meta name="description" content="Pick the pricing plan for our sales prospecting tool that best fits your needs." />
                     <meta name="keywords" content="Pricing" />
                     <meta name="author" content="LeadIQ" />
                 </Helmet>
