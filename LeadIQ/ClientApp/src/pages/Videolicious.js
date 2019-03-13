@@ -11,9 +11,9 @@ export default class Videolicious extends Component {
         return (
             <div>
                 <Helmet>
-                    <title>LeadIQ | Video Licious</title>
-                    <meta name="description" content="Video Licious" />
-                    <meta name="keywords" content="Video Licious" />
+                    <title>Videolicious Uses LeadIQ to Fuel Sales Growth</title>
+                    <meta name="description" content="Learn how Videolicious uses LeadIQ to fuel sales growth." />
+                    <meta name="keywords" content="Videolicious" />
                     <meta name="author" content="LeadIQ" />
                 </Helmet>
                 <div className="videoliciousCover">
