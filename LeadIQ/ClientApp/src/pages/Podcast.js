@@ -26,8 +26,8 @@ class Podcast extends React.Component {
         return (
             <div>
                 <Helmet>
-                    <title>LeadIQ | Podcast</title>
-                    <meta name="description" content="Podcast" />
+                    <title>Interviews with B2B Sales Leaders | LeadIQ </title>
+                    <meta name="description" content="Listen to the top B2B sales leaders share their sales advice. Sales advice from the trenches, from sales managers, SDR's, founders and more." />
                     <meta name="keywords" content="Podcast" />
                     <meta name="author" content="LeadIQ" />
                 </Helmet>
