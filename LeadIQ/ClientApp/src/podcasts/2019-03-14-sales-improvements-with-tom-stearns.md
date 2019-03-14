@@ -1,10 +1,11 @@
 ---
 layout: podcast
-published: false
+published: true
 title: Sales Improvements with Tom Stearns
 description: Ryan O'Hara sat down and talked with Tom Stearns.
 publishDate: 'March 14, 2019'
 coverImage: img/barnpodcast.png
+metaTitle: Sales Improvements with Tom Stearns
 ---
 Ryan O'Hara sad down and talked with [Tom Stearns](https://www.linkedin.com/in/tomstearns/) to discuss improving your sales prospecting. 
 
