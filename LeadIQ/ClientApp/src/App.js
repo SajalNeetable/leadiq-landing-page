@@ -37,6 +37,7 @@ import Videos from './pages/Videos';
 import Webinar from './pages/Webinar';
 import Competitor from './pages/competitor';
 import salesdemo from './pages/SalesDemo';
+import Page404 from './pages/Page404';
 
 class App extends React.Component {
     render() {
@@ -94,6 +95,7 @@ class App extends React.Component {
 
                         <Route exact path='/sales-demo' component={() => (<div><TopNav /><SalesDemo /></div>)} />
                         <Route exact path='/thank-you-success' component={() => (<div><TopNav /><ThankYouSuccess /></div>)} />
+                        <Route path="*" component={()=>(<div><TopNav /><Page404 /></div>)} />
                     </Switch>
                 </LayoutFooter>
             </BrowserRouter>
