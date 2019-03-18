@@ -33,6 +33,16 @@ metaDescription: >-
   robo-dialing zombies on nitrous oxide, expected to make 150 calls, 75 emails
   and 75-90 voicemails per day.
 metaKeywords: 'sales, sales process'
+ogType: website
+ogTitle: LeadIQ | The Importance of Friendship in Sales
+ogDescription: >-
+  As Sales Associates, we were trained to smile and dial, like a bunch of
+  robo-dialing zombies on nitrous oxide, expected to make 150 calls, 75 emails
+  and 75-90 voicemails per day.
+ogImageUrl: img/smile-while-you-dial.jpg
+ogImageType: image/jpeg
+ogImageWidth: '300'
+ogAlt: The Importance of Friendship in Sales
 ---
 **Conundrum:**
 

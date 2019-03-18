@@ -1,6 +1,6 @@
 ﻿import React, { Component } from 'react';
 import QuoteCard from '../components/cards/QuoteCard';
-
+import Helmet from 'react-helmet';
 export default class Videolicious extends Component {
 
     componentDidMount() {
@@ -10,6 +10,12 @@ export default class Videolicious extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>Videolicious Uses LeadIQ to Fuel Sales Growth</title>
+                    <meta name="description" content="Learn how Videolicious uses LeadIQ to fuel sales growth." />
+                    <meta name="keywords" content="Videolicious" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="videoliciousCover">
                     <div className="container">
                         <div className="row">

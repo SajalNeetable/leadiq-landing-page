@@ -1,38 +1,43 @@
 ﻿import React from 'react';
-import { Route  } from 'react-router';
+import { Route } from 'react-router';
 import { BrowserRouter, Switch } from 'react-router-dom';
 import LayoutFooter from './components/LayoutFooter';
+import ThankYou from './components/ThankYou';
 import TopNav from './components/TopNav';
 import AccountBasedProspector from './pages/AccountBasedProspector';
 import BlogDetail from './pages/BlogDetail';
 import BlogList from './pages/BlogList';
 import CampaignBuilder from './pages/CampaignBuilder';
 import Category from './pages/Category';
+import CompetitorDiscoverOrg from './pages/CompetitorDiscoverOrg';
 import Customers from './pages/Customers';
+import EnrichmentAPI from './pages/EnrichmentAPI';
 import FrequentlyAskedQuestion from './pages/FrequentlyAskedQuestion.js';
 import GetLeads from './pages/GetLeads';
 import Home from './pages/Home';
 import LeadsUniversityOne from './pages/LeadsUniversityOne';
 import LeadsUniversityThree from './pages/LeadsUniversityThree';
 import LeadsUniversityTwo from './pages/LeadsUniversityTwo';
+import MasterServiceAgreement from './pages/MasterServiceAgreement';
 import Podcast from './pages/Podcast';
 import PodcastDetail from './pages/PodcastDetail';
 import Pricing from './pages/Pricing';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import ProspectAnywhere from './pages/ProspectAnywhere';
 import PublicSalesAnnouncements from './pages/PublicSalesAnnouncements';
-import MasterServiceAgreement from './pages/MasterServiceAgreement';
 import RateMyPitch from './pages/RateMyPitch';
 import Resources from './pages/Resources';
+import SalesDemo from './pages/SalesDemo';
 import TermsOfUse from './pages/TermsOfUse';
+import ThankYouSuccess from './pages/ThankYouSuccess';
 import TripActions from './pages/TripActions';
 import University from './pages/University';
 import Videolicious from './pages/Videolicious';
 import Videos from './pages/Videos';
 import Webinar from './pages/Webinar';
-import ThankYou from './components/ThankYou';
-
-
+import Competitor from './pages/competitor';
+import salesdemo from './pages/SalesDemo';
+import Page404 from './pages/Page404';
 
 class App extends React.Component {
     render() {
@@ -58,7 +63,6 @@ class App extends React.Component {
 
                         <Route path='/webinars' component={() => (<div><TopNav /><Webinar /></div>)} />
                         <Route path='/webinars/:webinarId' component={() => (<div><TopNav /><Webinar /></div>)} />
-
                         <Route exact path='/prospect-anywhere' component={() => (<div><TopNav /><ProspectAnywhere /></div>)} />
                         <Route exact path='/account-based-prospector' component={() => (<div><TopNav /><AccountBasedProspector /></div>)} />
                         <Route exact path='/public-sales-announcements' component={() => (<div><TopNav /><PublicSalesAnnouncements /></div>)} />
@@ -78,10 +82,20 @@ class App extends React.Component {
                         <Route exact path='/leadiq-university-three' component={LeadsUniversityThree} />
 
                         <Route exact path='/msa' component={() => (<div><TopNav /><MasterServiceAgreement /></div>)} />
-                        <Route exact path='/thank-you-success/' component={() => (<div><TopNav /><ThankYou /></div>)} />
+                        <Route exact path='/thank-you-success-old/' component={() => (<div><TopNav /><ThankYou /></div>)} />
                         <Route exact path='/faq' component={() => (<div><TopNav /><FrequentlyAskedQuestion /></div>)} />
                         <Route exact path='/privacy-policy' component={() => (<div><TopNav /><PrivacyPolicy /></div>)} />
                         <Route exact path='/terms-of-use' component={() => (<div><TopNav /><TermsOfUse /></div>)} />
+                        
+                        <Route exact path='/enrichment-apis' component={() => (<div><TopNav /><EnrichmentAPI /></div>)} />
+                        
+                        <Route exact path='/competitor-discoverorg' component={() => (<div><TopNav /><CompetitorDiscoverOrg /></div>)} />
+                        
+                        <Route exact path='/competitor' component={() => (<div><TopNav /><Competitor /></div>)} />
+
+                        <Route exact path='/sales-demo' component={() => (<div><TopNav /><SalesDemo /></div>)} />
+                        <Route exact path='/thank-you-success' component={() => (<div><TopNav /><ThankYouSuccess /></div>)} />
+                        <Route path="*" component={()=>(<div><TopNav /><Page404 /></div>)} />
                     </Switch>
                 </LayoutFooter>
             </BrowserRouter>

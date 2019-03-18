@@ -8,6 +8,7 @@ import CustomerImageSliderCard from '../components/cards/CustomerImageSliderCard
 import CustomerQuotesCard from '../components/cards/CustomerQuotesCard';
 import CustomerQuotesContentCard from '../components/cards/CustomerQuotesContentCard'; 
 import CustomerBlogCard from '../components/cards/CustomerBlogCard';
+import Helmet from 'react-helmet';
 
 export default class Customers extends React.Component {
     constructor(props) {
@@ -40,6 +41,12 @@ export default class Customers extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>Sales Prospecting Tool for Sales Orgs | LeadIQ</title>
+                    <meta name="description" content="Get to know how our customers are fueling their sales efforts with highly targeted prospecting. " />
+                    <meta name="keywords" content="leadIQ, Customers" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
                     <ol className="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" className="active"></li>

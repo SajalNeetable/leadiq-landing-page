@@ -1,6 +1,6 @@
 import React from 'react';
 import GetStarted from '../components/buttons/GetStarted';
-
+import Helmet from 'react-helmet';
 class MasterServiceAgreement extends React.Component {
     constructor(props) {
         super(props);
@@ -27,6 +27,12 @@ class MasterServiceAgreement extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | Master Service Agreement</title>
+                    <meta name="description" content="Master Service Agreement" />
+                    <meta name="keywords" content="Master Service Agreement" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div>
                     <div className="service-cover">
                         <div className="container prospectHeaderTitle">

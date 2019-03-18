@@ -62,6 +62,51 @@ prose:
           element: "textarea"
           label: "Meta Keywords"
           value: ""
+      - name: "ogTitle"
+        field:
+          element: "textarea"
+          label: "og Title"
+          value: ""
+      - name: "ogUrl"
+        field:
+          element: "textarea"
+          label: "OG Url"
+          value: ""
+      - name: "ogType"
+        field:
+          element: "textarea"
+          label: "OG Type"
+          value: "website"
+      - name: "ogDescription"
+        field:
+          element: "textarea"
+          label: "OG Description"
+          value: ""
+      - name: "ogImageUrl"
+        field:
+          element: "textarea"
+          label: "OG ImageUrl"
+          value: ""
+      - name: "ogImageType"
+        field:
+          element: "textarea"
+          label: "OG Image Type"
+          value: ""
+      - name: "ogImageWidth"
+        field:
+          element: "text"
+          label: "OG Image Width"
+          value: ""
+      - name: "ogImageHeight"
+        field:
+          element: "textarea"
+          label: "OG Image Height"
+          value: ""
+      - name: "ogAlt"
+        field:
+          element: "textarea"
+          label: "OG Image Alt Description"
+          value: ""
     LeadIQ/ClientApp/src/podcasts:
       - name: "layout"
         field:

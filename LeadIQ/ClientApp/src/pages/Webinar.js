@@ -1,7 +1,7 @@
 ﻿import React from 'react';
 import WebinarCard from '../components/cards/WebinarCard';
 import webinarVideos from "./../data/webinar-videos-links.json";
-
+import Helmet from 'react-helmet';
 class Webinar extends React.Component {
     constructor(props) {
         super(props);
@@ -39,6 +39,12 @@ class Webinar extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>B2B Sales Webinars | LeadIQ </title>
+                    <meta name="description" content="In depth sales training and other B2B sales tips, expert intereviews and more." />
+                    <meta name="keywords" content="Webinar" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className={(this.state.browser === "IE 11" || this.state.browser === "IE 10" ||
                     this.state.browser === "IE 9") ? "" : "cover"}>
                     <div className="d-none d-md-block">

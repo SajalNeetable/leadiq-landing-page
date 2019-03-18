@@ -5,7 +5,7 @@ import WatchDemo from '../components/buttons/WatchDemo';
 import PartnerCard from '../components/cards/PartnerCard';
 import TestimonialCard from '../components/cards/TestimonialCard';
 import CheckboxItem from '../components/CheckboxItem';
-
+import Helmet from 'react-helmet';
 class Home extends React.Component {
 
     constructor(props) {
@@ -41,6 +41,12 @@ class Home extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ - Sales Prospecting Tool for Lead Generation </title>
+                    <meta name="description" content="Find contact information for ideal prospects and create lead lists in minutes not days. The original deal finder." />
+                    <meta name="keywords" content="leadIQ" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className={(this.state.browserVersion === "IE 11" || this.state.browserVersion === "IE 10" ||
                     this.state.browserVersion === "IE 9") ? "" : "cover"}>
                     <div className="d-none d-md-block">

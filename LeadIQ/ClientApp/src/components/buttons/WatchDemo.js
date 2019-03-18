@@ -53,7 +53,7 @@ class WatchDemo extends React.Component {
                     classes={{ paper: classes.dialogPaper }}
                     >
                     <DialogContent style={{padding: "0"}}>
-                        <iframe src="https://play.vidyard.com/8m7aQvWpq9ozshq8E8UtKw?" className="iframeVideo" title="video" allowscriptaccess="always"></iframe>
+                        <iframe src="https://www.youtube.com/embed/256Be0OD4dk" className="iframeVideo" title="video" allowscriptaccess="always"></iframe>
                     </DialogContent>
                 </Dialog>
             </div>

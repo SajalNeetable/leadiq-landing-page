@@ -1,6 +1,6 @@
 ﻿import React, { Component } from 'react';
 import QuoteCard from '../components/cards/QuoteCard';
-
+import Helmet from 'react-helmet';
 export default class TripActions extends Component {
 
     componentDidMount() {
@@ -10,6 +10,12 @@ export default class TripActions extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>TripActions Uses LeadIQ to Book Sales Meetings</title>
+                    <meta name="description" content="Learn how TripActions uses LeadIQ to book sales meetings. " />
+                    <meta name="keywords" content="Trip Action" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="helpCenterCover">
                     <div className="container">
                         <div className="row">

@@ -1,7 +1,7 @@
 ﻿import React from 'react';
 import { Link } from "react-router-dom";
 import AccessUniversity from '../components/buttons/AccessUniversity';
-
+import Helmet from 'react-helmet';
 class University extends React.Component {
 
     componentDidMount() {
@@ -11,6 +11,12 @@ class University extends React.Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>LeadIQ | University</title>
+                    <meta name="description" content="University" />
+                    <meta name="keywords" content="University" />
+                    <meta name="author" content="LeadIQ" />
+                </Helmet>
                 <div className="imageDesignUniversityHeader">
                     <section className="universityHeaderMain">
                         <div className="container mt-5">
