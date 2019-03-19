@@ -2,6 +2,9 @@ import React, { Component, Fragment } from "react";
 import Helmet from 'react-helmet';
 
 class SalesDemo extends Component {
+    componentDidMount() {
+        window.ChiliPiper.scheduling("leadiq", "talk-to-sales_v2", { title: "Thanks! What time works best for a quick call?", titleStyle: "Roboto 22px #EA5938" })
+    }
     
     render() {
         let salesdemoTitle = "LeadIQ | Sales Demo";
@@ -14,7 +17,7 @@ class SalesDemo extends Component {
                     <meta name="author" content="LeadIQ" />
                 </Helmet>
                 <div className="App">
-                    <div className="leadiq-sales-demo">
+                    <div className="leadiq-sales-demo" id="sales-demo1">
                         <div className="leadiq-sales-demo-innerbanner">
                             <div className="container">
                                 <div className="row">
@@ -79,3 +82,10 @@ class SalesDemo extends Component {
 }
 
 export default SalesDemo;
+
+
+// var aScript = document.createElement('script');
+        // aScript.type = 'text/javascript';
+        // aScript.src = "https://js.chilipiper.com/marketing.js";
+
+        // document.head.appendChild(aScript);
